@@ -203,3 +203,177 @@ Těžké základní cviky (3–6 op., 2–3 RIR) jsou správně. Chybí:
 | 04 šablony | nahradit jednotnou šablonou z 1.5; 09 split označit jako překonaný |
 | 04 Indonésie / Gruzie | silový okruh z 1.6; dávky elektrolytů a sweat test z 1.8 |
 | 04 týden 1 | krevní test Čt 15.10.; lower St 14.10. na 50–60 % (✅ už zapsáno) |
+
+---
+
+## 2. Zátěž a riziko zranění
+
+**Verdikt:** to, co jsi odběhl, je řízené dobře — **444 km od 8.5. bez
+běžeckého zranění**, long run 9 týdnů konsolidovaný na 14–16 km, zářijový
+blok 34–39 km vstřebaný bez známek únavy. Problémy jsou v **plánu**, ne v tom,
+co děláš: plán porušuje vlastní pravidla a nejrizikovější momenty jsou
+**návraty z cest**. Limit kapacity je **frekvence** (průměr ~2,8 běhu/tý),
+ne kondice.
+
+### 2.1 🔴 Pravidla pro long run si odporují s vlastními cíli
+- KB: long run ≤30–35 % týdne. Ale LR 22–24 km by pak vyžadoval 63–69 km/tý,
+  LR 30–32 km 86–91 km/tý. Pravidlo je s plánem neslučitelné.
+- Reálně běháš 39–57 % a zranění nepřišlo. Lépe podložená metrika riziko:
+  **o kolik je běh delší než nejdelší běh za posledních 30 dní** (Frandsen et
+  al., BJSM 2025, ~5200 běžců: běh o >10 % delší ≈ 1,5–2× vyšší riziko;
+  týdenní ACWR riziko nepredikoval).
+- Tvoje historie od 12.7.: každý LR ≤1,12× nejdelšího za 30 dní ✓.
+  Plán: skoro všude 1,04–1,10× ✓, výjimky: týden 2 po návratu 15 km (1,25×),
+  leden týden 3 20–22 km (1,17–1,22×).
+
+**Nová pravidla (návrh, místo "≤30–35 %"):**
+1. Long run max **1,10× (max +2 km)** nejdelšího běhu za posledních 30 dní.
+2. Podíl LR měkký limit ~45 %; nad tím přidat 5. běh, ne zkracovat LR.
+3. Časový strop LR: ≤2:30 h do února, ≤3:00–3:10 h v maratonském bloku.
+4. Po 2 rekordech LR za sebou držet nebo ubrat. Nečistý LR → neprogresovat (platí).
+
+### 2.2 🔴 Frekvence je limit: 5. běh od týdne 26.10.
+- Za 20 týdnů ~2,8 běhu/tý; 4 běhy/tý jen poslední 3 týdny. Nejvyšší týden
+  ever 38,6 km. Chronická zátěž (28 dní) k 20.9. ≈ 35 km/tý.
+- 55 km na 4 bězích = 22 + 3×11 km (všední běhy +53 %). Na 5 bězích =
+  22 + 4×8,3 km (+15 %). **55 km v prosinci je reálné jen s 5. během.**
+- Přidat 5. běh (5 km easy) v týdnu **26.10.–1.11.** jako jedinou novou věc
+  (threshold 3×1,5 km už znáš z 18.9., nepočítá se jako nový stresor).
+- 68–70 km v dubnu = **bonus, ne podmínka**. Základní peak 62–65 km.
+
+### 2.3 🔴 Týden 30.11.–6.12. skládá tři nové stresory najednou
+Po cutbacku 38 km rovnou 55 km (+45 %, nejvyšší týden ever) + první týden se
+2 kvalitami + nový rekord LR 22 km. Porušuje "jedna změna najednou".
+**Návrh:** týden 8 = 50–52 km, 1 kvalita + strides, LR 21–22. Týden 9 = 55 km,
+2. kvalita krátká (kopce 8–10× 45–60 s nebo 20 min @ HR 154–162). Týden 10 =
+55 km, LR 23–24 jen pokud LR v týdnu 9 proběhl čistě.
+
+### 2.4 🔴 Návrat z cest je historicky nejrizikovější moment
+- Po Krétě: akutní:chronická zátěž 1,83, pak LR 20.6. 1,27× nejdelšího za
+  30 dní → slabý běh (45 min nad 153, chůze).
+- Po Slovinsku: 1,66; LR 12.7. s bolavými koleny, a **20.7.–10.8. žádný běh
+  delší než 7,4 km** (10 běhů) — důvod nezapsaný. Viz otázky.
+- Plán to řeší nekonzistentně: po Indonésii jen strides ✓, ale po Gruzii
+  (12 dní lyží ve ~2200 m) hned threshold v prvním týdnu.
+
+**Jednotný návratový protokol po každé cestě (návrh):**
+| Týden | Objem | Intenzita |
+|---|---|---|
+| 1 | 70 % | jen strides |
+| 2 | 85–90 % | kopce OK |
+| 3 | 100 % | threshold zpět |
+Každý návratový LR ≤1,10–1,15× nejdelšího za 30 dní. Před prvním LR po cestě:
+schody a jednonožný dřep bez bolesti. **Po Gruzii: 4.–10.1. jen strides/kopce,
+threshold od 11.1., LR 24.1. = 20 km.**
+
+### 2.5 🔴 Peak týdny začínají 7 dní po závodním půlmaratonu
+Plán: týden po PM 68 km s LR 30–32 km (8–12 km @ MP), další týden 70 km s
+dalším 30 km MP LR — dva největší týdny ever, první na nohách po závodě.
+**Návrh:** 5.–11.4. = 55–60 km, LR 24–26 km easy, žádné MP (regenerace po PM).
+12.–18.4. = **jediný peak** 62–68 km, LR 17./18.4. (14–15 dní před závodem)
+30 km s 10–12 km @ MP; 32 km jen pokud 28 km 21.3. proběhlo čistě.
+Alternativa: PM kolem 21.–22.3.
+
+### 2.6 🟡 Volno kolem long runu: 4 soubory, 4 různá pravidla
+- 04:213 "2 dny volna před LR"; 08 "2 po, 1 před stačí" + výjimka "2 před";
+  errata "den po LR volno, den před volno/krátký jog"; šablony 04 a 09 přitom
+  dávají easy běh v pondělí po LR (chyba z errata) a 09 běh den před LR.
+- **Data:** všech 10 LR ≥10,5 km mělo ≥1 den volna před i po. Dva nejlepší
+  (3.9., 20.9.) měly jen 1 den volna před a kvalitu 2–3 dny předem. LR se
+  3 dny volna předem nebyly lepší.
+- **Jedno pravidlo: 1 den volna před a 1 po LR; kvalita smí být 2 dny před.**
+
+**Sjednocená týdenní šablona (výživa + zátěž), LR v neděli:**
+```
+            4 běhy (říjen)                   5 běhů (od 26.10.)
+Po  volno (upper OK)                     volno (upper OK)
+Út  KVALITA + těžký lower odpoledne      Q1 + těžký lower odpoledne
+St  easy + upper A                       easy 7–8 km + upper A
+Čt  volno / mobilita                     easy 6 km + strides
+Pá  easy + lehký lower 20–25 min         easy 5–6 km (od týdne 9 Q2) + max 15 min lýtka/plyo
+So  volno / upper B                      volno / upper B
+Ne  LONG RUN                             LONG RUN
+```
+Varianta při víkendovém cestování: Po easy | Út Q1 | St volno | Čt LR | Pá volno
+| So easy | Ne easy. Lower v den LR jen do LR ≤16–17 km.
+
+### 2.7 🟡 Túry: aerobně zdarma, ale velký sestup = týden kolen
+- Túry do ~500 m D+ (8.8.) neměly na další běhy vliv. Velké sestupy
+  (Samaria ~1200 m dolů, Slovinsko 1721 m D+) → slabý LR / kolena ~týden.
+- **Pravidla pro sopky v Indonésii (návrh):**
+  - sestup ≤800 m (Ijen / Bromo / Batur): normální den, další den easy OK bez bolesti
+  - sestup ≥1200 m (Agung / Rinjani): = long run týdne; 48 h neběhat, pak
+    ≤6 km easy po rovině, 5 dní nic >8 km
+  - velkou sopku **nejpozději do ~4.10.**, ne posledních 5 dní před odletem
+  - hůlky, krátké kroky dolů; do bodyweight okruhu pomalé step-downy a
+    výpady (3 s spouštění) — malá excentrická dávka chrání před velkou
+
+### 2.8 🟡 Rozběh z kopce na easy bězích = tvrdší než threshold, na studené nohy
+- Domácí okruh: úsek km 1,0–1,5 (−5 %) na easy dnech v tempu **4:25–4:37**
+  (22.–23.9.), tedy rychleji než threshold, v 6.–7. minutě běhu. Na LR ho
+  zvládáš (20.9. 5:18–5:25).
+- HR se zpožďuje 2–3 min → **HR strop 153 tenhle úsek neubrzdí.**
+- **Cue: prvních 10 min ≥5:45/km podle tempa a pocitu, HR ignorovat**,
+  hlavně strmý úsek po 1. km. Nebo 1–2 easy běhy týdně okruh obráceně.
+  S 5 běhy týdně to začne hrát větší roli (excentrická zátěž 3–4×/tý).
+
+### 2.9 🟡 Energie a zátěž (sloučeno s 1.1)
+Nízká energetická dostupnost je hlavní ovlivnitelný rizikový faktor únavové
+zlomeniny u běžců-mužů. **Maintenance od návratu 13.10.** (ne až od 45 km) —
+viz 1.1.
+
+### 2.10 ⚪ Kalendář v plánu je o den posunutý
+13.10.2026 je úterý. Týden 1 po návratu jsem už opravil (Po 12.–Ne 18.10.).
+Zbytek tabulek hlavního bloku a ledna běží út–po a "3.–11.1." má 9 dní →
+přeindexovat na týdny po–ne (MB1 = 12.–18.10. … MB10 = 14.–20.12.). Řeší
+sekce Plán.
+
+### 2.11 ⚪ Mezery v datech
+- Gym se nezapisuje (1 záznam za 4,5 měsíce) → pravidla pro nohy nejdou
+  zkontrolovat. **Zapisovat gym na Stravu** ("Lower"/"Upper").
+- Pauza v LR 20.7.–12.8. a 5denní díra 22.–27.8. bez vysvětlení.
+- Do poznámek k běhu: skóre bolesti 0–10 (kolena, Achilovka, holeně).
+
+### 2.12 ✅ Co funguje — nechat
+- Progrese LR od poloviny července konzervativní (1,07 / 1,12 / 0,95 / 1,01 /
+  0,92 / 0,99 / 1,07× nejdelšího za 30 dní). 16 km je **konsolidovaná
+  kapacita**, ne čerstvý rekord.
+- Zářijový blok (1 kvalita + 1 LR + easy), ACWR 1,17–1,29, LR steady-state
+  HR 145,8 / 149,6 / 149,1 → žádné hromadění únavy.
+- Cutback před odletem správně. **Po Indonésii nejsou potřeba žádné extra
+  "base" týdny** (errata 11:14–18) — LR 16 km v týdnu 3 je bezpečný.
+
+### Navržené změny plánu (zátěž) — souhrn
+| Co | Teď v plánu | Navrhuji | Proč |
+|---|---|---|---|
+| Pravidlo LR | ≤30–35 % týdne | ≤1,10× nejdelšího za 30 dní + časový strop | % pravidlo je s cíli neslučitelné; 1,10× je podložené |
+| 5. běh | nikde | od 26.10., 5 km easy | 55 km na 4 bězích = všední běhy +53 % |
+| Týden 2 po návratu LR | 15 km | 14 km | 1,25× nejdelšího za 30 dní |
+| Týden 30.11. | 55 km, 2 Q, LR 22 | 50–52 km, 1 Q, LR 21–22 | tři nové stresory najednou |
+| Leden týden 1 | threshold 3×1,5 | jen strides/kopce | návrat z lyží ve výšce |
+| Leden týden 3 LR | 20–22 km | 20 km | skok 1,17–1,22× |
+| Týden po PM | 68 km, LR 30–32 @MP | 55–60 km, LR 24–26 easy | regenerace po závodě |
+| Peak | 2 týdny 68–70 km | 1 týden 62–68 km | nikdy nad 39 km/tý; 68–70 = bonus |
+| Volno kolem LR | 2 před / 2 po / různě | 1 před + 1 po | data + sjednocení 04/08/09/errata |
+| Sopky | "den po neběhat" | stupně podle sestupu, velká do ~4.10. | Slovinsko/Kréta |
+| Easy rozběh | HR strop 153 | prvních 10 min ≥5:45/km podle tempa | HR se zpožďuje |
+
+Revidovaná týdenní čísla (km / LR), týdny po–ne:
+| Týden | km | LR | | Týden | km | LR |
+|---|---|---|---|---|---|---|
+| 12.–18.10. | 26–28 | 12 | | 4.–10.1. | 32–35 | 14 |
+| 19.–25.10. | 32–34 | 14 | | 11.–17.1. | 42–45 | 18 |
+| 26.10.–1.11. | 38–40 | 16 | | 18.–24.1. | 48–52 | 20 |
+| 2.–8.11. | 42–44 | 17–18 | | Thajsko | 18–25/tý | — |
+| 9.–15.11. | 46–48 | 19–20 | | 15.–21.2. | 42–45 | 18–20 |
+| 16.–22.11. | 50–52 | 20–21 | | 22.–28.2. | 50–52 | 22 |
+| 23.–29.11. (cutback + retest) | 36–38 | 14–15 | | 1.–7.3. | 55–58 | 24 |
+| 30.11.–6.12. | 50–52 | 21–22 | | 8.–14.3. | 58–62 | 26 |
+| 7.–13.12. | 55 | 22–23 | | 15.–21.3. | 60–65 | 28 |
+| 14.–20.12. | 55 | 23–24 | | 22.–28.3. | 45 | — |
+| Gruzie | 10–15/tý | — | | týden PM | 45–50 | PM |
+| | | | | 5.–11.4. | 55–60 | 24–26 |
+| | | | | 12.–18.4. | 62–68 | 30–32 |
+| | | | | 19.–25.4. | ~45 | taper |
+| | | | | 26.4.–2.5. | 20–25 + M | 🏁 |
+(Plán a cíle ještě prověří sekce Aerobní vývoj a Plán.)
