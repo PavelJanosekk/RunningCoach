@@ -15,7 +15,7 @@ hledání protiargumentů) → kritika → syntéza do reportu. Bez subagentů.
 | 2 | Zátěž a riziko zranění (load) | ✅ | ✅ | ✅ | ✅ |
 | 3 | Aerobní vývoj a reálnost cíle (aerobic) | ✅ | ✅ | ✅ | ✅ |
 | 4 | Kritika plánu do závodu (plan) | ✅ | ✅ | ✅ | ✅ |
-| 5 | Intenzita a provedení (intensity) | ⬜ | ⬜ | ⬜ | ⬜ |
+| 5 | Intenzita a provedení (intensity) | ✅ | ✅ | ✅ | ✅ |
 | 6 | Audit KB vs data, monitoring (audit) | ⬜ | ⬜ | ⬜ | ⬜ |
 | 7 | Finální kritika napříč oblastmi + TL;DR | ⬜ | | | |
 

@@ -594,3 +594,90 @@ bez problémů.
 | Peak | 2 týdny 68/70 km po PM | 1 týden 62–68 km, LR 30 | sekce 2.5 |
 | Termíny | "pravděpodobně Praha" | Praha 2.5., PM Praha So 3.4. | ověřeno |
 | Kalendář | týdny út–po | týdny po–ne | 13.10. je úterý |
+
+---
+
+## 5. Intenzita a provedení tréninků
+
+**Verdikt:** easy disciplína se od července **výrazně zlepšila** a v září je
+v pořádku. Skutečný problém je **tempo "thresholdu"** — repy jsou ve
+skutečnosti na úrovni tempa na 5 km. Přestřelený rozběh z kopce 22.–23.9.
+byl spíš výjimka (čerstvé nohy před odletem) než vzorec; řeší se tempem,
+ne HR.
+
+### 5.1 ✅ Rozložení intenzity: od července dobré (errata platí)
+Podíl času v pohybu nad danou HR (přepočteno ze streamů):
+| Měsíc | Easy >153 | Easy >157 | Easy >162 | LR >153 | LR >157 |
+|---|---|---|---|---|---|
+| Květen | 44 % | 35 % | 24 % | — | — |
+| Červen | 43 % | 30 % | 18 % | 35 % | 16 % |
+| Červenec | 26 % | 11 % | 5 % | 33 % | 18 % |
+| Srpen | 33 % | 14 % | 5 % | 37 % | 17 % |
+| Září | 24 % | 11 % | 3 % | 13 % | 6 % |
+- Většina času "nad 153" je 154–157, tedy horní hrana easy / Z2+ povolená na
+  LR, a na stoupáních zpět domů. Nad 162 jsou easy běhy v září jen 3 %.
+- Se zářijovými thresholdy vychází týden zhruba **80–85 % easy / 15–20 %
+  tvrdě** → 80/20 splněno. **Easy běhy neopravovat** (errata 11:6–12 platí).
+- Květen–červen byly easy běhy objektivně moc tvrdé, ale to byla re-adaptace.
+
+### 5.2 🟡 Rozběh z kopce: mechanický problém, ne HR problém
+- 41 easy běhů: medián času nad 153 v **prvních 3 km 4,6 min, zbytek 7,0 min**.
+  Víc "přestřelení" vzniká na stoupání zpět (přirozeně), ne v rozběhu.
+- Výrazně jen 22.9. (5,8 min) a 23.9. (11,8 min) — poslední 2 běhy před odletem.
+- Důležitější je tempo na strmém úseku km 1,0–1,5 (4:25–4:37, viz 2.8) =
+  excentrická zátěž na studené nohy. **Cue: prvních 10 min ≥5:45/km podle
+  tempa a pocitu.** HR strop 153 v rozběhu nefunguje (HR se zpožďuje 2–3 min).
+- **Oprava mé dnešní poznámky v logu/12:** "přestřelování na easy bězích" je
+  z 2 běhů, ne systematické.
+
+### 5.3 🔴 "Threshold" sessions jsou ve skutečnosti ~5K tempo
+| Session | Cíl KB | Skutečně | Min v 163–172 | Min >172 |
+|---|---|---|---|---|
+| T1 8.9. 4× 1,2 km | 4:55 | 4:22–4:43 | 14,7 | 0,1 |
+| T2 18.9. 3× 1,5 km (do kopce) | 4:50–4:55 | 4:31–4:47 (GAP ~4:25–4:37) | 15,2 | **4,6** |
+- Tempo na 5 km při VDOT 40–42 = 4:38–4:47 → repy běžely **na 5K tempu,
+  rep 1 T1 rychleji**. T2 měl 4,6 min nad LTHR (max 179–181) = už VO2max podnět.
+- Podle HR v zóně bylo ~15 min (víc než odhad 9–10 min v logu), protože HR
+  v 5–7min repech dobíhá ještě v pauze. **Ale cenou je únava 5K session
+  místo thresholdu.**
+- Errata "T1 nebyl VO2max, spíš 10K pace/critical velocity" — podle HR ano,
+  podle tempa to bylo blíž 5K. Upřesnit, ne otáčet.
+- Positive split se zlepšuje (21 → 16 s/km) ✅.
+
+**Jak na to (Galaxy Watch 6, bez pace alertů):**
+1. Cílové tempo **4:55–5:05/km**; kontrola = **HR na konci repu ≤168**,
+   průměr repu 160–166. Po retestu 23.–29.11. přepočítat.
+2. Strukturovaný trénink na vzdálenost (1,5 km), auto-lap 500 m, datové pole
+   **Lap Pace** (ne instant). Kontrolní časy 500 m: **2:28–2:32**
+   (1,5 km = 7:22–7:37).
+3. Rep 1 cíleně o 5 s/km pomaleji než cíl (platí z 05). Pravidlo: když je
+   první 500 m pod 2:25, zpomal hned, nečekej na HR.
+4. Plochá trasa (otevřený úkol v 12). Do té doby hodnotit tempo podle GAP
+   v intervals.icu / Stravě.
+5. Delší repy (8–15 min) dávají víc času v zóně za menší cenu než krátké
+   rychlé — progrese viz 4.3.
+
+### 5.4 ✅ Long runy: provedení správně
+- Září: LR jen 6 % času nad 157, decoupling −2 až −4 %.
+- Rozběh z kopce na LR ovládáš (20.9. km 1–1,5 v 5:18–5:25).
+- 13.9. drift +6,2 % = nejkopcovitější trasa + přitlačené poslední 4 km →
+  jediná výhrada: posledních 3–4 km neakcelerovat, pokud HR >155 (platí z 05).
+
+### 5.5 ✅ Strides 23.9. správně
+Na konci běhu (km 5,2–6,2), s dlouhými pauzami (elapsed 43 vs moving 36 min).
+Přesně podle 05.
+
+### 5.6 🟡 Horko a výška — provedení
+- Indonésie/Thajsko: **HR ≤150 a klidně chůze**; tempo 6:45–7:30 je normální.
+  Strides jen ráno za chladu. Na Stravě pojmenovat "heat" — ať se ta data
+  nemíchají do trendů efektivity.
+- Gruzie ~2200 m: HR +10–15 při stejném tempu → řídit HR a pocitem.
+
+### Navržené změny (intenzita)
+| Co | Teď | Navrhuji | Proč |
+|---|---|---|---|
+| 02/06 threshold tempo | 4:50–4:55 | 4:55–5:05, HR konec repu ≤168; 500 m za 2:28–2:32 | repy byly 5K tempo |
+| 06 kontrolní časy | pro 4:50/4:55 | přidat 5:00 a 5:05 | nové cílové tempo |
+| 03 / 12 poznámka o easy | "přestřelování, HR strop 153" | "2 běhy před odletem; cue prvních 10 min ≥5:45 podle tempa" | data 41 easy běhů |
+| 11 errata T1 | "10K pace / CV" | "podle HR threshold/CV, podle tempa ~5K" | VDOT |
+| 03 T1 hodnocení | "~9–10 min v zóně" | "14,7 min v 163–172 (HR lag), ale tempo 5K" | streamy |
