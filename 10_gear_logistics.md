@@ -24,9 +24,12 @@ automatické.
 - TR verze (např. Novablast TR): více gripu, univerzálnější
 - **Velikost:** 0,5–1 cm prostoru vpředu (palec). Běžecké boty se nosí
   větší než civilní.
+- **Asics Novablast 5**, od ~14.5., ~430 km (9/2026). Karbonové boty
+  nekupovat (rozhodnutí sportovce).
 - **Boty přidat na Stravu** (teď u aktivit žádné) → nájezd km.
-- **Závodní bota (karbon, ~1–3 %):** vybrat do února, naběhat v MP úsecích
-  v březnu a na PM 3.4. Nikdy poprvé na závodě.
+- Do závodu zbývá ~1200–1300 km, životnost ~600–800 km/pár:
+  - **2. pár (stejný model) ~listopad/prosinec**, střídat s prvním
+  - **3. pár v březnu = závodní**, naběhat 100–200 km do závodu vč. PM 3.4.
 
 ### Cestování nalehko
 **Vzít obojí** (rozdíl v batohu 400–600 g):

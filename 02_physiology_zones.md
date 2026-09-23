@@ -68,7 +68,7 @@ o 2–5 min pomaleji → pro maraton z PM používat **PM × 2,11**.
 | Steady / aktuální MP | 5:15–5:25/km | 154–162 |
 | **Threshold (repy)** | **4:55–5:05/km** | průměr repu 160–166, **konec repu ≤168** |
 | 5K tempo (jen orientačně, necílit) | 4:40–4:47/km | — |
-| Cílové MP pro sub-3:30 | 4:58/km — **až když ho potvrdí data** | ≤158 |
+| Závodní MP | podle PM 3.4. (sub-4 = 5:41/km) | ≤158 |
 
 **Pozor:** 4:50 z testu = tvoje **30min závodní tempo** (Friel), ne tréninkové
 threshold tempo. Danielsovo T tempo při VDOT 40,3 ≈ 5:04, při 42 ≈ 4:54.
@@ -89,33 +89,40 @@ HR. Další zlepšení = objem + správná kvalita.
 
 ## Cílové časy maratonu (2.5.2027)
 
-| Cíl | Tempo | Potřebný VDOT | Odhad šance |
+| Cíl | Tempo | Potřebný VDOT* | Odhad šance |
 |---|---|---|---|
-| Sub 4:00 | 5:41/km | 37,9 | ~95 % (už teď) |
-| Sub 3:45 | 5:19/km | 41,0 | ~75 % |
-| **Sub 3:30** | **4:58/km** | **44,6** | **~30–40 % — ambiciózní cíl** |
-| Sub 3:20 | 4:44/km | 47,2 | <10 % — vyřazeno |
+| **B: sub 4:00 (jistota)** | 5:41/km | ~38–39 | ~95 % (forma na to už je) |
+| **A: 3:50** | 5:27/km | ~40,5–41 | ~80–85 % |
+| **A: 3:40** | 5:13/km | ~42,5–43 | ~50–60 % |
+| Bonus: 3:30 | 4:58/km | ~45 | ~30–40 % — "insane", nepočítá se s ním |
 
+*Daniels + rezerva 2–5 min na nižší objem a 83–85 kg.
 Z VDOT 40–42 máš ~5 měsíců efektivní stavby (7 týdnů na cestách).
-Realistický zisk: +2 až +5 VDOT. **Cíl 3:30 nechat jako ambici, trénovat
-podle aktuální formy a rozhodnout daty.**
+Realistický zisk: +2 až +5 VDOT. **3:40–3:50 je reálné, pokud projde
+threshold + objem (5 běhů, 55 km v prosinci) bez zranění.** Závodní tempo
+rozhodne PM 3.4. Dlouhodobě (po maratonu): stejný recept + VO2max práce.
 
 ## Rozhodovací body
 
 **Retest LTHR 23.–29.11.2026 (30 min, PLOCHÁ trať):**
 | 30min tempo | VDOT | Stav |
 |---|---|---|
-| ≤4:40 | ≥42,2 | na cestě k 3:30 |
-| 4:41–4:47 | 41–42 | směr 3:35–3:45 |
-| ≥4:48 | ≤41 | směr 3:45–3:50; zkontrolovat objem a energii |
+| ≤4:40 | ≥42,2 | 3:40 na dosah, 3:30 bonus ve hře |
+| 4:41–4:47 | 41–42 | směr 3:40–3:45 |
+| 4:48–4:55 | 39,5–41 | směr 3:45–3:55 |
+| ≥4:56 | ≤39,5 | sub-4 OK, A-cíl ohrožen → zkontrolovat objem, spánek, nemoc |
 
 **Generali Prague Half Marathon, So 3.4.2027 → finální cíl:**
 | PM | VDOT | Maraton (× 2,11) | Závodní tempo |
 |---|---|---|---|
-| ≤1:39 | ≥45,7 | ~3:28 | sub-3:30, start 4:57–5:00 |
+| ≤1:39 | ≥45,7 | ~3:28 | 4:57–5:00 (bonus 3:30) |
 | 1:40–1:42 | 44–45 | 3:31–3:35 | 5:00–5:05 |
 | 1:43–1:46 | 42–43,5 | 3:37–3:44 | 5:08–5:18 |
 | 1:47–1:50 | 40,4–41,5 | 3:46–3:52 | 5:20–5:30 |
+| 1:51–1:53 | ~39–40 | 3:54–3:58 | 5:33–5:38 — sub-4 s malou rezervou |
+| ≥1:54 | <39 | ~4:00+ | 5:40, nebo odložit/zkrátit cíl |
+
+Vždy: prvních 5 km o 5–10 s/km pomaleji než závodní tempo.
 
 **MP long runy (březen):** v MP úsecích HR ≤158 (~92 % LTHR) v první polovině
 úseku. MP úsek v Z4 (≥163) = cílové tempo je příliš rychlé.

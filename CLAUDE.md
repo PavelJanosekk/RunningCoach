@@ -14,3 +14,7 @@ This folder is the athlete's training knowledge base (Czech). Act as running coa
   format, update `00_INDEX.md` quick facts, adjust `04_timeline_plan.md` if reality
   diverges, tick items in `12_open_questions.md`. Then commit and push.
 - Athlete wants short, direct, evidence-based answers with the "why".
+- Race goal: A = 3:40–3:50, B = sub-4:00; 3:30 is a bonus the athlete does not count on.
+  Long-term aim is to keep getting faster.
+- Before drawing conclusions from gaps or odd numbers (missing long runs,
+  calorie figures), ask the athlete — see errata.

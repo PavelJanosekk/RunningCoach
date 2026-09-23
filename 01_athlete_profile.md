@@ -1,12 +1,13 @@
 # Profil sportovce
 
 ## Základní údaje
-- **Věk:** 29
-- **Váha:** ~83 kg
+- **Věk:** 29 · **Výška:** ~188 cm · **Váha:** ~85 kg (9/2026, z 83 kg) · **Tuk:** ~15 %
 - **Primární background:** bodybuilding / silový trénink
-- **Aktuální stav:** váha stabilní; deficit podle čísel 600–1100 kcal/den
-  **neověřený** (energie nesedí, viz `07`)
-- **Výkonnost:** VDOT ~40–42 (test 31.8.2026), cíl sub-3:30 = ambice
+- **Příjem:** ~2500 kcal (odhad), váha roste → žádný deficit
+- **Klidová HR:** ~50 (vsedě u PC); hodinky se na spaní nenosí
+- **Výkonnost:** VDOT ~40–42 (test 31.8.2026)
+- **Cíl: A = 3:40–3:50, B = sub-4:00 (jistota), 3:30 = bonus** ("insane",
+  nepočítá s ním). Čím rychleji, tím líp; **dlouhodobě se zlepšovat v rychlosti**.
 
 ## Sportovní historie
 | Období | Aktivita |
@@ -25,8 +26,9 @@
   Stejné riziko na závodě (přestřelený začátek).
 - **Dobrá disciplína na easy bězích** od července (HR 138–153, v září jen
   3 % času nad 162) — neopravovat.
-- **Zatím bez běžeckého zranění**; jediný problém kolena po velkém sestupu
-  (Slovinsko).
+- **Zdravotní historie:** kolena ~1 týden po velkém sestupu (Slovinsko 5.7.);
+  **mírná bolest z boku hýždě/stehna** po 19.7. → 3,5 týdne bez LR, jen easy,
+  odeznělo (LR 15 km 13.8. OK). Jinak bez zranění.
 - **Preferuje:** stručné odpovědi, žádné sugarcoating, vědecky podložené
 - Nechce rigidní plán, chce rozumět "proč"
 
@@ -42,7 +44,10 @@
   - Optický HR senzor — nespolehlivý pro intervaly (podstřeluje, zpoždění)
   - Strukturované tréninky: warmup (max 10 min), exercise (čas/vzdálenost),
     rest timer, počet opakování. NEMÁ pace alerts.
-- Boty: silniční (Novablast-typ), cca 30 % běhů na lesních/polních cestách
+- Boty: **Asics Novablast 5** (od ~14.5., ~430 km), cca 30 % běhů na
+  lesních/polních cestách. Závodní (karbon) boty kupovat nechce.
+- Hydratační vesta ✅ — na LR bere ≤250 ml vody, gely teď nebere
+- Gym 3–4×/tý: Út pull, St push, So upper, Ne lower
 - Běžecký pás (levný) — houpe se, nevyhovuje
 - Strava Premium
 - **Doporučeno:** intervals.icu (per-lap analýza), hrudní pás Polar H10

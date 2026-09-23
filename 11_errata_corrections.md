@@ -89,13 +89,22 @@ tempo km 3–7 a skok 1,27× po Krétě. Protokol 28.6. je test tolerance gelu
 (n = 1), ne důkaz, že gel brání driftu.
 
 ## ❌ "Hlavní problém výživy: tuky", "mírný deficit", "~240–250 g sacharidů"
-**Oprava:** čísla v KB si odporují (deficit 600–1100 kcal při stabilní váze).
-Sacharidy nebyly změřené — jídelníček dává ~110–130 g. **Hlavní problém je
-celková energie a sacharidy**; tuky přidat navíc, ne výměnou.
+**Oprava:** sacharidy nebyly změřené — jídelníček dává ~110–130 g → **hlavní
+problém je složení (sacharidy)**. Deficit ani nízká energetická dostupnost
+**nejsou**: reálný příjem ~2500 kcal, váha 83 → 85 kg.
+⚠️ Deep analýza 23.9. nejdřív z čísel 1800–2000 vs TDEE vyvodila "možná
+nízká energetická dostupnost" — mylně. 1800–2000 bylo jen zvážené všední menu.
+**Poučení: než se z kalorií vyvodí závěr, zeptat se na celkový příjem
+vč. víkendů a na vývoj váhy.**
 
-## ❌ "Sub-3:30 realistické, sub-3:20 ve hře"
-**Oprava:** VDOT 40–42 vs potřebných 44,6 / 47,2. Sub-3:30 = ambice (~30–40 %),
-sub-3:20 vyřazeno. Rozhodují retest 23.–29.11. a PM 3.4.2027 (prahy v `02`).
+## ❌ "Sub-3:30 realistické, sub-3:20 ve hře" jako pracovní cíl
+**Oprava:** VDOT 40–42 vs potřebných 44,6 / 47,2. **Cíl sportovce je
+A = 3:40–3:50, B = sub-4:00, 3:30 = bonus**; dlouhodobě zlepšovat rychlost.
+Rozhodují retest 23.–29.11. a PM 3.4.2027 (prahy v `02`).
+
+## ❌ "Bez běžeckého zranění v 444 km"
+**Oprava:** po LR 15,81 km (19.7.) mírná bolest z boku hýždě/stehna →
+3,5 týdne jen easy, odeznělo. Kyčelní / gluteus medius práce v `09` je proto priorita.
 
 ## ❌ Pravidla "LR ≤30–35 % týdne" a "2 dny volna před LR"
 **Oprava:** % pravidlo bylo s cíli plánu neslučitelné (LR 22–24 km by
@@ -126,3 +135,5 @@ Problém je tempo strmého úseku z kopce (mechanika), ne HR → cue podle tempa
 8. **Ověřit den v týdnu u každého data v plánu** (datetime), nepočítat z hlavy.
 9. **Intenzitu krátkých repů hodnotit i podle tempa vs. VDOT**, ne jen podle HR.
 10. **Tvrzení o progresu vždy porovnávat při stejné HR a upravené o sklon (GAP)**.
+11. **Díry v datech (chybějící LR, pauzy) se nejdřív zeptat**, ne interpretovat —
+    za pauzou v LR 21.7.–10.8. byla bolest, ne rozvrh.

@@ -20,16 +20,20 @@ Těžký silový trénink + plyometrie zlepšují running economy o ~2–8 %
 - **Nejít pod 3 opakování** (riziko, CNS únava bez benefitu)
 
 ## Kam gym v týdnu (platí šablona z `04`)
+**Teď (3–4×/tý):** Út pull · St push · So upper · Ne lower (po LR). OK, dokud
+je LR ≤16–17 km a lehký.
+
+**Od 2.11. (LR ≥18 km, 5 běhů):**
 ```
-Po  volno — upper OK
+Po  volno → PULL
 Út  KVALITA ráno → TĚŽKÝ LOWER odpoledne (hard day hard)
-St  easy → UPPER A
-Čt  (easy + strides od 5 běhů) / volno
-Pá  easy → LEHKÝ LOWER 20–25 min (plyo, lýtka, kyčle; bez těžkých excentrik)
-So  volno → UPPER B
+St  easy → PUSH
+Čt  easy + strides
+Pá  easy → LEHKÝ LOWER 20 min (plyo, lýtka, kyčle; bez těžkých excentrik)
+So  volno → UPPER
 Ne  LONG RUN
 ```
-- Lower v den LR jen dokud je LR ≤16–17 km a lehký; od LR 18 km ne.
+- Upper 3×/tý je OK, ale **na údržbě** (váha 83 → 85 kg; další sval nahoře = kg navíc).
 - Pátek v týdnech se 2 kvalitami (Q2): max 15 min lýtka/plyo.
 - **Nikdy nohy den před LR ani den po LR.**
 - Běh ráno → gym odpoledne, nikdy naopak.
@@ -74,6 +78,9 @@ Ne  LONG RUN
 - Nohy celkem **~12 sérií/týden** (dřív ~16, nad vlastním cílem 10–14).
 - Plyometrie od října 1×/tý, od prosince 2×/tý. **Žádné drop jumpy** zatím (83 kg).
 - Soleus nese při běhu násobky tělesné hmotnosti — pro těžkého běžce priorita.
+- **Boční hýžďové svaly (gluteus medius) a kyčle = priorita** kvůli bolesti
+  z boku hýždě/stehna v červenci: boční step-down, side plank s nohou,
+  Copenhagen, single leg glute bridge nevynechávat.
 
 ## Core
 | Cvik | Série | Proč |

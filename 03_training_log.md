@@ -92,7 +92,9 @@ carb-load).
 | So 8.8. | túra 16,3 km / 413 m | | 97 | |
 | Po 10.8. | 7,07 km | 5:42 | 147 | 52 m |
 
-3,5 týdne bez běhu nad 7,4 km — **důvod nezapsaný** (viz 12).
+3,5 týdne bez běhu nad 7,4 km — **mírná bolest z boku hýždě/stehna** po LR
+15,81 km (19.7., 1,12× nejdelšího za 30 dní, týden po Slovinsku) → jen easy.
+Odeznělo, LR 15 km 13.8. bez potíží.
 
 ### Blok 5 — návrat long runů (13.–29.8.), 19–29 km/tý
 | Datum | Vzdálenost | Tempo | HR | D+ |
@@ -102,7 +104,7 @@ carb-load).
 | Út 18.8. | 4,96 km | 5:15 | 150 | 59 m |
 | Čt 20.8. | **15,17 km — long run** | 6:04 | 153 | 131 m |
 | So 22.8. | 7,73 km | 5:47 | 154 | 90 m |
-| Čt 27.8. | 8,48 km (po 5denní pauze, důvod?) | 6:00 | 148 | 105 m |
+| Čt 27.8. | 8,48 km (po 5denní pauze) | 6:00 | 148 | 105 m |
 | So 29.8. | 10,63 km | 6:03 | 151 | 97 m |
 
 ## Fáze 2 — Threshold blok (od 31.8.2026)
@@ -171,6 +173,9 @@ Do kopce (GAP ~4:25–4:37) → **5K tempo**; 15,2 min v 163–172 a 4,6 min nad
 
 **Long run 20.9. — nejčistší long run dosud.** Km 3–14 HR 145–152,
 poslední 2 km do kopce 152–154, max 166, decoupling −2,4 %.
+
+Fueling na LR 13.9. i 20.9.: **bez gelů, jen vesta s ≤250 ml vody** — do
+~100 min bez driftu, stačí.
 
 ### Cutback před Indonésií 21.–23.9. (~12,8 km)
 | Datum | Trénink | Tempo | Avg HR | % LTHR | D+ |

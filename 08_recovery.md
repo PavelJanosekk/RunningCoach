@@ -4,7 +4,7 @@
 
 | # | Co | Status |
 |---|---|---|
-| 1 | **Dost energie a sacharidů** | ⚠️ deficit a sacharidy nesedí — viz `07` |
+| 1 | **Sacharidy kolem tréninku** | ⚠️ energie OK (~2500 kcal, váha roste), složení ne — viz `07` |
 | 2 | **Spánek** | ✅ ~8 h stabilně |
 | 3 | Řízení zátěže (pravidla v `04`, návratový protokol) | ✓ |
 | 4 | Krevní testy (ferritin, D, …) | ⬜ Čt 15.10. |
@@ -117,9 +117,9 @@ Cutback místo dohánění.
 - Únava neodcházející po recovery týdnu
 - "Zdechlost" / nechuť trénovat bez fyzické únavy
   → často kalorický deficit nebo nedostatek sacharidů (mozek běží na glukózu)
-- Nízká energetická dostupnost: stabilní váha při nízkém příjmu, pokles
-  libida, klidová HR +5 bpm (7denní průměr), opakované nemoci, lokální bolest
-  kosti → víc jíst + krevní test (viz `07`)
+- Nízká energie (teď není problém, ale s objemem hlídat): pokles libida,
+  ranní klidová HR +5 bpm, opakované nemoci, lokální bolest kosti → víc jíst
+  + krevní test (viz `07`)
 
 ## Rest days — umístění
 **Pravidlo: 1 den volna před a 1 po long runu.** Kvalita smí být 2 dny před LR.
