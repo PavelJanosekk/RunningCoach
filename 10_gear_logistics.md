@@ -24,6 +24,9 @@ automatické.
 - TR verze (např. Novablast TR): více gripu, univerzálnější
 - **Velikost:** 0,5–1 cm prostoru vpředu (palec). Běžecké boty se nosí
   větší než civilní.
+- **Boty přidat na Stravu** (teď u aktivit žádné) → nájezd km.
+- **Závodní bota (karbon, ~1–3 %):** vybrat do února, naběhat v MP úsecích
+  v březnu a na PM 3.4. Nikdy poprvé na závodě.
 
 ### Cestování nalehko
 **Vzít obojí** (rozdíl v batohu 400–600 g):
@@ -45,7 +48,7 @@ Pokud jen jedny → běžecké (univerzálnější), ale není to ideální.
 ### intervals.icu (DOPORUČENO, zdarma)
 1. Přihlásit přes Stravu (natáhne i historii)
 2. Settings → Sport Settings → Run:
-   - Threshold Pace: **4:53 /km**
+   - Threshold Pace: **5:00 /km** (do retestu 23.–29.11.)
    - LTHR: **172**
    - Max HR: 191 (odhad, jen kosmetika)
    - **Přepnout výpočet zón na % LTHR**
@@ -67,15 +70,16 @@ Nebo: Strava → Export Original (.fit) → drag & drop do intervals.icu.
 - Žádné pace alerts → intervaly nastavovat na vzdálenost
 - Samsung Health často neposílá lap markery do Stravy
 
-**Doporučeno pro kvalitní sessions: hrudní pás Polar H10 (~2000 Kč).**
-Pro easy běhy zápěstí stačí.
+**Doporučeno pro intervaly a testy: hrudní pás Polar H10 (~2000 Kč).**
+Pro easy a long runy zápěstí stačí — ověřeno na 56 bězích: medián 0 skoků HR,
+žádné výpadky; jen izolovaná maxima 182–183 (artefakty).
 
 ## Běh v horku (Indonésie, Thajsko)
 - 28–32 °C, vlhkost 75–85 %
 - HR +15–20 bpm při stejném tempu
 - **Řídit se výhradně HR**, tempo ignorovat (7:00/km normální)
 - Běhat 5:30–7:00 ráno
-- Elektrolyty vždy
+- Elektrolyty vždy — dávky a sweat test v `07`
 - První 3–4 dny aklimatizace, kratší běhy
 - **Bonus:** tepelná aklimatizace zvyšuje objem plazmy podobně jako mírná
   nadmořská výška → po návratu 1–2 týdny nižší HR

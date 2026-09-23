@@ -90,6 +90,7 @@ def cmd_detail(act_id):
         "name": a["name"],
         "date": a["start_date_local"],
         "description": a.get("description"),
+        "rpe": a.get("perceived_exertion"),
         "km": round(a["distance"] / 1000, 2),
         "moving_s": a["moving_time"],
         "hr_avg": a.get("average_heartrate"),

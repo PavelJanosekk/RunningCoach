@@ -2,8 +2,8 @@
 
 ## Aktuální stav (9/2026)
 
-**Příjem:** 1800–2000 kcal (zvážené)
-**Makra:** 180–200 g protein / 25–30 g tuk / zbytek sacharidy (~240–250 g)
+**Příjem:** 1800–2000 kcal (zvážené, všední dny)
+**Makra:** 180–200 g protein / 25–30 g tuk / sacharidy **neověřené**
 
 ### Aktuální jídelníček
 | Jídlo | Obsah |
@@ -13,144 +13,147 @@
 | Svačina | 250 g polotučný tvaroh |
 | Večeře | stejné jako oběd |
 
-## ⚠️ Hlavní problém: TUKY
+## ⚠️ Hlavní problém: celková energie a sacharidy (tuky až #2)
 
-**25–30 g/den je příliš málo.**
+### Energie nesedí
+- KB zároveň tvrdila: příjem 1800–2000, TDEE 2600–2900, "mírný deficit",
+  "váha stabilní". To nejde dohromady — deficit by byl **600–1100 kcal/den
+  (23–38 %)** a hubnul bys 0,5–1 kg/tý.
+- Buď je reálný příjem vyšší (víkendy, oslavy, nevážené věci), nebo tělo
+  šetří energií (varovný signál nízké energetické dostupnosti).
+- Při 1800–2000 kcal je energetická dostupnost ~17–21 kcal/kg netukové
+  hmoty; s 55–70 km by klesla na ~12–18. Problémová hranice je <30
+  (nižší testosteron, horší adaptace, únavové zlomeniny).
 
-Proč to vadí:
-- Testosteron a steroidní hormony se syntetizují z cholesterolu a tuků.
-  Pod ~0,5 g/kg (u 83 kg = pod 40 g) výzkum ukazuje pokles testosteronu.
-- Vitamíny A, D, E, K jsou rozpustné v tucích — bez tuku se nevstřebávají
-- Omega-3 nedostatek při tak nízkém příjmu
+### Co dělat
+1. **Indonésie:** jíst do sytosti, nepočítat, žádný deficit.
+2. **Od 13.10. maintenance ~2600–2800 kcal**, navýšení hlavně ze sacharidů.
+3. **13.–26.10. audit:** ranní váha denně (7denní průměr) + kompletní vážení
+   vč. víkendů, alkoholu, gelů. Reálné TDEE = průměrný příjem + (změna
+   7denního průměru váhy v kg × 7700 / počet dní).
+4. **Škálování:** každých +10 km/tý ≈ +120 kcal/den → ~2900–3300 kcal při
+   55 km, ~3200–3600 při 65–70 km. Ladit podle 7denního průměru váhy:
+   nechtěný pokles >0,3 kg/tý → +200 kcal; růst >0,3 kg/tý (po 1. týdnu) → −200.
+5. **Varovné signály → hned +300–500 kcal a krevní test:** stabilní váha při
+   příjmu <2200, pokles libida, klidová HR +5 bpm (7denní průměr), opakované
+   nachlazení, lokální bolest kosti, easy efektivita se nezlepšuje ani v
+   chladném říjnu–listopadu.
 
-**Cíl: 60–70 g tuku/den** (+35–40 g oproti současnosti, ~+350 kcal)
+## Sacharidy
+Deklarovaných "~240–250 g" byl dopočet, ne měření. Jídelníček výše obsahuje
+jen **~110–130 g (1,3–1,6 g/kg)**; dopočtem z kcal 180–215 g (2,2–2,6 g/kg).
 
-### Konkrétní úpravy
+| Období | Běžný den | Kvalita | LR den + den před LR |
+|---|---|---|---|
+| Indonésie | 3,5–4,5 g/kg, do sytosti | — | — |
+| 13.10.–22.11. (28–52 km) | 3,5–4 g/kg (~290–330 g) | 5 g/kg (~415 g) | 6 g/kg (~500 g) u LR ≥16 km |
+| Prosinec (55 km) | průměr 5–6 g/kg | | |
+| Maratonský blok | průměr 5–7 g/kg | | 7–8 g/kg u LR ≥26 km |
+| Závod | carb-load 36–48 h: 8–10 g/kg (660–830 g/den), málo vlákniny | | |
+
+Prakticky: 500 g zeleniny + 500 g kuřete denně hodně zasytí → v klíčové dny
+část zeleniny vyměnit za rýži / těstoviny / brambory / pečivo, přidat banány,
+džus, med. 30–60 g sacharidů před thresholdem.
+
+## Tuky
+25–30 g/den je málo (hormony, vitamíny A/D/E/K, omega-3). **Cíl 60–70 g —
+přidat navíc, ne výměnou za sacharidy.**
+
 | Kde | Co přidat | Δ tuk | Δ kcal |
 |---|---|---|---|
 | Snídaně | 2 celá vejce | +10 g | +140 |
-| Oběd | 1 lžíce olivového oleje do omáčky | +14 g | +120 |
-| Večeře | 1 lžíce olivového oleje / kuřecí stehna místo prsou | +14 g | +120 |
+| Oběd | 1 lžíce olivového oleje | +14 g | +120 |
+| Večeře | olej / kuřecí stehna místo prsou | +14 g | +120 |
 | Svačina | 30 g ořechů | +15 g | +180 |
 
-### Chutné zdroje tuků
-- **Vejce** — 1 vejce = 5 g tuku, nejuniverzálnější
-- **Tučné ryby** — losos, makrela, sardinky (konzerva = 15–20 g). Bonus omega-3
-- **Arašídové/mandlové máslo** — 2 lžíce = 16 g
-- **Avokádo** — 1 ks = 20–25 g
-- **Plnotučný řecký jogurt** místo odtučněného tvarohu
-- **Sýry** — parmazán, čedar, gouda (8–12 g na porci)
-- **Ořechy** — hrst kešu/vlašských = 15–18 g
+Zdroje: vejce, tučné ryby (losos, makrela, sardinky; bonus omega-3), ořechová
+másla, avokádo, plnotučný řecký jogurt, sýry, ořechy.
 
 ## Protein
+**170–180 g (2,0–2,2 g/kg)** — výzkum 1,6–2,2 g/kg. Víc nepotřeba.
 
-**Aktuálně 180–200 g = 2,2–2,4 g/kg**
-
-Výzkum pro zachování svalové hmoty při deficitu + silový trénink:
-**1,6–2,2 g/kg** → u 83 kg = 133–183 g
-
-200 g je mírně nad nutností. Není to škodlivé, ale kalorie nad ~180 g
-by lépe posloužily jako tuky/sacharidy.
-
-**Doporučení: 170–180 g**
-
-## Sacharidy
-
-Při 2000 kcal a 190 g proteinu + 28 g tuku zbývá ~247 g sacharidů.
-To je přijatelné množství pro aktuální objem.
-
-**Při růstu objemu (blok 10/2026+) bude potřeba zvýšit.**
-
-## Kalorie a deficit
-
-**TDEE odhad:** 2600–2900 kcal při aktuálním tréninku
-
-Deficit při maratonském tréninku:
-- Fáze 1 / nízký objem: deficit 200–300 kcal OK
-- Od 45+ km/týden: přejít na maintenance nebo mírný surplus
-- **Tvrdý cut = pomalá regenerace, vyšší riziko zranění, horší adaptace**
-
-**Doporučený cílový příjem při 45–55 km/týden: 2400–2600 kcal**
+## Váha a složení těla
+- 1 kg ≈ 1,2 % hmotnosti ≈ teoreticky až ~2,5 min na maratonu — ale jen při
+  zachované kvalitě tréninku. Jeden ztracený týden stojí víc.
+- **Default: maintenance**, váha ať klesá sama s objemem.
+- V polovině října změřit složení (DEXA, nebo pas + konzistentní BIA).
+  BF ≤~15 % → nehubnout. Jinak volitelně **jen 13.10.–22.11.**, 0,25–0,4 kg/tý,
+  deficit jen v easy / volné dny, nikdy v den kvality / LR / před LR.
+- **Od 23.11. do závodu maintenance.** Na cestách nikdy deficit.
+- Více sacharidů = +1–2 kg glykogenu a vody za první týden. Není to tuk.
+- Stop hubnutí hned při varovných signálech výše nebo 2. špatné kvalitě.
 
 ## Post-workout
+40–60 g sacharidů + 30–40 g proteinu do hodiny po tréninku (glykogen,
+proteosyntéza, kortizol).
 
-**Biologie:**
-1. **Glykogen resyntéza** — po tréninku jsou GLUT4 transportéry aktivní
-   i bez inzulinu → glukóza jde do svalů přednostně. Okno ~30–60 min.
-2. **Protein syntéza** — sacharidy stimulují inzulin, který inhibuje
-   katabolismus a podporuje vstřebávání aminokyselin. Protein sám nestačí.
-3. **Kortizol** — sacharidy po tréninku ho snižují rychleji.
-
-**Prakticky: 40–60 g sacharidů + 30–40 g proteinu do hodiny po tréninku.**
-
-## Fueling před během
-
-| Délka běhu | Co |
+## Jídlo před během
+| Běh | Co |
 |---|---|
-| <60–75 min | Nic nepotřeba, fasted OK (bonus: adaptace na spalování tuků) |
-| 75–90 min | Lehké jídlo 1,5–2 h před: banán + vločky, toast s medem |
-| 90+ min | Jídlo před + gel každých 35–45 min během |
+| <60–75 min | nic nutné |
+| 75–90 min | lehké jídlo 1,5–2 h před (banán + vločky, toast s medem) |
+| LR ≥18 km | 1–1,5 g/kg (80–120 g sacharidů) 2–3 h před, nebo 40–60 g jednoduchých sacharidů, když vybíháš do 60–90 min |
 
-### Varianta pro ranní běhy (málo času)
-```
-Vstát → 300 ml vody
-→ banán nebo 1–2 rýžové chlebíčky s medem (30–50 g sacharidů)
-→ 20–30 min příprava
-→ výběh
-→ po 45–60 min první gel
-```
-Minimum tuků a vlákniny před během (zpomalují trávení).
+Minimum tuků a vlákniny před během. Broskev + nektarinka (~20–25 g) stačí na
+běhy do ~100 min, na 2 h+ je to málo.
 
-### ✅ Ověřený protokol (long run 13,18 km, fungoval)
-- Vstávání 6:00
-- Snídaně: broskev + nektarinka + káva + voda
-- Rozcvička, výběh 7:00
-- Gel + 150 ml vody po 5 km
-- Výsledek: 6:08/km @ 147 bpm, effort easy, žádný drift
+## Fueling během běhu — cíl v g/h
+Maraton při 83 kg ≈ 3500 kcal, z toho ~570–740 g ze sacharidů. Bez
+**60–90 g/h** během závodu zásoby nestačí. Glykogen v horní polovině těla
+nohám nepomůže.
 
-## Gely
+**Trénink střeva — začít hned po návratu** (adaptace trvá týdny):
+| Období | LR | g/h |
+|---|---|---|
+| 12.10.–1.11. | 12–16 km | 30–40 (první gel ~40. min) |
+| 2.–22.11. | 17–21 km | 45–60 (gel každých 25–30 min od 30. min) |
+| Prosinec | 22–24 km | 60; testovat glukóza:fruktóza 2:1 a gel, který bude na trati |
+| Leden | 18–20 km | 60–75 |
+| Maratonský blok | 24–30 km | 60–90 i v MP úsecích; carb-load zkouška před PM a peak LR |
 
-| Délka | Počet gelů |
+Nad 60 g/h je potřeba směs glukóza + fruktóza. Gely nekonzumovat naráz,
+zapíjet (kromě isotonických). **Nikdy nic poprvé na závodě.**
+✅ Gel otestován 1× (28.6.), žaludek OK.
+
+**Fueling log:** u každého běhu ≥75 min jeden řádek do popisu na Stravě —
+snídaně (g sacharidů, kdy), gely (minuty), ml, sodík, GI 0–3.
+
+## Závod
+- Snídaně 1–2 g/kg (80–160 g sacharidů) 2,5–3 h před startem.
+- 60–90 g/h (~8–12 gelů po 25 g), sodík 300–600 mg/h.
+- Pít podle žízně ~400–800 ml/h, **nikdy >1 l/h**.
+- **Kofein:** 3 mg/kg (~250 mg) ~60 min před, nebo 150–200 mg před + 100 mg
+  gel na km 25–30. Otestovat na MP LR v březnu a na PM.
+
+## Hydratace a sodík
+| Délka / podmínky | Co |
 |---|---|
-| <60–75 min | 0 |
-| 75–120 min | 1–2 |
-| 120+ min | 1 každých 30–40 min |
+| <90 min, chladno | voda |
+| 90+ min nebo horko | elektrolyty (sodík) |
+| Horko (Indonésie, Thajsko) | 60–90 min před během 500 ml s 300–600 mg Na; běh >45–50 min nést 500 ml |
 
-**Vyhnout se zpočátku:** silně kofeinované, vysoká koncentrace.
-Isotonické gely netřeba zapíjet, jsou jemnější na žaludek.
-
-**Pravidla:**
-- Zapíjet vodou (kromě isotonických)
-- Nekonzumovat naráz, 1–2 minuty
-- **VŽDY vyzkoušet na tréninku, NIKDY poprvé na závodě**
-- ✅ Status: gely otestovány, žaludek snáší dobře
-
-## Hydratace
-
-| Délka | Co |
-|---|---|
-| <90 min | Obyčejná voda |
-| 90+ min | Elektrolyty (sodík, prevence křečí) |
-
-**Elektrolyty:** komerční mix (sodík) nebo domácí: špetka soli + lžíce medu + citron do 500 ml vody
-
-**Pravidla pití:**
-- Každých 15–20 min malý lok (50–100 ml)
-- 300–500 ml vody 1–2 h před během
-- Po long runu: 500 ml + elektrolyty do 30 min
+- **Domácí iont: ¼ lžičky soli + lžíce medu + citron do 500 ml (~575 mg Na).**
+  "Špetka" (~250–300 mg/l) je moc slabá — pot má typicky ~900–1000 mg Na/l.
+- Po běhu v horku: 1,25–1,5 l na každý kg ztráty, se sodíkem, během 2–4 h.
+  Celkem 3–5 l/den, světle žlutá moč.
+- **Sweat test:** váha nahý, osušený před a po běhu; pot l/h = (před − po +
+  vypito) / hodiny. Indonésie 28.9.–4.10., pak v listopadu a na jaře.
+- Stop a zchladit se: závrať, zimnice / husí kůže v horku, zmatenost,
+  přestane se potit.
 
 ## Suplementy
-
-### Doporučené
-| Suplement | Dávka | Proč |
+| Suplement | Dávka | Pozn. |
 |---|---|---|
-| **Kreatin monohydrát** | 3–5 g/den, kdykoli | Nejlépe prozkoumaný. Síla, výkon, regenerace, kognice. Levný, bezpečný. Loading není nutný. |
-| **Vitamin D3** | 2000–4000 IU s tučným jídlem | V ČR deficit říjen–duben. Svalová funkce, imunita, testosteron. Ideálně změřit hladinu. |
-| **Omega-3 (EPA/DHA)** | 2–3 g/den | Protizánětlivý efekt, regenerace. Při 25–30 g tuku/den nutné. Nepotřeba, pokud ryby 2–3×/týden. |
-| **Hořčík** | 300–400 mg večer | Ztráty potem, spánek, svalová relaxace. **Glycinát nebo malát**, NE oxid (špatné vstřebávání). |
+| **Vitamin D3** | 1000–2000 IU s jídlem od listopadu | pokud 25(OH)D není >100 nmol/l; upravit podle února |
+| **Kofein** | 3 mg/kg na závod | viz Závod |
+| Kreatin | 3–5 g/den | volitelný; začít až po auditu jídla (+0,5–1,5 kg vody by audit rozbilo); zvážit vysazení ~4–6 týdnů před závodem |
+| Omega-3 | 2–3 g/den | nízká priorita, pokud 60–70 g tuku a ryby 2×/tý |
+| Hořčík | 300–400 mg večer | nízká priorita; glycinát / malát, ne oxid |
+| Železo | **jen podle krevního testu a lékaře** | muž naslepo nebrat |
 
-### Zbytečné
-- **BCAA** — při 180 g proteinu absolutně zbytečné
-- **Glutamin** — žádný prokázaný efekt při dostatečném proteinu
-- **Předtréninky** — kofein funguje, ale levněji z kávy
-- **Kloubní (glukosamin, kolagen)** — slabý důkaz, nízká priorita
+Zbytečné: BCAA, glutamin, předtréninkovky, kloubní výživa.
+
+## Krevní test — Čt 15.10.2026 ráno nalačno
+KO, ferritin, saturace transferinu, 25(OH)D, CRP + testosteron, TSH, fT3
+(kvůli energetické dostupnosti). Ferritin <30–35 µg/l = pro vytrvalce
+relevantní deficit. Hraniční hodnoty zopakovat v půlce února.

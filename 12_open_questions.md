@@ -1,64 +1,74 @@
 # Otevřené otázky a TODO
 
-## Okamžité akce
+## Po návratu z Indonésie (12.–26.10.)
+- [ ] **Registrace:** Generali Prague Half Marathon So 3.4.2027 + Vodafone
+      Prague Marathon Ne 2.5.2027 (startovné roste, PM se vyprodává)
+- [ ] **Krevní test Čt 15.10. ráno nalačno** (KO, ferritin, saturace
+      transferinu, 25(OH)D, CRP, testosteron, TSH, fT3)
+- [ ] **Audit jídla 13.–26.10.** + ranní váha denně; od 13.10. maintenance
+      ~2600–2800 kcal (viz `07`)
+- [ ] Složení těla (DEXA nebo pas + BIA) v polovině října
+- [ ] **Najít plochý okruh pro threshold** (a pro retest 23.–29.11.)
+- [ ] **Založit intervals.icu** (threshold pace 5:00, LTHR 172, zóny % LTHR)
+- [ ] Hydratační vesta do 3.11. (LR nad 17 km + gely)
+- [ ] Boty přidat na Stravu
+- [ ] Zvážit hrudní pás Polar H10 (intervaly, testy)
+- [ ] Nový silový program z `09` (soleus, plyo, kyčle), 1. lower St 14.10. na 50–60 %
 
-- [ ] **Najít plochý okruh pro threshold** — poslední session měla 10–16 m
-      stoupání na rep, což rozhazuje tempo i HR a znemožňuje srovnání mezi týdny
-- [ ] **Založit intervals.icu**, nastavit threshold pace 4:53 a LTHR 172,
-      přepnout zóny na % LTHR
-- [ ] **Zvýšit příjem tuků na 60–70 g/den** (aktuálně 25–30 g)
-- [ ] Snížit protein na 170–180 g, kalorie přesunout do tuků
-- [ ] Zvážit hrudní pás Polar H10 pro kvalitní sessions
+## Monitoring — co zapisovat
+| Co | Jak |
+|---|---|
+| Ranní váha | denně, 7denní průměr |
+| Klidová HR / HRV | Samsung Health (měří v noci), týdenní průměr |
+| RPE 1–10 | pole "Perceived exertion" na Stravě |
+| Fueling | 1 řádek do popisu běhů ≥75 min (snídaně, gely, ml, sodík, GI 0–3) |
+| Gym | aktivita na Stravě "Upper" / "Lower" |
+| Bolest 0–10 | kolena / Achilovka / holeně do popisu běhu |
+| Běhy v horku | v názvu "heat" |
 
-## Ke zvážení
-
-- [ ] **Hydratační vesta** — pořídit před podzimními long runy (18+ km),
-      kdy je tričko automatické
-- [ ] Jóga / mobilita 2–3× týdně 15–20 min v rest days
-- [ ] Kreatin 3–5 g/den + Vitamin D3 2000–4000 IU
-- [ ] Omega-3 suplement nebo 2–3× týdně tučné ryby
-- [ ] Přechod na hybrid split (Upper A/B + Lower A/B)
+## Otázky pro sportovce (mění doporučení)
+1. Gel/voda na LR 13.9. a 20.9.?
+2. Kde v Indonésii a které sopky (kdy)?
+3. Proč nebyl long run 21.7.–10.8. a pauza 22.–27.8.? (kolena po Slovinsku? horko? čas?)
+4. Reálný příjem **včetně víkendů**, vývoj váhy za 2–3 měsíce, výška, % tuku?
+5. Gym: kolikrát týdně reálně a které dny?
+6. Boty: model, nájezd, plán na závodní botu?
+7. Vidíš v Samsung Health noční klidovou HR / HRV?
+8. Jak moc jde o 3:30 vs. silný dokončený maraton (kolik riskovat)?
 
 ## Neověřené / chybějící údaje
-
 | Co | Status |
 |---|---|
-| **Max HR** | Netestováno. Min. 181 naměřeno. Odhad 185–190. Testovat se nedoporučuje. |
-| Fueling na long runech 13.9. (15 km) a 20.9. (16 km) | Neznámé — gel/voda? Doplnit do logu |
-| Klidové HR | Neměřeno |
-| VO2max | Neodhadnuto |
-| Přesný název maratonu | Pravděpodobně Praha (2.5.2027 = neděle) — NEPOTVRZENO |
-| Registrace na závod | Neřešeno |
-| Profil trati maratonu | Neznámý — ovlivní blok D |
-| Aktuální tělesné složení | Neznámé |
-| Krevní testy (D3, ferritin, testosteron) | Neprovedeny |
+| Max HR | ≥181 reálně naměřeno, odhad 185–190. Netestovat. |
+| Klidová HR / HRV | měří hodinky, nezapisuje se |
+| Složení těla | neznámé |
+| Krevní testy | neprovedeny → 15.10. |
+| Reálný energetický příjem | nesedí s váhou → audit 13.–26.10. |
+| Sweat rate | neznámý → test 28.9.–4.10. |
 
-## Naplánované kontrolní body
-
+## Kontrolní body
 | Kdy | Co |
 |---|---|
-| **Konec listopadu 2026** | Retest LTHR (30min TT na PLOCHÉ trati) → přenastavit zóny |
-| Leden 2027 | Kontrola objemu — musí být na cestě k 55 km do 15.2. |
-| **29.3.–4.4.2027** | Půlmaraton naostro → finální predikce maratonu |
-| Duben 2027 | Finalizace závodní strategie, fueling plánu, pacingu |
-
-## Otázky k vyřešení dříve, než přijdou
-
-- **Kdy přesně registrovat maraton?** (Praha se plní)
-- **Závodní boty** — carbon plate? Kdy pořídit a kolik v nich naběhat?
-- **Závodní fueling plán** — kolik gelů, jaké rozestupy, jaké značky.
-  Testovat od bloku 8.3.2027 na MP long runech.
-- **Pacing strategie** — negative split vs. even pace. Rozhodnout po půlmaratonu.
-- **Fueling na trati vs. vlastní** — co Praha nabízí na občerstvovačkách?
+| 28.9.–4.10. | sweat test v horku |
+| 12.–26.10. | krevní test, audit jídla, registrace |
+| 26.10. | 5. běh v týdnu |
+| **23.–29.11.** | **Retest LTHR (30 min, rovina)** → přepočet temp a zón; prahy v `02` |
+| 20.12. | 55 km/tý a LR 23–24 dosaženo? |
+| Leden | ~50 km a LR 20 před Thajskem |
+| Únor | výběr závodní boty; ferritin/D znovu, pokud hraniční |
+| Březen | MP long runy: HR v MP úseku ≤158? kofein test |
+| **So 3.4.2027** | **PM Praha naostro → finální cíl a tempo** (tabulka v `02`) |
+| 17./18.4. | peak LR 30 km s 10–12 km @ MP |
+| Duben | taktika závodu: prvních 5 km o 5–10 s/km pomaleji, fueling, boty |
 
 ## Rizika
-
 | Riziko | Mitigace |
 |---|---|
-| Zranění z dohánění objemu po cestách | Striktní návratový protokol (70 % → 90 % → 100 %) |
-| Thajsko jako propadák (poslední pauza před 11týdenním blokem) | Držet 2–3 běhy/týden, ne 1 |
-| Kolena po hikingu / lyžích | Sledovat, po velkém D+ snížit objem |
-| Kalorický deficit při rostoucím objemu | Od 45+ km přejít na maintenance |
-| Tendence přestřelovat intenzitu | Cílovat poslední rep, ne první; kontrolní splity na 500 m |
-| Přestřelování i na easy bězích (domácí trasa: první 3 km z kopce @ HR 158–166) | První 3 km vědomě brzdit, HR strop 153 |
-| Nedostatečný long run objem před 15.2.2027 | Do 15.2. musí být LR 22–24 km, objem 55–60 km |
+| Zranění z dohánění po cestách | návratový protokol 70 → 90 → 100 % (`04`) |
+| Velký sestup (sopka, lyže) | stupně podle sestupu, velká sopka do ~4.10. (`04`) |
+| Nízká energetická dostupnost | maintenance od 13.10., audit, varovné signály (`07`) |
+| Přestřelené threshold repy | 4:55–5:05, 500 m za 2:28–2:32, konec repu HR ≤168 |
+| Přestřelený začátek závodu | nacvičit na PM: prvních 5 km záměrně pomaleji |
+| Týden 30.11. a peak po PM | rozloženo (`04`) |
+| Příliš ambiciózní MP | MP podle aktuální predikce, cíl až po PM |
+| Horko v den závodu (>15 °C) | počítat s +1–3 min, rozhodnout ráno |

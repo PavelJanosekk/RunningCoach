@@ -5,8 +5,8 @@
 | Fáze | Session | Čas v zóně |
 |---|---|---|
 | Úvod | 3× 8 min @ threshold / 2 min klus | 24 min |
-| | 3× 1,5 km @ 4:50–4:55 / 2,5 min klus | ~22 min |
-| | 4× 1,2 km @ 4:55 / 2 min klus | ~20 min |
+| | 3× 1,5 km @ 4:55–5:05 / 2,5 min klus | ~22 min |
+| | 4× 1,2 km @ 4:55–5:05 / 2 min klus | ~20 min |
 | Rozvoj | 4× 8 min / 2 min | 32 min |
 | | 4× 1,5 km / 2,5 min | ~29 min |
 | | 2× 15 min / 3 min klus | 30 min |
@@ -16,19 +16,26 @@
 | | 2× 20 min / 3 min | 40 min |
 
 Vždy: 15 min rozklus + 10 min výklus (počítá se do objemu).
+Tempo repů **4:55–5:05/km, konec repu HR ≤168** (platí do retestu 23.–29.11.,
+viz `02`). Rychleji = 5K tempo, ne threshold.
 
 ## Kontrolní časy @ threshold
 
-### 4:50/km
+### 5:05/km
 | Úsek | Čas |
 |---|---|
-| 400 m | 1:56 |
-| 500 m | 2:25 |
-| 750 m | 3:38 |
-| 1 km | 4:50 |
-| 1,2 km | 5:48 |
-| 1,5 km | 7:15 |
-| 1,6 km | 7:44 |
+| 500 m | 2:32 |
+| 1 km | 5:05 |
+| 1,2 km | 6:06 |
+| 1,5 km | 7:37 |
+
+### 5:00/km
+| Úsek | Čas |
+|---|---|
+| 500 m | 2:30 |
+| 1 km | 5:00 |
+| 1,2 km | 6:00 |
+| 1,5 km | 7:30 |
 
 ### 4:55/km
 | Úsek | Čas |
@@ -82,21 +89,25 @@ klus dolů jako pauza
 Threshold efekt bez nutnosti znát přesné tempo. Nižší mechanické riziko.
 Buduje sílu a ekonomiku. Vhodné pro první týdny bloku nebo po pauze.
 
-## VO2max (blok C+, později)
+## Steady (2. kvalita od prosince)
+20–25 min souvisle @ HR 154–162 (Z3), nebo kopce 8–10× 45–60 s.
 
-- 4–6× 3 min @ 4:20–4:30/km, 2–3 min klus
-- 5× 1000 m, 3 min klus
-- HR cíl 175–182
+## VO2max — v plánu není
+Pro první maraton kolem 3:30 rozhoduje threshold, MP výdrž a objem.
+Vysoká intenzita přichází z kopců, strides a (bohužel) z přestřelených repů.
+Pokud někdy: 4–6× 3 min @ ~5K tempo, 2–3 min klus.
 
-## Marathon pace bloky (blok D, od ~8.3.2027)
+## Marathon pace bloky (od 8.3.2027)
 
-Posledních 4–12 km long runu v cílovém MP (4:58/km).
+Posledních 4–12 km long runu v **aktuálním MP podle predikce** (teď ~5:15–5:25;
+po PM 3.4. podle tabulky v `02`). Cílové 4:58 jen pokud ho potvrdí data.
+HR v MP úseku ≤158 v první polovině úseku.
 
 | Fáze | Struktura |
 |---|---|
-| Úvod | LR 24 km, poslední 4 km @ MP |
-| Rozvoj | LR 28 km, poslední 8 km @ MP |
-| Peak | LR 30–32 km, poslední 10–12 km @ MP |
+| Úvod (8.–14.3.) | LR 24 km, posledních 4–6 km @ MP |
+| Rozvoj (15.–21.3.) | LR 26–28 km, posledních 8 km @ MP |
+| Peak (17./18.4.) | LR 30 km, 10–12 km @ MP |
 
 **Nejdůležitější specifický trénink pro maraton.**
 

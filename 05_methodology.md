@@ -47,12 +47,15 @@ opakovat
 ```
 Polovina každého repu je "cesta nahoru". Delší rep = náběh zaplatíš jednou.
 
-| Varianta | Čas v zóně |
-|---|---|
-| 4× 1,2 km @ 4:35 (skutečnost) | ~9–10 min |
-| 3× 1,5 km @ 4:55 (plán) | ~18–20 min |
+Delší repy ve správném tempu dají stejný čas v zóně za menší únavu než krátké
+rychlé. 8.9. (4× 1,2 km @ 4:22–4:43) bylo ~15 min v 163–172, ale v tempu
+na 5 km → cena 5K session místo thresholdu.
 
-Druhá varianta je subjektivně **snazší** a dá dvojnásobný stimul.
+### Správné tempo
+- **Repy 4:55–5:05/km, průměr repu HR 160–166, konec repu ≤168** (viz `02`).
+- 4:50 z testu je 30min závodní tempo, ne tréninkové threshold tempo.
+- Kontrola bez pace alertů: auto-lap 500 m, **500 m za 2:28–2:32**; první
+  500 m pod 2:25 → zpomal hned, nečekej na HR (HR se v repu zvedá 2–3 min).
 
 ### Jak poznat threshold pocitem
 - Dokážeš říct **3–5 slov**, ne celou větu
@@ -94,13 +97,21 @@ poslední třetina: volitelně lehce přidat (negative split),
 
 Long run má skončit s pocitem "mohl bych pokračovat", ne "musel jsem zastavit".
 
+**Rozběh z kopce (domácí trasa):** prvních 10 min řídit **tempem ≥5:45/km**,
+ne HR — HR se zpožďuje 2–3 min a strmý úsek po 1. km se jinak běží
+rychleji než threshold na studené nohy. Platí i pro easy běhy.
+
 ## Progrese
 
-- Objem: **max +10 %/týden**
-- Long run: +1–2 km každé 2 týdny
-- **Po rekordní délce následující týden stejná nebo kratší vzdálenost**
-- **10 % pravidlo se počítá od ČISTĚ zvládnutého běhu**, ne od jakéhokoli
-- Každý 4. týden cutback
+- Objem: **max +10 %/týden** (návrat na objem před cestou smí rychleji podle
+  návratového protokolu 70 → 90 → 100 %, viz `04`)
+- **Long run max 1,10× (max +2 km) nejdelšího běhu za posledních 30 dní.**
+  Lépe podložené než % z týdne nebo týdenní ACWR (Frandsen et al., BJSM 2025:
+  běh o >10 % delší ≈ 1,5–2× vyšší riziko zranění).
+- Po 2 rekordech LR za sebou držet nebo ubrat.
+- **Progrese se počítá od ČISTĚ zvládnutého běhu**, ne od jakéhokoli
+- Každý 4. týden (nebo před cestou) cutback
+- Objem roste hlavně **frekvencí** (5. běh), ne jen prodlužováním běhů.
 
 ## Recovery run — kdy ano, kdy ne
 

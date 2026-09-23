@@ -67,6 +67,50 @@ a long run 15 km 13.9. Max HR během testu bylo 181, ne 173.
 **Platí: data od 31.8. v `03_training_log.md` jsou ze Strava API.
 Při další aktualizaci stahovat přes `scripts/strava.py`, ne rekonstruovat.**
 
+## ❌ Restart "~červenec", fáze 1 špatně seřazená a neúplná (opraveno 23.9.)
+**Oprava:** restart byl **8.5.2026**. Long run s gelem (28.6.) byl před
+Slovinskem, ne po něm. V logu chybělo 22 běhů / 162 km (27.5.–13.6. a celé
+21.7.–29.8.). Celý log je teď ze Stravy.
+
+## ❌ "Zlepšení ~40–45 s/km při stejném HR za ~10 týdnů", "−20 bpm za 8 týdnů"
+**Oprava:** květnové běhy v 6:25 měly HR 155–164, ne 148. Při skutečně
+stejné HR (143–150, GAP) je to ~24 s/km, a za květen → červenec. **Od
+července plató.** "Rychlá adaptace" = re-adaptace po detréninku, ne trvalá vlastnost.
+
+## ❌ "Threshold tempo 4:50–4:55" jako cíl repů
+**Oprava:** 4:50 z testu je 30min závodní tempo (Friel), ne tréninkové T tempo.
+Při VDOT 40–42 je T tempo ~4:54–5:04. **Cíl repů 4:55–5:05, konec repu HR ≤168.**
+Repy 4:22–4:47 byly na 5K tempu. K položce "Threshold #1 nebyl VO2max":
+podle HR threshold/CV, **podle tempa ~5K** — HR se v 5–7min repech nestihne zvednout.
+
+## ❌ "Long run 20.6.: nalačno, bez hydratace → drift"
+**Oprava:** decoupling jen +0,6 %, HR 160 už na 2. km. Příčina = moc rychlé
+tempo km 3–7 a skok 1,27× po Krétě. Protokol 28.6. je test tolerance gelu
+(n = 1), ne důkaz, že gel brání driftu.
+
+## ❌ "Hlavní problém výživy: tuky", "mírný deficit", "~240–250 g sacharidů"
+**Oprava:** čísla v KB si odporují (deficit 600–1100 kcal při stabilní váze).
+Sacharidy nebyly změřené — jídelníček dává ~110–130 g. **Hlavní problém je
+celková energie a sacharidy**; tuky přidat navíc, ne výměnou.
+
+## ❌ "Sub-3:30 realistické, sub-3:20 ve hře"
+**Oprava:** VDOT 40–42 vs potřebných 44,6 / 47,2. Sub-3:30 = ambice (~30–40 %),
+sub-3:20 vyřazeno. Rozhodují retest 23.–29.11. a PM 3.4.2027 (prahy v `02`).
+
+## ❌ Pravidla "LR ≤30–35 % týdne" a "2 dny volna před LR"
+**Oprava:** % pravidlo bylo s cíli plánu neslučitelné (LR 22–24 km by
+vyžadoval 63–69 km/tý). Platí **LR ≤1,10× nejdelšího za 30 dní** a **1 den
+volna před a 1 po LR**. Šablony, které dávaly easy běh den po LR nebo den
+před LR, porušovaly tuto errata a byly nahrazeny.
+
+## ❌ Plán s týdny út–po a dny posunutými o 1 (23.9., moje chyba)
+**Oprava:** 13.10.2026 je úterý. Rozpis týdne po návratu měl "Po 13." až
+"Ne 19.". Všechny týdny v `04` jsou teď po–ne.
+
+## ⚠️ "Přestřelování na easy bězích" z 22.–23.9.
+Zobecněno ze 2 běhů. Na ostatních 41 easy bězích se to v této míře nedělo.
+Problém je tempo strmého úseku z kopce (mechanika), ne HR → cue podle tempa.
+
 ---
 
 ## Metapoučení pro budoucí koučování
@@ -78,4 +122,7 @@ Při další aktualizaci stahovat přes `scripts/strava.py`, ne rekonstruovat.**
 5. **Nepřidávat překážky bez důvodu** — když kritéria jsou splněna, jít dál.
 6. **Nepoužívat odhady, když jsou k dispozici změřená data.**
 7. **U easy běhů koukat na per-sekundová/per-km data, ne jen průměr** —
-   průměr 148 může schovat 10 min v Z3 (22.–23.9.).
+   průměr 148 může schovat 10 min v Z3 (22.–23.9.). Ale nezobecňovat ze 2 běhů.
+8. **Ověřit den v týdnu u každého data v plánu** (datetime), nepočítat z hlavy.
+9. **Intenzitu krátkých repů hodnotit i podle tempa vs. VDOT**, ne jen podle HR.
+10. **Tvrzení o progresu vždy porovnávat při stejné HR a upravené o sklon (GAP)**.

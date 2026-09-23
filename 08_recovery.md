@@ -4,14 +4,15 @@
 
 | # | Co | Status |
 |---|---|---|
-| 1 | **Spánek** | ✅ ~8 h stabilně |
-| 2 | Sacharidy + protein po tréninku | ✓ řešeno |
-| 3 | Celkový kalorický příjem | ⚠️ tuky nízké |
-| 4 | Správný objem a pacing | ✓ |
-| 5 | Chůze / lehká aktivita | ✅ 10–15k kroků |
-| 6 | Mobilita / jóga 2–3×/týden | ← další krok |
-| 7 | Foam roller | volitelné |
-| 8 | Masážní pistole | nejnižší priorita |
+| 1 | **Dost energie a sacharidů** | ⚠️ deficit a sacharidy nesedí — viz `07` |
+| 2 | **Spánek** | ✅ ~8 h stabilně |
+| 3 | Řízení zátěže (pravidla v `04`, návratový protokol) | ✓ |
+| 4 | Krevní testy (ferritin, D, …) | ⬜ Čt 15.10. |
+| 5 | Sacharidy + protein po tréninku | ✓ |
+| 6 | Chůze / lehká aktivita | ✅ 10–15k kroků |
+| 7 | Mobilita / jóga 2–3×/týden | ← další krok |
+| 8 | Foam roller | volitelné |
+| 9 | Masážní pistole | nejnižší priorita |
 
 ## Spánek
 Pod 7 h = horší regenerace svalů, vyšší kortizol, pomalejší adaptace.
@@ -93,6 +94,14 @@ Pro běžce konkrétně:
 
 **Běh s horečkou nebo systémovou zánětlivou reakcí zvyšuje riziko myokarditidy.**
 
+**Po nemoci:** 24–48 h bez horečky, pak 1–2 easy dny před kvalitou.
+Cutback místo dohánění.
+
+### Na cestách (Indonésie, Thajsko)
+- Průjem → ORS (rehydratační sůl), běh až 24 h bez příznaků a normálně jíš.
+- **Horečka + bolest těla / za očima → lékař (možná dengue). Jen paracetamol,
+  žádný ibuprofen ani aspirin.**
+
 ## Po očkování
 - Reakce typicky 6–24 h po
 - Běh odběhnout PŘED očkováním, pokud možno
@@ -108,15 +117,15 @@ Pro běžce konkrétně:
 - Únava neodcházející po recovery týdnu
 - "Zdechlost" / nechuť trénovat bez fyzické únavy
   → často kalorický deficit nebo nedostatek sacharidů (mozek běží na glukózu)
+- Nízká energetická dostupnost: stabilní váha při nízkém příjmu, pokles
+  libida, klidová HR +5 bpm (7denní průměr), opakované nemoci, lokální bolest
+  kosti → víc jíst + krevní test (viz `07`)
 
 ## Rest days — umístění
-**2 dny volna patří PO long runu, ne před.**
-- Glykogen resyntéza po long runu: 24–48 h
-- Svalové mikropoškození (excentrické): 48–72 h
-- Imunitní systém oslabený 24–48 h
-
-Před long runem stačí 1 den volna.
-
-**Výjimka aktuální fáze:** protože long run je stále relativně velký podíl
-objemu, 2 dny volna před long runem zvýší jeho kvalitu. Řeší se růstem
-zbytku týdne.
+**Pravidlo: 1 den volna před a 1 po long runu.** Kvalita smí být 2 dny před LR.
+- Po LR: glykogen 24–48 h, excentrické mikropoškození 48–72 h, imunita 24–48 h
+  → den po LR volno (ne easy běh).
+- Data: všech 10 LR ≥10,5 km mělo ≥1 den volna před i po; dva nejlepší (3.9.,
+  20.9.) měly jen 1 den volna před a kvalitu 2–3 dny předem. LR se 3 dny volna
+  předem nebyly lepší.
+- Recovery běh (Z1) místo volna až od 5 běhů / 55+ km.
