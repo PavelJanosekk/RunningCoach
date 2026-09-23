@@ -2,37 +2,21 @@
 
 ## Hydratace
 
-| Řešení | Kapacita | Cena | Kdy |
-|---|---|---|---|
-| **Handheld lahev** | 250–500 ml | 400–800 Kč | do 15 km, léto bez trička |
-| Běžecký pás | 1–2 lahve | 600–1500 Kč | ❌ nedoporučeno — houpe se |
-| **Hydratační vesta** | 2× 500 ml + 1,5 L | 2500–5000 Kč | 18+ km, maraton |
+**Rozhodnutí podle vzdálenosti:**
+- Do 15 km: handheld lahev
+- 18+ km / maraton: hydratační vesta — řeší zároveň telefon/klíče/gely,
+  váha rozložená na hrudi a zádech (na rozdíl od pásu se nehoupe)
+- Běžecký pás: ❌ nedoporučeno — váha v jednom bodě, houpe se
 
-### Vesta — doporučení
-- **Salomon Adv Skin 5** (~3000–3500 Kč) — zlatý standard
-- Levnější: Decathlon Kiprun Run 500, Inov-8 Race Ultra Vest
-- ❌ Vyhnout se: vesty pod 1000 Kč (dřou ramena), vesty 10L+ (overkill)
-
-**Fit:** musí sedět těsně — mezi vestu a hrudník max 2–3 cm prsty.
-Velikost podle obvodu hrudníku, ne S/M/L. **Vyzkoušet v obchodě.**
+**Fit vesty:** těsně — max 2–3 cm prsty mezi vestou a hrudníkem.
+Velikost podle obvodu hrudníku, ne S/M/L. Vyzkoušet v obchodě.
 
 ### ⚠️ Léto + běh bez trička
 Vesta přímo na kůži = dření ramen, hrudníku, podpaží po 15+ km.
-
-**Řešení:**
-- Do 15 km: handheld lahev
-- Nad 15 km: **lehké mesh běžecké tričko** + vesta
-  (Salomon, Kiprun, Inov-8 — tepelně prakticky neznatelné)
-- Body Glide / Vaseline pomáhá jen částečně
-
-**Aktuální doporučení:** léto = handheld. Vestu pořídit před podzimem/zimou,
-kdy je tričko automatické.
-
-## Telefon a klíče
-Vesta řeší oba problémy najednou (kapsy na telefon, klíče, gely, větrovku)
-a nehoupe se — váha je distribuovaná po hrudi a zádech.
-
-Běžecký pás má váhu v jednom bodě → fyzika ho nutí houpat se.
+Do 15 km handheld, nad 15 km lehké mesh tričko + vesta (tepelně
+prakticky neznatelné) — anti-chafe balzám sám o sobě pomáhá jen
+částečně. Vestu pořídit před podzimem/zimou, kdy je tričko pod ní
+automatické.
 
 ## Boty
 - Primární cíl: silniční maraton → silniční boty

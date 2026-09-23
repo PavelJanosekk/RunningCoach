@@ -116,12 +116,8 @@ Minimum tuků a vlákniny před během (zpomalují trávení).
 | 75–120 min | 1–2 |
 | 120+ min | 1 každých 30–40 min |
 
-**Doporučené značky:**
-- **SiS Go Isotonic** — isotonické, netřeba zapíjet, jemné na žaludek (~60–80 Kč)
-- **Maurten Gel 100** — premium, profi standard (~120 Kč)
-- **High5 Energy Gel** — levnější (~40–60 Kč)
-
 **Vyhnout se zpočátku:** silně kofeinované, vysoká koncentrace.
+Isotonické gely netřeba zapíjet, jsou jemnější na žaludek.
 
 **Pravidla:**
 - Zapíjet vodou (kromě isotonických)
@@ -136,8 +132,7 @@ Minimum tuků a vlákniny před během (zpomalují trávení).
 | <90 min | Obyčejná voda |
 | 90+ min | Elektrolyty (sodík, prevence křečí) |
 
-**Elektrolyty:** LMNT, SiS Hydro, Nuun, High5 Zero
-**Domácí mix:** špetka soli + lžíce medu + citron do 500 ml vody
+**Elektrolyty:** komerční mix (sodík) nebo domácí: špetka soli + lžíce medu + citron do 500 ml vody
 
 **Pravidla pití:**
 - Každých 15–20 min malý lok (50–100 ml)
