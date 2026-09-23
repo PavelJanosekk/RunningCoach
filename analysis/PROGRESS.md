@@ -13,7 +13,7 @@ hledání protiargumentů) → kritika → syntéza do reportu. Bez subagentů.
 |---|---|---|---|---|---|
 | 1 | Výživa, fueling, síla, regenerace (fuel) | ✅ | ✅ | ✅ | ✅ |
 | 2 | Zátěž a riziko zranění (load) | ✅ | ✅ | ✅ | ✅ |
-| 3 | Aerobní vývoj a reálnost cíle (aerobic) | ⬜ | ⬜ | ⬜ | ⬜ |
+| 3 | Aerobní vývoj a reálnost cíle (aerobic) | ✅ | ✅ | ✅ | ✅ |
 | 4 | Kritika plánu do závodu (plan) | ⬜ | ⬜ | ⬜ | ⬜ |
 | 5 | Intenzita a provedení (intensity) | ⬜ | ⬜ | ⬜ | ⬜ |
 | 6 | Audit KB vs data, monitoring (audit) | ⬜ | ⬜ | ⬜ | ⬜ |

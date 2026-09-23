@@ -377,3 +377,128 @@ Revidovaná týdenní čísla (km / LR), týdny po–ne:
 | | | | | 19.–25.4. | ~45 | taper |
 | | | | | 26.4.–2.5. | 20–25 + M | 🏁 |
 (Plán a cíle ještě prověří sekce Aerobní vývoj a Plán.)
+
+---
+
+## 3. Aerobní vývoj a reálnost cíle
+
+**Verdikt:** efektivita na easy tempu se zlepšila hlavně **květen → červenec**
+a od července stojí. Roste výdrž (stejná efektivita na 16 km jako dřív na
+11 km), ne rychlost při stejné HR. Aktuální forma ≈ **VDOT 40–42**.
+**Sub-3:30 vyžaduje VDOT ~44,6 (+~11 %)** → je to ambiciózní cíl, ne
+"realistický". Sub-3:20 z tabulky vyřadit. Rozhodnout daty v listopadu
+a na půlmaratonu.
+
+### 3.1 🔴 Plató efektivity od července (upraveno o sklon, jen easy/LR, bez testů)
+| Měsíc | Easy: GAP tempo @ HR 143–150 | Easy: EF_gap | LR: GAP tempo @ HR 143–150 | LR: EF_gap |
+|---|---|---|---|---|
+| Květen | 6:12 | 1,087 | — | — |
+| Červen | 6:05 | 1,095 | 6:24 | 1,054 |
+| Červenec | 5:48 | 1,170 | 6:02 | 1,119 |
+| Srpen | 5:45 | 1,176 | 6:08 | 1,090 |
+| Září | 5:48 | 1,171 | 6:03 | 1,099 |
+
+- Zlepšení ~24 s/km (6:12 → 5:48) proběhlo za ~9 týdnů květen–červenec,
+  pak ~10 týdnů beze změny.
+- **Ověření / protiargumenty:** čas běhu stejný (medián start 6:30–8:30),
+  převážně stejná trasa → nezkresluje. Léto (červenec–srpen) by EF snižovalo —
+  chladnější září by tedy mělo vyjít lépe, nevyšlo. Zářijový nárůst objemu
+  (3 týdny) se typicky projeví až za 4–8 týdnů; únava z něj EF krátkodobě tlumí.
+  Výživa jako příčina neprokázaná (viz 1.1).
+- **Nejpravděpodobnější vysvětlení:** květen–červen = rychlá re-adaptace po
+  detréninku; červenec–srpen objem jen 18–29 km/tý = udržovací podnět.
+  Další zlepšení teď musí přinést **objem (5. běh) a správně dávkovaná kvalita**,
+  ne samotný čas.
+- **Co roste:** výdrž. LR 11,6 km (20.6.) → 16 km (20.9.) při stejné
+  efektivitě a decouplingu −2 až −4 %. To je pro maraton důležitější metrika.
+
+### 3.2 🟡 Tvrzení o progresu v KB nesedí
+- "Zlepšení ~40–45 s/km při stejném HR za ~10 týdnů" (03) — květnové běhy
+  v 6:25–6:31 měly HR 155–164, ne 148. Při skutečně stejné HR (143–150,
+  GAP) je to **~24 s/km, a za květen–červenec**, ne za posledních 10 týdnů.
+- "HR klesl o ~20 bpm za 8 týdnů" (01) — opírá se o úplně první běh po
+  detréninku (8.5. "Infarkt", HR 164). Typický květnový běh ~155 →
+  ~147–149 v červnu = spíš ~7–10 bpm.
+- "Rychlá adaptace" (01) platí pro re-adaptaci v květnu–červnu, **ne jako
+  trvalá vlastnost** — od července se chováš jako normální běžec, kterému
+  zlepšení nese objem.
+- Restart byl **8.5.2026**, ne "~červenec".
+
+### 3.3 🔴 Aktuální forma a predikce
+- **LTHR test 31.8.** (6,24 km / 30:13) → **VDOT 40,3** (Daniels). Trať z kopce,
+  pak do kopce, rozkolísané tempo → spíš spodní odhad.
+- Threshold #2 (18.9.): 3× 1,5 km v GAP ~4:25–4:37 s 2,5 min pauzou — to
+  odpovídá spíš VDOT ~42. **Odhad současné formy: VDOT 40–42.**
+
+| Při VDOT | 5 km | 10 km | PM | Maraton* |
+|---|---|---|---|---|
+| 40,3 (test) | 23:57 | 49:41 | 1:50:10 | 3:48 |
+| 42 | 23:08 | 47:58 | 1:46:22 | 3:40 |
+| 44,6 (sub-3:30) | 21:58 | 45:35 | 1:41:00 | 3:29:40 |
+| 47,2 (sub-3:20) | 20:57 | 43:25 | 1:36:10 | 3:20 |
+*Daniels předpokládá plnou maratonskou přípravu. Při objemu 55–65 km a 83 kg
+reálně spíš o 2–5 min pomaleji → pro odhad maratonu z PM používám **PM × 2,11**.
+
+**Tabulka v 02 se zhruba shoduje** (PM ~1:50, maraton 3:55–4:05 bez přípravy).
+
+### 3.4 🔴 Reálnost cílů pro 2.5.2027
+Potřebný VDOT: sub-4:00 = 37,9 · sub-3:45 = 41,0 · sub-3:30 = 44,6 · sub-3:20 = 47,2.
+Z 40–42 máš ~7 měsíců, z toho ~7 týdnů na cestách → efektivně ~5 měsíců stavby.
+Realistický zisk u vracejícího se běžce ve 1. roce strukturovaného tréninku
+s objemem 37 → 55–65 km: **+2 až +5 VDOT**.
+
+| Cíl | KB teď | Můj odhad | Pravděpodobnost |
+|---|---|---|---|
+| Sub 4:00 (5:41/km) | jisté | jisté, už teď | ~95 % |
+| Sub 3:45 (5:19/km) | velmi pravděpodobné | pravděpodobné | ~75 % |
+| **Sub 3:30 (4:58/km)** | realistické — pracovní cíl | **ambiciózní, stretch** | ~30–40 % |
+| Sub 3:20 (4:44/km) | ve hře | **vyřadit** | <10 % |
+
+- **Proč tak přísně:** MP 4:58 je dnes **rychlejší než tvoje threshold tempo
+  podle Danielse (~5:04)**. Pro sub-3:30 musí threshold klesnout na ~4:40 a
+  30min test na ~4:28–4:30.
+- **Nepřidávám překážky** (errata): cíl nechat jako ambici, jen trénovat
+  podle aktuální formy a rozhodnout daty.
+
+### 3.5 🔴 Rozhodovací body s konkrétními prahy
+**Retest LTHR 23.–29.11. (30 min, rovina):**
+| 30min průměrné tempo | VDOT | Stav |
+|---|---|---|
+| ≤4:40 | ≥42,2 | na cestě k 3:30 |
+| 4:41–4:47 | 41–42 | směr 3:35–3:45 |
+| ≥4:48 | ≤41 | směr 3:45–3:50; zkontrolovat objem/energii |
+
+**Půlmaraton (konec března / začátek dubna) → finální cíl a tempo:**
+| PM | VDOT | Maraton (PM × 2,11) | Závodní tempo |
+|---|---|---|---|
+| ≤1:39 | ≥45,7 | ~3:28 | **sub-3:30, start 4:57–5:00** |
+| 1:40–1:42 | 44–45 | 3:31–3:35 | 5:00–5:05 |
+| 1:43–1:46 | 42–43,5 | 3:37–3:44 | 5:08–5:18 |
+| 1:47–1:50 | 40,4–41,5 | 3:46–3:52 | 5:20–5:30 |
+
+**Kontrola na MP long runech (březen):** úseky v cílovém MP mají sedět na
+**HR ≤158 (~92 % LTHR)** v první polovině úseku. Pokud MP úsek jede
+v Z4 (≥163), je cílové tempo příliš rychlé.
+
+### 3.6 🟡 Důsledek pro tréninková tempa (detail v sekci Intenzita)
+- KB "threshold 4:50–4:55" = tvoje **30min závodní tempo** (Friel), ne
+  Danielsovo T tempo (~5:04 při VDOT 40,3; ~4:54 při 42).
+- Tvoje repy 4:22–4:47 ≈ **tempo na 5 km** (4:47 při VDOT 40,3) → byly to
+  spíš VO2max intervaly než threshold. HR (155–168) to neukáže, protože
+  v 5–7min repech se HR nestihne zvednout.
+- **MP bloky v tréninku jet podle aktuální predikce** (teď ~5:15–5:25), ne
+  podle cíle 4:58 — cílové tempo až když ho data potvrdí.
+
+### 3.7 ✅ Co funguje
+- Výdrž na LR (decoupling −2 až −4 % na 14–16 km) — nejlepší maratonský signál.
+- Konzistentní aerobní základ bez regresu přes léto i cestování.
+- Test 31.8. dal přesné LTHR (172,0) — zóny HR platí.
+
+### Navržené změny (aerobní vývoj)
+| Co | Teď | Navrhuji | Proč |
+|---|---|---|---|
+| 02 cílová tabulka | 3:30 "realistické", 3:20 "ve hře" | 3:30 = stretch (~30–40 %), 3:20 vyřadit, A-cíl rozhodnout PM | VDOT 40–42 vs potřebných 44,6 |
+| 02 predikce | bez VDOT | přidat VDOT 40,3 + prahy pro retest a PM (3.5) | rozhodování daty |
+| 01 profil | restart ~červenec, "rychlá adaptace", −20 bpm | restart 8.5.; rychlá re-adaptace květen–červen, pak plató | data |
+| 03 trendy | "~40 s/km za 10 týdnů" | "~24 s/km květen–červenec, od července plató; roste výdrž" | data |
+| 04 MP bloky | 4:58 | podle aktuální predikce, cíl až po PM | nejet MP rychleji než forma |
