@@ -1,9 +1,9 @@
 # Knowledge Base: Marathon Training — [USER]
 
-**Vytvořeno:** 18.9.2026
+**Vytvořeno:** 18.9.2026 · **Aktualizováno:** 23.9.2026
 **Cílový závod:** Maraton, neděle 2.5.2027 (pravděpodobně Praha)
 **Pracovní cíl:** sub-3:30 (4:58/km)
-**Aktuální fáze:** Fáze 2 — threshold blok, start
+**Aktuální fáze:** Indonésie 24.9.–12.10. (udržovací), pak hlavní blok od 13.10.
 
 ## Obsah
 | Soubor | Obsah |
@@ -25,6 +25,14 @@
 - LTHR = **172 bpm** (změřeno 30min TT)
 - Threshold tempo = **4:50–4:55/km**
 - Easy zóna = **138–153 bpm**, tempo 5:45–6:15/km
-- Aktuální objem: **35–40 km/týden**, 3–4 běhy
-- Long run max dosud: **15,81 km**
+- Objem před Indonésií: **34–39 km/týden**, 4 běhy (3 týdny v řadě)
+- Long run max dosud: **16,02 km** (20.9.2026)
 - Max HR: min. 181 (naměřeno), odhad 185–190 (NETESTOVÁNO)
+
+## Aktualizace dat ze Stravy
+```
+python3 scripts/strava.py list --after 2026-09-20   # přehled aktivit
+python3 scripts/strava.py detail <id>               # km splity, laps, HR
+```
+Přihlašovací údaje v `.env` (gitignored), token se obnovuje sám.
+Strava API je zdroj pravdy pro data v logu — neodhadovat z popisu.

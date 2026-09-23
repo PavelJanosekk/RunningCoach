@@ -60,6 +60,13 @@ Uživatel poslal "4:23 / 4:36 / 4:37 / 4:42" jako časy intervalů —
 byla to **tempa v min/km**. Vždy ověřit jednotky matematikou
 (vzdálenost × tempo = čas).
 
+## ❌ Data v logu fáze 2 (opraveno 23.9.2026 ze Strava API)
+**Oprava:** LTHR test byl **Po 31.8.**, ne ~7.9. "Přechodný týden" míchal
+běh ze 7.9. s běhy z 15.–16.9. V logu chyběly běhy 5.9. (+ gym), 9.9.
+a long run 15 km 13.9. Max HR během testu bylo 181, ne 173.
+**Platí: data od 31.8. v `03_training_log.md` jsou ze Strava API.
+Při další aktualizaci stahovat přes `scripts/strava.py`, ne rekonstruovat.**
+
 ---
 
 ## Metapoučení pro budoucí koučování
@@ -70,3 +77,5 @@ byla to **tempa v min/km**. Vždy ověřit jednotky matematikou
 4. **Rozlišovat průměr z celé aktivity vs. per-lap data.**
 5. **Nepřidávat překážky bez důvodu** — když kritéria jsou splněna, jít dál.
 6. **Nepoužívat odhady, když jsou k dispozici změřená data.**
+7. **U easy běhů koukat na per-sekundová/per-km data, ne jen průměr** —
+   průměr 148 může schovat 10 min v Z3 (22.–23.9.).

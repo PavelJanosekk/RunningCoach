@@ -2,7 +2,7 @@
 
 ## Naměřené hodnoty
 
-### LTHR test (30min TT) — pondělí, ~7.9.2026
+### LTHR test (30min TT) — pondělí 31.8.2026
 **Protokol:** 15 min rozklus + 3 strides → 30 min max udržitelné úsilí → 10 min výklus
 
 | Metrika | Hodnota |
@@ -12,7 +12,7 @@
 | **Průměrné HR posledních 20:35** | **172 bpm = LTHR** |
 | Průměrné tempo posledních 20:35 | 4:51/km |
 | Převýšení | 34 m (net -18 m) |
-| Max HR během testu | 173 |
+| Max HR během testu | 181 (finiš v ~29. min) |
 
 **Km splity:**
 | km | Tempo | Δ elev |
@@ -30,9 +30,12 @@ Rozkolísané tempo výkon mírně zhoršilo, net převýšení ~neutrální.
 Prvních ~3 min HR data byla vadná (99 bpm = chyba senzoru).
 
 **Závěr: LTHR = 172, threshold tempo ≈ 4:50–4:55/km**
+(ověřeno ze Strava streamu 23.9.: průměr posledních 20 min = 172,0)
 
 ### Max HR
-- **Naměřeno minimum 181 bpm** (threshold session 18.9.2026)
+- **Naměřeno minimum 181 bpm** (finiš LTHR testu 31.8., threshold session 18.9.)
+- 182–183 se objevilo na easy/long bězích (29.8., 13.9.) při avg ~148–151
+  → nejspíš artefakty optického senzoru, nepočítat
 - Odhad: 185–190
 - **Netestováno a testovat se nedoporučuje** — pro trénink prakticky bezcenné,
   brutální protokol, riziko. LTHR je relevantní metrika.

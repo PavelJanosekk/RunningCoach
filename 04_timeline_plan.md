@@ -1,6 +1,6 @@
 # Timeline do maratonu 2.5.2027
 
-**Dnes:** 18.9.2026 → **32,5 týdne do závodu**
+**Aktualizováno:** 23.9.2026 → **~31,5 týdne do závodu**
 
 ## Přehled bloků
 
@@ -29,15 +29,16 @@
 
 ---
 
-## Blok: 19.–23.9.2026 (cutback, odlet 24.9.)
+## Blok: 19.–23.9.2026 (cutback, odlet 24.9.) — ✅ HOTOVO
 
 ```
-Po 21.  Volno
-Út 22.  Easy 6 km + 4 strides
-St 23.  Easy 5 km
+Ne 20.  Long run 16 km (nad plán, ale čistý, easy HR)
+Po 21.  Volno ✓
+Út 22.  Easy 6 km ✓ (bez strides, první 3 km moc rychle)
+St 23.  Easy 6,7 km + strides ✓ (první 3 km moc rychle)
 Čt 24.  Odlet
 ```
-~11 km. Žádná kvalita.
+Výchozí stav před pauzou: **~38 km/tý, long run 16 km, 4 běhy/tý.**
 
 ---
 
@@ -60,6 +61,20 @@ Pravidla:
 - První 3–4 dny jen 4–5 km (aklimatizace)
 - Plavání, chůze, hiking se počítají — nedoplňovat násilím
 - Bez gymu: 2× týdně 20 min bodyweight (dřepy, výpady, kliky, plank)
+- **Sopka / hike s velkým sestupem** (Slovinsko: 1900 m D+ = kolena na týden)
+  → den po něm neběhat, další běh jen krátký easy
+
+### Rozpis
+| Období | Běhy | Pozn. |
+|---|---|---|
+| Čt 24.–Ne 27.9. | 0–1× 4–5 km | let + jet lag (+5–6 h), aklimatizace. Chůze stačí. |
+| Po 28.9.–Ne 4.10. | 2× (5–6 km + 6–8 km) | HR ≤150, ráno. Volitelně 4 strides na konci jednoho běhu. + 2× bodyweight |
+| Po 5.–Ne 11.10. | 2–3× (6–8 km + 8–10 km) | 8–10 km = nejdelší běh pobytu, HR ≤150. + 2× bodyweight |
+| Po 12.10. | — | přílet |
+
+Cíl celkem ~30–40 km za pobyt. **Minimum 1 běh/týden** — i 1 běh drží adaptace.
+Žádný long run nad 10 km, žádná kvalita (v horku to nedává smysl — HR by
+thresholdu dosáhlo už při easy tempu).
 
 **Bonus:** tepelná aklimatizace zvyšuje objem plazmy → po návratu do chladu
 1–2 týdny nižší HR při stejném tempu.
@@ -70,11 +85,11 @@ Pravidla:
 
 | Týden | Datum | Kvalita | Long run | Objem |
 |---|---|---|---|---|
-| 1 | 13.–19.10. | strides only | 14 km | 35 km |
-| 2 | 20.–26.10. | strides only | 16 km | 42 km |
-| 3 | 27.10.–2.11. | 3× 1,5 km threshold | 18 km | 45 km |
-| 4 | 3.–9.11. | 4× 1,5 km | 19 km | 48 km |
-| 5 | 10.–16.11. | 2× 15 min | 20 km | 50 km |
+| 1 | 13.–19.10. | strides only | 12 km | ~28 km (70 %) |
+| 2 | 20.–26.10. | strides + 6–8× 45 s kopce | 15 km | ~35 km (90 %) |
+| 3 | 27.10.–2.11. | 3× 1,5 km threshold | 16–17 km | ~40 km (100 %) |
+| 4 | 3.–9.11. | 4× 1,5 km | 18 km | 44 km |
+| 5 | 10.–16.11. | 2× 15 min | 19–20 km | 48 km |
 | 6 | 17.–23.11. | 2× 18 min | 21 km | 52 km |
 | 7 | 24.–30.11. | **cutback** + retest LTHR | 15 km | 38 km |
 | 8 | 1.–7.12. | 2× kvalita/tý | 22 km | 55 km |
@@ -82,6 +97,24 @@ Pravidla:
 | 10 | 15.–21.12. | 2× kvalita/tý | 24 km | 55 km |
 
 **Týden 7: retest threshold** na ploché trati. Přenastavit zóny.
+
+**Týdny 1–3 upraveny 23.9.:** původně 35 → 42 → 45 km, což po 2,5 týdnu na
+~12–15 km/tý porušovalo vlastní návratový protokol (70 → 90 → 100 % výchozích
+~38 km) i pravidlo +10 %. Od týdne 6 je plán beze změny, cíle na prosinec
+(55 km, LR 22–24) platí.
+
+### Týden 1 po návratu (13.–19.10.) — konkrétně
+```
+Po 13.  Volno (let)
+Út 14.  Easy 5 km, HR ≤150
+St 15.  Easy 6 km + 4 strides
+Čt 16.  Volno
+Pá 17.  Easy 5 km
+So 18.  Volno / gym upper
+Ne 19.  Long run 12 km + gym lower odpoledne (lehce)
+```
+První dny doma bude HR při stejném tempu nižší (efekt tepelné aklimatizace) —
+**nezrychlovat kvůli tomu**, držet easy tempo podle HR a pocitu.
 
 ---
 

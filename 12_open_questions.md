@@ -24,6 +24,7 @@
 | Co | Status |
 |---|---|
 | **Max HR** | Netestováno. Min. 181 naměřeno. Odhad 185–190. Testovat se nedoporučuje. |
+| Fueling na long runech 13.9. (15 km) a 20.9. (16 km) | Neznámé — gel/voda? Doplnit do logu |
 | Klidové HR | Neměřeno |
 | VO2max | Neodhadnuto |
 | Přesný název maratonu | Pravděpodobně Praha (2.5.2027 = neděle) — NEPOTVRZENO |
@@ -59,4 +60,5 @@
 | Kolena po hikingu / lyžích | Sledovat, po velkém D+ snížit objem |
 | Kalorický deficit při rostoucím objemu | Od 45+ km přejít na maintenance |
 | Tendence přestřelovat intenzitu | Cílovat poslední rep, ne první; kontrolní splity na 500 m |
+| Přestřelování i na easy bězích (domácí trasa: první 3 km z kopce @ HR 158–166) | První 3 km vědomě brzdit, HR strop 153 |
 | Nedostatečný long run objem před 15.2.2027 | Do 15.2. musí být LR 22–24 km, objem 55–60 km |
