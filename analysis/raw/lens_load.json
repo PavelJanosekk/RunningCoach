@@ -1,0 +1,125 @@
+{
+ "summary": "Load management since the 8 May restart has mostly been good. Long-run steps have stayed at or below 1.12× the longest run of the previous 30 days since 12 July. The long run then held at 14–16 km for 9 weeks. The 34–39 km September block (weekly ACWR 1.17–1.29) was absorbed with stable long-run HR (steady-state 145.8–149.6), and there has been no running injury in 444 km. The only musculoskeletal episode (knees) came from hiking, not running. The main problems sit in the plan, not in what the athlete has done. The KB plan breaks its own rules: long-run share is 40–46 % in every build week against a ≤30–35 % rule, the long run sets a new record every week, and week 8 stacks three new stressors at once. Rest-day rules in 04, 08, 09 and 11 contradict each other. The peak marathon weeks start 7 days after an all-out half marathon. Returning from a trip has historically been the riskiest moment (EWMA acute:chronic 1.83 and 1.66 after Crete and Slovenia, each followed by a poor or aborted long-run phase). Run frequency is the real limit on capacity: 2.75 runs/week on average, 4 runs/week only in the last 3 weeks. So 55 km by December is realistic only with a 5th run, added as a single change in the week of 26.10. 68–70 km in April is plausible but should be treated as upside, not a requirement.",
+ "findings": [
+  {
+   "id": "LR-RULES",
+   "title": "The plan breaks its own long-run rules; change the rules, not the athlete",
+   "severity": "high",
+   "claim": "04:210 caps the long run at 30–35 % of the week. 05:100–101 allow +1–2 km every 2 weeks and no back-to-back records. The 04 plan has a long-run share of 40–46 % in every build week and sets a new long-run record almost every week. A 35 % cap cannot work with the plan's own targets: a 22–24 km long run needs 63–69 km/week, and 30–32 km needs 86–91 km/week. The athlete has run 36–57 % shares for months without a running injury. The better-supported risk metric is how much longer one run is than the longest run of the previous 30 days (Frandsen et al., BJSM 2025, ~5 200 runners: runs more than 10 % longer carried roughly 1.5–2× the injury rate; weekly ACWR was not predictive). By that metric the plan's long-run steps are fine (1.04–1.10×) except two.",
+   "evidence": "Plan model (a4.py) long-run share of the week: MB1 12/28 = 43 %, MB2 15/35 = 43 %, MB3 16.5/40 = 41 %, MB4 18/44 = 41 %, MB6 21/52 = 40 %, MB8–10 22–24/55 = 40–44 %, M1–M5 41–44 %, M8 31/68 = 46 %. Historical share (weekly.json): 49–57 % in Jun–Aug, 70 % in week 6.7.; 41/39/43 % in Sep. Long run vs longest of the previous 4 weeks, plan: MB2 15 vs 12 = 1.25×; JAN3 21–22 vs 18 = 1.17–1.22×; all other build weeks 1.04–1.10×.",
+   "recommendation": "Replace the percentage rule with 4 rules. (1) A long run is at most 1.10× (max +2 km) the longest run of the last 30 days. (2) Long-run share is a soft limit of about 45 %; if it goes above that, add a 5th run rather than cutting the long run. (3) Time cap: long run ≤2:30 h until February, ≤3:00–3:10 h in the marathon block. (4) After 2 long-run records in a row, hold or cut back. Keep 04:216 (no progression after a long run that did not go cleanly).",
+   "plan_change": "04:210 → replace with rules 1–4 above; 05:100–101 → replace with the '≤1.10× the longest run of the last 30 days' rule; MB2 (19.–25.10.) long run 15 → 14 km; January week 3 long run 20–22 → 20 km.",
+   "confidence": "high"
+  },
+  {
+   "id": "FREQ-5TH-RUN",
+   "title": "Run frequency, not fitness, limits volume; add a 5th run in the week of 26.10. as the only new stressor",
+   "severity": "high",
+   "claim": "The athlete has averaged 2.75 runs/week and ran 4 runs/week only in the 3 weeks before departure. On 4 runs, 55 km means 11 km weekday runs, about +53 % over current weekday runs. On 5 runs they only grow about +15 %. 55 km by December is realistic if 5 runs/week can be sustained around travel and weekends (01:26). 68–70 km in April is plausible but the least certain part of the plan.",
+   "evidence": "57 run days in 19 full weeks (4.5.–20.9.) = 2.75/week. Weeks by run count: 1 run ×2 (8.6. Crete, 29.6. Slovenia), 2 runs ×4 (4.5., 1.6., 6.7., 24.8.), 3 runs ×11, 4 runs ×3 (31.8., 7.9., 14.9.). Runs other than the long run in the 34–39 km weeks averaged 6.6 / 7.9 / 7.2 km. 55 km on 4 runs = 22 + 3×11 km; on 5 runs = 22 + 4×8.3 km. 70 km on 5 runs = 30 + 4×10 km. Chronic load (EWMA, 28 days) on 20.9. = 35.0 km/week. At MB8 the plan's 4-week average is about 48 km, +37 % in 10 weeks. Monthly km: 65.8 / 65.7 / 93.1 / 102.8 / 116.6 (Sep to 23.9.). Highest week ever: 38.6 km (7.–13.9.).",
+   "recommendation": "Weeks MB1–MB2: 4 runs. MB3 (26.10.–1.11.): add a 5 km easy run as the 5th; threshold 3×1.5 km is already familiar from 18.9., so it does not count as a new stressor. Then lengthen the other runs toward 7–8 km in December and 9–10 km in April. Stay at 5 runs; use 6 only if 5 feel easy and 70 km is really targeted. Weekly km / long run (Mon–Sun weeks):\n- 12.–18.10.: 26–28 / 12\n- 19.–25.10.: 32–34 / 14\n- 26.10.–1.11.: 38–40 / 16\n- 2.–8.11.: 42–44 / 17–18\n- 9.–15.11.: 46–48 / 19–20\n- 16.–22.11.: 50–52 / 20–21\n- 23.–29.11.: 36–38 / 14–15\n- 30.11.–6.12.: 50–52 / 21–22\n- 7.–13.12.: 55 / 22–23\n- 14.–20.12.: 55 / 23–24\n- Georgia: 10–15 km/week\n- 4.–10.1.: 32–35 / 14\n- 11.–17.1.: 42–45 / 18\n- 18.–24.1.: 48–52 / 20\n- Thailand: 18–25 km/week\n- 15.–21.2.: 42–45 / 18–20\n- 22.–28.2.: 50–52 / 22\n- 1.–7.3.: 55–58 / 24\n- 8.–14.3.: 58–62 / 26\n- 15.–21.3.: 60–65 / 28\n- 22.–28.3.: 45\n- Half-marathon week: 45–50\n- 5.–11.4.: 55–60 / 24–26\n- 12.–18.4.: 62–68 / 30–32\n- 19.–25.4.: taper about 45\n- Race week: 20–25 + marathon\nTreat 62–65 km as the base peak and 68 as upside, only if December and January pass without niggles.",
+   "plan_change": "Add to the main block: '5th run from week 3 (26.10.), 5 km easy'. In the marathon block, change peak volume to '62–68 km (68–70 only if Dec–Jan go cleanly)'.",
+   "confidence": "medium"
+  },
+  {
+   "id": "MB8-TRIPLE",
+   "title": "Week 30.11.–6.12. stacks three new stressors at once",
+   "severity": "high",
+   "claim": "Main-block week 8 goes from the cutback 38 km straight to 55 km, which is +45 % on the previous week and the highest week ever. It is also the first week with 2 quality sessions and a new long-run record of 22 km. That breaks 04:215 ('one change at a time'). It is the riskiest single week before Christmas.",
+   "evidence": "04:95 (week 8: '2× kvalita/tý | 22 km | 55 km') after 04:94 (cutback 38 km). Model: +45 % on the previous week. Before that the plan reaches 52 km only once (MB6). Chronic load on 23.9. was about 35 km/week (EWMA).",
+   "recommendation": "MB8: 50–52 km, 1 quality session + strides, long run 21–22 km. MB9: 55 km, add the 2nd quality session as a short one (hills 8–10×45–60 s or 20 min at HR 154–162). MB10: 55 km, long run 23–24 km only if the MB9 long run went cleanly; otherwise repeat 22.",
+   "plan_change": "04:95–97: week 8 = '1× kvalita + strides, LR 21–22, 50–52 km'; week 9 = '2. kvalita krátká (kopce / 20 min steady), LR 22–23, 55 km'; week 10 unchanged, but the long run is conditional.",
+   "confidence": "high"
+  },
+  {
+   "id": "REENTRY",
+   "title": "Returning from a trip has been the riskiest moment; use one protocol for all three trips",
+   "severity": "high",
+   "claim": "Both previous returns ran at high acute:chronic load, and both were followed by a problem. After Crete came a poor long run; after Slovenia the athlete ran a long run with knees still sore, and after it came 3 weeks with no long run (reason not recorded). The plan handles returns inconsistently. After Indonesia it prescribes strides only in week 1. After Georgia it puts threshold into the first week, right after 12 days of skiing at about 2 200 m. It also has two long-run jumps above 1.15×.",
+   "evidence": "Crete: 9-day gap 4.–13.6. (Samaria ~1 200 m descent). EWMA acute:chronic 1.83 on 20.6. The 11.64 km long run that day was 1.27× the longest run of the previous 30 days: avg HR 154.8, 45 min >153, walking (03:28–32). Slovenia: 8-day gap, hikes with ≥2 222 m gain. Ratio 1.66 on 12.7.: 14.07 km long run on day 7 with knees still felt (03:46), 15.81 km on 19.7. (1.12×). Then 20.7.–12.8.: 9 runs, none >7.4 km. Confounders: June heat, the fasted 20.6. run, only 2 cases. Plan: MB2 long run 1.25×; 04:138 threshold 3×1.5 km in January week 1; January week 3 long run 1.17–1.22×. Plan weekly ACWR ≥1.5 in MB1–2 (1.53/1.54), JAN2 (1.73), M1 (1.68).",
+   "recommendation": "One return protocol after every trip. Week 1: 70 % of volume, strides only. Week 2: 85–90 %, hills allowed. Week 3: 100 %, threshold back. Every return long run ≤1.10–1.15× the longest run of the last 30 days. Use weekly ACWR only as a secondary check. Before the first long run after a trip: stairs and single-leg squat must be pain-free. After Georgia: 4.–10.1. strides and hills only, threshold from 11.1.; long run on 24.1. = 20 km.",
+   "plan_change": "04:138: '3.–10.1. strides/kopce, LR 14, 32–35 km'; 04:139: threshold 3×1.5 km moves here; 04:140 long run 20 km. Add a 'return protocol' box under 04:27.",
+   "confidence": "medium"
+  },
+  {
+   "id": "POST-HM-PEAK",
+   "title": "The two peak weeks start 7 days after an all-out half marathon",
+   "severity": "high",
+   "claim": "04:162–164 puts 68 km with a 30–32 km long run including 8–12 km at marathon pace in the week right after the half-marathon race. The next week is 70 km with another 30 km marathon-pace long run. These would be the two biggest weeks ever. The first comes on legs that raced 21.1 km a week earlier.",
+   "evidence": "Model: HM week 50 km → 68 km = +36 % on the previous week. Long run 31 km = 1.11× the 28 km of 21.3. Two consecutive runs of 30+ km at marathon pace. The athlete's maximum before this block would be about 55–65 km.",
+   "recommendation": "5.–11.4.: 55–60 km, long run 24–26 km easy, no marathon pace (recovery from the half). 12.–18.4.: a single peak week of 62–68 km. Long run on 17./18.4. (14–15 days before the race): 30 km with 10–12 km at marathon pace; 32 km only if the 28 km on 21.3. went cleanly. Time cap about 3:00–3:10 h. Alternative: choose a half marathon around 21.–22.3. Taper as planned.",
+   "plan_change": "04:163: '5.–11.4. | recovery po HM, LR 24–26 easy | 55–60 km'; 04:164: '12.–18.4. | PEAK, LR 30(–32) s 10–12 km @MP | 62–68 km'.",
+   "confidence": "medium"
+  },
+  {
+   "id": "REST-DAYS",
+   "title": "Rest-day rules around the long run contradict each other; the data supports 1 rest day before and 1 after",
+   "severity": "medium",
+   "claim": "Four KB files give incompatible rules. 04:213 says 2 rest days before the long run. 08:113–118 says 2 after and 1 before is enough, and 08:120–122 then makes an exception of 2 before. Errata 11:30–37 says the day after the long run is rest and the day before is rest or a very short jog. Yet the templates at 04:177, 04:199 and 09:38 put an easy run on the Monday after the Sunday long run, which is exactly the error in 11:30. 09:43 allows a run the day before the long run (the error in 11:35). 05 says nothing on rest-day placement. With 5 runs/week, '2 before + 2 after' cannot be done anyway. What the athlete actually did (≥1 rest day on each side) works.",
+   "evidence": "All 10 long runs ≥10.5 km had ≥1 full rest day before and after. Rest days before: 1 day ×5, 2 days ×3, 3 days ×2. The two best long runs had only 1 rest day before, with a hard session 2–3 days earlier: 3.9. (steady-state HR 145.8, decoupling −4.3 %, 3 days after the LTHR test) and 20.9. (decoupling −2.4 %, 2 days after threshold on 18.9.). Long runs with 3 rest days before were not better: 13.9. decoupling +6.2 % (hilliest, 173 m gain); 19.7. 38.7 min >153 (July, 9:45 start). 04:183 and 09:44 put the lower-body gym on the long-run afternoon, while 09:115 names 'right after the quality session' as the ideal slot.",
+   "recommendation": "One rule: 1 rest day before and 1 after the long run. Quality may fall 2 days before. 5-run template for a Sunday long run: Mon rest | Tue Q1 (+ lower-body gym in the afternoon) | Wed easy 7–8 km | Thu easy 6 km + strides (+ upper) | Fri easy 5–6 km (Q2 from MB9) | Sat rest (upper gym OK) | Sun long run. Weekend-travel variant: Mon easy | Tue Q1 | Wed rest | Thu long run | Fri rest | Sat easy | Sun easy. Once the long run passes 18 km, move the heavy lower-body session off the long-run day.",
+   "plan_change": "Delete 04:213 and 08:120–122; rewrite the templates at 04:175–206 and 09:37–45 as above.",
+   "confidence": "high"
+  },
+  {
+   "id": "HIKES",
+   "title": "Hikes cost nothing aerobically but big descents cost about a week of knees; rules for Indonesian volcanoes",
+   "severity": "medium",
+   "claim": "Moderate hikes (≤~500 m) have had no measurable effect on the next runs. Big descents (≥1 200 m) were followed by poor long runs or knee soreness lasting about a week. Hike heart rates are low, so the cost is purely eccentric and mechanical. A big volcano in the last days of the trip would spill into the first week back (week from 12.10.).",
+   "evidence": "Samaria 8.6.: 22.08 km. Strava shows 587 m gain, but the gorge is essentially a ~1 200 m descent. Red Butterfly gorge 13.6. (439 m) followed, and the next long run (20.6.) was poor. Slovenia: 4.7. 9.29 km / 501 m, 5.7. 16.66 km / 1 721 m recorded (battery died; KB 03:38 says 22 km / 1 900 m). Knees sore about 1 week (03:40). First run 9.7. was fine (HR 142.2), but the 14.07 km long run on 12.7. was run with knees still felt. 8.8.: 16.3 km / 413 m, then 10.8. easy at HR 146.8 and a 15.04 km long run on 13.8., unaffected. Hike average HR 97–126.",
+   "recommendation": "Tier Indonesian hikes by descent. ≤800 m (Ijen / Bromo / Batur type): a normal day; an easy run the next day is OK if there is no soreness. ≥1 200 m (Agung / Rinjani type): counts as that week's long run. No running for 48 h, then ≤6 km easy on the flat, and no run >8 km for 5 days. Schedule any big volcano by about 4.10., not in the last 5 days before the flight home. Use poles and short steps on the descent. In the 2×/week bodyweight sessions add slow step-downs and split squats (3 s lowering) and single-leg calf raises. A small eccentric session protects against damage from a later big one (repeated-bout effect).",
+   "plan_change": "04:64–65: replace with the descent tiers above plus 'big volcano only in the first half of the trip'. 04:62: add eccentric step-downs and calf raises to the bodyweight sessions.",
+   "confidence": "medium"
+  },
+  {
+   "id": "ENERGY",
+   "title": "Energy availability will be low at 45–55 km if logged intake is correct; move to maintenance before 40 km, not at 45",
+   "severity": "medium",
+   "claim": "The logged (weighed) intake leaves low energy availability now, and it gets lower as volume rises. Low energy availability is the main modifiable risk factor for bone stress injury in male runners. The KB also contradicts itself: a 600–1 100 kcal/day deficit is not 'mild' and does not fit 'stable weight'. One of those two numbers is wrong.",
+   "evidence": "07:5 intake 1 800–2 000 kcal (weighed, 11:48–51). 07:66 TDEE 2 600–2 900 kcal. 01:7 says 'mild deficit, weight stable'. Running cost ≈1 kcal/kg/km × 83 kg: at 38 km/week ≈450 kcal/day, at 55 km ≈650, at 70 km ≈830. Fat-free mass is unknown (12:32); assuming ~68–73 kg, energy availability ≈20 → 18 → 15 kcal/kg fat-free mass/day, against a low-availability threshold of ~30. 07:70 switches to maintenance only at 45+ km (MB5, 9.11.).",
+   "recommendation": "Move to maintenance before the first week above 38 km (MB3, 26.10.). Targets: ≥2 500–2 600 kcal at 40–55 km, ≥2 800 kcal at 60–70 km, carbohydrate ≥5–6 g/kg on long-run and quality days. Track a weekly average of ≥3 morning weigh-ins. If weight falls more than 0.5 kg/week during the block, add 300 kcal.",
+   "plan_change": "07:70 'Od 45+ km/týden' → 'Od 26.10. (první týden nad 38 km)'; add 'weekly weigh-in average' as a check item in 12.",
+   "confidence": "low"
+  },
+  {
+   "id": "DOWNHILL",
+   "title": "Easy days start with a steep 500 m descent at faster than threshold pace, on cold legs",
+   "severity": "low",
+   "claim": "On the home loop the -5 % section around km 1.0–1.5 is run at 4:25–4:37/km on easy days, faster than threshold pace (4:50–4:55), within the first 6–7 minutes. That adds impact and eccentric load 2–3×/week, and it matters more once the athlete runs 5 times a week. HR lags by 2–3 min, so the HR cap of 153 in 03:156 cannot brake this section. On long-run days the athlete already controls it.",
+   "evidence": "From the streams: 16 runs start on the ~56 m home descent. First-3-km pace 4:54–5:31; monthly means Jul 5:14, Aug 5:10, Sep 5:19. km 1.0–1.5 (-5.3 %): 22.9. 4:29 / 4:25, 23.9. 4:37 / 4:31. The same section on long runs: 20.9. 5:18–5:25, 13.9. 5:03–5:26. Downhill (grade <-2 %) on 22.–23.9. was run at 4:44–4:47/km.",
+   "recommendation": "On the home loop, run the first 10 min at ≥5:45/km by pace and feel, ignoring HR, especially the steep 500 m after km 1. Alternatively, run the loop in reverse on 1–2 easy days per week.",
+   "plan_change": "03:156 / 12:63: add 'first 10 min ≥5:45/km by pace (HR lags), especially the steep section after km 1'.",
+   "confidence": "medium"
+  },
+  {
+   "id": "CALENDAR",
+   "title": "The autumn plan is one weekday off: 13.10.2026 is a Tuesday",
+   "severity": "low",
+   "claim": "The concrete schedule for the first week back labels 13.10. as Monday and 19.10. as Sunday. In reality the 'Sunday' 12 km long run falls on Monday 19.10. All main-block and January weeks in 04 run Tuesday to Monday, and '3.–11.1.' is 9 days long.",
+   "evidence": "Checked with Python datetime: 12.10.2026 = Mon (arrival, 04:73), 13.10. = Tue, 19.10. = Mon, 21.12. = Mon, 15.2.2027 = Mon, 2.5.2027 = Sun. 04:106–115 'Po 13. … Ne 19.'; 04:88–97 rows 13.–19.10. … 15.–21.12.; 04:138.",
+   "recommendation": "Re-index to Monday–Sunday weeks: MB1 = 12.–18.10. … MB10 = 14.–20.12. First week: Tue 13 easy 5 km (or rest if jet-lagged) | Wed 14 easy 6 km + 4 strides | Thu 15 rest | Fri 16 easy 5 km | Sat 17 rest | Sun 18 long run 12 km | Mon 19 rest.",
+   "plan_change": "04:88–97, 04:106–115 and 04:138–141: redo dates on Monday–Sunday weeks as above.",
+   "confidence": "high"
+  },
+  {
+   "id": "DATA-GAPS",
+   "title": "Load gaps: gym not logged, a July–August long-run pause unexplained, and the log misordered and incomplete",
+   "severity": "low",
+   "claim": "Several gaps make it impossible to audit load. The rest-day and leg-day rules cannot be checked, the one past injury-adjacent episode cannot be interpreted, and the KB log does not match Strava.",
+   "evidence": "Strava contains only one WeightTraining session (5.9.), so gym is not logged. 20.7.–12.8.: 9 runs, all ≤7.4 km, with aerobic efficiency (EF_gap) normal at 1.10–1.21, so probably not illness; reason unknown. 22.–27.8.: 5-day gap, reason unknown. KB 03:6 'Fáze 1 (cca červenec–srpen)' and 01:15 'restart ~červenec' are wrong; runs start 8.5. KB 03:52–56 'Blok 4' (13.18 km long run with gel) is 28.6.–1.7., before Slovenia, not after. 17 runs from 21.7. to 29.8., including long runs of 15.04 km (13.8.) and 15.17 km (20.8.), are missing from 03.",
+   "recommendation": "Log gym sessions in Strava with titles 'Lower' or 'Upper'. Add a 0–10 niggle score for knees, Achilles and shins to run notes. Ask the athlete why there were no long runs 20.7.–12.8. (knees after Slovenia? heat? schedule?). If it was the knees, the Slovenia-type hike rule becomes stricter. Backfill 03 from Strava.",
+   "plan_change": "",
+   "confidence": "high"
+  },
+  {
+   "id": "LR-MGMT-POSITIVE",
+   "title": "Long-run progression and the September block were handled well; keep this as the backbone",
+   "severity": "positive",
+   "claim": "Since mid-July, long-run steps have been conservative. The 16 km long run is a consolidated capacity, not a fresh record. The 3-week 34–39 km block with 1 quality session + 1 long run + easy runs was absorbed, with no sign of accumulating fatigue. The cutback before departure was right. There has been no running injury in 444 km since 8.5.",
+   "evidence": "Every long run since 12.7. was ≤1.12× the longest run of the previous 30 days: 1.07, 1.12, 0.95, 1.01, 0.92, 0.99, 1.07. Long runs held at 14–16 km for 9 weeks (15.81 km on 19.7. → 16.02 km on 20.9. = +1.3 %). September weekly ACWR 1.23 / 1.29 / 1.17, with the highest zone-weighted load so far (Z1×1…Z5×5: 451 / 507 / 532). Long-run steady-state HR 145.8 / 149.6 / 149.1 on 3.9. / 13.9. / 20.9. (13.9. hilliest). Long-run share fell from 49–57 % (Jun–Aug) to 39–43 %. Cutback week 21.–23.9. = 12.8 km.",
+   "recommendation": "Carry this pattern into the main block: 1 quality session, 1 long run, easy runs, and ≥1 rest day on each side of the long run. Because 16 km is consolidated, MB3's 16 km long run (26.10.–1.11.) is safe, and no extra 'base' weeks are needed after Indonesia (errata 11:14–18, 11:78).",
+   "plan_change": "",
+   "confidence": "high"
+  }
+ ]
+}

@@ -103,15 +103,15 @@ thresholdu dosáhlo už při easy tempu).
 ~38 km) i pravidlo +10 %. Od týdne 6 je plán beze změny, cíle na prosinec
 (55 km, LR 22–24) platí.
 
-### Týden 1 po návratu (13.–19.10.) — konkrétně
+### Týden 1 po návratu (12.–18.10.) — konkrétně
 ```
-Po 13.  Volno (let)
-Út 14.  Easy 5 km, HR ≤150
-St 15.  Easy 6 km + 4 strides
-Čt 16.  Volno
-Pá 17.  Easy 5 km
-So 18.  Volno / gym upper
-Ne 19.  Long run 12 km + gym lower odpoledne (lehce)
+Po 12.  Přílet, volno
+Út 13.  Easy 5 km, HR ≤150
+St 14.  Easy 6 km + 4 strides (+ odpoledne lower na ~50–60 % objemu)
+Čt 15.  Volno
+Pá 16.  Easy 5 km
+So 17.  Volno / gym upper
+Ne 18.  Long run 12 km
 ```
 První dny doma bude HR při stejném tempu nižší (efekt tepelné aklimatizace) —
 **nezrychlovat kvůli tomu**, držet easy tempo podle HR a pocitu.
