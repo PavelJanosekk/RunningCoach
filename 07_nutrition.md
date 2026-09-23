@@ -97,20 +97,36 @@ Maraton při 83 kg ≈ 3500 kcal, z toho ~570–740 g ze sacharidů. Bez
 **60–90 g/h** během závodu zásoby nestačí. Glykogen v horní polovině těla
 nohám nepomůže.
 
-**Trénink střeva — začít hned po návratu** (adaptace trvá týdny):
-| Období | LR | g/h |
-|---|---|---|
-| 12.10.–1.11. | 12–16 km | 30–40 (první gel ~40. min) |
-| 2.–22.11. | 17–21 km | 45–60 (gel každých 25–30 min od 30. min) |
-| Prosinec | 22–24 km | 60; testovat glukóza:fruktóza 2:1 a gel, který bude na trati |
-| Leden | 18–20 km | 60–75 |
-| Maratonský blok | 24–30 km | 60–90 i v MP úsecích; carb-load zkouška před PM a peak LR |
+**Trénink střeva** — střevo se adaptuje na **množství sacharidů/h, ne na
+formu** → do února levné zdroje, od března závodní gely (8–9 týdnů na
+zvyknutí žaludku na konkrétní produkt stačí).
+| Období | LR | g/h | Z čeho |
+|---|---|---|---|
+| do 1.11. | 12–16 km (<1:45 h) | 0–30 (volitelně) | voda / DIY iont |
+| 2.11.–prosinec | 17–24 km | 45–60 | DIY iont 500 ml + med / želé |
+| Leden–únor | 18–22 km | 60 | dtto, víc |
+| **Od března** | 24–30 km | 60–90 i v MP úsecích | **gely** (závodní produkt); carb-load zkouška před PM a peak LR |
+
+**Levné zdroje (do února):**
+| Zdroj | Sacharidy |
+|---|---|
+| **DIY iont:** 500 ml vody + 30–40 g cukru / maltodextrinu + špetka soli | 30–40 g (6–8 % = nejlepší vstřebávání) |
+| Med (lžíce / malá lahvička) | ~17 g / lžíce |
+| Gumoví medvídci / želé | ~75 g / 100 g (10 ks ≈ 20 g) |
+| Naředěný sirup | podle ředění |
+| Datle, banán | 15–25 g / ks (víc vlákniny, jen v easy tempu) |
+
+Cukr (sacharóza) = půl glukóza, půl fruktóza → stejná směs jako drahé gely
+pro vyšší dávky. Maltodextrin ve velkém balení = pár Kč na běh.
+**Příklad LR ≥17 km:** 500 ml DIY iontu (~40 g) + 10–15 medvídků nebo
+1–2 lžíce medu kolem 50.–60. min → ~45–60 g/h.
 
 Nad 60 g/h je potřeba směs glukóza + fruktóza. Gely nekonzumovat naráz,
 zapíjet (kromě isotonických). **Nikdy nic poprvé na závodě.**
 ✅ Gel otestován 1× (28.6.), žaludek OK.
 **Teď:** na LR žádné gely, vesta s ≤250 ml vody — do ~100 min stačí.
-Od LR ~17 km (>1:45 h) začít s gely podle tabulky a nosit ~500 ml.
+Od LR ~17 km (>1:45 h) začít se sacharidy podle tabulky (DIY iont, med,
+želé) a nosit ~500 ml; gely až od března.
 Maraton na 3:40–3:50 = ~3,7–3,9 h → fueling je ještě důležitější než při 3:30.
 
 **Fueling log:** u každého běhu ≥75 min jeden řádek do popisu na Stravě —

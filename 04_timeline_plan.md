@@ -132,7 +132,7 @@ Po návratu bude HR při stejném tempu 1–2 týdny nižší (aklimatizace) —
 | 1 | 12.–18.10. | 26–28 | 12 | strides | krevní test Čt 15.10.; ranní váha; registrace |
 | 2 | 19.–25.10. | 32–34 | 14 | strides + kopce 6–8× 45 s | |
 | 3 | 26.10.–1.11. | 38–40 | 16 | T 3× 1,5 km | **5. běh** (5 km easy) |
-| 4 | 2.–8.11. | 42–44 | 17–18 | T 4× 1,5 km / 3× 8 min | LR ≥18 km: 500 ml + gely; nohy už ne v den LR |
+| 4 | 2.–8.11. | 42–44 | 17–18 | T 4× 1,5 km / 3× 8 min | LR ≥17 km: 500 ml DIY iont + med/želé; nohy už ne v den LR |
 | 5 | 9.–15.11. | 46–48 | 19–20 | T 2× 12–15 min | |
 | 6 | 16.–22.11. | 50–52 | 20–21 | T 2× 15–18 min | |
 | 7 | 23.–29.11. | 36–38 | 14–15 | **retest 30 min (rovina)** | cutback; přepočet temp a zón |
@@ -143,8 +143,8 @@ Po návratu bude HR při stejném tempu 1–2 týdny nižší (aklimatizace) —
 Threshold = **4:55–5:05/km, HR na konci repu ≤168** (po retestu přepočítat).
 Q2 = kopce 8–10× 45–60 s nebo 20–25 min steady @ HR 154–162. **Žádný VO2max blok.**
 
-Fueling na LR: týdny 1–3 30–40 g/h · týdny 4–6 45–60 g/h · týdny 8–10 60 g/h
-(testovat glukóza:fruktóza a gel, který bude na trati).
+Fueling na LR: do LR 16 km nic nutné · od LR 17 km 45–60 g/h · prosinec 60 g/h.
+Do února levně (DIY iont, med, želé), **gely od března** (viz `07`).
 
 Výživa: ~2500 kcal je OK; zastavit růst váhy na ~85 kg a ladit podle
 7denního průměru (~2800–3000 kcal při 55 km). Posunout makra ke sacharidům — viz `07`.

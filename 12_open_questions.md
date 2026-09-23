@@ -9,7 +9,8 @@
 - [ ] Sacharidy podle tabulky v `07` (hlavně LR den a den před LR)
 - [ ] **Najít plochý okruh pro threshold** (a pro retest 23.–29.11.)
 - [ ] **Založit intervals.icu** (threshold pace 5:00, LTHR 172, zóny % LTHR)
-- [ ] Na LR ≥18 km (od 2.11.): ~500 ml + gely — větší láhev do vesty
+- [ ] Na LR ≥17 km (od 2.11.): ~500 ml DIY iont + med/želé — větší láhev
+      do vesty, maltodextrin nebo cukr; gely až od března
 - [ ] Boty přidat na Stravu; 2. pár Novablast 5 ~listopad/prosinec
 - [ ] Zvážit hrudní pás Polar H10 (intervaly, testy)
 - [ ] Silový program z `09` (soleus, plyo, **kyčle / gluteus medius**);
