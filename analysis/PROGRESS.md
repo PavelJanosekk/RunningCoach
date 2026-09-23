@@ -16,9 +16,11 @@ hledání protiargumentů) → kritika → syntéza do reportu. Bez subagentů.
 | 3 | Aerobní vývoj a reálnost cíle (aerobic) | ✅ | ✅ | ✅ | ✅ |
 | 4 | Kritika plánu do závodu (plan) | ✅ | ✅ | ✅ | ✅ |
 | 5 | Intenzita a provedení (intensity) | ✅ | ✅ | ✅ | ✅ |
-| 6 | Audit KB vs data, monitoring (audit) | ⬜ | ⬜ | ⬜ | ⬜ |
-| 7 | Finální kritika napříč oblastmi + TL;DR | ⬜ | | | |
+| 6 | Audit KB vs data, monitoring (audit) | ✅ | ✅ | ✅ | ✅ |
+| 7 | Finální kritika napříč oblastmi + TL;DR | ✅ | | | |
 
 ## Jak navázat po přerušení
 Otevři tento soubor, najdi první ⬜ a pokračuj. Ověřené nálezy každé oblasti
 jsou v reportu v její sekci; nic dalšího není potřeba.
+
+**Hotovo 23.9.2026.** Další krok: odsouhlasit návrhy a promítnout je do KB (04, 02, 03, 07, 08, 09, 12).

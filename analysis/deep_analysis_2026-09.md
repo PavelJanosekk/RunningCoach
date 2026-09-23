@@ -6,6 +6,28 @@ protiargumentů) a kritikou. Stav zpracování: `PROGRESS.md`.
 Navržené změny plánu jsou zatím **jen návrhy** — do `04_timeline_plan.md`
 se zapíšou až po odsouhlasení.
 
+
+## TL;DR — 8 nejdůležitějších bodů (podle dopadu na závod)
+1. **Sub-3:30 je dnes stretch, ne realita.** Forma ≈ VDOT 40–42, sub-3:30
+   potřebuje 44,6 (~30–40 % šance). Sub-3:20 vyřadit. Rozhodne retest
+   23.–29.11. (30 min ≤4:40 = na cestě) a **PM Praha 3.4.** (≤1:39 → jdi na 3:30).
+2. **Efektivita od července stojí, roste výdrž.** Další zlepšení přinese
+   objem: **5. běh od 26.10.**, 55 km v prosinci; peak 62–68 km, 70 = bonus.
+3. **"Threshold" běháš na 5K tempu.** Zpomal na 4:55–5:05/km, HR na konci
+   repu ≤168; 500 m za 2:28–2:32.
+4. **Jez víc, hlavně sacharidy.** Deficit podle KB 600–1100 kcal, sacharidy
+   ~1,3–2,6 g/kg. Maintenance od 13.10. (~2600–2800 kcal), sacharidy
+   periodizovat (3,5–7 g/kg), krevní test Čt 15.10.
+5. **Trénink střeva od října**, ne od března: 30–40 → 60–90 g/h.
+6. **Nejrizikovější jsou návraty z cest a dvojitý peak po PM.** Jednotný
+   návratový protokol 70/90/100 %, jeden peak 12.–18.4., LR 30 km.
+7. **Pravidla v KB si odporují** (volno kolem LR, % LR, šablony) → jedna sada:
+   LR ≤1,10× nejdelšího za 30 dní, 1 den volna před a po LR.
+8. **Co funguje — nesahat:** 444 km bez zranění, výdrž na LR (decoupling
+   −2 až −4 %), easy disciplína od července (80/20 splněno), spánek, protein.
+
+Revidovaná kostra plánu: sekce 4.6. Všechny změny jsou zatím návrhy.
+
 ---
 
 ## 1. Výživa, fueling, síla, regenerace
@@ -681,3 +703,108 @@ Přesně podle 05.
 | 03 / 12 poznámka o easy | "přestřelování, HR strop 153" | "2 běhy před odletem; cue prvních 10 min ≥5:45 podle tempa" | data 41 easy běhů |
 | 11 errata T1 | "10K pace / CV" | "podle HR threshold/CV, podle tempa ~5K" | VDOT |
 | 03 T1 hodnocení | "~9–10 min v zóně" | "14,7 min v 163–172 (HR lag), ale tempo 5K" | streamy |
+
+---
+
+## 6. Audit KB proti datům a monitoring
+
+### 6.1 🔴 Log je neúplný a fáze 1 špatně seřazená
+- V `03` chybí **22 běhů / 162 km** (celkem od 8.5. je 444 km):
+  - 27.5., 30.5. (Kodaň), 2.6., 4.6., 13.6. (Kréta) — ~27 km
+  - **21.7.–29.8.: 17 běhů, ~135 km** — celý měsíc vč. LR 15,04 km (13.8.)
+    a 15,17 km (20.8.)
+- "Blok 4 — long run s fuelingem" (28.6., 1.7.) proběhl **před** Slovinskem,
+  ne po bloku 3. Restart 8.5., ne "~červenec".
+
+**Správná chronologie fáze 1 (návrh náhrady v 03):**
+| Období | Obsah |
+|---|---|
+| 8.5.–4.6. | Blok 1: restart, 13 běhů 4,5–9 km (Kodaň 30.5.) |
+| 8.–13.6. | Kréta: Samaria 22 km (~1200 m sestup), 13.6. běh 4,85 km, túra 439 m |
+| 16.–25.6. | Blok 2: 5 běhů, LR 11,64 km 20.6. |
+| 26.6.–1.7. | Plavání, **LR 13,19 km s gelem 28.6.**, 7,03 km |
+| 4.–5.7. | Slovinsko: 9,3 km / 501 m, 16,7 km / 1721 m (baterie; reálně ~22 km / 1900 m) |
+| 9.–19.7. | Blok 3: 5 běhů, LR 14,07 a **15,81 km** |
+| 21.7.–10.8. | 10 easy běhů 5–7,4 km, **žádný LR 3,5 týdne** (důvod?); túra 8.8. 16 km / 413 m |
+| 13.–29.8. | LR 15,04 (13.8.), 15,17 (20.8.), 10,63 (29.8.); díra 22.–27.8. |
+| od 31.8. | Fáze 2 (už přesně v logu) |
+
+### 6.2 🟡 Rozpory mezi soubory (souhrn z celé analýzy)
+| Téma | Rozpor | Řešení |
+|---|---|---|
+| Volno kolem LR | 04 / 08 / 09 / errata — 4 verze | 1 před + 1 po (2.6) |
+| Týdenní šablony | 04 a 09 porušují errata (běh po LR / před LR) | jednotná šablona (2.6) |
+| Podíl LR | ≤30–35 % vs cíle plánu | ≤1,10× nejdelšího za 30 dní (2.1) |
+| Threshold tempo | 02 4:50–4:55, 10 intervals.icu 4:53 | 4:55–5:05 do retestu; intervals.icu na 5:00 |
+| Zóny | Z4 do 172, Z5 od 175 → 173–174 nikde | Z5 ≥173 |
+| Maintenance | 07 "od 45 km", 12 "od 45 km" | od 13.10. (1.1) |
+| Fueling | 12 "od 8.3.2027" | od 13.10.2026 (1.3) |
+
+### 6.3 🟡 Zastaralé věci
+- 00/01: restart, "rychlá adaptace", −20 bpm (3.2).
+- 12: "Přesný název maratonu — NEPOTVRZENO" → Praha 2.5.2027, PM Praha So 3.4.2027.
+- 12: "Klidové HR — neměřeno" → Galaxy Watch 6 měří v noci; jen se nezapisuje.
+
+### 6.4 🟡 Co chybí pro koučování (a jde snadno sbírat)
+| Co | Jak | Proč |
+|---|---|---|
+| Ranní váha | denně, 7denní průměr | energie (1.1), glykogen vs tuk |
+| Klidová HR / HRV | Samsung Health, týdenní průměr do logu | únava, nemoc, LEA |
+| RPE 1–10 | pole "Perceived exertion" na Stravě (API ho umí stáhnout) | HR neřekne všechno |
+| Fueling | 1 řádek do popisu běhů ≥75 min (1.4) | trénink střeva |
+| Gym | aktivita na Stravě "Upper"/"Lower" | kontrola pravidel pro nohy |
+| Bolest 0–10 | kolena/Achilovka/holeně do popisu | včasné varování |
+| Boty | přidat na Stravu (teď `gear_id` = nic) | nájezd km, závodní bota |
+
+### 6.5 ✅ Senzor HR je na klidný běh v pořádku
+- 56 běhů s HR: medián 0 skoků (>20 bpm za 5 s), max 5; žádné výpadky na
+  začátku.
+- Izolovaná maxima: 19.7. (181), 29.8. (183), 13.9. (182) = artefakty.
+  **Max HR ≥181 je reálné** (držené ~40 s na konci testu 31.8.).
+- Hrudní pás (Polar H10) má smysl hlavně na **intervaly a testy** (zpoždění
+  v krátkých repech), na easy stačí zápěstí.
+
+### Navržené změny KB (audit)
+| Soubor | Změna |
+|---|---|
+| 03 fáze 1 | nahradit chronologií z 6.1, doplnit 22 chybějících běhů |
+| 01:15, 00 | restart 8.5.2026 |
+| 02 zóny | Z5 ≥173 |
+| 10 intervals.icu | threshold pace 5:00 |
+| 12 | termíny závodů potvrzené; klidová HR měřitelná; přidat monitoring z 6.4 |
+| CLAUDE.md | při "aktualizuj log" stáhnout i RPE a popis aktivity |
+
+---
+
+## 7. Závěrečná kritika napříč oblastmi
+
+### 7.1 Rozpory a jak jsou vyřešené
+| Mezi | Rozpor | Rozhodnutí |
+|---|---|---|
+| Výživa × Zátěž | maintenance od 13.10. vs od 26.10. | **od 13.10.** (Indonésie = maintenance tak jako tak) |
+| Zátěž × vlastní protokol | po Thajsku 42–45 km vs 70 % | **35–38 km** (4.5) |
+| Můj log dnes × data | "přestřelování na easy" vs 41 běhů | ojedinělé; cue podle tempa (5.2) |
+| Plán × Aerobní vývoj | threshold 4:50–4:55 vs VDOT 40–42 | **4:55–5:05** (5.3) |
+| Aerobní × Zátěž | plató vs "nepřidávat base" | obojí platí: žádné extra base týdny, ale 5. běh (3.1, 2.2) |
+
+### 7.2 Co žádná oblast nepokryla
+- **Taktika závodu:** tvoje největší závodní riziko je přestřelený začátek
+  (vzorec z thresholdů). Plán: prvních 5 km o 5–10 s/km pomaleji než cíl,
+  pak rovnoměrně; **nacvičit na PM 3.4.** (prvních 5 km záměrně pomaleji).
+- **Teplo v den závodu:** při >15 °C počítat s +1–3 min; rozhodnout ráno.
+- **Boty:** závodní bota (karbon) dává ~1–3 %. Vybrat do února, naběhat
+  v MP úsecích v březnu a na PM, ne poprvé v závodě. Nájezd bot nesledován.
+- **Nemoci v zimě a na cestách:** cutback místo "dohánění" (pravidlo v 04 platí).
+
+---
+
+## Otázky pro tebe (mění doporučení)
+1. Gel/voda na LR 13.9. a 20.9.?
+2. Kde v Indonésii budeš a plánuješ sopky (která, kdy)?
+3. Proč nebyl LR 21.7.–10.8. a pauza 22.–27.8. (kolena po Slovinsku? horko? čas?)
+4. Reálný příjem **včetně víkendů** a vývoj váhy za 2–3 měsíce? Výška / % tuku?
+5. Gym: kolikrát týdně reálně a které dny?
+6. Boty: model, nájezd, plán na závodní botu?
+7. Vidíš v Samsung Health noční klidovou HR / HRV?
+8. Jak moc ti jde o 3:30 vs. silný dokončený maraton (ovlivňuje, kolik riskovat)?
+9. Registrace na PM 3.4. a maraton 2.5. — hotovo?
