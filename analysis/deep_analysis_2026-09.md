@@ -502,3 +502,95 @@ v Z4 (≥163), je cílové tempo příliš rychlé.
 | 01 profil | restart ~červenec, "rychlá adaptace", −20 bpm | restart 8.5.; rychlá re-adaptace květen–červen, pak plató | data |
 | 03 trendy | "~40 s/km za 10 týdnů" | "~24 s/km květen–červenec, od července plató; roste výdrž" | data |
 | 04 MP bloky | 4:58 | podle aktuální predikce, cíl až po PM | nejet MP rychleji než forma |
+
+---
+
+## 4. Plán do závodu — kritika a revidovaná kostra
+
+**Verdikt:** struktura plánu (bloky podle cest, retest v listopadu, PM jako
+generálka, taper) je dobrá. Změny: sjednotit pravidla (sekce 2), zpomalit
+"threshold" (sekce 3), zrušit dvojitý peak po PM, nepřecenit objem a
+nepřidávat VO2max blok. Kalendář přeindexovat na týdny po–ne.
+
+### 4.1 ✅ Termíny ověřeny
+- **Vodafone Prague Marathon: neděle 2.5.2027** (závodní víkend 1.–2.5.) ✓
+- **Generali Prague Half Marathon: sobota 3.4.2027** — přesně v okně
+  29.3.–4.4., 29 dní před maratonem ✓
+- RunCzech zdražuje startovné postupně a PM bývá vyprodaný →
+  **registrovat oba závody hned po návratu (říjen)**.
+- Trať maratonu: rovina, místy dlažba; začátek května v Praze bývá 15–25 °C —
+  nad ~15 °C počítat s pomalejším časem (řeší finální taktika).
+
+### 4.2 🔴 Kritická poznámka v plánu je nesplnitelná
+04: "Do 15.2.2027 musí být objem 55–60 km/tý, LR 22–24 km". 15.2. je den po
+návratu z Thajska — tou dobou budeš po 2,5 týdnu na ~20 km/tý.
+**Přepsat:** "Do 20.12. dosáhnout 55 km a LR 23–24; v lednu znovu ~50 km a
+LR 20; po Thajsku návrat 70 → 90 → 100 %."
+
+### 4.3 🔴 Kvalita: správná tempa a žádný VO2max blok
+- Threshold repy jet **~4:55–5:05/km, HR na konci repu ≤168** (ne 4:50–4:55
+  a už vůbec ne 4:22–4:47). Po listopadovém retestu přepočítat.
+- Progrese thresholdu (hlavní blok): 3×1,5 km → 4×1,5 km / 3×8 min →
+  2×12–15 min → 2×15–18 min → 2×18 min / 25 min souvisle.
+- **VO2max blok (06 "blok C+") vypustit.** Pro první maraton kolem 3:30
+  rozhoduje threshold, MP výdrž a objem. Vysokou intenzitu stejně dostáváš
+  z kopců, strides a z přirozeného přestřelování. 2. kvalita = kopce
+  8–10× 45–60 s nebo 20–25 min steady @ HR 154–162, v maratonském bloku MP.
+- MP bloky jet podle **aktuální predikce** (teď ~5:15–5:25), cílové 4:58 až
+  když ho potvrdí data (3.5).
+
+### 4.4 🟡 Maratonský blok: dost dlouhých běhů, jen jinak rozložených
+S pravidlem ≤1,10× nejdelšího za 30 dní vychází LR: 16 → 20–22 → 22 → 24 →
+26 → 28 → (cutback) → PM → 24–26 → **30**. Tři běhy ≥26 km + PM je pro první
+maraton s peakem 62–68 km dostatečné. 32 km jen pokud 28 km 21.3. proběhne čistě.
+
+### 4.5 🟡 Po Thajsku nejdřív 70 %, ne 42–45 km
+Sekce 2 navrhuje 15.–21.2. 42–45 km, ale vlastní návratový protokol dává
+70 % z ~50 km = ~35 km. **Kritika: platí protokol** → 35–38 km, LR 16.
+
+### 4.6 Revidovaná kostra plánu (týdny po–ne) — sloučení sekcí 1–4
+| Týden | Kde | km | LR | Kvalita | Pozn. |
+|---|---|---|---|---|---|
+| 24.9.–11.10. | 🇮🇩 | 10–20/tý | ≤10 | — | HR ≤150, sweat test, sopky do ~4.10., maintenance |
+| 12.–18.10. | doma | 26–28 | 12 | strides | krevní test Čt 15.10., audit jídla, registrace |
+| 19.–25.10. | | 32–34 | 14 | strides + kopce | fueling 30–40 g/h |
+| 26.10.–1.11. | | 38–40 | 16 | T 3×1,5 km | **5. běh** (5 km easy) |
+| 2.–8.11. | | 42–44 | 17–18 | T 4×1,5 km / 3×8 min | vesta; fueling 45–60 g/h |
+| 9.–15.11. | | 46–48 | 19–20 | T 2×12–15 min | |
+| 16.–22.11. | | 50–52 | 20–21 | T 2×15–18 min | |
+| 23.–29.11. | | 36–38 | 14–15 | **retest 30 min (rovina)** | cutback; přepočet zón/temp |
+| 30.11.–6.12. | | 50–52 | 21–22 | 1 Q + strides | ne 3 změny najednou |
+| 7.–13.12. | | 55 | 22–23 | T + Q2 kopce/steady | fueling 60 g/h |
+| 14.–20.12. | | 55 | 23–24 | T + Q2 | LR 24 jen po čistém 22–23 |
+| 21.12.–3.1. | 🇬🇪 | 10–15/tý | — | — | lýtka/soleus 2–3× 10 min, ne těžký gym |
+| 4.–10.1. | doma | 32–35 | 14 | strides + kopce | návrat 70 % |
+| 11.–17.1. | | 42–45 | 18 | T 3×1,5 km | |
+| 18.–24.1. | | 48–52 | 20 | T 2×15 min | |
+| 25.–27.1. | | lehce | — | — | odlet 28.1. |
+| 28.1.–14.2. | 🇹🇭 | 18–25/tý | 12–14 | — | stejně jako Indonésie |
+| 15.–21.2. | doma | 35–38 | 16 | strides + kopce | návrat 70 % |
+| 22.–28.2. | | 44–46 | 20 | T lehce | |
+| 1.–7.3. | | 50–52 | 22 | T | |
+| 8.–14.3. | | 55–58 | 24 | T + MP úvod | LR posl. 4–6 km @ MP |
+| 15.–21.3. | | 58–62 | 26–28 | T + MP | kofein test |
+| 22.–28.3. | | ~45 | 18 | lehce | cutback |
+| 29.3.–4.4. | | ~45 | **PM So 3.4.** | PM naostro | carb-load zkouška; **finální cíl** |
+| 5.–11.4. | | 55–60 | 24–26 easy | — | regenerace po PM, žádné MP |
+| 12.–18.4. | | 62–68 | **30 (10–12 @ MP)** | T krátce | jediný peak; LR 17./18.4. |
+| 19.–25.4. | | ~45 | 18–20 | MP krátce | taper; poslední těžký lower ~22.4. |
+| 26.4.–2.5. | | 20–25 | **🏁 Ne 2.5.** | strides | carb-load 36–48 h |
+
+Pravidla k tabulce: LR ≤1,10× nejdelšího za 30 dní; nečistý LR → opakovat;
+1 den volna před a po LR; jedna nová věc týdně; 68 km jen pokud prosinec–leden
+bez problémů.
+
+### Navržené změny plánu (souhrn sekce 4)
+| Co | Teď | Navrhuji | Proč |
+|---|---|---|---|
+| Kritická poznámka 1 | 55–60 km do 15.2. | 55 km do 20.12., po Thajsku návrat | 15.2. = den po návratu |
+| Threshold tempo | 4:50–4:55 | ~4:55–5:05, HR konec repu ≤168 | VDOT 40–42 (sekce 3) |
+| VO2max blok C+ | 2. kvalita VO2/kopce/MP | kopce/steady, pak MP; VO2 vypustit | priorita T, MP, objem |
+| Po Thajsku | 45 km, LR 20 | 35–38 km, LR 16 | návratový protokol |
+| Peak | 2 týdny 68/70 km po PM | 1 týden 62–68 km, LR 30 | sekce 2.5 |
+| Termíny | "pravděpodobně Praha" | Praha 2.5., PM Praha So 3.4. | ověřeno |
+| Kalendář | týdny út–po | týdny po–ne | 13.10. je úterý |
