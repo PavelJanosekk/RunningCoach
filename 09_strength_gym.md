@@ -23,7 +23,7 @@ Těžký silový trénink + plyometrie zlepšují running economy o ~2–8 %
 **Teď (3–4×/tý):** Út pull · St push · So upper · Ne lower (po LR). OK, dokud
 je LR ≤16–17 km a lehký.
 
-**Od 2.11. (LR ≥18 km, 5 běhů):**
+**Od 9.11. (5 běhů; lower na úterý od LR 17–18 km, ~22.11.):**
 ```
 Po  volno → PULL
 Út  KVALITA ráno → TĚŽKÝ LOWER odpoledne (hard day hard)

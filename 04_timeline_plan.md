@@ -1,6 +1,7 @@
 # Timeline do maratonu 2.5.2027
 
-**Aktualizováno:** 23.9.2026 → **~31,5 týdne do závodu**
+**Aktualizováno:** 15.10.2026 (návrat z Indonésie, hlavní blok posunut o ~1 týden)
+→ **~28,5 týdne do závodu**
 **Závody:** Generali Prague Half Marathon **So 3.4.2027** · Vodafone Prague
 Marathon **Ne 2.5.2027** (ověřeno na runczech.com). Registrovat oba v říjnu
 (startovné roste, PM se vyprodává).
@@ -15,7 +16,7 @@ Všechny týdny jsou **po–ne**.
 
 | Období | Kde | Náplň |
 |---|---|---|
-| 24.9.–11.10.2026 | 🇮🇩 Indonésie | udržovací, HR ≤150 |
+| 24.9.–11.10.2026 | 🇮🇩 Indonésie | udržovací — reálně 1 běh ~7 km + 15–25 tis. kroků/den |
 | 12.10.–20.12. | doma | ⭐ **HLAVNÍ BLOK** (10 týdnů) |
 | 21.12.–3.1.2027 | 🇬🇪 Gruzie (lyže, ~2200 m) | udržovací |
 | 4.–27.1. | doma | návrat + objem |
@@ -23,7 +24,8 @@ Všechny týdny jsou **po–ne**.
 | 15.2.–2.5. | doma | ⭐ **MARATONSKÝ BLOK** (11 týdnů) |
 
 ## ⚠️ Kritické poznámky
-1. **Do 20.12. dosáhnout 55 km/tý a LR 23–24 km.** 12.10.–20.12. je jediný
+1. **Do 20.12. dosáhnout ~55 km/tý a LR ~22 km** (původně 23–24; posun o týden
+   po Indonésii). 12.10.–20.12. je jediný
    dlouhý nepřerušený blok roku.
 2. **V lednu znovu ~50 km a LR 20**, po Thajsku návrat 70 → 90 → 100 %.
 3. **Nikdy nedohánět po návratu.** Návraty z cest jsou historicky
@@ -62,7 +64,15 @@ Výchozí stav před pauzou: **~38 km/tý, LR 16 km, 4 běhy/tý.**
 
 ---
 
-## Blok: Indonésie 24.9.–11.10.2026
+## Blok: Indonésie 24.9.–11.10.2026 — ✅ HOTOVO
+
+**Realita:** kvůli programu a cestování jen 1 běh (~7 km, ~6:30, s pauzami;
+zatím nesyncnuto na Stravu), ale většinu dní 15–25 tis. kroků + sopky.
+= aktivní odpočinek, ne pauza: aerobní základ držel, chyběl běžecký náraz
+(lýtka, Achilovka, kosti, bok). → Návrat od 70 % (návratový protokol),
+LR max +2 km/týden zpět na 16 km. Nohy svěží = riziko přestřelit, ne důvod přidat.
+
+**Původní plán:**
 
 **Cíl: 2 běhy/týden, 6–10 km, oba easy. Minimum 1 běh/týden.**
 Podmínky: 28–32 °C, vlhkost 75–85 % → HR +15–20 při stejném tempu.
@@ -129,16 +139,20 @@ Po návratu bude HR při stejném tempu 1–2 týdny nižší (aklimatizace) —
 
 | Týden | Datum | km | LR | Kvalita | Pozn. |
 |---|---|---|---|---|---|
-| 1 | 12.–18.10. | 26–28 | 12 | strides | krevní test Čt 15.10.; ranní váha; registrace |
-| 2 | 19.–25.10. | 32–34 | 14 | strides + kopce 6–8× 45 s | |
-| 3 | 26.10.–1.11. | 38–40 | 16 | T 3× 1,5 km | **5. běh** (5 km easy) |
-| 4 | 2.–8.11. | 42–44 | 17–18 | T 4× 1,5 km / 3× 8 min | LR ≥17 km: 500 ml DIY iont + med/želé; nohy už ne v den LR |
-| 5 | 9.–15.11. | 46–48 | 19–20 | T 2× 12–15 min | |
-| 6 | 16.–22.11. | 50–52 | 20–21 | T 2× 15–18 min | |
-| 7 | 23.–29.11. | 36–38 | 14–15 | **retest 30 min (rovina)** | cutback; přepočet temp a zón |
-| 8 | 30.11.–6.12. | 50–52 | 21–22 | 1× T + strides | ne 3 změny najednou |
-| 9 | 7.–13.12. | 55 | 22–23 | T + Q2 (kopce / 20 min steady) | |
-| 10 | 14.–20.12. | 55 | 23–24 | T + Q2 | LR 24 jen po čistém 22–23 |
+| 1 | 12.–18.10. | ~12 | 7–8 | nic | návrat + rýma (jen nad krkem); krevní test odložen |
+| 2 | 19.–25.10. | 26–28 (70 %) | 10 | strides | 1. lower na ~50 % (St 21.10.); registrace |
+| 3 | 26.10.–1.11. | 32–34 (85–90 %) | 12 | strides + kopce 6–8× 45 s | krevní test Čt 29.10. (nebo Čt 5.11.) |
+| 4 | 2.–8.11. | 38–40 (100 %) | 14 | T 3× 1,5 km | |
+| 5 | 9.–15.11. | 42–44 | 16 | T 4× 1,5 km | **5. běh** (5 km easy) |
+| 6 | 16.–22.11. | 46–48 | 17–18 | T 2× 12–15 min | LR ≥17 km: 500 ml DIY iont + med/želé; nohy už ne v den LR |
+| 7 | 23.–29.11. | ~35 | 13–14 | **retest 30 min (rovina)** | cutback; přepočet temp a zón |
+| 8 | 30.11.–6.12. | 50 | 19–20 | 1× T + strides | ne 3 změny najednou |
+| 9 | 7.–13.12. | 52–54 | 21 | T + Q2 (kopce / 20 min steady) | |
+| 10 | 14.–20.12. | 55 | 22 | T + Q2 | LR 22 jen po čistém 21 |
+
+Přepracováno 15.10.: v Indonésii 1 běh místo 2/týden → start na 70 %
+(návratový protokol), vše o ~1 týden později. Cíl k 20.12. ~55 km / LR ~22
+místo 23–24 — pro maraton zanedbatelné (v lednu se staví ~50 km / LR 20).
 
 Threshold = **4:55–5:05/km, HR na konci repu ≤168** (po retestu přepočítat).
 Q2 = kopce 8–10× 45–60 s nebo 20–25 min steady @ HR 154–162. **Žádný VO2max blok.**
@@ -149,16 +163,26 @@ Do února levně (DIY iont, med, želé), **gely od března** (viz `07`).
 Výživa: ~2500 kcal je OK; zastavit růst váhy na ~85 kg a ladit podle
 7denního průměru (~2800–3000 kcal při 55 km). Posunout makra ke sacharidům — viz `07`.
 
-### Týden 1 po návratu (12.–18.10.) — konkrétně
+### Návrat 15.–25.10. — konkrétně
+Rýma jen nad krkem (nos, hlen v nose/krku) → běh OK, jen easy HR ≤150, bez
+strides, dokud neodezní. Hlen z plic / kašel z hrudi / teplota / bolest svalů
+→ volno (`08`). Po 10 min hůř → domů; druhý den hůř → 2 dny volno.
+Horečka do ~25.10. → lékař, zmínit Indonésii (dengue), jen paracetamol.
 ```
-Po 12.  Přílet, volno
-Út 13.  Easy 5 km, HR ≤150 (nebo volno při jet lagu)
-St 14.  Easy 6 km + 4 strides (+ odpoledne lower na ~50–60 % objemu)
-Čt 15.  Volno — ráno krevní test nalačno
-Pá 16.  Easy 5 km
-So 17.  Volno / gym upper
-Ne 18.  Long run 12 km
+Čt 15.  Volno (krevní test odložen — infekce zvedá feritin a CRP)
+Pá 16.  Easy 5 km, HR ≤150
+So 17.  Volno (upper jen lehce)
+Ne 18.  Easy 7–8 km (podle rýmy, jinak 5–6; místo LR 12)
+Po 19.  Volno
+Út 20.  Easy 5 km + 4–6 strides (až bez rýmy)
+St 21.  Easy 7 km (+ odpoledne 1. lower na ~50 % objemu)
+Čt 22.  Volno / mobilita
+Pá 23.  Easy 5 km
+So 24.  Volno + upper
+Ne 25.  Long run 10 km
 ```
+Nohy budou svěží → prvních 10 min ≥5:45/km, HR ≤150, objem nepřidávat.
+První 2 týdny nesrovnávat efektivitu (HR zkreslená návratem a horkem).
 
 ---
 
@@ -214,7 +238,7 @@ Stejný režim jako Indonésie: 2–3 běhy/týden (18–25 km/tý), 1× delší
 
 ## Týdenní šablony (LR v neděli)
 ```
-            Teď (4 běhy, LR ≤17 km)           Od 2.11. (5 běhů, LR ≥18 km)
+            Teď (4 běhy, LR ≤17 km)           Od 9.11. (5 běhů, LR 16+ km)
 Po  volno                                 volno + PULL
 Út  KVALITA + PULL                        Q1 + TĚŽKÝ LOWER odpoledne
 St  easy + PUSH                           easy 7–8 km + PUSH
@@ -225,7 +249,7 @@ Ne  LONG RUN + LOWER odpoledne            LONG RUN
 ```
 - Tvůj současný split (Út pull, St push, So upper, Ne lower) je OK, dokud
   je LR ≤16–17 km a lehký. Od LR 18 km přesunout lower na úterý po kvalitě.
-- 5. běh (od 26.10.) = čtvrtek.
+- 5. běh (od 9.11.) = čtvrtek.
 - **Varianta při víkendovém cestování:** Po easy | Út Q1 | St volno | Čt LR |
   Pá volno | So easy | Ne easy.
 - Recovery běh (Z1, ≤137, 30–40 min) až od 5 běhů / 55+ km.

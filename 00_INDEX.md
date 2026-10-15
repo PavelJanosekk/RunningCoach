@@ -1,11 +1,11 @@
 # Knowledge Base: Marathon Training
 
-**Vytvořeno:** 18.9.2026 · **Aktualizováno:** 23.9.2026 (deep analýza všech dat)
+**Vytvořeno:** 18.9.2026 · **Aktualizováno:** 15.10.2026 (návrat z Indonésie, plán posunut o ~1 týden)
 **Cílový závod:** Vodafone Prague Marathon, **neděle 2.5.2027**
 **Generálka:** Generali Prague Half Marathon, **sobota 3.4.2027**
 **Cíl:** A = **3:40–3:50**, B = sub-4:00 (jistota), 3:30 bonus; dlouhodobě
 zlepšovat rychlost. Závodní tempo podle PM 3.4.
-**Aktuální fáze:** Indonésie 24.9.–11.10. (udržovací), hlavní blok od 12.10.
+**Aktuální fáze:** návrat po Indonésii (od 70 %), hlavní blok do 20.12.
 
 ## Obsah
 | Soubor | Obsah |
@@ -29,7 +29,7 @@ zlepšovat rychlost. Závodní tempo podle PM 3.4.
 - 188 cm / 85 kg / ~15 % tuku, ~2500 kcal — žádný deficit
 - Easy = **138–153 bpm**, 5:45–6:15/km; prvních 10 min ≥5:45 podle tempa
 - Threshold repy = **4:55–5:05/km, konec repu HR ≤168** (ne 4:50)
-- Objem před Indonésií: **34–39 km/týden**, 4 běhy · od 26.10. 5 běhů
+- Objem před Indonésií: **34–39 km/týden**, 4 běhy · od 9.11. 5 běhů
 - Long run max: **16,02 km** (20.9.2026) · pravidlo LR ≤1,10× nejdelšího za 30 dní
 - Od restartu 8.5.2026: 444 km; jediný problém mírná bolest z boku
   hýždě/stehna v červenci (odeznělo)

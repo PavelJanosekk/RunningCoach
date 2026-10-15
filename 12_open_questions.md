@@ -1,20 +1,22 @@
 # Otevřené otázky a TODO
 
-## Po návratu z Indonésie (12.–26.10.)
+## Po návratu z Indonésie (15.10.–8.11.)
+- [ ] **Doplnit indonéský běh (~7 km, ~6:30) do logu** po syncu hodinek se Stravou
 - [ ] **Registrace:** Generali Prague Half Marathon So 3.4.2027 + Vodafone
       Prague Marathon Ne 2.5.2027 (startovné roste, PM se vyprodává)
-- [ ] **Krevní test Čt 15.10. ráno nalačno** (KO, ferritin, saturace
-      transferinu, 25(OH)D, CRP)
+- [ ] **Krevní test Čt 29.10. (nebo Čt 5.11.) ráno nalačno** (KO, ferritin,
+      saturace transferinu, 25(OH)D, CRP) — odloženo z 15.10. kvůli rýmě:
+      infekce zvedá feritin a CRP; ≥2 týdny po odeznění, ne den po LR/kvalitě
 - [ ] Ranní váha 3–7×/tý → 7denní průměr; zastavit růst na ~85 kg (viz `07`)
 - [ ] Sacharidy podle tabulky v `07` (hlavně LR den a den před LR)
 - [ ] **Najít plochý okruh pro threshold** (a pro retest 23.–29.11.)
 - [ ] **Založit intervals.icu** (threshold pace 5:00, LTHR 172, zóny % LTHR)
-- [ ] Na LR ≥17 km (od 2.11.): ~500 ml DIY iont + med/želé — větší láhev
+- [ ] Na LR ≥17 km (od 22.11.): ~500 ml DIY iont + med/želé — větší láhev
       do vesty, maltodextrin nebo cukr; gely až od března
 - [ ] Boty přidat na Stravu; 2. pár Novablast 5 ~listopad/prosinec
 - [ ] Zvážit hrudní pás Polar H10 (intervaly, testy)
 - [ ] Silový program z `09` (soleus, plyo, **kyčle / gluteus medius**);
-      1. lower po návratu St 14.10. na 50–60 %
+      1. lower po návratu St 21.10. na ~50 %
 
 ## Monitoring — co zapisovat
 | Co | Jak |
@@ -32,7 +34,7 @@
 |---|---|
 | Max HR | ≥181 reálně naměřeno, odhad 185–190. Netestovat. |
 | Klidová HR | ~50 vsedě; ranní vleže neměřena |
-| Krevní testy | neprovedeny → 15.10. |
+| Krevní testy | neprovedeny → 29.10. / 5.11. (odloženo, rýma) |
 | Sweat rate | neznámý → test St 30.9. |
 | Skutečný příjem sacharidů | neznámý (jen menu ~110–130 g) |
 
@@ -40,11 +42,12 @@
 | Kdy | Co |
 |---|---|
 | 30.9. | sweat test v horku |
-| 12.–26.10. | krevní test, registrace, váha |
-| 26.10. | 5. běh v týdnu |
-| 2.11. | LR 18 km: gely + 500 ml, lower přesunout na úterý |
+| 15.–31.10. | registrace, váha; návrat 70 → 90 % (`04`) |
+| 29.10. / 5.11. | krevní test |
+| 9.11. | 5. běh v týdnu |
+| 22.11. | LR 17–18 km: 500 ml DIY iont + med/želé (gely až od března), lower na úterý |
 | **23.–29.11.** | **Retest LTHR (30 min, rovina)** → přepočet temp a zón; prahy v `02` |
-| 20.12. | 55 km/tý a LR 23–24 dosaženo? |
+| 20.12. | ~55 km/tý a LR ~22 dosaženo? |
 | Leden | ~50 km a LR 20 před Thajskem |
 | Březen | 3. pár bot (závodní); MP long runy: HR v MP úseku ≤158? kofein test |
 | **So 3.4.2027** | **PM Praha naostro → závodní tempo** (tabulka v `02`) |

@@ -42,7 +42,7 @@ jen **~110–130 g (1,3–1,6 g/kg)**; dopočtem z kcal 180–215 g (2,2–2,6 g
 | Období | Běžný den | Kvalita | LR den + den před LR |
 |---|---|---|---|
 | Indonésie | 3,5–4,5 g/kg, do sytosti | — | — |
-| 13.10.–22.11. (28–52 km) | 3,5–4 g/kg (~290–330 g) | 5 g/kg (~415 g) | 6 g/kg (~500 g) u LR ≥16 km |
+| 15.10.–22.11. (12–48 km) | 3,5–4 g/kg (~290–330 g) | 5 g/kg (~415 g) | 6 g/kg (~500 g) u LR ≥16 km |
 | Prosinec (55 km) | průměr 5–6 g/kg | | |
 | Maratonský blok | průměr 5–7 g/kg | | 7–8 g/kg u LR ≥26 km |
 | Závod | carb-load 36–48 h: 8–10 g/kg (660–830 g/den), málo vlákniny | | |
@@ -102,8 +102,8 @@ formu** → do února levné zdroje, od března závodní gely (8–9 týdnů na
 zvyknutí žaludku na konkrétní produkt stačí).
 | Období | LR | g/h | Z čeho |
 |---|---|---|---|
-| do 1.11. | 12–16 km (<1:45 h) | 0–30 (volitelně) | voda / DIY iont |
-| 2.11.–prosinec | 17–24 km | 45–60 | DIY iont 500 ml + med / želé |
+| do 15.11. | 7–16 km (<1:45 h) | 0–30 (volitelně) | voda / DIY iont |
+| 16.11.–prosinec | 17–22 km | 45–60 | DIY iont 500 ml + med / želé |
 | Leden–únor | 18–22 km | 60 | dtto, víc |
 | **Od března** | 24–30 km | 60–90 i v MP úsecích | **gely** (závodní produkt); carb-load zkouška před PM a peak LR |
 
@@ -167,7 +167,10 @@ snídaně (g sacharidů, kdy), gely (minuty), ml, sodík, GI 0–3.
 
 Zbytečné: BCAA, glutamin, předtréninkovky, kloubní výživa.
 
-## Krevní test — Čt 15.10.2026 ráno nalačno
+## Krevní test — Čt 29.10. (nebo Čt 5.11.) 2026 ráno nalačno
+Odloženo z 15.10. kvůli rýmě. Ne do ~2 týdnů po infekci a ne den po LR /
+kvalitě — zánět i tvrdý trénink zvedají feritin a CRP (feritin by vyšel
+falešně dobrý).
 KO, ferritin, saturace transferinu, 25(OH)D, CRP. Hormony (testosteron,
 TSH) jen volitelně — energie je v pořádku. Ferritin <30–35 µg/l = pro
 vytrvalce relevantní deficit. Hraniční hodnoty zopakovat v půlce února.
