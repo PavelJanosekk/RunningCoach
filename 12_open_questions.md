@@ -1,7 +1,7 @@
 # Otevřené otázky a TODO
 
 ## Po návratu z Indonésie (15.10.–8.11.)
-- [ ] **Doplnit indonéský běh (~7 km, ~6:30) do logu** po syncu hodinek se Stravou
+- [x] Doplnit indonéský běh do logu (Út 6.10., 7,05 km — `03`)
 - [ ] **Registrace:** Generali Prague Half Marathon So 3.4.2027 + Vodafone
       Prague Marathon Ne 2.5.2027 (startovné roste, PM se vyprodává)
 - [ ] **Krevní test Čt 29.10. (nebo Čt 5.11.) ráno nalačno** (KO, ferritin,

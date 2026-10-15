@@ -66,8 +66,8 @@ Výchozí stav před pauzou: **~38 km/tý, LR 16 km, 4 běhy/tý.**
 
 ## Blok: Indonésie 24.9.–11.10.2026 — ✅ HOTOVO
 
-**Realita:** kvůli programu a cestování jen 1 běh (~7 km, ~6:30, s pauzami;
-zatím nesyncnuto na Stravu), ale většinu dní 15–25 tis. kroků + sopky.
+**Realita:** kvůli programu a cestování jen 1 běh (Út 6.10., 7,05 km, 6:09,
+v noci po večírku, s pauzami — viz `03`), ale většinu dní 15–25 tis. kroků.
 = aktivní odpočinek, ne pauza: aerobní základ držel, chyběl běžecký náraz
 (lýtka, Achilovka, kosti, bok). → Návrat od 70 % (návratový protokol),
 LR max +2 km/týden zpět na 16 km. Nohy svěží = riziko přestřelit, ne důvod přidat.

@@ -31,7 +31,7 @@ zlepšovat rychlost. Závodní tempo podle PM 3.4.
 - Threshold repy = **4:55–5:05/km, konec repu HR ≤168** (ne 4:50)
 - Objem před Indonésií: **34–39 km/týden**, 4 běhy · od 9.11. 5 běhů
 - Long run max: **16,02 km** (20.9.2026) · pravidlo LR ≤1,10× nejdelšího za 30 dní
-- Od restartu 8.5.2026: 444 km; jediný problém mírná bolest z boku
+- Od restartu 8.5.2026: 451 km; jediný problém mírná bolest z boku
   hýždě/stehna v červenci (odeznělo)
 
 ## Data ze Stravy

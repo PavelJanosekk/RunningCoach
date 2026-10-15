@@ -2,7 +2,7 @@
 
 > Celý log je ze Strava API (`scripts/strava.py`) — data, vzdálenosti a HR
 > jsou přesné. Řazeno chronologicky, nejnovější dole. Tempo = průměr,
-> HR = průměr, D+ = převýšení. Celkem od restartu 8.5.2026: **444 km**.
+> HR = průměr, D+ = převýšení. Celkem od restartu 8.5.2026: **451 km**.
 
 ## Fáze 1 — Návrat k běhu (8.5.–29.8.2026)
 
@@ -188,6 +188,22 @@ Oba běhy: strmý úsek km 1,0–1,5 z kopce v tempu 4:25–4:37 (rychleji než
 threshold, na studené nohy) a ~10 min HR 155–166. Na ostatních 41 easy
 bězích se to v této míře nedělo — spíš čerstvé nohy před odletem.
 Cue: **prvních 10 min ≥5:45/km podle tempa** (HR se zpožďuje).
+
+### Indonésie 24.9.–11.10. (~7 km, 1 běh) — aktivní odpočinek
+| Datum | Trénink | Tempo | Avg HR | % LTHR | D+ |
+|---|---|---|---|---|---|
+| Út 6.10. | 7,05 km easy, v noci (start 1:36) po večírku, pauzy na focení / vodu | 6:09 | 148 | 86 % | 6 m |
+
+Týdny: 21.–27.9. 12,8 km (cutback výše) · 28.9.–4.10. 0 km · 5.–11.10. 7 km.
+Mimo běh většinu dní **15–25 tis. kroků** + cestování → aerobní základ držel,
+chyběl běžecký náraz. Proč jen 1 běh: program a cestování, ne bolest.
+
+- **Km 2 "4:35" je chyba GPS:** v min 5–8 rychlost skáče až na 6 m/s, ale
+  kadence zůstává 80/nohu a HR 145–150. Skutečně ~5:40 → reálná vzdálenost
+  asi o ~0,2 km kratší. Nešlo o tempo ani přestřelení.
+- **Druhá půlka HR 166–173 při 6:00–7:30 na rovině** (21 % času >157,
+  6,4 min v 163–172), decoupling 7,9 %. Příčina = noc po večírku v tropech
+  (alkohol, dehydratace), ne kondice. **Do trendů efektivity nemíchat.**
 
 ## Klíčové trendy
 
