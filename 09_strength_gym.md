@@ -23,6 +23,10 @@ Těžký silový trénink + plyometrie zlepšují running economy o ~2–8 %
 **Teď (3–4×/tý):** Út pull · St push · So upper · Ne lower (po LR). OK, dokud
 je LR ≤16–17 km a lehký.
 
+**Po pauze ≥3 týdny:** první lower na ~50 % objemu a ≥4 dny před LR (lower
+Čt 15.10. po ~4 týdnech → DOMS ještě v Ne, LR "meh"). Druhý trénink stejných
+cviků už bolí výrazně méně (repeated bout effect), objem přidávat až od třetího.
+
 **Od 9.11. (5 běhů; lower na úterý od LR 17–18 km, ~22.11.):**
 ```
 Po  volno → PULL

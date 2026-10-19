@@ -2,7 +2,7 @@
 
 > Celý log je ze Strava API (`scripts/strava.py`) — data, vzdálenosti a HR
 > jsou přesné. Řazeno chronologicky, nejnovější dole. Tempo = průměr,
-> HR = průměr, D+ = převýšení. Celkem od restartu 8.5.2026: **451 km**.
+> HR = průměr, D+ = převýšení. Celkem od restartu 8.5.2026: **465 km**.
 
 ## Fáze 1 — Návrat k běhu (8.5.–29.8.2026)
 
@@ -204,6 +204,25 @@ chyběl běžecký náraz. Proč jen 1 běh: program a cestování, ne bolest.
 - **Druhá půlka HR 166–173 při 6:00–7:30 na rovině** (21 % času >157,
   6,4 min v 163–172), decoupling 7,9 %. Příčina = noc po večírku v tropech
   (alkohol, dehydratace), ne kondice. **Do trendů efektivity nemíchat.**
+
+## Fáze 3 — Hlavní blok (od 12.10.2026)
+
+### Týden 12.–18.10. — návrat (~14,2 km, 2 běhy + 1× lower)
+| Datum | Trénink | Tempo | Avg HR | % LTHR | D+ |
+|---|---|---|---|---|---|
+| Po 12.–St 14.10. | *volno* (přílet, rýma) | | | | |
+| Čt 15.10. | 5,05 km easy + **lower** (první po ~4 týdnech) | 5:37 | 146 | 85 % | 25 m |
+| Pá 16.–So 17.10. | *volno* | | | | |
+| Ne 18.10. | 9,11 km easy (plán 7–8, delší kvůli trase), bolavé nohy | 6:31 | 145 | 84 % | 87 m |
+
+- **Čt:** prvních 10 min 6:01 (cue ≥5:45 funguje), km 3–4 z kopce 5:15 při
+  HR 151–154. GAP @ HR 143–150 = **5:42** (září 5:48) → aerobní základ po
+  Indonésii drží (n = 1, krátký běh).
+- **Ne "meh" = svaly, ne kondice:** km 1–3 z kopce 5:38–5:58 (HR 152), pak
+  6:15–7:07 při HR 146–152 a kadence 81 → 77–78 (kratší krok = bolavé nohy),
+  ~4,5 min zastavení (trasa). DOMS zhoršuje running economy. Do trendů nemíchat.
+- **Lower Čt → bolest ještě v Ne (72 h).** První lower po pauze měl být na
+  ~50 %. Druhý trénink stejných cviků bolí výrazně méně (repeated bout effect).
 
 ## Klíčové trendy
 

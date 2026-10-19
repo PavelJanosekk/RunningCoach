@@ -16,7 +16,7 @@
 - [ ] Boty přidat na Stravu; 2. pár Novablast 5 ~listopad/prosinec
 - [ ] Zvážit hrudní pás Polar H10 (intervaly, testy)
 - [ ] Silový program z `09` (soleus, plyo, **kyčle / gluteus medius**);
-      1. lower po návratu St 21.10. na ~50 %
+      1. lower Čt 15.10. (DOMS do neděle) → 2. lower St 21.10., objem ≤ 1.
 
 ## Monitoring — co zapisovat
 | Co | Jak |

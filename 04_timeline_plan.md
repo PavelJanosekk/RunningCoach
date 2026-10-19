@@ -139,8 +139,8 @@ Po návratu bude HR při stejném tempu 1–2 týdny nižší (aklimatizace) —
 
 | Týden | Datum | km | LR | Kvalita | Pozn. |
 |---|---|---|---|---|---|
-| 1 | 12.–18.10. | ~12 | 7–8 | nic | návrat + rýma (jen nad krkem); krevní test odložen |
-| 2 | 19.–25.10. | 26–28 (70 %) | 10 | strides | 1. lower na ~50 % (St 21.10.); registrace |
+| 1 | 12.–18.10. | ✅ 14,2 | ✅ 9,1 | nic | 1. lower Čt 15.10. → DOMS do neděle; krevní test odložen |
+| 2 | 19.–25.10. | 26–28 (70 %) | 10 | strides | 2. lower St 21.10. (objem ≤ Čt 15.10.); registrace |
 | 3 | 26.10.–1.11. | 32–34 (85–90 %) | 12 | strides + kopce 6–8× 45 s | krevní test Čt 29.10. (nebo Čt 5.11.) |
 | 4 | 2.–8.11. | 38–40 (100 %) | 14 | T 3× 1,5 km | |
 | 5 | 9.–15.11. | 42–44 | 16 | T 4× 1,5 km | **5. běh** (5 km easy) |
@@ -169,20 +169,21 @@ strides, dokud neodezní. Hlen z plic / kašel z hrudi / teplota / bolest svalů
 → volno (`08`). Po 10 min hůř → domů; druhý den hůř → 2 dny volno.
 Horečka do ~25.10. → lékař, zmínit Indonésii (dengue), jen paracetamol.
 ```
-Čt 15.  Volno (krevní test odložen — infekce zvedá feritin a CRP)
-Pá 16.  Easy 5 km, HR ≤150
-So 17.  Volno (upper jen lehce)
-Ne 18.  Easy 7–8 km (podle rýmy, jinak 5–6; místo LR 12)
+Čt 15.  ✅ Easy 5,05 km + lower (DOMS do neděle)
+Pá 16.  ✅ Volno
+So 17.  ✅ Volno
+Ne 18.  ✅ Easy 9,11 km (plán 7–8), bolavé nohy
 Po 19.  Volno
 Út 20.  Easy 5 km + 4–6 strides (až bez rýmy)
-St 21.  Easy 7 km (+ odpoledne 1. lower na ~50 % objemu)
+St 21.  Easy 7 km + odpoledne lower: stejné cviky, objem ≤ Čt 15.10., 2–3 RIR
 Čt 22.  Volno / mobilita
 Pá 23.  Easy 5 km
 So 24.  Volno + upper
-Ne 25.  Long run 10 km
+Ne 25.  Long run 10 km (= 1,10× 9,1; trasu naplánovat předem)
 ```
-Nohy budou svěží → prvních 10 min ≥5:45/km, HR ≤150, objem nepřidávat.
-První 2 týdny nesrovnávat efektivitu (HR zkreslená návratem a horkem).
+Autoregulace: když v pátek bolí nohy >3/10, LR v neděli jen 8–9 km.
+Prvních 10 min ≥5:45/km, HR ≤150, objem nepřidávat.
+První 2 týdny nesrovnávat efektivitu (návrat, DOMS).
 
 ---
 
