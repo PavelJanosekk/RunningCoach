@@ -167,9 +167,9 @@ snídaně (g sacharidů, kdy), gely (minuty), ml, sodík, GI 0–3.
 
 Zbytečné: BCAA, glutamin, předtréninkovky, kloubní výživa.
 
-## Krevní test — Čt 29.10. (nebo Čt 5.11.) 2026 ráno nalačno
-Odloženo z 15.10. kvůli rýmě. Ne do ~2 týdnů po infekci a ne den po LR /
-kvalitě — zánět i tvrdý trénink zvedají feritin a CRP (feritin by vyšel
+## Krevní test — Čt 5.11.2026 ráno nalačno
+Odloženo z 15.10. kvůli rýmě (20.10. ještě mírná, proto ne 29.10.).
+Ne do ~2 týdnů po infekci a ne den po LR / kvalitě — zánět i tvrdý trénink zvedají feritin a CRP (feritin by vyšel
 falešně dobrý).
 KO, ferritin, saturace transferinu, 25(OH)D, CRP. Hormony (testosteron,
 TSH) jen volitelně — energie je v pořádku. Ferritin <30–35 µg/l = pro

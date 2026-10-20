@@ -4,9 +4,10 @@
 - [x] Doplnit indonéský běh do logu (Út 6.10., 7,05 km — `03`)
 - [ ] **Registrace:** Generali Prague Half Marathon So 3.4.2027 + Vodafone
       Prague Marathon Ne 2.5.2027 (startovné roste, PM se vyprodává)
-- [ ] **Krevní test Čt 29.10. (nebo Čt 5.11.) ráno nalačno** (KO, ferritin,
-      saturace transferinu, 25(OH)D, CRP) — odloženo z 15.10. kvůli rýmě:
-      infekce zvedá feritin a CRP; ≥2 týdny po odeznění, ne den po LR/kvalitě
+- [ ] **Krevní test Čt 5.11. ráno nalačno** (KO, ferritin,
+      saturace transferinu, 25(OH)D, CRP) — odloženo z 15.10. kvůli rýmě
+      (20.10. ještě mírná): infekce zvedá feritin a CRP; ≥2 týdny po
+      odeznění, ne den po LR/kvalitě
 - [ ] Ranní váha 3–7×/tý → 7denní průměr; zastavit růst na ~85 kg (viz `07`)
 - [ ] Sacharidy podle tabulky v `07` (hlavně LR den a den před LR)
 - [ ] **Najít plochý okruh pro threshold** (a pro retest 23.–29.11.)
@@ -34,7 +35,7 @@
 |---|---|
 | Max HR | ≥181 reálně naměřeno, odhad 185–190. Netestovat. |
 | Klidová HR | ~50 vsedě; ranní vleže neměřena |
-| Krevní testy | neprovedeny → 29.10. / 5.11. (odloženo, rýma) |
+| Krevní testy | neprovedeny → Čt 5.11. (odloženo, rýma) |
 | Sweat rate | neznámý → test St 30.9. |
 | Skutečný příjem sacharidů | neznámý (jen menu ~110–130 g) |
 
@@ -43,7 +44,7 @@
 |---|---|
 | 30.9. | sweat test v horku |
 | 15.–31.10. | registrace, váha; návrat 70 → 90 % (`04`) |
-| 29.10. / 5.11. | krevní test |
+| Čt 5.11. | krevní test |
 | 9.11. | 5. běh v týdnu |
 | 22.11. | LR 17–18 km: 500 ml DIY iont + med/želé (gely až od března), lower na úterý |
 | **23.–29.11.** | **Retest LTHR (30 min, rovina)** → přepočet temp a zón; prahy v `02` |

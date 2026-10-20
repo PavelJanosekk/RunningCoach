@@ -141,8 +141,8 @@ Po návratu bude HR při stejném tempu 1–2 týdny nižší (aklimatizace) —
 |---|---|---|---|---|---|
 | 1 | 12.–18.10. | ✅ 14,2 | ✅ 9,1 | nic | 1. lower Čt 15.10. → DOMS do neděle; krevní test odložen |
 | 2 | 19.–25.10. | 26–28 (70 %) | 10 | strides | 2. lower St 21.10. (objem ≤ Čt 15.10.); registrace |
-| 3 | 26.10.–1.11. | 32–34 (85–90 %) | 12 | strides + kopce 6–8× 45 s | krevní test Čt 29.10. (nebo Čt 5.11.) |
-| 4 | 2.–8.11. | 38–40 (100 %) | 14 | T 3× 1,5 km | |
+| 3 | 26.10.–1.11. | 32–34 (85–90 %) | 12 | strides + kopce 6–8× 45 s | |
+| 4 | 2.–8.11. | 38–40 (100 %) | 14 | T 3× 1,5 km | krevní test Čt 5.11. (rýma do ~20.10.) |
 | 5 | 9.–15.11. | 42–44 | 16 | T 4× 1,5 km | **5. běh** (5 km easy) |
 | 6 | 16.–22.11. | 46–48 | 17–18 | T 2× 12–15 min | LR ≥17 km: 500 ml DIY iont + med/želé; nohy už ne v den LR |
 | 7 | 23.–29.11. | ~35 | 13–14 | **retest 30 min (rovina)** | cutback; přepočet temp a zón |
@@ -173,8 +173,8 @@ Horečka do ~25.10. → lékař, zmínit Indonésii (dengue), jen paracetamol.
 Pá 16.  ✅ Volno
 So 17.  ✅ Volno
 Ne 18.  ✅ Easy 9,11 km (plán 7–8), bolavé nohy
-Po 19.  Volno
-Út 20.  Easy 5 km + 4–6 strides (až bez rýmy)
+Po 19.  ✅ Volno
+Út 20.  ✅ Easy 5,06 km + 4 strides (rýma už jen mírná)
 St 21.  Easy 7 km + odpoledne lower: stejné cviky, objem ≤ Čt 15.10., 2–3 RIR
 Čt 22.  Volno / mobilita
 Pá 23.  Easy 5 km
@@ -184,6 +184,8 @@ Ne 25.  Long run 10 km (= 1,10× 9,1; trasu naplánovat předem)
 Autoregulace: když v pátek bolí nohy >3/10, LR v neděli jen 8–9 km.
 Prvních 10 min ≥5:45/km, HR ≤150, objem nepřidávat.
 První 2 týdny nesrovnávat efektivitu (návrat, DOMS).
+Strides: po rovině nebo do kopce, ne z kopce. Na vrcholu musí jít ještě
+přidat — když ne, ubrat (20.10. byla horní hranice, 3:04–3:27).
 
 ---
 

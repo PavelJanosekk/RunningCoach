@@ -224,6 +224,24 @@ chyběl běžecký náraz. Proč jen 1 běh: program a cestování, ne bolest.
 - **Lower Čt → bolest ještě v Ne (72 h).** První lower po pauze měl být na
   ~50 %. Druhý trénink stejných cviků bolí výrazně méně (repeated bout effect).
 
+### Týden 19.–25.10. — 70 % (rozpracováno; zatím 5,6 km, plán 26–28)
+| Datum | Trénink | Tempo | Avg HR | % LTHR | D+ |
+|---|---|---|---|---|---|
+| Po 19.10. | *volno* | | | | |
+| Út 20.10. | 5,56 km: 5,06 easy + **4× strides** (první po ~4 týdnech) | 6:09 | 148 | 86 % | 69 m |
+
+- **Easy část:** 6:21, HR 149. Prvních 10 min 7:13 do kopce (+45 m), GAP 6:06
+  → cue ≥5:45 splněn. >157 bpm 2,7 min (8 %, září 11 %) — skoro vše na konci
+  seběhu km 3 (5:15–5:45, rychlost nesená do roviny, HR 158–160). V normě.
+- **Kadence při 6:00–7:00 zpět na ~80/nohu** (Ne 77–78) → DOMS odezněl.
+- **Strides** (per-sec, hodinky v pauzách stály): 25–27 s / 111–127 m, rychlá
+  fáze 3:04–3:27 (~19 km/h), kadence 184–202, pauza ~60 s stání (HR před
+  dalším 119–124). Pocit: „vydržel bych déle, nevím, jestli rychleji“ → ne
+  sprint, ale horní hranice 85–90 %. Dál stejný pocit, nezrychlovat. #3 byl
+  z kopce (−2 až −7 %, nejrychlejší) → strides jen po rovině / do kopce.
+- Rýma už jen mírná (smrkání na zimě) → krevní test posunut na **Čt 5.11.**
+  (≥2 týdny po odeznění, jinak falešně vysoký feritin).
+
 ## Klíčové trendy
 
 | Metrika | Květen | Červenec | Září |
