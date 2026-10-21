@@ -1,0 +1,1074 @@
+date,meal,label,food,amount_g,kcal,protein_g,carbs_g,fat_g,fiber_g,sugar_g,food_source
+2025-11-26,breakfast,Tvaroh odtučněný Pilos,Tvaroh odtučněný Pilos,250,160.0,27.5,8.5,1.2,0.0,8.5,kaloricke_tabulky
+2025-11-26,breakfast,ovesné vločky,ovesné vločky,30,120.0,3.9,20.4,2.1,2.2,0.5,kaloricke_tabulky
+2025-11-26,breakfast,protein,protein,30,119.0,22.9,2.1,2.2,,,kaloricke_tabulky
+2025-11-26,lunch,Dürüm weizen Grafschafter,Dürüm weizen Grafschafter,100,299.0,7.8,50.0,6.5,3.5,2.6,kaloricke_tabulky
+2025-11-26,lunch,Krůtí mleté maso 100% Tesco,Krůtí mleté maso 100% Tesco,300,428.0,60.0,0.0,20.4,0.0,0.0,kaloricke_tabulky
+2025-11-26,lunch,"mražená zelenina mrkev, hrášek, kukuřice Albert","mražená zelenina mrkev, hrášek, kukuřice Albert",150,77.0,5.4,12.6,0.8,7.5,0.0,kaloricke_tabulky
+2025-11-26,lunch,Řecký jogurt bílý 0% tuku Milko,Řecký jogurt bílý 0% tuku Milko,100,57.6,10.0,3.5,0.3,,3.5,kaloricke_tabulky
+2025-11-30,morning_snack,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,35,134.0,26.2,2.3,2.0,,1.8,kaloricke_tabulky
+2025-11-30,morning_snack,ovesné vločky,ovesné vločky,35,140.0,4.6,23.8,2.4,2.5,0.5,kaloricke_tabulky
+2025-11-30,lunch,losos bez kůže,losos bez kůže,280,443.0,61.9,0.0,21.8,,,kaloricke_tabulky
+2025-11-30,lunch,"mražená zelenina mrkev, hrášek, kukuřice Albert","mražená zelenina mrkev, hrášek, kukuřice Albert",200,103.0,7.2,16.8,1.0,10.0,0.0,kaloricke_tabulky
+2025-11-30,lunch,rýže jasmínová,rýže jasmínová,50,173.0,3.5,39.5,0.0,0.8,0.0,kaloricke_tabulky
+2025-11-30,afternoon_snack,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,20,76.5,15.0,1.3,1.1,,1.0,kaloricke_tabulky
+2025-11-30,afternoon_snack,Řecký jogurt bílý 0% tuku Milko,Řecký jogurt bílý 0% tuku Milko,200,115.0,20.0,7.0,0.6,,7.0,kaloricke_tabulky
+2025-11-30,dinner,Vaječné těstoviny vřetena Zátkovy syrové,Vaječné těstoviny vřetena Zátkovy syrové,62,229.0,7.4,44.6,1.4,,1.6,kaloricke_tabulky
+2025-11-30,dinner,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",270,285.0,62.4,0.0,4.0,,0.0,kaloricke_tabulky
+2025-11-30,dinner,"mražená zelenina mrkev, hrášek, kukuřice Albert","mražená zelenina mrkev, hrášek, kukuřice Albert",200,103.0,7.2,16.8,1.0,10.0,0.0,kaloricke_tabulky
+2025-11-30,second_dinner,"High protein milk 0,9% tuku Olma","High protein milk 0,9% tuku Olma",200,106.0,12.0,10.2,1.8,,10.2,kaloricke_tabulky
+2025-12-01,breakfast,100% Pure Whey protein Jahoda ATP Nutrition,100% Pure Whey protein Jahoda ATP Nutrition,38,146.0,27.4,6.8,0.2,0.0,6.8,kaloricke_tabulky
+2025-12-01,breakfast,ovesné vločky,ovesné vločky,60,240.0,7.9,40.9,4.1,4.3,0.9,kaloricke_tabulky
+2025-12-01,lunch,Dürüm weizen Grafschafter,Dürüm weizen Grafschafter,100,299.0,7.8,50.0,6.5,3.5,2.6,kaloricke_tabulky
+2025-12-01,lunch,Hlbokozmrazená zelenina Vinica,Hlbokozmrazená zelenina Vinica,270,193.0,8.9,31.9,0.8,,4.0,kaloricke_tabulky
+2025-12-01,lunch,Superior dark soy sauce Pearl River Bridge,Superior dark soy sauce Pearl River Bridge,20,30.0,1.1,6.2,0.0,,5.1,kaloricke_tabulky
+2025-12-01,lunch,cibule,cibule,30,13.0,0.4,2.7,0.1,0.8,1.8,kaloricke_tabulky
+2025-12-01,lunch,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",270,285.0,62.4,0.0,4.0,,0.0,kaloricke_tabulky
+2025-12-01,afternoon_snack,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,38,145.0,28.5,2.5,2.1,,2.0,kaloricke_tabulky
+2025-12-01,afternoon_snack,ovesné vločky,ovesné vločky,30,120.0,3.9,20.4,2.1,2.2,0.5,kaloricke_tabulky
+2025-12-01,dinner,Vaječné těstoviny vřetena Zátkovy syrové,Vaječné těstoviny vřetena Zátkovy syrové,75,277.0,9.0,54.0,1.7,,1.9,kaloricke_tabulky
+2025-12-01,dinner,cibule,cibule,50,21.7,0.7,4.5,0.1,1.3,3.1,kaloricke_tabulky
+2025-12-01,dinner,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",270,285.0,62.4,0.0,4.0,,0.0,kaloricke_tabulky
+2025-12-01,dinner,"mražená zelenina mrkev, hrášek, kukuřice Albert","mražená zelenina mrkev, hrášek, kukuřice Albert",250,128.0,9.0,21.0,1.2,12.5,0.0,kaloricke_tabulky
+2025-12-01,dinner,olej olivový extra panenský,olej olivový extra panenský,3,24.6,0.0,0.0,2.7,0.0,0.0,kaloricke_tabulky
+2025-12-01,dinner,sójová omáčka,sójová omáčka,20,10.6,1.5,1.5,0.0,,0.3,kaloricke_tabulky
+2025-12-01,second_dinner,"High protein milk 0,9% tuku Olma","High protein milk 0,9% tuku Olma",200,106.0,12.0,10.2,1.8,,10.2,kaloricke_tabulky
+2025-12-01,second_dinner,citrónová šťáva,citrónová šťáva,230,63.4,0.8,14.2,0.3,0.2,6.2,kaloricke_tabulky
+2025-12-02,breakfast,100% Pure Whey protein Jahoda ATP Nutrition,100% Pure Whey protein Jahoda ATP Nutrition,30,116.0,21.6,5.4,0.2,0.0,5.4,kaloricke_tabulky
+2025-12-02,breakfast,ovesné vločky,ovesné vločky,30,120.0,3.9,20.4,2.1,2.2,0.5,kaloricke_tabulky
+2025-12-02,morning_snack,AGREZZ mango pineapple Extrifit,AGREZZ mango pineapple Extrifit,21,49.7,0.4,0.5,0.0,0.0,0.0,kaloricke_tabulky
+2025-12-02,lunch,Cmunda po kaplicku,Cmunda po kaplicku,450,900.0,37.5,51.0,60.0,,,kaloricke_tabulky
+2025-12-02,afternoon_snack,Lázeňské oplatky s náplní s pekanovými ořechy a javorovým sirupem CLIP Luhačovice,Lázeňské oplatky s náplní s pekanovými ořechy a javorovým sirupem CLIP Luhačovice,160,848.0,13.6,95.8,44.3,6.1,56.3,kaloricke_tabulky
+2025-12-02,afternoon_snack,Marlenka Kuličky klasické medové,Marlenka Kuličky klasické medové,23,94.1,1.4,11.3,4.8,,8.7,kaloricke_tabulky
+2025-12-02,dinner,Tortilla,Tortilla,100,310.0,9.3,48.3,7.6,,2.3,kaloricke_tabulky
+2025-12-02,dinner,cibule,cibule,20,8.7,0.3,1.8,0.1,0.5,1.2,kaloricke_tabulky
+2025-12-02,dinner,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",340,359.0,78.5,0.0,5.1,,0.0,kaloricke_tabulky
+2025-12-02,dinner,"mražená zelenina mrkev, hrášek, kukuřice Albert","mražená zelenina mrkev, hrášek, kukuřice Albert",250,128.0,9.0,21.0,1.2,12.5,0.0,kaloricke_tabulky
+2025-12-03,breakfast,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,30,115.0,22.5,2.0,1.7,,1.6,kaloricke_tabulky
+2025-12-03,breakfast,ovesné vločky,ovesné vločky,60,240.0,7.9,40.9,4.1,4.3,0.9,kaloricke_tabulky
+2025-12-03,lunch,Rýžové nudle,Rýžové nudle,100,380.0,5.3,84.5,1.4,,1.5,kaloricke_tabulky
+2025-12-03,lunch,smažené vietnamské jarní závitky,smažené vietnamské jarní závitky,200,649.0,26.8,20.2,50.4,4.0,1.0,kaloricke_tabulky
+2025-12-03,afternoon_snack,banán,banán,90,84.6,1.1,19.8,0.2,1.8,17.1,kaloricke_tabulky
+2025-12-03,dinner,Lín sladkovodní ryba,Lín sladkovodní ryba,200,100.0,19.8,0.2,2.2,,,kaloricke_tabulky
+2025-12-03,dinner,Sushi rýže,Sushi rýže,70,246.0,4.5,54.0,0.7,2.0,0.0,kaloricke_tabulky
+2025-12-03,second_dinner,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,38,145.0,28.5,2.5,2.1,,2.0,kaloricke_tabulky
+2025-12-03,second_dinner,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,38,145.0,28.5,2.5,2.1,,2.0,kaloricke_tabulky
+2025-12-03,second_dinner,Řecký jogurt bílý 0% tuku Milko,Řecký jogurt bílý 0% tuku Milko,390,224.0,39.0,13.7,1.2,,13.7,kaloricke_tabulky
+2025-12-04,breakfast,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,30,115.0,22.5,2.0,1.7,,1.6,kaloricke_tabulky
+2025-12-04,breakfast,ovesné vločky,ovesné vločky,60,240.0,7.9,40.9,4.1,4.3,0.9,kaloricke_tabulky
+2025-12-04,lunch,cibule,cibule,40,17.4,0.6,3.6,0.1,1.0,2.5,kaloricke_tabulky
+2025-12-04,lunch,hnědá rýže parboiled Sawi syrová,hnědá rýže parboiled Sawi syrová,62,229.0,4.4,47.7,1.2,5.4,0.5,kaloricke_tabulky
+2025-12-04,lunch,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",290,306.0,67.0,0.0,4.3,,0.0,kaloricke_tabulky
+2025-12-04,lunch,mrkev mražená,mrkev mražená,250,140.0,2.3,30.9,0.6,7.5,,kaloricke_tabulky
+2025-12-04,lunch,olej olivový extra panenský,olej olivový extra panenský,7,57.4,0.0,0.0,6.4,0.0,0.0,kaloricke_tabulky
+2025-12-04,afternoon_snack,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,38,145.0,28.5,2.5,2.1,,2.0,kaloricke_tabulky
+2025-12-04,afternoon_snack,ovesné vločky,ovesné vločky,60,240.0,7.9,40.9,4.1,4.3,0.9,kaloricke_tabulky
+2025-12-04,dinner,Dürüm weizen Grafschafter,Dürüm weizen Grafschafter,100,299.0,7.8,50.0,6.5,3.5,2.6,kaloricke_tabulky
+2025-12-04,dinner,Hořčice plnotučná Kania,Hořčice plnotučná Kania,27,25.0,1.1,1.6,1.4,,1.5,kaloricke_tabulky
+2025-12-04,dinner,Mixed vegetables gourmet in a mild sauce with parsley Freshona,Mixed vegetables gourmet in a mild sauce with parsley Freshona,220,166.0,5.3,16.7,7.7,4.6,11.2,kaloricke_tabulky
+2025-12-04,dinner,Mozzarella light Pilos,Mozzarella light Pilos,73,120.0,13.9,1.5,6.6,,0.7,kaloricke_tabulky
+2025-12-04,dinner,cibule,cibule,20,8.7,0.3,1.8,0.1,0.5,1.2,kaloricke_tabulky
+2025-12-04,dinner,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",290,306.0,67.0,0.0,4.3,,0.0,kaloricke_tabulky
+2025-12-04,second_dinner,"mléko polotučné 1,5% tuku","mléko polotučné 1,5% tuku",200,94.7,6.8,9.7,3.0,,9.3,kaloricke_tabulky
+2025-12-05,breakfast,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,37,141.0,27.7,2.4,2.1,,1.9,kaloricke_tabulky
+2025-12-05,breakfast,ovesné vločky,ovesné vločky,60,240.0,7.9,40.9,4.1,4.3,0.9,kaloricke_tabulky
+2025-12-05,lunch,Grilovací koření Vitana,Grilovací koření Vitana,10,12.0,0.4,1.4,0.3,,1.1,kaloricke_tabulky
+2025-12-05,lunch,Mixed vegetables gourmet in a mild sauce with parsley Freshona,Mixed vegetables gourmet in a mild sauce with parsley Freshona,220,166.0,5.3,16.7,7.7,4.6,11.2,kaloricke_tabulky
+2025-12-05,lunch,cibule,cibule,55,23.9,0.8,4.9,0.1,1.4,3.4,kaloricke_tabulky
+2025-12-05,lunch,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",265,280.0,61.2,0.0,4.0,,0.0,kaloricke_tabulky
+2025-12-05,lunch,rýže sushi Lagris,rýže sushi Lagris,67,237.0,4.5,53.6,0.3,0.3,0.3,kaloricke_tabulky
+2025-12-05,afternoon_snack,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2025-12-05,dinner,Dürüm weizen Grafschafter,Dürüm weizen Grafschafter,100,299.0,7.8,50.0,6.5,3.5,2.6,kaloricke_tabulky
+2025-12-05,dinner,Hořčice plnotučná Kania,Hořčice plnotučná Kania,25,23.2,1.1,1.5,1.2,,1.4,kaloricke_tabulky
+2025-12-05,dinner,Kuřecí mleté maso stehenní DZ Klatovy,Kuřecí mleté maso stehenní DZ Klatovy,250,404.0,45.0,0.0,25.0,0.2,0.0,kaloricke_tabulky
+2025-12-05,dinner,Mixed vegetables gourmet in a mild sauce with parsley Freshona,Mixed vegetables gourmet in a mild sauce with parsley Freshona,290,219.0,7.0,22.0,10.2,6.1,14.8,kaloricke_tabulky
+2025-12-05,dinner,Mozzarella light Pilos,Mozzarella light Pilos,65,107.0,12.3,1.3,5.8,,0.7,kaloricke_tabulky
+2025-12-05,dinner,cibule,cibule,35,15.2,0.5,3.1,0.1,0.9,2.1,kaloricke_tabulky
+2025-12-05,dinner,olej olivový extra panenský,olej olivový extra panenský,4,32.8,0.0,0.0,3.6,0.0,0.0,kaloricke_tabulky
+2025-12-06,breakfast,vločky protein,vločky protein,75,295.0,28.4,32.6,4.8,3.4,2.2,kaloricke_tabulky
+2025-12-06,lunch,Kuřecí mleté maso stehenní DZ Klatovy,Kuřecí mleté maso stehenní DZ Klatovy,250,404.0,45.0,0.0,25.0,0.2,0.0,kaloricke_tabulky
+2025-12-06,lunch,brambory syrové,brambory syrové,580,513.0,11.6,110.2,1.2,8.7,5.8,kaloricke_tabulky
+2025-12-06,lunch,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",90,95.1,20.8,0.0,1.4,,0.0,kaloricke_tabulky
+2025-12-06,lunch,"mražená zelenina mrkev, hrášek, kukuřice Albert","mražená zelenina mrkev, hrášek, kukuřice Albert",50,25.7,1.8,4.2,0.2,2.5,0.0,kaloricke_tabulky
+2025-12-06,lunch,mrkev mražená,mrkev mražená,220,123.0,2.1,27.1,0.6,6.6,,kaloricke_tabulky
+2025-12-06,afternoon_snack,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2025-12-06,dinner,Kuřecí mleté maso stehenní DZ Klatovy,Kuřecí mleté maso stehenní DZ Klatovy,250,404.0,45.0,0.0,25.0,0.2,0.0,kaloricke_tabulky
+2025-12-06,dinner,Mixed vegetables gourmet in a mild sauce with parsley Freshona,Mixed vegetables gourmet in a mild sauce with parsley Freshona,230,174.0,5.5,17.5,8.1,4.8,11.7,kaloricke_tabulky
+2025-12-06,dinner,cibule,cibule,30,13.0,0.4,2.7,0.1,0.8,1.8,kaloricke_tabulky
+2025-12-06,dinner,sójová omáčka,sójová omáčka,40,21.2,3.0,3.0,0.0,,0.7,kaloricke_tabulky
+2025-12-06,dinner,česnek,česnek,5,6.5,0.3,1.2,0.0,0.1,0.2,kaloricke_tabulky
+2025-12-07,breakfast,vločky protein,vločky protein,75,295.0,28.4,32.6,4.8,3.4,2.2,kaloricke_tabulky
+2025-12-07,morning_snack,matcha sušenky fit,matcha sušenky fit,65,133.0,3.2,22.8,3.2,,,kaloricke_tabulky
+2025-12-07,lunch,Kuřecí mleté maso stehenní DZ Klatovy,Kuřecí mleté maso stehenní DZ Klatovy,250,404.0,45.0,0.0,25.0,0.2,0.0,kaloricke_tabulky
+2025-12-07,lunch,Mixed vegetables gourmet in a mild sauce with parsley Freshona,Mixed vegetables gourmet in a mild sauce with parsley Freshona,290,219.0,7.0,22.0,10.2,6.1,14.8,kaloricke_tabulky
+2025-12-07,lunch,Superior dark soy sauce Pearl River Bridge,Superior dark soy sauce Pearl River Bridge,40,60.0,2.2,12.4,0.0,,10.1,kaloricke_tabulky
+2025-12-07,lunch,brambory syrové,brambory syrové,280,248.0,5.6,53.2,0.6,4.2,2.8,kaloricke_tabulky
+2025-12-07,afternoon_snack,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2025-12-07,dinner,Kuřecí mleté maso stehenní DZ Klatovy,Kuřecí mleté maso stehenní DZ Klatovy,300,485.0,54.0,0.0,30.0,0.3,0.0,kaloricke_tabulky
+2025-12-07,dinner,Mixed vegetables gourmet in a mild sauce with parsley Freshona,Mixed vegetables gourmet in a mild sauce with parsley Freshona,222,168.0,5.3,16.9,7.8,4.7,11.3,kaloricke_tabulky
+2025-12-07,dinner,Tortillas Dürüm-Wraps Dürüm company,Tortillas Dürüm-Wraps Dürüm company,100,298.0,7.3,49.7,7.6,1.6,2.1,kaloricke_tabulky
+2025-12-07,second_dinner,"High protein milk 0,9% tuku Olma","High protein milk 0,9% tuku Olma",400,212.0,24.0,20.4,3.6,,20.4,kaloricke_tabulky
+2025-12-08,breakfast,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2025-12-08,lunch,brambory syrové,brambory syrové,280,248.0,5.6,53.2,0.6,4.2,2.8,kaloricke_tabulky
+2025-12-08,lunch,losos bez kůže,losos bez kůže,190,301.0,42.0,0.0,14.8,,,kaloricke_tabulky
+2025-12-08,lunch,červená řepa vařená,červená řepa vařená,250,83.2,3.0,14.5,0.4,5.0,11.8,kaloricke_tabulky
+2025-12-08,afternoon_snack,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2025-12-08,dinner,Hořčice plnotučná Kania,Hořčice plnotučná Kania,30,27.8,1.3,1.8,1.5,,1.6,kaloricke_tabulky
+2025-12-08,dinner,Kuřecí mleté maso stehenní DZ Klatovy,Kuřecí mleté maso stehenní DZ Klatovy,333,538.0,59.9,0.0,33.3,0.3,0.0,kaloricke_tabulky
+2025-12-08,dinner,Tortilla wraps wholemeal Snack Day,Tortilla wraps wholemeal Snack Day,100,311.0,10.0,53.0,7.6,6.6,3.3,kaloricke_tabulky
+2025-12-08,dinner,mrkev,mrkev,300,126.0,3.0,22.0,0.7,10.5,16.8,kaloricke_tabulky
+2025-12-08,dinner,sójová omáčka,sójová omáčka,20,10.6,1.5,1.5,0.0,,0.3,kaloricke_tabulky
+2025-12-08,second_dinner,"mléko polotučné 1,5% tuku","mléko polotučné 1,5% tuku",150,71.0,5.1,7.3,2.2,,7.0,kaloricke_tabulky
+2025-12-09,breakfast,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2025-12-09,morning_snack,"perník Mikuláš, Čert Pamep","perník Mikuláš, Čert Pamep",60,224.0,3.4,39.6,5.2,1.7,20.4,kaloricke_tabulky
+2025-12-09,lunch,Bun Bo Nam Bo,Bun Bo Nam Bo,350,512.0,23.8,72.1,12.9,6.7,16.8,kaloricke_tabulky
+2025-12-09,afternoon_snack,ořechová zmrzlina Kaufland,ořechová zmrzlina Kaufland,50,128.0,1.6,12.7,7.8,0.2,11.7,kaloricke_tabulky
+2025-12-09,dinner,Kuřecí mleté maso stehenní DZ Klatovy,Kuřecí mleté maso stehenní DZ Klatovy,333,538.0,59.9,0.0,33.3,0.3,0.0,kaloricke_tabulky
+2025-12-09,dinner,Nudle Soba japonské,Nudle Soba japonské,100,346.0,13.9,67.3,2.3,,0.3,kaloricke_tabulky
+2025-12-09,dinner,brokolice,brokolice,300,130.0,9.9,17.1,0.6,9.0,7.5,kaloricke_tabulky
+2025-12-09,second_dinner,mandarinka,mandarinka,500,283.0,3.6,60.0,1.5,8.5,45.0,kaloricke_tabulky
+2025-12-10,breakfast,mandarinka,mandarinka,400,227.0,2.9,48.0,1.2,6.8,36.0,kaloricke_tabulky
+2025-12-10,morning_snack,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2025-12-10,lunch,Kečup o 50% méně kalorií bez přidaného cukru Otma,Kečup o 50% méně kalorií bez přidaného cukru Otma,20,9.5,0.3,1.7,0.1,,1.1,kaloricke_tabulky
+2025-12-10,lunch,brambory syrové,brambory syrové,250,221.0,5.0,47.5,0.5,3.8,2.5,kaloricke_tabulky
+2025-12-10,lunch,brokolice,brokolice,250,109.0,8.2,14.2,0.5,7.5,6.2,kaloricke_tabulky
+2025-12-10,lunch,losos bez kůže,losos bez kůže,200,317.0,44.2,0.0,15.6,,,kaloricke_tabulky
+2025-12-10,afternoon_snack,jahody,jahody,100,34.4,0.8,6.2,0.4,1.8,4.3,kaloricke_tabulky
+2025-12-10,afternoon_snack,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2025-12-10,dinner,Hořčice plnotučná Kania,Hořčice plnotučná Kania,20,18.5,0.8,1.2,1.0,,1.1,kaloricke_tabulky
+2025-12-10,dinner,Kuřecí mleté maso stehenní DZ Klatovy,Kuřecí mleté maso stehenní DZ Klatovy,330,534.0,59.4,0.0,33.0,0.3,0.0,kaloricke_tabulky
+2025-12-10,dinner,Rice Vermicelli Noodles,Rice Vermicelli Noodles,50,182.0,3.3,41.0,0.3,0.9,,kaloricke_tabulky
+2025-12-10,dinner,brokolice,brokolice,150,65.1,5.0,8.6,0.3,4.5,3.7,kaloricke_tabulky
+2025-12-10,dinner,sójová omáčka,sójová omáčka,20,10.6,1.5,1.5,0.0,,0.3,kaloricke_tabulky
+2025-12-10,dinner,žampiony,žampiony,100,27.9,2.8,3.0,0.2,1.4,0.3,kaloricke_tabulky
+2025-12-26,lunch,brambory syrové,brambory syrové,250,221.0,5.0,47.5,0.5,3.8,2.5,kaloricke_tabulky
+2025-12-26,lunch,cibule,cibule,70,30.4,1.0,6.2,0.2,1.8,4.3,kaloricke_tabulky
+2025-12-26,lunch,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",290,306.0,67.0,0.0,4.3,,0.0,kaloricke_tabulky
+2025-12-26,lunch,mrkev,mrkev,180,75.5,1.8,13.2,0.4,6.3,10.1,kaloricke_tabulky
+2025-12-26,afternoon_snack,kiwi,kiwi,55,38.9,0.6,7.6,0.3,1.7,5.1,kaloricke_tabulky
+2025-12-26,afternoon_snack,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2025-12-26,dinner,Hovězí maso z pupku flank steak Maso uzeniny Polička,Hovězí maso z pupku flank steak Maso uzeniny Polička,344,533.0,72.2,1.7,24.1,,1.7,kaloricke_tabulky
+2025-12-26,dinner,brambory syrové,brambory syrové,320,283.0,6.4,60.8,0.6,4.8,3.2,kaloricke_tabulky
+2025-12-26,dinner,mrkev,mrkev,140,58.7,1.4,10.3,0.3,4.9,7.8,kaloricke_tabulky
+2025-12-26,dinner,olej olivový extra panenský,olej olivový extra panenský,10,81.9,0.0,0.0,9.1,0.0,0.0,kaloricke_tabulky
+2025-12-26,second_dinner,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2025-12-27,breakfast,100% Pure Whey protein Jahoda ATP Nutrition,100% Pure Whey protein Jahoda ATP Nutrition,30,116.0,21.6,5.4,0.2,0.0,5.4,kaloricke_tabulky
+2025-12-27,lunch,cibule,cibule,55,23.9,0.8,4.9,0.1,1.4,3.4,kaloricke_tabulky
+2025-12-27,lunch,rýže jasmínová,rýže jasmínová,45,156.0,3.1,35.5,0.0,0.7,0.0,kaloricke_tabulky
+2025-12-27,lunch,vepřová panenka,vepřová panenka,240,313.0,49.1,0.0,13.0,,,kaloricke_tabulky
+2025-12-27,afternoon_snack,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2025-12-27,dinner,cibule,cibule,42,18.2,0.6,3.7,0.1,1.1,2.6,kaloricke_tabulky
+2025-12-27,dinner,kiwi,kiwi,50,35.3,0.5,6.9,0.3,1.5,4.6,kaloricke_tabulky
+2025-12-27,dinner,mrkev,mrkev,220,92.3,2.2,16.1,0.5,7.7,12.3,kaloricke_tabulky
+2025-12-27,dinner,rýže jasmínová,rýže jasmínová,45,156.0,3.1,35.5,0.0,0.7,0.0,kaloricke_tabulky
+2025-12-27,dinner,sójová omáčka,sójová omáčka,14,7.4,1.1,1.1,0.0,,0.2,kaloricke_tabulky
+2025-12-27,dinner,vepřová panenka,vepřová panenka,240,313.0,49.1,0.0,13.0,,,kaloricke_tabulky
+2025-12-27,second_dinner,Cornies kukuřičné s lněným semínkem Racio,Cornies kukuřičné s lněným semínkem Racio,80,311.0,7.6,56.8,4.4,5.7,0.6,kaloricke_tabulky
+2025-12-27,second_dinner,vločky protein,vločky protein,95,374.0,31.0,46.2,6.2,4.3,2.8,kaloricke_tabulky
+2025-12-27,second_dinner,švestky,švestky,75,37.2,0.4,7.9,0.2,1.2,6.9,kaloricke_tabulky
+2025-12-28,lunch,cibule,cibule,42,18.2,0.6,3.7,0.1,1.1,2.6,kaloricke_tabulky
+2025-12-28,lunch,mrkev,mrkev,220,92.3,2.2,16.1,0.5,7.7,12.3,kaloricke_tabulky
+2025-12-28,lunch,rýže jasmínová,rýže jasmínová,45,156.0,3.1,35.5,0.0,0.7,0.0,kaloricke_tabulky
+2025-12-28,lunch,sójová omáčka,sójová omáčka,14,7.4,1.1,1.1,0.0,,0.2,kaloricke_tabulky
+2025-12-28,lunch,vepřová panenka,vepřová panenka,210,274.0,43.0,0.0,11.4,,,kaloricke_tabulky
+2025-12-28,afternoon_snack,vločky protein,vločky protein,95,374.0,34.1,43.2,6.1,4.3,2.8,kaloricke_tabulky
+2025-12-28,dinner,Cornies kukuřičné s lněným semínkem Racio,Cornies kukuřičné s lněným semínkem Racio,50,195.0,4.8,35.5,2.8,3.5,0.4,kaloricke_tabulky
+2025-12-28,dinner,Soba noodles Vitasia Japanese style,Soba noodles Vitasia Japanese style,75,262.0,9.0,52.2,1.1,2.5,1.6,kaloricke_tabulky
+2025-12-28,dinner,brokolice,brokolice,250,109.0,8.2,14.2,0.5,7.5,6.2,kaloricke_tabulky
+2025-12-28,dinner,kachní prsa syrová kachna domácí,kachní prsa syrová kachna domácí,180,237.0,32.4,0.0,9.0,,,kaloricke_tabulky
+2025-12-28,dinner,pomeranč,pomeranč,150,74.5,1.4,16.6,0.3,4.6,10.9,kaloricke_tabulky
+2025-12-28,second_dinner,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2025-12-29,breakfast,Coleslaw Mix Eisberg,Coleslaw Mix Eisberg,180,78.2,2.3,13.5,0.9,,8.1,kaloricke_tabulky
+2025-12-29,breakfast,"High protein milk 0,9% tuku Olma","High protein milk 0,9% tuku Olma",340,180.0,20.4,17.3,3.1,,17.3,kaloricke_tabulky
+2025-12-29,breakfast,Siracha Hot Chilli Sauce,Siracha Hot Chilli Sauce,11,11.9,0.2,2.5,0.1,,2.2,kaloricke_tabulky
+2025-12-29,breakfast,vaječné bílky karton Wiesenhof,vaječné bílky karton Wiesenhof,220,103.0,24.4,1.5,0.2,1.1,0.9,kaloricke_tabulky
+2025-12-29,lunch,brokolice,brokolice,250,109.0,8.2,14.2,0.5,7.5,6.2,kaloricke_tabulky
+2025-12-29,lunch,losos bez kůže,losos bez kůže,240,380.0,53.0,0.0,18.7,,,kaloricke_tabulky
+2025-12-29,lunch,rýže jasmínová,rýže jasmínová,45,156.0,3.1,35.5,0.0,0.7,0.0,kaloricke_tabulky
+2025-12-29,afternoon_snack,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2025-12-29,dinner,Vegetable mix Freshona,Vegetable mix Freshona,200,55.9,3.8,6.2,1.0,,5.8,kaloricke_tabulky
+2025-12-29,dinner,brambory syrové,brambory syrové,240,212.0,4.8,45.6,0.5,3.6,2.4,kaloricke_tabulky
+2025-12-29,dinner,losos bez kůže,losos bez kůže,220,348.0,48.6,0.0,17.2,,,kaloricke_tabulky
+2025-12-29,dinner,pomeranč,pomeranč,150,74.5,1.4,16.6,0.3,4.6,10.9,kaloricke_tabulky
+2025-12-29,second_dinner,pomeranč,pomeranč,150,74.5,1.4,16.6,0.3,4.6,10.9,kaloricke_tabulky
+2025-12-29,second_dinner,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2025-12-30,morning_snack,vločky protein,vločky protein,60,235.0,26.4,22.4,3.7,2.7,1.7,kaloricke_tabulky
+2025-12-30,lunch,Klokaní steak Kängurusteaks,Klokaní steak Kängurusteaks,200,195.0,43.2,0.4,2.0,,0.4,kaloricke_tabulky
+2025-12-30,lunch,Vegetable mix Freshona,Vegetable mix Freshona,257,71.8,4.9,8.0,1.3,,7.5,kaloricke_tabulky
+2025-12-30,lunch,brambory syrové,brambory syrové,260,230.0,5.2,49.4,0.5,3.9,2.6,kaloricke_tabulky
+2025-12-30,lunch,olej olivový extra panenský,olej olivový extra panenský,7,57.4,0.0,0.0,6.4,0.0,0.0,kaloricke_tabulky
+2025-12-30,afternoon_snack,pomeranč,pomeranč,300,149.0,2.8,33.1,0.7,9.2,21.9,kaloricke_tabulky
+2025-12-30,afternoon_snack,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2025-12-30,dinner,Soba noodles Vitasia Japanese style,Soba noodles Vitasia Japanese style,75,262.0,9.0,52.2,1.1,2.5,1.6,kaloricke_tabulky
+2025-12-30,dinner,Zeleninová směs Svíčková pruh Agro Jesenice,Zeleninová směs Svíčková pruh Agro Jesenice,260,88.2,2.6,15.7,1.6,8.3,10.6,kaloricke_tabulky
+2025-12-30,dinner,cibule červená,cibule červená,60,30.4,0.9,6.0,0.1,1.2,4.2,kaloricke_tabulky
+2025-12-30,dinner,vepřová panenka,vepřová panenka,240,313.0,49.1,0.0,13.0,,,kaloricke_tabulky
+2025-12-30,dinner,česnek,česnek,20,26.0,1.2,5.0,0.1,0.3,0.6,kaloricke_tabulky
+2025-12-30,second_dinner,"High protein milk 0,9% tuku Olma","High protein milk 0,9% tuku Olma",200,106.0,12.0,10.2,1.8,,10.2,kaloricke_tabulky
+2025-12-30,second_dinner,Tvaroh odtučněný Pilos,Tvaroh odtučněný Pilos,250,160.0,27.5,8.5,1.2,0.0,8.5,kaloricke_tabulky
+2025-12-30,second_dinner,kakao,kakao,6,18.3,1.3,0.7,0.7,2.1,0.0,kaloricke_tabulky
+2025-12-31,breakfast,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,18,68.8,13.5,1.2,1.0,,0.9,kaloricke_tabulky
+2025-12-31,breakfast,Řecký jogurt bílý 0% tuku Milko,Řecký jogurt bílý 0% tuku Milko,200,115.0,20.0,7.0,0.6,,7.0,kaloricke_tabulky
+2025-12-31,lunch,Soba noodles Vitasia Japanese style,Soba noodles Vitasia Japanese style,75,262.0,9.0,52.2,1.1,2.5,1.6,kaloricke_tabulky
+2025-12-31,lunch,Zeleninová směs pod svíčkovou hranolky Clever,Zeleninová směs pod svíčkovou hranolky Clever,260,93.1,4.7,14.6,1.3,,9.1,kaloricke_tabulky
+2025-12-31,lunch,cibule červená,cibule červená,55,27.8,0.8,5.5,0.1,1.1,3.9,kaloricke_tabulky
+2025-12-31,lunch,vepřová panenka,vepřová panenka,260,339.0,53.2,0.0,14.1,,,kaloricke_tabulky
+2025-12-31,lunch,česnek,česnek,10,13.0,0.6,2.5,0.0,0.1,0.3,kaloricke_tabulky
+2025-12-31,afternoon_snack,pomeranč,pomeranč,150,74.5,1.4,16.6,0.3,4.6,10.9,kaloricke_tabulky
+2025-12-31,afternoon_snack,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2025-12-31,dinner,Polévková Agro Jesenice,Polévková Agro Jesenice,200,68.8,4.1,7.6,1.2,5.5,6.4,kaloricke_tabulky
+2025-12-31,dinner,kureci rýže,kureci rýže,380,484.0,66.7,44.9,4.2,10.8,9.0,kaloricke_tabulky
+2025-12-31,dinner,sójová omáčka,sójová omáčka,14,7.4,1.1,1.1,0.0,,0.2,kaloricke_tabulky
+2025-12-31,dinner,česnek,česnek,5,6.5,0.3,1.2,0.0,0.1,0.2,kaloricke_tabulky
+2025-12-31,second_dinner,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2026-01-01,breakfast,kakao,kakao,3,9.2,0.6,0.4,0.3,1.0,0.0,kaloricke_tabulky
+2026-01-01,breakfast,Řecký jogurt bílý 0% tuku Milko,Řecký jogurt bílý 0% tuku Milko,200,115.0,20.0,7.0,0.6,,7.0,kaloricke_tabulky
+2026-01-01,lunch,svíčková omáčka s hovězím masem a houskovým knedlíkem,svíčková omáčka s hovězím masem a houskovým knedlíkem,400,609.0,24.0,68.8,26.4,3.2,14.8,kaloricke_tabulky
+2026-01-01,afternoon_snack,"jednohubky Rama, klobása, sýr","jednohubky Rama, klobása, sýr",180,447.0,18.0,22.9,31.1,1.8,1.8,kaloricke_tabulky
+2026-01-01,dinner,kureci rýže,kureci rýže,660,594.0,70.5,68.5,4.5,18.7,15.6,kaloricke_tabulky
+2026-01-01,dinner,vejce slepičí,vejce slepičí,55,83.0,6.8,0.5,6.0,,0.2,kaloricke_tabulky
+2026-01-01,second_dinner,"High protein milk 0,9% tuku Olma","High protein milk 0,9% tuku Olma",300,159.0,18.0,15.3,2.7,,15.3,kaloricke_tabulky
+2026-01-01,second_dinner,jablko,jablko,600,376.0,2.2,77.7,2.4,18.8,65.9,kaloricke_tabulky
+2026-01-01,second_dinner,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2026-01-02,lunch,kureci rýže,kureci rýže,680,567.0,74.3,82.8,7.3,19.3,16.1,kaloricke_tabulky
+2026-01-02,afternoon_snack,jablko,jablko,110,69.0,0.4,14.2,0.4,3.5,12.1,kaloricke_tabulky
+2026-01-02,afternoon_snack,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2026-01-02,dinner,jablko,jablko,330,207.0,1.2,42.7,1.3,10.4,36.2,kaloricke_tabulky
+2026-01-02,dinner,kureci rýže,kureci rýže,270,368.0,41.3,44.9,2.5,7.6,6.4,kaloricke_tabulky
+2026-01-02,dinner,kuřecí maso dušené,kuřecí maso dušené,210,355.0,57.3,0.0,14.1,,,kaloricke_tabulky
+2026-01-02,second_dinner,"High protein milk 0,9% tuku Olma","High protein milk 0,9% tuku Olma",185,98.1,11.1,9.4,1.7,,9.4,kaloricke_tabulky
+2026-01-02,second_dinner,kakao,kakao,6,18.3,1.3,0.7,0.7,2.1,0.0,kaloricke_tabulky
+2026-01-03,breakfast,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2026-01-03,lunch,Chilli paprika ostrá Rolnik,Chilli paprika ostrá Rolnik,5,2.8,0.1,0.5,0.0,,0.1,kaloricke_tabulky
+2026-01-03,lunch,"Hovězí po Burgundsku Beef Bourguignon 1 kg hovězí kýty, cibule, mrkev, koření, červené suché víno, extra panenský olivový olej, máslo, sterilovaná cibulka","Hovězí po Burgundsku Beef Bourguignon 1 kg hovězí kýty, cibule, mrkev, koření, červené suché víno, extra panenský olivový olej, máslo, sterilovaná cibulka",5,7.9,0.7,0.2,0.3,0.0,,kaloricke_tabulky
+2026-01-03,lunch,Polévková směs jemně krájená Freshona,Polévková směs jemně krájená Freshona,200,75.9,3.2,10.0,1.4,5.8,6.6,kaloricke_tabulky
+2026-01-03,lunch,cibule červená,cibule červená,60,30.4,0.9,6.0,0.1,1.2,4.2,kaloricke_tabulky
+2026-01-03,lunch,jablko,jablko,50,31.4,0.2,6.5,0.2,1.6,5.5,kaloricke_tabulky
+2026-01-03,lunch,kureci rýže,kureci rýže,384,678.0,71.7,79.0,8.2,10.9,9.1,kaloricke_tabulky
+2026-01-03,lunch,sójová omáčka,sójová omáčka,20,10.6,1.5,1.5,0.0,,0.3,kaloricke_tabulky
+2026-01-03,lunch,sůl kuchyňská,sůl kuchyňská,5,0.0,0.0,0.0,0.0,,0.0,kaloricke_tabulky
+2026-01-03,afternoon_snack,"Rozlítaný hovězí ptáček, jasmínová rýže Hotovky Košík.cz","Rozlítaný hovězí ptáček, jasmínová rýže Hotovky Košík.cz",300,493.0,24.6,60.0,16.8,,0.9,kaloricke_tabulky
+2026-01-03,dinner,brokolice,brokolice,250,109.0,8.2,14.2,0.5,7.5,6.2,kaloricke_tabulky
+2026-01-03,dinner,losos bez kůže,losos bez kůže,200,317.0,44.2,0.0,15.6,,,kaloricke_tabulky
+2026-01-04,breakfast,losos bez kůže,losos bez kůže,100,158.0,22.1,0.0,7.8,,,kaloricke_tabulky
+2026-01-04,breakfast,rýže sushi Lagris,rýže sushi Lagris,200,707.0,13.4,160.0,1.0,1.0,1.0,kaloricke_tabulky
+2026-01-04,lunch,brokolice,brokolice,230,100.0,7.6,13.1,0.5,6.9,5.7,kaloricke_tabulky
+2026-01-04,lunch,cibule červená,cibule červená,55,27.8,0.8,5.5,0.1,1.1,3.9,kaloricke_tabulky
+2026-01-04,lunch,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",280,296.0,64.7,0.0,4.2,,0.0,kaloricke_tabulky
+2026-01-04,lunch,česnek,česnek,5,6.5,0.3,1.2,0.0,0.1,0.2,kaloricke_tabulky
+2026-01-04,afternoon_snack,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,30,115.0,22.5,2.0,1.7,,1.6,kaloricke_tabulky
+2026-01-04,afternoon_snack,jablko,jablko,150,94.1,0.6,19.4,0.6,4.7,16.5,kaloricke_tabulky
+2026-01-04,afternoon_snack,rajče cherry keříčkové,rajče cherry keříčkové,250,59.1,2.5,9.8,0.5,3.0,6.2,kaloricke_tabulky
+2026-01-04,dinner,cibule,cibule,50,21.7,0.7,4.5,0.1,1.3,3.1,kaloricke_tabulky
+2026-01-04,dinner,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",250,264.0,57.8,0.0,3.8,,0.0,kaloricke_tabulky
+2026-01-04,dinner,ledový salát,ledový salát,270,43.5,1.9,5.4,0.4,3.2,5.3,kaloricke_tabulky
+2026-01-04,second_dinner,pomeranč,pomeranč,150,74.5,1.4,16.6,0.3,4.6,10.9,kaloricke_tabulky
+2026-01-04,second_dinner,vločky protein,vločky protein,75,295.0,28.4,32.6,4.8,3.4,2.2,kaloricke_tabulky
+2026-01-05,lunch,brokolice,brokolice,240,104.0,7.9,13.7,0.5,7.2,6.0,kaloricke_tabulky
+2026-01-05,lunch,losos bez kůže,losos bez kůže,280,443.0,61.9,0.0,21.8,,,kaloricke_tabulky
+2026-01-05,lunch,rýže jasmínová,rýže jasmínová,50,173.0,3.5,39.5,0.0,0.8,0.0,kaloricke_tabulky
+2026-01-05,afternoon_snack,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2026-01-05,dinner,Polévková Agro Jesenice,Polévková Agro Jesenice,148,50.9,3.1,5.6,0.9,4.0,4.8,kaloricke_tabulky
+2026-01-05,dinner,cibule,cibule,40,17.4,0.6,3.6,0.1,1.0,2.5,kaloricke_tabulky
+2026-01-05,dinner,kuřecí prsa pečená bez kůže a tuku,kuřecí prsa pečená bez kůže a tuku,270,372.0,81.0,0.0,5.4,,,kaloricke_tabulky
+2026-01-05,dinner,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",135,143.0,31.2,0.0,2.0,,0.0,kaloricke_tabulky
+2026-01-05,dinner,rýže jasmínová,rýže jasmínová,50,173.0,3.5,39.5,0.0,0.8,0.0,kaloricke_tabulky
+2026-01-05,second_dinner,Veganer Mandel drink Gesüsst K-take it veggie,Veganer Mandel drink Gesüsst K-take it veggie,200,48.2,1.0,5.6,2.4,0.2,5.4,kaloricke_tabulky
+2026-01-05,second_dinner,jablko,jablko,100,62.7,0.4,12.9,0.4,3.1,11.0,kaloricke_tabulky
+2026-01-05,second_dinner,kuřecí prsní šunka 92% masa Pikok,kuřecí prsní šunka 92% masa Pikok,200,184.0,38.6,1.0,2.6,0.0,0.8,kaloricke_tabulky
+2026-01-05,second_dinner,pomeranč,pomeranč,100,49.7,0.9,11.0,0.2,3.1,7.3,kaloricke_tabulky
+2026-01-06,breakfast,jablko,jablko,80,50.2,0.3,10.4,0.3,2.5,8.8,kaloricke_tabulky
+2026-01-06,breakfast,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2026-01-06,lunch,Bun Bo Nam Bo,Bun Bo Nam Bo,400,585.0,27.2,82.4,14.8,7.6,19.2,kaloricke_tabulky
+2026-01-06,afternoon_snack,cibule,cibule,40,17.4,0.6,3.6,0.1,1.0,2.5,kaloricke_tabulky
+2026-01-06,afternoon_snack,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2026-01-06,dinner,Rice noodles Vitasia,Rice noodles Vitasia,50,178.0,3.5,39.5,0.3,0.5,0.0,kaloricke_tabulky
+2026-01-06,dinner,brokolice,brokolice,240,104.0,7.9,13.7,0.5,7.2,6.0,kaloricke_tabulky
+2026-01-06,dinner,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",280,296.0,64.7,0.0,4.2,,0.0,kaloricke_tabulky
+2026-01-06,dinner,vejce slepičí,vejce slepičí,110,166.0,13.6,1.0,12.0,,0.4,kaloricke_tabulky
+2026-01-07,morning_snack,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2026-01-07,lunch,Twister classic KFC,Twister classic KFC,300,750.0,33.0,69.0,36.0,,5.4,kaloricke_tabulky
+2026-01-07,lunch,hovězí vývar s nudlemi,hovězí vývar s nudlemi,200,112.0,7.8,14.0,2.4,2.0,,kaloricke_tabulky
+2026-01-07,afternoon_snack,jablko,jablko,80,50.2,0.3,10.4,0.3,2.5,8.8,kaloricke_tabulky
+2026-01-07,afternoon_snack,pomeranč,pomeranč,150,74.5,1.4,16.6,0.3,4.6,10.9,kaloricke_tabulky
+2026-01-07,dinner,cibule,cibule,60,26.0,0.8,5.3,0.1,1.5,3.7,kaloricke_tabulky
+2026-01-07,dinner,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",250,264.0,57.8,0.0,3.8,,0.0,kaloricke_tabulky
+2026-01-07,dinner,zelí červené,zelí červené,250,72.8,3.5,16.2,0.4,5.2,9.5,kaloricke_tabulky
+2026-01-07,second_dinner,Bio Mandel Drink ungesüsst K-take it veggie,Bio Mandel Drink ungesüsst K-take it veggie,150,20.1,0.8,0.8,1.8,0.8,0.8,kaloricke_tabulky
+2026-01-07,second_dinner,Holandské kakao klasické Dr. Oetker,Holandské kakao klasické Dr. Oetker,9,25.7,2.1,0.9,0.9,,0.1,kaloricke_tabulky
+2026-01-07,second_dinner,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-01-08,breakfast,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2026-01-08,morning_snack,Siracha Hot Chilli Sauce,Siracha Hot Chilli Sauce,30,32.4,0.7,6.7,0.3,,6.0,kaloricke_tabulky
+2026-01-08,morning_snack,kureci rýže,kureci rýže,560,508.0,65.3,72.1,6.1,15.9,13.3,kaloricke_tabulky
+2026-01-08,afternoon_snack,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2026-01-08,dinner,brokolice,brokolice,250,109.0,8.2,14.2,0.5,7.5,6.2,kaloricke_tabulky
+2026-01-08,dinner,jablko,jablko,100,62.7,0.4,12.9,0.4,3.1,11.0,kaloricke_tabulky
+2026-01-08,dinner,kureci rýže,kureci rýže,355,460.0,47.0,60.4,3.5,10.1,8.4,kaloricke_tabulky
+2026-01-08,dinner,vaječný bílek,vaječný bílek,77,38.5,8.7,0.6,0.1,,0.3,kaloricke_tabulky
+2026-01-08,second_dinner,Bio Mandel Drink ungesüsst K-take it veggie,Bio Mandel Drink ungesüsst K-take it veggie,300,40.1,1.5,1.5,3.6,1.5,1.5,kaloricke_tabulky
+2026-01-08,second_dinner,kakao,kakao,7,21.4,1.5,0.9,0.8,2.4,0.0,kaloricke_tabulky
+2026-01-08,second_dinner,mandlové mléko,mandlové mléko,200,57.7,1.2,6.0,2.8,2.0,6.0,kaloricke_tabulky
+2026-01-08,second_dinner,pomeranč,pomeranč,150,74.5,1.4,16.6,0.3,4.6,10.9,kaloricke_tabulky
+2026-01-09,breakfast,jablko,jablko,170,107.0,0.6,22.0,0.7,5.3,18.7,kaloricke_tabulky
+2026-01-09,breakfast,Řecký jogurt bílý 0% tuku Milko,Řecký jogurt bílý 0% tuku Milko,300,173.0,30.0,10.5,0.9,,10.5,kaloricke_tabulky
+2026-01-09,lunch,Rice noodles Vitasia,Rice noodles Vitasia,52,185.0,3.6,41.1,0.3,0.5,0.0,kaloricke_tabulky
+2026-01-09,lunch,brokolice,brokolice,260,113.0,8.6,14.8,0.5,7.8,6.5,kaloricke_tabulky
+2026-01-09,lunch,kureci rýže,kureci rýže,310,291.0,59.2,5.2,3.9,8.8,7.3,kaloricke_tabulky
+2026-01-09,lunch,okurka salátová,okurka salátová,110,17.3,0.9,2.5,0.2,1.0,1.6,kaloricke_tabulky
+2026-01-09,afternoon_snack,vločky protein,vločky protein,105,412.0,41.6,43.8,6.6,4.7,3.1,kaloricke_tabulky
+2026-01-09,dinner,brokolice,brokolice,250,109.0,8.2,14.2,0.5,7.5,6.2,kaloricke_tabulky
+2026-01-09,dinner,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",280,296.0,64.7,0.0,4.2,,0.0,kaloricke_tabulky
+2026-01-09,dinner,ledový salát,ledový salát,180,29.0,1.3,3.6,0.2,2.2,3.5,kaloricke_tabulky
+2026-01-09,dinner,ocet,ocet,100,16.0,0.0,4.0,0.0,0.0,3.5,kaloricke_tabulky
+2026-01-09,dinner,okurka salátová,okurka salátová,150,23.6,1.2,3.4,0.3,1.4,2.2,kaloricke_tabulky
+2026-01-09,dinner,sójová omáčka,sójová omáčka,14,7.4,1.1,1.1,0.0,,0.2,kaloricke_tabulky
+2026-01-10,breakfast,vločky protein,vločky protein,62,245.0,19.3,31.1,4.0,2.8,1.8,kaloricke_tabulky
+2026-01-10,lunch,Ocet jablečný kvasný - Bzenecký ocet,Ocet jablečný kvasný - Bzenecký ocet,60,11.2,0.1,0.5,0.1,,0.1,kaloricke_tabulky
+2026-01-10,lunch,Siracha Hot Chilli Sauce,Siracha Hot Chilli Sauce,50,54.0,1.1,11.2,0.5,,10.0,kaloricke_tabulky
+2026-01-10,lunch,brokolice,brokolice,250,109.0,8.2,14.2,0.5,7.5,6.2,kaloricke_tabulky
+2026-01-10,lunch,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",250,264.0,57.8,0.0,3.8,,0.0,kaloricke_tabulky
+2026-01-10,lunch,sójová omáčka,sójová omáčka,28,14.8,2.1,2.1,0.0,,0.5,kaloricke_tabulky
+2026-01-10,lunch,zelí červené,zelí červené,550,160.0,7.7,35.8,0.9,11.6,20.9,kaloricke_tabulky
+2026-01-10,afternoon_snack,jablko,jablko,100,62.7,0.4,12.9,0.4,3.1,11.0,kaloricke_tabulky
+2026-01-10,afternoon_snack,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2026-01-10,dinner,Rice noodles Vitasia,Rice noodles Vitasia,50,178.0,3.5,39.5,0.3,0.5,0.0,kaloricke_tabulky
+2026-01-10,dinner,brokolice,brokolice,250,109.0,8.2,14.2,0.5,7.5,6.2,kaloricke_tabulky
+2026-01-10,dinner,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",196,207.0,45.3,0.0,2.9,,0.0,kaloricke_tabulky
+2026-01-10,second_dinner,Bio Mandel Drink ungesüsst K-take it veggie,Bio Mandel Drink ungesüsst K-take it veggie,200,26.7,1.0,1.0,2.4,1.0,1.0,kaloricke_tabulky
+2026-01-10,second_dinner,kakao,kakao,8,24.4,1.7,1.0,0.9,2.8,0.0,kaloricke_tabulky
+2026-01-10,second_dinner,pomeranč,pomeranč,150,74.5,1.4,16.6,0.3,4.6,10.9,kaloricke_tabulky
+2026-01-10,second_dinner,vločky protein,vločky protein,75,295.0,28.4,32.6,4.8,3.4,2.2,kaloricke_tabulky
+2026-01-11,breakfast,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,15,57.4,11.2,1.0,0.8,,0.8,kaloricke_tabulky
+2026-01-11,breakfast,Tvaroh odtučněný Pilos,Tvaroh odtučněný Pilos,250,160.0,27.5,8.5,1.2,0.0,8.5,kaloricke_tabulky
+2026-01-11,breakfast,jablko,jablko,100,62.7,0.4,12.9,0.4,3.1,11.0,kaloricke_tabulky
+2026-01-11,lunch,Nudle soba Chunsi,Nudle soba Chunsi,75,267.0,12.6,49.5,1.2,,1.1,kaloricke_tabulky
+2026-01-11,lunch,Siracha Hot Chilli Sauce,Siracha Hot Chilli Sauce,60,64.8,1.4,13.4,0.6,,12.0,kaloricke_tabulky
+2026-01-11,lunch,brokolice,brokolice,280,122.0,9.2,16.0,0.6,8.4,7.0,kaloricke_tabulky
+2026-01-11,lunch,cibule,cibule,30,13.0,0.4,2.7,0.1,0.8,1.8,kaloricke_tabulky
+2026-01-11,lunch,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",280,296.0,64.7,0.0,4.2,,0.0,kaloricke_tabulky
+2026-01-11,lunch,sójová omáčka,sójová omáčka,14,7.4,1.1,1.1,0.0,,0.2,kaloricke_tabulky
+2026-01-11,afternoon_snack,Bio Veganer Kokos-Reis Drink K-take it veggie,Bio Veganer Kokos-Reis Drink K-take it veggie,200,40.1,1.0,5.6,1.8,1.0,3.8,kaloricke_tabulky
+2026-01-11,afternoon_snack,jablko,jablko,100,62.7,0.4,12.9,0.4,3.1,11.0,kaloricke_tabulky
+2026-01-11,afternoon_snack,rajče cherry keříčkové,rajče cherry keříčkové,220,52.0,2.2,8.6,0.4,2.6,5.5,kaloricke_tabulky
+2026-01-11,afternoon_snack,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2026-01-11,afternoon_snack,švestky mražené,švestky mražené,100,71.7,0.5,17.1,0.1,2.0,10.0,kaloricke_tabulky
+2026-01-11,dinner,Bio Mandel Drink ungesüsst K-take it veggie,Bio Mandel Drink ungesüsst K-take it veggie,300,40.1,1.5,1.5,3.6,1.5,1.5,kaloricke_tabulky
+2026-01-11,dinner,Holandské kakao klasické Dr. Oetker,Holandské kakao klasické Dr. Oetker,10,28.5,2.3,1.0,1.0,,0.1,kaloricke_tabulky
+2026-01-11,dinner,cibule,cibule,40,17.4,0.6,3.6,0.1,1.0,2.5,kaloricke_tabulky
+2026-01-11,dinner,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",250,264.0,57.8,0.0,3.8,,0.0,kaloricke_tabulky
+2026-01-11,dinner,ledový salát,ledový salát,150,24.1,1.1,3.0,0.2,1.8,3.0,kaloricke_tabulky
+2026-01-12,breakfast,Tvaroh odtučněný Pilos,Tvaroh odtučněný Pilos,250,160.0,27.5,8.5,1.2,0.0,8.5,kaloricke_tabulky
+2026-01-12,breakfast,jablko,jablko,90,56.5,0.3,11.7,0.4,2.8,9.9,kaloricke_tabulky
+2026-01-12,lunch,Gemüsemischung chinesischer art K-Classic,Gemüsemischung chinesischer art K-Classic,230,57.7,3.7,29.9,2.3,4.6,7.4,kaloricke_tabulky
+2026-01-12,lunch,cibule červená,cibule červená,55,27.8,0.8,5.5,0.1,1.1,3.9,kaloricke_tabulky
+2026-01-12,lunch,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",235,248.0,54.3,0.0,3.5,,0.0,kaloricke_tabulky
+2026-01-12,lunch,rýže jasmínová,rýže jasmínová,50,173.0,3.5,39.5,0.0,0.8,0.0,kaloricke_tabulky
+2026-01-12,lunch,sójová omáčka,sójová omáčka,14,7.4,1.1,1.1,0.0,,0.2,kaloricke_tabulky
+2026-01-12,lunch,česnek,česnek,5,6.5,0.3,1.2,0.0,0.1,0.2,kaloricke_tabulky
+2026-01-12,afternoon_snack,jablko,jablko,130,81.5,0.5,16.8,0.5,4.1,14.3,kaloricke_tabulky
+2026-01-12,afternoon_snack,vločky protein,vločky protein,90,353.0,36.5,36.7,5.7,4.1,2.6,kaloricke_tabulky
+2026-01-12,dinner,Pepsi,Pepsi,600,172.0,0.0,42.0,0.0,,42.0,kaloricke_tabulky
+2026-01-12,dinner,kureci rýže,kureci rýže,450,437.0,49.2,66.9,4.5,12.7,10.7,kaloricke_tabulky
+2026-01-12,dinner,okurka salátová,okurka salátová,280,44.1,2.3,6.4,0.5,2.6,4.1,kaloricke_tabulky
+2026-01-12,second_dinner,Tvaroh odtučněný Pilos,Tvaroh odtučněný Pilos,250,160.0,27.5,8.5,1.2,0.0,8.5,kaloricke_tabulky
+2026-01-12,second_dinner,ostružiny hluboko mražené,ostružiny hluboko mražené,100,38.5,1.2,6.2,1.0,0.0,6.2,kaloricke_tabulky
+2026-01-13,breakfast,vločky protein,vločky protein,85,334.0,32.8,36.4,5.4,3.8,2.5,kaloricke_tabulky
+2026-01-13,lunch,kureci rýže,kureci rýže,603,490.0,58.0,82.2,6.2,17.1,14.3,kaloricke_tabulky
+2026-01-13,afternoon_snack,pomeranč,pomeranč,150,74.5,1.4,16.6,0.3,4.6,10.9,kaloricke_tabulky
+2026-01-13,afternoon_snack,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2026-01-13,dinner,Zeleninová směs Svíčková pruh Agro Jesenice,Zeleninová směs Svíčková pruh Agro Jesenice,230,78.0,2.3,13.9,1.4,7.3,9.4,kaloricke_tabulky
+2026-01-13,dinner,brambory syrové,brambory syrové,200,177.0,4.0,38.0,0.4,3.0,2.0,kaloricke_tabulky
+2026-01-13,dinner,cibule,cibule,40,17.4,0.6,3.6,0.1,1.0,2.5,kaloricke_tabulky
+2026-01-13,dinner,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",250,264.0,57.8,0.0,3.8,,0.0,kaloricke_tabulky
+2026-01-13,dinner,olej olivový extra panenský,olej olivový extra panenský,2,16.4,0.0,0.0,1.8,0.0,0.0,kaloricke_tabulky
+2026-01-13,second_dinner,Bio Mandel Drink ungesüsst K-take it veggie,Bio Mandel Drink ungesüsst K-take it veggie,200,26.7,1.0,1.0,2.4,1.0,1.0,kaloricke_tabulky
+2026-01-14,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-01-14,morning_snack,vločky protein,vločky protein,95,374.0,34.1,43.2,6.1,4.3,2.8,kaloricke_tabulky
+2026-01-14,lunch,kuřecí směs,kuřecí směs,400,669.0,100.0,48.0,12.0,,,kaloricke_tabulky
+2026-01-14,afternoon_snack,kureci rýže,kureci rýže,660,539.0,67.5,83.7,6.9,18.7,15.6,kaloricke_tabulky
+2026-01-15,breakfast,jablko,jablko,400,251.0,1.5,51.8,1.6,12.6,43.9,kaloricke_tabulky
+2026-01-15,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-01-15,morning_snack,brokolice,brokolice,270,117.0,8.9,15.4,0.5,8.1,6.7,kaloricke_tabulky
+2026-01-15,morning_snack,kureci rýže,kureci rýže,330,464.0,62.5,44.7,4.0,9.3,7.8,kaloricke_tabulky
+2026-01-15,lunch,vločky protein,vločky protein,95,374.0,34.1,43.2,6.1,4.3,2.8,kaloricke_tabulky
+2026-01-15,dinner,brokolice,brokolice,230,100.0,7.6,13.1,0.5,6.9,5.7,kaloricke_tabulky
+2026-01-15,dinner,kureci rýže,kureci rýže,320,453.0,64.3,40.3,3.9,9.1,7.6,kaloricke_tabulky
+2026-01-15,second_dinner,pomeranč,pomeranč,150,74.5,1.4,16.6,0.3,4.6,10.9,kaloricke_tabulky
+2026-01-16,breakfast,vločky protein,vločky protein,92,362.0,31.9,43.0,5.9,4.2,2.7,kaloricke_tabulky
+2026-01-16,lunch,brokolice,brokolice,230,100.0,7.6,13.1,0.5,6.9,5.7,kaloricke_tabulky
+2026-01-16,lunch,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",270,285.0,62.4,0.0,4.0,,0.0,kaloricke_tabulky
+2026-01-16,lunch,rajče keříkové,rajče keříkové,230,46.0,2.1,9.0,0.5,2.3,6.0,kaloricke_tabulky
+2026-01-16,lunch,sójová omáčka,sójová omáčka,10,5.3,0.8,0.8,0.0,,0.2,kaloricke_tabulky
+2026-01-17,breakfast,vločky protein,vločky protein,95,374.0,34.1,43.2,6.1,4.3,2.8,kaloricke_tabulky
+2026-01-17,lunch,Torti těstoviny Panzani,Torti těstoviny Panzani,110,402.0,13.2,79.2,2.2,4.0,4.1,kaloricke_tabulky
+2026-01-17,lunch,brokolice,brokolice,220,95.5,7.3,12.5,0.4,6.6,5.5,kaloricke_tabulky
+2026-01-17,lunch,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",280,296.0,64.7,0.0,4.2,,0.0,kaloricke_tabulky
+2026-01-17,afternoon_snack,vločky protein,vločky protein,100,393.0,37.8,43.5,6.4,4.5,2.9,kaloricke_tabulky
+2026-01-17,dinner,brokolice,brokolice,280,122.0,9.2,16.0,0.6,8.4,7.0,kaloricke_tabulky
+2026-01-17,dinner,kureci rýže,kureci rýže,470,455.0,62.7,40.7,4.2,13.3,11.1,kaloricke_tabulky
+2026-01-17,dinner,vejce slepičí,vejce slepičí,120,181.0,14.9,1.1,13.0,,0.4,kaloricke_tabulky
+2026-01-17,second_dinner,kiwi,kiwi,50,35.3,0.5,6.9,0.3,1.5,4.6,kaloricke_tabulky
+2026-01-17,second_dinner,pomeranč,pomeranč,150,74.5,1.4,16.6,0.3,4.6,10.9,kaloricke_tabulky
+2026-01-18,breakfast,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2026-01-18,lunch,Mražená zeleninová  směs pod svíčkovou Dle Gusta,Mražená zeleninová  směs pod svíčkovou Dle Gusta,200,52.0,2.0,14.0,0.0,,,kaloricke_tabulky
+2026-01-18,lunch,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",220,232.0,50.8,0.0,3.3,,0.0,kaloricke_tabulky
+2026-01-18,lunch,rýže jasmínová,rýže jasmínová,50,173.0,3.5,39.5,0.0,0.8,0.0,kaloricke_tabulky
+2026-01-18,lunch,zelí červené,zelí červené,320,93.2,4.5,20.8,0.5,6.7,12.2,kaloricke_tabulky
+2026-01-18,afternoon_snack,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2026-01-18,dinner,Pizza Quattro Formaggi Trattoria Alfredo,Pizza Quattro Formaggi Trattoria Alfredo,280,690.0,33.6,89.6,21.6,,10.6,kaloricke_tabulky
+2026-01-18,second_dinner,Polévková Agro Jesenice,Polévková Agro Jesenice,200,68.8,4.1,7.6,1.2,5.5,6.4,kaloricke_tabulky
+2026-01-18,second_dinner,Tortilla wraps classic Snack Day,Tortilla wraps classic Snack Day,62,194.0,6.1,32.2,4.0,1.4,1.2,kaloricke_tabulky
+2026-01-18,second_dinner,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",260,275.0,60.1,0.0,3.9,,0.0,kaloricke_tabulky
+2026-01-19,breakfast,vločky protein,vločky protein,95,374.0,34.1,43.2,6.1,4.3,2.8,kaloricke_tabulky
+2026-01-19,lunch,kureci rýže,kureci rýže,525,546.0,67.9,59.4,4.3,14.9,12.4,kaloricke_tabulky
+2026-01-19,afternoon_snack,vločky protein,vločky protein,95,374.0,34.1,43.2,6.1,4.3,2.8,kaloricke_tabulky
+2026-01-19,dinner,Mražená zeleninová  směs pod svíčkovou Dle Gusta,Mražená zeleninová  směs pod svíčkovou Dle Gusta,300,78.1,3.0,21.0,0.0,,,kaloricke_tabulky
+2026-01-19,dinner,Tortilla wraps classic Snack Day,Tortilla wraps classic Snack Day,62,194.0,6.1,32.2,4.0,1.4,1.2,kaloricke_tabulky
+2026-01-19,dinner,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",230,243.0,53.1,0.0,3.5,,0.0,kaloricke_tabulky
+2026-01-19,second_dinner,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,35,134.0,26.2,2.3,2.0,,1.8,kaloricke_tabulky
+2026-01-19,second_dinner,Tvaroh odtučněný Pilos,Tvaroh odtučněný Pilos,250,160.0,27.5,8.5,1.2,0.0,8.5,kaloricke_tabulky
+2026-01-19,second_dinner,ostružiny hluboko mražené,ostružiny hluboko mražené,100,38.5,1.2,6.2,1.0,0.0,6.2,kaloricke_tabulky
+2026-01-28,breakfast,vločky protein,vločky protein,95,374.0,34.1,43.2,6.1,4.3,2.8,kaloricke_tabulky
+2026-01-28,lunch,kureci rýže,kureci rýže,649,605.0,70.7,96.5,7.0,18.4,15.4,kaloricke_tabulky
+2026-01-28,afternoon_snack,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2026-01-28,dinner,Bun Bo Nam Bo,Bun Bo Nam Bo,400,585.0,27.2,82.4,14.8,7.6,19.2,kaloricke_tabulky
+2026-01-29,breakfast,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2026-01-29,lunch,Passata di pomodoro v krabici Freshona,Passata di pomodoro v krabici Freshona,200,67.3,3.4,11.2,0.2,,10.0,kaloricke_tabulky
+2026-01-29,lunch,kureci rýže,kureci rýže,520,503.0,67.5,66.3,5.9,14.7,12.3,kaloricke_tabulky
+2026-01-29,afternoon_snack,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2026-01-29,dinner,Polévková zeleninová směs Albert,Polévková zeleninová směs Albert,220,75.1,4.6,7.7,1.3,6.4,5.9,kaloricke_tabulky
+2026-01-29,dinner,Rýžový papír 22cm A. T. International,Rýžový papír 22cm A. T. International,44,148.0,0.8,34.8,0.0,0.9,0.0,kaloricke_tabulky
+2026-01-29,dinner,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",260,275.0,60.1,0.0,3.9,,0.0,kaloricke_tabulky
+2026-01-29,second_dinner,Recky protein,Recky protein,220,193.0,35.0,8.8,1.7,0.3,8.9,kaloricke_tabulky
+2026-01-29,second_dinner,ostružiny hluboko mražené,ostružiny hluboko mražené,100,38.5,1.2,6.2,1.0,0.0,6.2,kaloricke_tabulky
+2026-01-30,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-01-30,lunch,kureci rýže,kureci rýže,560,521.0,68.2,72.4,6.3,15.9,13.3,kaloricke_tabulky
+2026-01-30,lunch,ledový salát,ledový salát,200,32.2,1.4,4.0,0.3,2.4,3.9,kaloricke_tabulky
+2026-02-01,breakfast,Raketa zmrzlina,Raketa zmrzlina,132,119.0,0.3,28.9,0.1,,28.9,kaloricke_tabulky
+2026-02-01,morning_snack,jablko,jablko,150,94.1,0.6,19.4,0.6,4.7,16.5,kaloricke_tabulky
+2026-02-01,morning_snack,vločky protein,vločky protein,75,295.0,28.4,32.6,4.8,3.4,2.2,kaloricke_tabulky
+2026-02-01,lunch,Rajčata pasírovaná loupaná Giana,Rajčata pasírovaná loupaná Giana,150,41.2,2.2,6.2,0.8,,5.8,kaloricke_tabulky
+2026-02-01,lunch,kureci rýže,kureci rýže,286,376.0,40.1,48.4,2.5,8.1,6.8,kaloricke_tabulky
+2026-02-01,lunch,vejce slepičí,vejce slepičí,110,166.0,13.6,1.0,12.0,,0.4,kaloricke_tabulky
+2026-02-03,breakfast,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2026-02-03,lunch,kureci rýže,kureci rýže,385,500.0,69.7,45.6,4.4,10.9,9.1,kaloricke_tabulky
+2026-02-05,breakfast,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2026-02-05,morning_snack,Selský jogurt bílý Hollandia,Selský jogurt bílý Hollandia,380,256.0,14.1,17.5,14.4,,17.5,kaloricke_tabulky
+2026-02-05,morning_snack,cibule,cibule,25,10.9,0.3,2.2,0.1,0.6,1.5,kaloricke_tabulky
+2026-02-05,morning_snack,zelí bílé,zelí bílé,500,157.0,7.5,22.5,1.3,13.5,15.0,kaloricke_tabulky
+2026-02-05,lunch,batáty sladké brambory,batáty sladké brambory,270,223.0,5.4,45.9,0.4,8.1,10.8,kaloricke_tabulky
+2026-02-05,lunch,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",240,254.0,55.4,0.0,3.6,,0.0,kaloricke_tabulky
+2026-02-05,lunch,"mražená zelenina mrkev, hrášek, kukuřice Albert","mražená zelenina mrkev, hrášek, kukuřice Albert",150,77.0,5.4,12.6,0.8,7.5,0.0,kaloricke_tabulky
+2026-02-05,lunch,zelí červené,zelí červené,100,29.1,1.4,6.5,0.2,2.1,3.8,kaloricke_tabulky
+2026-02-05,dinner,Tortilla wraps classic Snack Day,Tortilla wraps classic Snack Day,124,388.0,12.3,64.5,8.1,2.9,2.4,kaloricke_tabulky
+2026-02-05,dinner,mleté kuřecí maso DZ Klatovy,mleté kuřecí maso DZ Klatovy,250,365.0,45.0,1.2,20.0,,1.2,kaloricke_tabulky
+2026-02-05,dinner,"mražená zelenina mrkev, hrášek, kukuřice Albert","mražená zelenina mrkev, hrášek, kukuřice Albert",220,113.0,7.9,18.5,1.1,11.0,0.0,kaloricke_tabulky
+2026-02-06,breakfast,vločky protein,vločky protein,95,374.0,34.1,43.2,6.1,4.3,2.8,kaloricke_tabulky
+2026-02-06,lunch,kureci rýže,kureci rýže,370,484.0,68.3,43.4,4.2,10.5,8.8,kaloricke_tabulky
+2026-02-06,lunch,květák,květák,280,98.8,6.9,12.5,0.8,7.5,8.8,kaloricke_tabulky
+2026-02-06,afternoon_snack,vločky protein,vločky protein,95,374.0,34.1,43.2,6.1,4.3,2.8,kaloricke_tabulky
+2026-02-06,dinner,Selský jogurt bílý Hollandia,Selský jogurt bílý Hollandia,200,135.0,7.4,9.2,7.6,,9.2,kaloricke_tabulky
+2026-02-06,dinner,Tortilla wraps classic Snack Day,Tortilla wraps classic Snack Day,124,388.0,12.3,64.5,8.1,2.9,2.4,kaloricke_tabulky
+2026-02-06,dinner,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",250,264.0,57.8,0.0,3.8,,0.0,kaloricke_tabulky
+2026-02-06,dinner,zelí bílé,zelí bílé,350,110.0,5.2,15.8,0.9,9.5,10.5,kaloricke_tabulky
+2026-02-09,breakfast,vločky protein,vločky protein,75,295.0,25.3,35.7,4.8,3.4,2.2,kaloricke_tabulky
+2026-02-09,lunch,brokolice,brokolice,250,109.0,8.2,14.2,0.5,7.5,6.2,kaloricke_tabulky
+2026-02-09,lunch,kureci rýže,kureci rýže,348,423.0,61.9,35.2,3.9,9.9,8.2,kaloricke_tabulky
+2026-02-09,afternoon_snack,jablko,jablko,100,62.7,0.4,12.9,0.4,3.1,11.0,kaloricke_tabulky
+2026-02-09,afternoon_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-02-10,breakfast,vločky protein,vločky protein,95,374.0,34.1,43.2,6.1,4.3,2.8,kaloricke_tabulky
+2026-02-10,afternoon_snack,pizza se salámem a šunkou mražená,pizza se salámem a šunkou mražená,250,540.0,17.0,92.5,9.5,,16.5,kaloricke_tabulky
+2026-02-11,breakfast,Tvaroh odtučněný Pilos,Tvaroh odtučněný Pilos,250,160.0,27.5,8.5,1.2,0.0,8.5,kaloricke_tabulky
+2026-02-11,breakfast,jablko,jablko,110,69.0,0.4,14.2,0.4,3.5,12.1,kaloricke_tabulky
+2026-02-11,lunch,Siracha Hot Chilli Sauce,Siracha Hot Chilli Sauce,10,10.8,0.2,2.2,0.1,,2.0,kaloricke_tabulky
+2026-02-11,lunch,batáty sladké brambory,batáty sladké brambory,280,232.0,5.6,47.6,0.4,8.4,11.2,kaloricke_tabulky
+2026-02-11,lunch,cibule,cibule,60,26.0,0.8,5.3,0.1,1.5,3.7,kaloricke_tabulky
+2026-02-11,lunch,"kuřecí prsa bez kůže vařená, dušená","kuřecí prsa bez kůže vařená, dušená",160,228.0,46.2,0.0,4.8,,,kaloricke_tabulky
+2026-02-11,lunch,pekingské zelí,pekingské zelí,250,57.4,3.2,6.7,0.5,7.0,,kaloricke_tabulky
+2026-02-11,lunch,ředkev bílá,ředkev bílá,350,90.6,4.5,14.7,0.3,5.6,9.1,kaloricke_tabulky
+2026-02-11,afternoon_snack,vločky protein,vločky protein,95,374.0,34.1,43.2,6.1,4.3,2.8,kaloricke_tabulky
+2026-02-11,dinner,brokolice,brokolice,260,113.0,8.6,14.8,0.5,7.8,6.5,kaloricke_tabulky
+2026-02-11,dinner,kureci rýže,kureci rýže,388,465.0,66.9,39.7,4.4,11.0,9.2,kaloricke_tabulky
+2026-02-11,dinner,mrkev,mrkev,100,42.0,1.0,7.3,0.2,3.5,5.6,kaloricke_tabulky
+2026-02-12,breakfast,vločky protein,vločky protein,95,374.0,34.1,43.2,6.1,4.3,2.8,kaloricke_tabulky
+2026-02-12,lunch,brokolice,brokolice,260,113.0,8.6,14.8,0.5,7.8,6.5,kaloricke_tabulky
+2026-02-12,lunch,kureci rýže,kureci rýže,368,444.0,64.4,37.5,4.1,10.4,8.7,kaloricke_tabulky
+2026-02-12,afternoon_snack,vločky protein,vločky protein,95,374.0,34.1,43.2,6.1,4.3,2.8,kaloricke_tabulky
+2026-02-12,dinner,Tortilla wraps wholemeal Snack Day,Tortilla wraps wholemeal Snack Day,124,386.0,12.4,65.7,9.4,8.2,4.1,kaloricke_tabulky
+2026-02-12,dinner,kureci rýže,kureci rýže,330,313.0,59.7,9.7,4.1,9.3,7.8,kaloricke_tabulky
+2026-02-12,dinner,mrkev,mrkev,250,105.0,2.5,18.4,0.6,8.8,14.0,kaloricke_tabulky
+2026-02-12,second_dinner,jablko,jablko,2,1.3,0.0,0.3,0.0,0.1,0.2,kaloricke_tabulky
+2026-02-13,breakfast,mrkev,mrkev,80,33.6,0.8,5.9,0.2,2.8,4.5,kaloricke_tabulky
+2026-02-13,breakfast,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2026-02-13,lunch,brokolice,brokolice,250,109.0,8.2,14.2,0.5,7.5,6.2,kaloricke_tabulky
+2026-02-13,lunch,kureci rýže,kureci rýže,357,430.0,64.1,34.5,4.0,10.1,8.5,kaloricke_tabulky
+2026-02-13,afternoon_snack,vločky protein,vločky protein,90,355.0,30.4,42.8,5.8,4.1,2.6,kaloricke_tabulky
+2026-02-13,dinner,Mražená zeleninová  směs pod svíčkovou Dle Gusta,Mražená zeleninová  směs pod svíčkovou Dle Gusta,250,65.0,2.5,17.5,0.0,,,kaloricke_tabulky
+2026-02-13,dinner,Passata di pomodoro v krabici Freshona,Passata di pomodoro v krabici Freshona,160,53.9,2.7,9.0,0.2,,8.0,kaloricke_tabulky
+2026-02-13,dinner,kureci rýže,kureci rýže,317,394.0,57.0,33.5,3.6,9.0,7.5,kaloricke_tabulky
+2026-02-13,second_dinner,Bio Mandel Drink ungesüsst K-take it veggie,Bio Mandel Drink ungesüsst K-take it veggie,420,56.2,2.1,2.1,5.0,2.1,2.1,kaloricke_tabulky
+2026-02-13,second_dinner,Puding vanilka (hotový výrobek) Dr.Oetker,Puding vanilka (hotový výrobek) Dr.Oetker,38,32.8,1.1,5.7,0.5,,3.6,kaloricke_tabulky
+2026-02-16,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-02-16,morning_snack,pomeranč,pomeranč,120,59.6,1.1,13.2,0.3,3.7,8.8,kaloricke_tabulky
+2026-02-16,lunch,brokolice,brokolice,230,100.0,7.6,13.1,0.5,6.9,5.7,kaloricke_tabulky
+2026-02-16,lunch,kureci rýže,kureci rýže,358,433.0,64.2,35.2,4.0,10.1,8.5,kaloricke_tabulky
+2026-02-16,lunch,mrkev,mrkev,90,37.8,0.9,6.6,0.2,3.2,5.0,kaloricke_tabulky
+2026-02-16,afternoon_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-02-16,dinner,kureci rýže,kureci rýže,610,429.0,69.8,23.5,4.5,17.3,14.4,kaloricke_tabulky
+2026-02-16,dinner,mrkev,mrkev,80,33.6,0.8,5.9,0.2,2.8,4.5,kaloricke_tabulky
+2026-02-16,dinner,rajčata,rajčata,280,70.7,2.7,11.4,0.6,4.6,8.0,kaloricke_tabulky
+2026-02-16,dinner,vejce slepičí,vejce slepičí,60,90.6,7.4,0.6,6.5,,0.2,kaloricke_tabulky
+2026-02-17,morning_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-02-17,lunch,Chicken madras,Chicken madras,200,215.0,48.0,18.0,30.0,,,kaloricke_tabulky
+2026-02-17,lunch,Naan (indický chléb),Naan (indický chléb),200,505.0,22.0,74.0,13.5,,,kaloricke_tabulky
+2026-02-17,afternoon_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-02-17,dinner,Passata di pomodoro v krabici Freshona,Passata di pomodoro v krabici Freshona,200,67.3,3.4,11.2,0.2,,10.0,kaloricke_tabulky
+2026-02-17,dinner,kureci rýže,kureci rýže,600,556.0,66.7,59.5,4.1,17.0,14.2,kaloricke_tabulky
+2026-02-17,dinner,mrkev,mrkev,200,83.9,2.0,14.7,0.4,7.0,11.2,kaloricke_tabulky
+2026-02-18,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-02-18,morning_snack,Bun Bo Nam Bo,Bun Bo Nam Bo,350,512.0,23.8,72.1,12.9,6.7,16.8,kaloricke_tabulky
+2026-02-18,morning_snack,smažené vietnamské jarní závitky,smažené vietnamské jarní závitky,100,324.0,13.4,10.1,25.2,2.0,0.5,kaloricke_tabulky
+2026-02-18,lunch,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-02-19,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-02-19,morning_snack,kureci rýže,kureci rýže,626,542.0,66.8,54.2,4.6,17.7,14.8,kaloricke_tabulky
+2026-02-19,afternoon_snack,maliny mražené,maliny mražené,100,61.5,1.1,11.2,0.3,5.0,5.0,kaloricke_tabulky
+2026-02-19,afternoon_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-02-19,dinner,kureci rýže,kureci rýže,657,561.0,74.6,51.4,4.6,18.6,15.6,kaloricke_tabulky
+2026-02-19,dinner,mrkev,mrkev,250,105.0,2.5,18.4,0.6,8.8,14.0,kaloricke_tabulky
+2026-02-20,breakfast,skořice mletá,skořice mletá,3,7.4,0.1,0.8,0.1,1.6,0.0,kaloricke_tabulky
+2026-02-20,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-02-20,morning_snack,mrkev,mrkev,200,83.9,2.0,14.7,0.4,7.0,11.2,kaloricke_tabulky
+2026-02-20,lunch,kureci rýže,kureci rýže,537,495.0,66.1,45.9,4.1,15.2,12.7,kaloricke_tabulky
+2026-02-20,afternoon_snack,Recky protein,Recky protein,270,222.0,40.0,10.6,1.8,0.3,10.9,kaloricke_tabulky
+2026-02-20,afternoon_snack,maliny mražené,maliny mražené,75,46.1,0.8,8.4,0.2,3.8,3.8,kaloricke_tabulky
+2026-02-20,dinner,kureci rýže,kureci rýže,553,466.0,62.0,65.6,6.0,15.7,13.1,kaloricke_tabulky
+2026-02-20,second_dinner,Almond milk Almond Breeze Unsweetened,Almond milk Almond Breeze Unsweetened,250,35.0,1.2,1.0,3.0,,0.2,kaloricke_tabulky
+2026-02-21,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-02-21,lunch,Prémiová směs Freshona,Prémiová směs Freshona,170,58.5,3.7,6.6,0.8,4.6,4.4,kaloricke_tabulky
+2026-02-21,lunch,kureci rýže,kureci rýže,558,517.0,66.0,50.8,4.3,15.8,13.2,kaloricke_tabulky
+2026-02-22,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-02-22,lunch,kapusta růžičková,kapusta růžičková,250,136.0,11.0,15.7,1.0,10.8,9.5,kaloricke_tabulky
+2026-02-22,lunch,kureci rýže,kureci rýže,493,472.0,63.2,42.8,3.9,14.0,11.7,kaloricke_tabulky
+2026-02-22,afternoon_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-02-22,dinner,kapusta růžičková,kapusta růžičková,250,136.0,11.0,15.7,1.0,10.8,9.5,kaloricke_tabulky
+2026-02-22,dinner,kureci rýže,kureci rýže,268,374.0,55.8,30.0,3.5,7.6,6.3,kaloricke_tabulky
+2026-02-22,dinner,vejce slepičí,vejce slepičí,220,332.0,27.2,2.1,23.9,,0.7,kaloricke_tabulky
+2026-02-23,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-02-23,lunch,kureci rýže,kureci rýže,618,479.0,62.0,74.7,6.6,17.5,14.6,kaloricke_tabulky
+2026-02-23,afternoon_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-02-23,dinner,Rýžový papír 22cm A. T. International,Rýžový papír 22cm A. T. International,55,185.0,1.0,43.5,0.1,1.2,0.0,kaloricke_tabulky
+2026-02-23,dinner,kureci rýže,kureci rýže,558,455.0,61.0,66.0,6.0,15.8,13.2,kaloricke_tabulky
+2026-02-24,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-03-02,morning_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-03-02,lunch,jablko,jablko,150,94.1,0.6,19.4,0.6,4.7,16.5,kaloricke_tabulky
+2026-03-02,lunch,kureci rýže,kureci rýže,598,532.0,70.7,49.4,4.4,16.9,14.2,kaloricke_tabulky
+2026-03-02,afternoon_snack,jablko,jablko,100,62.7,0.4,12.9,0.4,3.1,11.0,kaloricke_tabulky
+2026-03-02,afternoon_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-03-02,dinner,kureci rýže,kureci rýže,618,548.0,69.8,58.0,4.5,17.5,14.6,kaloricke_tabulky
+2026-03-02,second_dinner,Recky protein,Recky protein,230,232.0,42.5,9.7,2.2,0.3,9.3,kaloricke_tabulky
+2026-03-02,second_dinner,mandlové mléko,mandlové mléko,130,37.5,0.8,3.9,1.8,1.3,3.9,kaloricke_tabulky
+2026-03-03,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-03-03,morning_snack,rýže,rýže,38,131.0,3.0,29.6,0.1,0.5,0.1,kaloricke_tabulky
+2026-03-03,lunch,Torti těstoviny Panzani,Torti těstoviny Panzani,40,146.0,4.8,28.8,0.8,1.4,1.5,kaloricke_tabulky
+2026-03-04,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-03-06,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-03-06,lunch,kureci rýže,kureci rýže,648,505.0,69.4,73.2,7.0,18.4,15.3,kaloricke_tabulky
+2026-03-06,afternoon_snack,jablko,jablko,75,47.0,0.3,9.7,0.3,2.4,8.2,kaloricke_tabulky
+2026-03-06,afternoon_snack,mrkev,mrkev,240,101.0,2.4,17.6,0.5,8.4,13.4,kaloricke_tabulky
+2026-03-06,afternoon_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-03-06,dinner,kureci rýže,kureci rýže,713,535.0,74.2,79.4,7.8,20.2,16.9,kaloricke_tabulky
+2026-03-06,second_dinner,Tvaroh odtučněný Pilos,Tvaroh odtučněný Pilos,250,169.0,30.0,10.0,1.2,,10.0,kaloricke_tabulky
+2026-03-06,second_dinner,protein power vanilla Biotech USA,protein power vanilla Biotech USA,20,76.1,17.2,0.7,0.3,,0.1,kaloricke_tabulky
+2026-03-07,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-03-07,lunch,Pasírováná rajčata Podravka,Pasírováná rajčata Podravka,250,78.8,3.2,13.5,0.2,4.5,12.5,kaloricke_tabulky
+2026-03-07,lunch,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",200,211.0,46.2,0.0,3.0,,0.0,kaloricke_tabulky
+2026-03-07,lunch,rajče keříkové,rajče keříkové,150,30.0,1.4,5.8,0.3,1.5,3.9,kaloricke_tabulky
+2026-03-08,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-03-08,lunch,Mleté maso vepřové 20% tuku Tesco,Mleté maso vepřové 20% tuku Tesco,200,453.0,34.0,0.0,39.0,0.0,0.0,kaloricke_tabulky
+2026-03-08,lunch,mražená zelenina čínská směs Agro,mražená zelenina čínská směs Agro,250,65.7,3.2,9.6,1.9,6.3,5.9,kaloricke_tabulky
+2026-03-08,lunch,rýže jasmínová,rýže jasmínová,38,131.0,2.7,30.0,0.0,0.6,0.0,kaloricke_tabulky
+2026-03-08,afternoon_snack,Recky protein,Recky protein,270,222.0,40.0,10.6,1.8,0.3,10.9,kaloricke_tabulky
+2026-03-08,dinner,Delikatesní slanina uzená Dulano,Delikatesní slanina uzená Dulano,60,172.0,9.0,0.6,15.0,0.3,0.5,kaloricke_tabulky
+2026-03-08,dinner,kureci rýže,kureci rýže,310,351.0,59.7,19.4,3.9,8.8,7.3,kaloricke_tabulky
+2026-03-08,second_dinner,vločky protein,vločky protein,100,391.0,44.0,37.3,6.2,4.5,2.9,kaloricke_tabulky
+2026-03-09,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-03-09,lunch,Delikatesní slanina uzená Dulano,Delikatesní slanina uzená Dulano,39,112.0,5.8,0.4,9.8,0.2,0.4,kaloricke_tabulky
+2026-03-09,lunch,Tatarská omáčka extra krémová Hellmann's,Tatarská omáčka extra krémová Hellmann's,25,68.5,0.2,2.2,6.5,,1.7,kaloricke_tabulky
+2026-03-09,lunch,kureci rýže,kureci rýže,508,476.0,66.1,56.2,5.6,14.4,12.0,kaloricke_tabulky
+2026-03-09,afternoon_snack,Recky protein,Recky protein,270,222.0,40.0,10.6,1.8,0.3,10.9,kaloricke_tabulky
+2026-03-09,afternoon_snack,Tesco mrazené maliny,Tesco mrazené maliny,100,39.6,1.3,5.3,0.0,6.7,5.3,kaloricke_tabulky
+2026-03-09,dinner,Anglická slanina Albertovo uzenářství,Anglická slanina Albertovo uzenářství,30,115.0,3.9,1.0,10.8,,0.2,kaloricke_tabulky
+2026-03-09,dinner,Gouda 43% plátky Pilos,Gouda 43% plátky Pilos,19,64.8,4.9,0.3,4.9,,0.0,kaloricke_tabulky
+2026-03-09,dinner,kureci rýže,kureci rýže,348,428.0,63.4,34.5,4.0,9.9,8.2,kaloricke_tabulky
+2026-03-09,dinner,Česneková omáčka Kania,Česneková omáčka Kania,40,151.0,0.4,3.3,15.2,,2.6,kaloricke_tabulky
+2026-03-10,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-03-10,lunch,Mleté maso vepřové 20% tuku Tesco,Mleté maso vepřové 20% tuku Tesco,200,453.0,34.0,0.0,39.0,0.0,0.0,kaloricke_tabulky
+2026-03-10,lunch,kureci rýže,kureci rýže,140,117.0,21.5,4.5,1.5,4.0,3.3,kaloricke_tabulky
+2026-03-10,lunch,mražená zelenina čínská směs Agro,mražená zelenina čínská směs Agro,200,52.5,2.6,7.7,1.5,5.0,4.7,kaloricke_tabulky
+2026-03-10,afternoon_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-03-10,dinner,Mleté maso vepřové 20% tuku Tesco,Mleté maso vepřové 20% tuku Tesco,200,453.0,34.0,0.0,39.0,0.0,0.0,kaloricke_tabulky
+2026-03-10,dinner,mrkev,mrkev,230,96.5,2.3,16.9,0.5,8.1,12.9,kaloricke_tabulky
+2026-03-10,dinner,rýže jasmínová,rýže jasmínová,37,128.0,2.6,29.2,0.0,0.6,0.0,kaloricke_tabulky
+2026-03-11,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-03-11,lunch,bramborová kaše,bramborová kaše,200,230.0,5.4,39.0,5.5,2.0,7.8,kaloricke_tabulky
+2026-03-11,lunch,vepřové maso pečené libové,vepřové maso pečené libové,150,261.0,45.0,0.0,9.0,,0.0,kaloricke_tabulky
+2026-03-11,afternoon_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-03-12,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-03-12,lunch,Anglická slanina Albertovo uzenářství,Anglická slanina Albertovo uzenářství,30,115.0,3.9,1.0,10.8,,0.2,kaloricke_tabulky
+2026-03-12,lunch,Rýžové vlasové nudle  A.T. International,Rýžové vlasové nudle  A.T. International,50,177.0,3.4,39.1,0.2,0.9,0.0,kaloricke_tabulky
+2026-03-12,lunch,Tatarská omáčka Kania,Tatarská omáčka Kania,30,105.0,0.2,1.8,10.8,,1.5,kaloricke_tabulky
+2026-03-12,lunch,kureci rýže,kureci rýže,560,354.0,63.2,37.7,6.4,15.9,13.3,kaloricke_tabulky
+2026-03-13,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-03-13,lunch,Gouda 43% plátky Pilos,Gouda 43% plátky Pilos,60,205.0,15.6,0.8,15.6,,0.1,kaloricke_tabulky
+2026-03-13,lunch,Omáčka česneková Grill & Fun,Omáčka česneková Grill & Fun,48,162.0,0.4,4.3,15.8,,3.1,kaloricke_tabulky
+2026-03-13,lunch,kureci rýže,kureci rýže,598,530.0,69.7,49.3,4.4,16.9,14.2,kaloricke_tabulky
+2026-03-13,afternoon_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-03-15,breakfast,Raketa zmrzlina,Raketa zmrzlina,330,298.0,0.7,72.3,0.3,,72.3,kaloricke_tabulky
+2026-03-15,morning_snack,Delikatesní slanina uzená Dulano,Delikatesní slanina uzená Dulano,40,115.0,6.0,0.4,10.0,0.2,0.4,kaloricke_tabulky
+2026-03-15,morning_snack,vejce slepičí,vejce slepičí,180,272.0,22.3,1.7,19.6,,0.6,kaloricke_tabulky
+2026-03-15,lunch,kureci rýže,kureci rýže,620,583.0,73.3,59.0,4.5,17.6,14.7,kaloricke_tabulky
+2026-03-15,afternoon_snack,jablko,jablko,300,188.0,1.1,38.9,1.2,9.4,32.9,kaloricke_tabulky
+2026-03-15,afternoon_snack,pomeranč,pomeranč,150,74.5,1.4,16.6,0.3,4.6,10.9,kaloricke_tabulky
+2026-03-15,afternoon_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-03-15,dinner,kureci rýže,kureci rýže,568,454.0,58.9,67.7,5.9,16.1,13.5,kaloricke_tabulky
+2026-03-16,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-03-17,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-03-17,lunch,Delikatesní slanina uzená Dulano,Delikatesní slanina uzená Dulano,40,115.0,6.0,0.4,10.0,0.2,0.4,kaloricke_tabulky
+2026-03-17,lunch,brokolice,brokolice,260,113.0,8.6,14.8,0.5,7.8,6.5,kaloricke_tabulky
+2026-03-17,lunch,kuřecí prso vařené,kuřecí prso vařené,250,313.0,70.0,0.0,3.8,0.0,,kaloricke_tabulky
+2026-03-17,lunch,rýže jasmínová,rýže jasmínová,38,131.0,2.7,30.0,0.0,0.6,0.0,kaloricke_tabulky
+2026-03-17,afternoon_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-03-17,dinner,Omáčka česneková Grill & Fun,Omáčka česneková Grill & Fun,42,142.0,0.4,3.8,13.9,,2.7,kaloricke_tabulky
+2026-03-17,dinner,kureci rýže,kureci rýže,660,419.0,75.6,44.2,7.6,18.7,15.6,kaloricke_tabulky
+2026-03-17,second_dinner,mandlové mléko neslazené organic Sante,mandlové mléko neslazené organic Sante,250,47.8,1.5,3.0,4.2,0.2,1.0,kaloricke_tabulky
+2026-03-17,second_dinner,pomeranč,pomeranč,450,224.0,4.1,49.7,1.0,13.8,32.8,kaloricke_tabulky
+2026-03-21,breakfast,jablko,jablko,80,50.2,0.3,10.4,0.3,2.5,8.8,kaloricke_tabulky
+2026-03-21,breakfast,Řecký jogurt bílý 0.3% tuku Pilos,Řecký jogurt bílý 0.3% tuku Pilos,250,144.0,25.0,8.8,0.8,,8.8,kaloricke_tabulky
+2026-03-21,lunch,Mleté maso vepřové 20% tuku Tesco,Mleté maso vepřové 20% tuku Tesco,250,567.0,42.5,0.0,48.8,0.0,0.0,kaloricke_tabulky
+2026-03-21,lunch,brokolice,brokolice,260,113.0,8.6,14.8,0.5,7.8,6.5,kaloricke_tabulky
+2026-03-21,lunch,rýže jasmínová,rýže jasmínová,38,131.0,2.7,30.0,0.0,0.6,0.0,kaloricke_tabulky
+2026-03-21,afternoon_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-03-21,dinner,kureci rýže,kureci rýže,660,443.0,70.8,25.2,4.6,18.7,15.6,kaloricke_tabulky
+2026-03-23,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-03-23,morning_snack,mrkev,mrkev,220,92.3,2.2,16.1,0.5,7.7,12.3,kaloricke_tabulky
+2026-03-23,lunch,Mleté maso vepřové 20% tuku Tesco,Mleté maso vepřové 20% tuku Tesco,250,567.0,42.5,0.0,48.8,0.0,0.0,kaloricke_tabulky
+2026-03-23,lunch,lilek,lilek,190,54.5,2.3,8.5,0.4,4.4,5.3,kaloricke_tabulky
+2026-03-23,lunch,rýže jasmínová,rýže jasmínová,38,131.0,2.7,30.0,0.0,0.6,0.0,kaloricke_tabulky
+2026-03-23,afternoon_snack,Recky protein,Recky protein,280,260.0,47.5,11.4,2.3,0.4,11.3,kaloricke_tabulky
+2026-03-23,afternoon_snack,mrkev,mrkev,160,67.1,1.6,11.7,0.3,5.6,9.0,kaloricke_tabulky
+2026-03-24,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-03-24,lunch,Rýžové vlasové nudle  A.T. International,Rýžové vlasové nudle  A.T. International,50,177.0,3.4,39.1,0.2,0.9,0.0,kaloricke_tabulky
+2026-03-24,lunch,kureci rýže,kureci rýže,530,366.0,67.1,32.0,6.2,15.0,12.6,kaloricke_tabulky
+2026-03-24,afternoon_snack,Recky protein,Recky protein,270,222.0,40.0,10.6,1.8,0.3,10.9,kaloricke_tabulky
+2026-03-24,afternoon_snack,jablko,jablko,85,53.3,0.3,11.0,0.3,2.7,9.3,kaloricke_tabulky
+2026-03-24,dinner,Mleté maso vepřové 20% tuku Tesco,Mleté maso vepřové 20% tuku Tesco,200,453.0,34.0,0.0,39.0,0.0,0.0,kaloricke_tabulky
+2026-03-24,dinner,mrkev,mrkev,200,83.9,2.0,14.7,0.4,7.0,11.2,kaloricke_tabulky
+2026-03-24,dinner,rýže jasmínová,rýže jasmínová,38,131.0,2.7,30.0,0.0,0.6,0.0,kaloricke_tabulky
+2026-03-24,dinner,Česneková omáčka Kania,Česneková omáčka Kania,35,132.0,0.3,2.9,13.3,,2.2,kaloricke_tabulky
+2026-03-25,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-03-25,lunch,Hermelín originál Král sýrů,Hermelín originál Král sýrů,100,322.0,18.0,0.5,28.0,,0.5,kaloricke_tabulky
+2026-03-25,lunch,bramborák,bramborák,350,541.0,14.0,63.0,24.5,7.0,7.0,kaloricke_tabulky
+2026-03-25,dinner,Tatarská omáčka Kania,Tatarská omáčka Kania,45,158.0,0.3,2.7,16.2,,2.2,kaloricke_tabulky
+2026-03-25,dinner,kureci rýže,kureci rýže,638,527.0,75.1,67.7,7.0,18.1,15.1,kaloricke_tabulky
+2026-03-30,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-03-31,breakfast,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-03-31,breakfast,borůvky mražené,borůvky mražené,85,49.7,0.3,10.4,0.5,1.3,9.1,kaloricke_tabulky
+2026-03-31,lunch,Fazole bílé v rajčatové omáčce Giana,Fazole bílé v rajčatové omáčce Giana,190,160.0,7.2,26.6,1.1,,10.8,kaloricke_tabulky
+2026-03-31,lunch,Jihočeská niva 45% Madeta,Jihočeská niva 45% Madeta,30,97.7,6.9,0.2,7.8,,0.2,kaloricke_tabulky
+2026-03-31,lunch,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",230,243.0,53.1,0.0,3.5,,0.0,kaloricke_tabulky
+2026-03-31,lunch,květák,květák,150,52.9,3.7,6.7,0.4,4.0,4.7,kaloricke_tabulky
+2026-03-31,afternoon_snack,vločky protein,vločky protein,70,275.0,27.7,29.2,4.4,3.2,2.0,kaloricke_tabulky
+2026-03-31,dinner,Rýžové vlasové nudle  A.T. International,Rýžové vlasové nudle  A.T. International,50,177.0,3.4,39.1,0.2,0.9,0.0,kaloricke_tabulky
+2026-03-31,dinner,mleté kuřecí maso DZ Klatovy,mleté kuřecí maso DZ Klatovy,255,372.0,45.9,1.3,20.4,,1.3,kaloricke_tabulky
+2026-03-31,dinner,"mražená zelenina mrkev, hrášek, kukuřice Albert","mražená zelenina mrkev, hrášek, kukuřice Albert",250,128.0,9.0,21.0,1.2,12.5,0.0,kaloricke_tabulky
+2026-03-31,second_dinner,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,20,76.5,15.0,1.3,1.1,,1.0,kaloricke_tabulky
+2026-03-31,second_dinner,Řecký jogurt bílý 0% tuku Milko,Řecký jogurt bílý 0% tuku Milko,200,115.0,20.0,7.0,0.6,,7.0,kaloricke_tabulky
+2026-04-01,breakfast,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,20,76.5,15.0,1.3,1.1,,1.0,kaloricke_tabulky
+2026-04-01,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-04-01,breakfast,Řecký jogurt bílý 0% tuku Milko,Řecký jogurt bílý 0% tuku Milko,200,115.0,20.0,7.0,0.6,,7.0,kaloricke_tabulky
+2026-04-01,lunch,hořčice plnotučná,hořčice plnotučná,30,30.6,1.7,2.2,1.6,0.4,1.5,kaloricke_tabulky
+2026-04-01,lunch,kureci rýže,kureci rýže,398,352.0,33.5,50.5,2.0,11.3,9.4,kaloricke_tabulky
+2026-04-01,lunch,mleté kuřecí maso DZ Klatovy,mleté kuřecí maso DZ Klatovy,150,219.0,27.0,0.8,12.0,,0.8,kaloricke_tabulky
+2026-04-01,afternoon_snack,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-04-01,afternoon_snack,jablko,jablko,80,50.2,0.3,10.4,0.3,2.5,8.8,kaloricke_tabulky
+2026-04-09,breakfast,Tvaroh polotučný K-Classic,Tvaroh polotučný K-Classic,250,232.0,27.5,8.5,10.2,,8.5,kaloricke_tabulky
+2026-04-09,morning_snack,zelí bílé,zelí bílé,108,33.9,1.6,4.9,0.3,2.9,3.2,kaloricke_tabulky
+2026-04-09,lunch,Jihočeská niva fit 30% Madeta,Jihočeská niva fit 30% Madeta,25,68.8,7.0,0.1,4.5,,0.1,kaloricke_tabulky
+2026-04-09,lunch,kureci rýže,kureci rýže,625,519.0,62.4,83.9,6.5,17.7,14.8,kaloricke_tabulky
+2026-04-09,afternoon_snack,Raketa zmrzlina,Raketa zmrzlina,66,59.6,0.1,14.4,0.1,,14.5,kaloricke_tabulky
+2026-04-09,afternoon_snack,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-04-09,dinner,Jihočeská niva 45% Madeta,Jihočeská niva 45% Madeta,19,61.8,4.4,0.1,4.9,,0.1,kaloricke_tabulky
+2026-04-09,dinner,Tatarská omáčka extra krémová Hellmann's,Tatarská omáčka extra krémová Hellmann's,30,82.3,0.2,2.7,7.8,,2.0,kaloricke_tabulky
+2026-04-09,dinner,losos bez kůže,losos bez kůže,60,95.0,13.3,0.0,4.7,,,kaloricke_tabulky
+2026-04-09,dinner,okurka salátová,okurka salátová,150,23.6,1.2,3.4,0.3,1.4,2.2,kaloricke_tabulky
+2026-04-09,dinner,vepřová pečeně bez kosti syrová,vepřová pečeně bez kosti syrová,250,332.0,52.5,2.5,12.5,0.0,0.0,kaloricke_tabulky
+2026-04-09,dinner,zelí bílé,zelí bílé,145,45.6,2.2,6.5,0.4,3.9,4.3,kaloricke_tabulky
+2026-04-10,breakfast,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-04-10,breakfast,borůvky mražené,borůvky mražené,60,35.1,0.2,7.3,0.4,0.9,6.4,kaloricke_tabulky
+2026-04-10,morning_snack,kureci rýže,kureci rýže,333,416.0,61.6,33.9,3.9,9.4,7.9,kaloricke_tabulky
+2026-04-10,morning_snack,mrkev,mrkev,250,105.0,2.5,18.4,0.6,8.8,14.0,kaloricke_tabulky
+2026-04-10,afternoon_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-04-11,breakfast,Snickers,Snickers,50,241.0,4.3,30.0,11.5,,25.5,kaloricke_tabulky
+2026-04-12,breakfast,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-04-12,lunch,Tatarská omáčka extra krémová Hellmann's,Tatarská omáčka extra krémová Hellmann's,30,82.3,0.2,2.7,7.8,,2.0,kaloricke_tabulky
+2026-04-12,lunch,kureci rýže,kureci rýže,533,490.0,64.3,46.4,4.0,15.1,12.6,kaloricke_tabulky
+2026-04-12,afternoon_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-04-12,dinner,hořčice plnotučná,hořčice plnotučná,30,30.6,1.7,2.2,1.6,0.4,1.5,kaloricke_tabulky
+2026-04-12,dinner,kureci rýže,kureci rýže,633,491.0,66.5,72.9,6.8,17.9,15.0,kaloricke_tabulky
+2026-04-12,second_dinner,"Mandle s uzenou příchutí, solené Alesto","Mandle s uzenou příchutí, solené Alesto",200,1179.0,52.0,16.0,98.0,17.4,7.6,kaloricke_tabulky
+2026-04-13,lunch,Cheddar plátky Boni,Cheddar plátky Boni,20,78.6,5.0,0.0,6.6,,0.0,kaloricke_tabulky
+2026-04-13,lunch,hranolky,hranolky,150,412.0,5.8,52.5,18.8,4.5,0.9,kaloricke_tabulky
+2026-04-13,lunch,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",200,211.0,46.2,0.0,3.0,,0.0,kaloricke_tabulky
+2026-04-16,breakfast,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-04-16,lunch,hořčice plnotučná,hořčice plnotučná,35,35.6,2.0,2.6,1.9,0.5,1.8,kaloricke_tabulky
+2026-04-16,lunch,kureci rýže,kureci rýže,540,339.0,60.8,36.8,6.2,15.3,12.8,kaloricke_tabulky
+2026-04-16,afternoon_snack,vločky protein,vločky protein,70,275.0,27.7,29.2,4.4,3.2,2.0,kaloricke_tabulky
+2026-04-16,dinner,Delikatesní slanina uzená Dulano,Delikatesní slanina uzená Dulano,80,229.0,12.0,0.8,20.0,0.4,0.7,kaloricke_tabulky
+2026-04-16,dinner,Rýžové vlasové nudle  A.T. International,Rýžové vlasové nudle  A.T. International,50,177.0,3.4,39.1,0.2,0.9,0.0,kaloricke_tabulky
+2026-04-16,dinner,hořčice plnotučná,hořčice plnotučná,30,30.6,1.7,2.2,1.6,0.4,1.5,kaloricke_tabulky
+2026-04-16,dinner,kureci rýže,kureci rýže,345,337.0,70.5,3.9,4.6,9.8,8.2,kaloricke_tabulky
+2026-04-16,second_dinner,pomeranč,pomeranč,100,49.7,0.9,11.0,0.2,3.1,7.3,kaloricke_tabulky
+2026-04-17,breakfast,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-04-17,lunch,Delikatesní slanina uzená Dulano,Delikatesní slanina uzená Dulano,20,57.4,3.0,0.2,5.0,0.1,0.2,kaloricke_tabulky
+2026-04-17,lunch,Tatarská omáčka extra krémová Hellmann's,Tatarská omáčka extra krémová Hellmann's,30,82.3,0.2,2.7,7.8,,2.0,kaloricke_tabulky
+2026-04-17,lunch,kureci rýže,kureci rýže,525,334.0,60.5,35.1,6.1,14.9,12.4,kaloricke_tabulky
+2026-04-17,afternoon_snack,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-04-17,dinner,Honey mustard dressing Remia,Honey mustard dressing Remia,30,86.2,0.3,3.9,7.8,,3.3,kaloricke_tabulky
+2026-04-17,dinner,Rýžové vlasové nudle  A.T. International,Rýžové vlasové nudle  A.T. International,40,141.0,2.7,31.3,0.2,0.8,0.0,kaloricke_tabulky
+2026-04-17,dinner,kureci rýže,kureci rýže,650,399.0,71.1,45.9,7.5,18.4,15.4,kaloricke_tabulky
+2026-04-17,second_dinner,Pudinkový prášek kakaový Dr.Oetker,Pudinkový prášek kakaový Dr.Oetker,35,122.0,1.4,28.0,0.0,1.1,0.0,kaloricke_tabulky
+2026-04-17,second_dinner,mandlové mléko neslazené organic Sante,mandlové mléko neslazené organic Sante,400,76.4,2.4,4.8,6.8,0.4,1.6,kaloricke_tabulky
+2026-04-17,second_dinner,mrkev,mrkev,120,50.3,1.2,8.8,0.3,4.2,6.7,kaloricke_tabulky
+2026-04-17,second_dinner,pomeranč,pomeranč,200,99.0,1.8,22.1,0.4,6.1,14.6,kaloricke_tabulky
+2026-04-18,morning_snack,hořčice plnotučná,hořčice plnotučná,30,30.6,1.7,2.2,1.6,0.4,1.5,kaloricke_tabulky
+2026-04-18,morning_snack,kureci rýže,kureci rýže,620,537.0,79.2,44.3,5.1,17.6,14.7,kaloricke_tabulky
+2026-04-18,afternoon_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-04-18,dinner,Tatarská omáčka extra krémová Hellmann's,Tatarská omáčka extra krémová Hellmann's,30,82.3,0.2,2.7,7.8,,2.0,kaloricke_tabulky
+2026-04-18,dinner,kureci rýže,kureci rýže,560,427.0,62.3,56.9,6.2,15.9,13.3,kaloricke_tabulky
+2026-04-18,second_dinner,pomeranč,pomeranč,160,79.5,1.5,17.7,0.3,4.9,11.7,kaloricke_tabulky
+2026-04-18,second_dinner,zelí bílé,zelí bílé,150,47.1,2.2,6.8,0.4,4.0,4.5,kaloricke_tabulky
+2026-04-19,morning_snack,Tvaroh odtučněný Pilos,Tvaroh odtučněný Pilos,100,67.6,12.0,4.0,0.5,,4.0,kaloricke_tabulky
+2026-04-19,morning_snack,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",150,136.0,15.0,6.0,5.7,,6.0,kaloricke_tabulky
+2026-04-19,lunch,Tatarská omáčka extra krémová Hellmann's,Tatarská omáčka extra krémová Hellmann's,30,82.3,0.2,2.7,7.8,,2.0,kaloricke_tabulky
+2026-04-19,lunch,kureci rýže,kureci rýže,540,456.0,62.4,61.2,5.9,15.3,12.8,kaloricke_tabulky
+2026-04-19,afternoon_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-04-19,dinner,Hořčice plnotučná Malva,Hořčice plnotučná Malva,60,59.9,3.4,4.4,3.2,,3.0,kaloricke_tabulky
+2026-04-19,dinner,Passata di pomodoro v krabici Freshona,Passata di pomodoro v krabici Freshona,200,67.3,3.4,11.2,0.2,,10.0,kaloricke_tabulky
+2026-04-19,dinner,kureci rýže,kureci rýže,585,466.0,67.2,61.0,6.5,16.6,13.9,kaloricke_tabulky
+2026-04-19,second_dinner,mandlové mléko neslazené organic Sante,mandlové mléko neslazené organic Sante,300,57.3,1.8,3.6,5.1,0.3,1.2,kaloricke_tabulky
+2026-04-19,second_dinner,pomeranč,pomeranč,80,39.7,0.7,8.8,0.2,2.5,5.8,kaloricke_tabulky
+2026-04-20,breakfast,Tvaroh odtučněný Pilos,Tvaroh odtučněný Pilos,100,67.6,12.0,4.0,0.5,,4.0,kaloricke_tabulky
+2026-04-20,breakfast,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",150,136.0,15.0,6.0,5.7,,6.0,kaloricke_tabulky
+2026-04-20,lunch,Kuřecí stripsy Crocodille,Kuřecí stripsy Crocodille,200,611.0,24.0,56.0,25.0,,2.6,kaloricke_tabulky
+2026-04-20,lunch,bagetka malá,bagetka malá,50,118.0,4.0,23.9,0.6,1.0,1.0,kaloricke_tabulky
+2026-04-20,lunch,parmazán (parmezán),parmazán (parmezán),60,233.0,20.9,1.9,15.8,,1.8,kaloricke_tabulky
+2026-04-21,breakfast,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",200,181.0,20.0,8.0,7.6,,8.0,kaloricke_tabulky
+2026-04-21,lunch,Bun Bo Nam Bo,Bun Bo Nam Bo,350,512.0,23.8,72.1,12.9,6.7,16.8,kaloricke_tabulky
+2026-04-21,afternoon_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-04-21,dinner,Tatarská omáčka extra krémová Hellmann's,Tatarská omáčka extra krémová Hellmann's,30,82.3,0.2,2.7,7.8,,2.0,kaloricke_tabulky
+2026-04-21,dinner,kureci rýže,kureci rýže,625,560.0,73.1,77.4,6.8,17.7,14.8,kaloricke_tabulky
+2026-04-22,breakfast,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-04-22,lunch,hořčice plnotučná,hořčice plnotučná,30,30.6,1.7,2.2,1.6,0.4,1.5,kaloricke_tabulky
+2026-04-22,lunch,kureci rýže,kureci rýže,625,375.0,66.4,45.5,7.2,17.7,14.8,kaloricke_tabulky
+2026-04-22,afternoon_snack,mandlové mléko neslazené organic Sante,mandlové mléko neslazené organic Sante,300,57.3,1.8,3.6,5.1,0.3,1.2,kaloricke_tabulky
+2026-04-22,afternoon_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-04-22,dinner,Finest tomato passata Baresa,Finest tomato passata Baresa,200,59.7,2.6,9.0,0.2,2.4,7.4,kaloricke_tabulky
+2026-04-22,dinner,kureci rýže,kureci rýže,645,413.0,75.3,42.9,7.6,18.3,15.3,kaloricke_tabulky
+2026-04-23,breakfast,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,20,76.5,15.0,1.3,1.1,,1.0,kaloricke_tabulky
+2026-04-23,breakfast,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-04-23,lunch,Tatarská omáčka extra krémová Hellmann's,Tatarská omáčka extra krémová Hellmann's,29,79.5,0.2,2.6,7.5,,1.9,kaloricke_tabulky
+2026-04-23,lunch,kureci rýže,kureci rýže,655,551.0,69.3,83.9,7.0,18.6,15.5,kaloricke_tabulky
+2026-04-23,afternoon_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-04-23,dinner,Kečup o 50% méně kalorií bez přidaného cukru Otma,Kečup o 50% méně kalorií bez přidaného cukru Otma,50,23.6,0.7,4.2,0.2,,2.6,kaloricke_tabulky
+2026-04-23,dinner,hořčice plnotučná,hořčice plnotučná,35,35.6,2.0,2.6,1.9,0.5,1.8,kaloricke_tabulky
+2026-04-23,dinner,kureci rýže,kureci rýže,575,531.0,68.0,73.5,6.2,16.3,13.6,kaloricke_tabulky
+2026-04-24,breakfast,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,19,72.6,14.2,1.2,1.1,,1.0,kaloricke_tabulky
+2026-04-24,breakfast,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",150,136.0,15.0,6.0,5.7,,6.0,kaloricke_tabulky
+2026-04-24,breakfast,Řecký jogurt bílý 0% tuku Milko,Řecký jogurt bílý 0% tuku Milko,100,57.6,10.0,3.5,0.3,,3.5,kaloricke_tabulky
+2026-04-24,lunch,hořčice plnotučná,hořčice plnotučná,35,35.6,2.0,2.6,1.9,0.5,1.8,kaloricke_tabulky
+2026-04-24,lunch,kureci rýže,kureci rýže,595,528.0,66.2,77.4,6.3,16.9,14.1,kaloricke_tabulky
+2026-04-26,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-04-26,lunch,Honey Mustard Chicken McWrap McDonald's,Honey Mustard Chicken McWrap McDonald's,45,106.0,4.0,10.3,5.4,0.6,1.4,kaloricke_tabulky
+2026-04-26,lunch,kureci rýže,kureci rýže,605,442.0,64.1,62.1,6.7,17.1,14.3,kaloricke_tabulky
+2026-04-27,breakfast,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-04-27,lunch,Kečup o 50% méně kalorií bez přidaného cukru Otma,Kečup o 50% méně kalorií bez přidaného cukru Otma,30,14.2,0.4,2.5,0.1,,1.6,kaloricke_tabulky
+2026-04-27,lunch,kureci rýže,kureci rýže,520,425.0,63.8,50.4,5.8,14.7,12.3,kaloricke_tabulky
+2026-04-27,lunch,pórek,pórek,50,22.0,1.1,3.4,0.2,1.3,1.4,kaloricke_tabulky
+2026-04-27,afternoon_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-04-27,dinner,Tatarská omáčka extra krémová Hellmann's,Tatarská omáčka extra krémová Hellmann's,50,137.0,0.3,4.5,13.0,,3.4,kaloricke_tabulky
+2026-04-27,dinner,kureci rýže,kureci rýže,585,525.0,66.0,76.1,6.2,16.6,13.9,kaloricke_tabulky
+2026-04-28,breakfast,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,15,57.4,11.2,1.0,0.8,,0.8,kaloricke_tabulky
+2026-04-28,breakfast,Maliny mražené Agro Jesenice,Maliny mražené Agro Jesenice,50,15.9,0.6,2.4,0.1,1.4,2.4,kaloricke_tabulky
+2026-04-28,breakfast,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-04-29,afternoon_snack,Buldak cream carbonara hot chicken flavor ramen Samyang,Buldak cream carbonara hot chicken flavor ramen Samyang,140,550.0,11.1,88.1,16.8,5.0,9.0,kaloricke_tabulky
+2026-04-29,afternoon_snack,Tortilla hot strips Chef Select,Tortilla hot strips Chef Select,300,724.0,25.2,84.0,30.6,,3.6,kaloricke_tabulky
+2026-04-29,dinner,Tesco Ice cream čokoládový v čokoládové polevě zmrzlina,Tesco Ice cream čokoládový v čokoládové polevě zmrzlina,120,247.0,4.2,25.0,14.0,2.3,23.5,kaloricke_tabulky
+2026-04-29,dinner,kureci rýže,kureci rýže,520,425.0,63.8,50.4,5.8,14.7,12.3,kaloricke_tabulky
+2026-04-30,breakfast,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-04-30,morning_snack,pomeranč,pomeranč,150,74.5,1.4,16.6,0.3,4.6,10.9,kaloricke_tabulky
+2026-05-04,breakfast,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-05-04,lunch,Tatarská omáčka extra krémová Hellmann's,Tatarská omáčka extra krémová Hellmann's,40,110.0,0.3,3.6,10.4,,2.7,kaloricke_tabulky
+2026-05-04,lunch,kureci rýže,kureci rýže,620,450.0,65.4,63.4,6.8,17.6,14.7,kaloricke_tabulky
+2026-05-05,breakfast,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-05-05,lunch,Chedarová omáčka Old Mans,Chedarová omáčka Old Mans,50,126.0,5.0,2.9,6.3,,2.3,kaloricke_tabulky
+2026-05-05,lunch,kuřecí steak,kuřecí steak,200,214.0,40.0,0.0,6.0,,0.0,kaloricke_tabulky
+2026-05-05,lunch,olej olivový extra panenský,olej olivový extra panenský,20,164.0,0.0,0.0,18.2,0.0,0.0,kaloricke_tabulky
+2026-05-05,afternoon_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-05-05,dinner,Tatarská omáčka extra krémová Hellmann's,Tatarská omáčka extra krémová Hellmann's,35,96.0,0.2,3.1,9.1,,2.3,kaloricke_tabulky
+2026-05-05,dinner,kureci rýže,kureci rýže,645,540.0,67.0,83.9,6.8,18.3,15.3,kaloricke_tabulky
+2026-05-06,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-05-06,lunch,Bum bonam bo - rýžové nudle s restovaným hovězím steakem a zeleninou freshly,Bum bonam bo - rýžové nudle s restovaným hovězím steakem a zeleninou freshly,431,478.0,38.8,54.3,10.8,0.0,5.2,kaloricke_tabulky
+2026-05-06,lunch,smažené vietnamské jarní závitky,smažené vietnamské jarní závitky,150,487.0,20.1,15.2,37.8,3.0,0.8,kaloricke_tabulky
+2026-05-06,afternoon_snack,jablko,jablko,100,62.7,0.4,12.9,0.4,3.1,11.0,kaloricke_tabulky
+2026-05-06,dinner,kureci rýže,kureci rýže,305,268.0,33.5,39.3,3.2,8.6,7.2,kaloricke_tabulky
+2026-05-07,breakfast,kureci rýže,kureci rýže,320,274.0,33.7,40.6,3.2,9.1,7.6,kaloricke_tabulky
+2026-05-07,lunch,kureci rýže,kureci rýže,325,386.0,63.9,23.5,4.0,9.2,7.7,kaloricke_tabulky
+2026-05-07,lunch,žampiony,žampiony,160,44.7,4.5,4.8,0.4,2.2,0.5,kaloricke_tabulky
+2026-05-08,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-05-08,morning_snack,kedlubna bílá,kedlubna bílá,150,42.1,2.9,5.2,0.2,4.1,5.1,kaloricke_tabulky
+2026-05-08,lunch,Tatarská omáčka extra krémová Hellmann's,Tatarská omáčka extra krémová Hellmann's,45,123.0,0.3,4.0,11.7,,3.0,kaloricke_tabulky
+2026-05-08,lunch,kureci rýže,kureci rýže,345,465.0,62.2,44.9,3.9,9.8,8.2,kaloricke_tabulky
+2026-05-08,lunch,žampiony,žampiony,240,67.0,6.7,7.2,0.6,3.4,0.7,kaloricke_tabulky
+2026-05-11,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-05-11,lunch,Kuřecí stripsy obalované Nowaco,Kuřecí stripsy obalované Nowaco,200,386.0,36.0,22.0,16.4,3.0,2.0,kaloricke_tabulky
+2026-05-11,lunch,Tortilla wraps classic Snack Day,Tortilla wraps classic Snack Day,80,250.0,7.9,41.6,5.2,1.8,1.5,kaloricke_tabulky
+2026-05-11,dinner,Anglická slanina shaved 94% Řezníkův talíř,Anglická slanina shaved 94% Řezníkův talíř,35,114.0,5.2,0.2,10.5,,0.2,kaloricke_tabulky
+2026-05-11,dinner,Tatarská omáčka extra krémová Hellmann's,Tatarská omáčka extra krémová Hellmann's,35,96.0,0.2,3.1,9.1,,2.3,kaloricke_tabulky
+2026-05-11,dinner,kureci rýže,kureci rýže,645,581.0,77.7,77.4,7.1,18.3,15.3,kaloricke_tabulky
+2026-05-12,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-05-12,lunch,hořčice plnotučná,hořčice plnotučná,43,43.8,2.4,3.1,2.3,0.6,2.1,kaloricke_tabulky
+2026-05-12,lunch,kureci rýže,kureci rýže,535,513.0,67.7,66.8,5.8,15.2,12.7,kaloricke_tabulky
+2026-05-12,lunch,slanina anglická,slanina anglická,40,161.0,4.2,0.0,16.0,,,kaloricke_tabulky
+2026-05-12,afternoon_snack,Raketa zmrzlina,Raketa zmrzlina,66,59.6,0.1,14.4,0.1,,14.5,kaloricke_tabulky
+2026-05-13,lunch,Sushi,Sushi,250,319.0,13.5,56.2,4.5,2.2,23.2,kaloricke_tabulky
+2026-05-13,afternoon_snack,Bio celozrnná pšeničná bagetka Lidl,Bio celozrnná pšeničná bagetka Lidl,200,519.0,18.6,93.6,4.8,,10.6,kaloricke_tabulky
+2026-05-13,afternoon_snack,šunka vepřová dušená nejvyšší jakosti,šunka vepřová dušená nejvyšší jakosti,200,237.0,38.0,1.0,9.0,0.0,,kaloricke_tabulky
+2026-05-14,breakfast,jablko,jablko,80,50.2,0.3,10.4,0.3,2.5,8.8,kaloricke_tabulky
+2026-05-14,morning_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-05-14,lunch,Tofu smoked Well Well,Tofu smoked Well Well,80,90.4,10.9,0.2,4.5,3.5,0.2,kaloricke_tabulky
+2026-05-14,lunch,kureci rýže,kureci rýže,550,398.0,55.1,60.0,6.0,15.6,13.0,kaloricke_tabulky
+2026-05-14,lunch,slanina anglická,slanina anglická,40,161.0,4.2,0.0,16.0,,,kaloricke_tabulky
+2026-05-18,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-05-18,lunch,kureci rýže,kureci rýže,625,560.0,73.1,77.4,6.8,17.7,14.8,kaloricke_tabulky
+2026-05-18,afternoon_snack,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,20,76.5,15.0,1.3,1.1,,1.0,kaloricke_tabulky
+2026-05-18,afternoon_snack,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-05-18,afternoon_snack,hořčice plnotučná,hořčice plnotučná,80,81.5,4.5,5.8,4.2,1.1,4.0,kaloricke_tabulky
+2026-05-18,dinner,kureci rýže,kureci rýže,600,495.0,69.8,65.1,6.7,17.0,14.2,kaloricke_tabulky
+2026-05-18,second_dinner,jablko,jablko,375,235.0,1.4,48.6,1.5,11.8,41.2,kaloricke_tabulky
+2026-05-19,breakfast,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-05-19,lunch,Tofu smoked Well Well,Tofu smoked Well Well,150,169.0,20.4,0.5,8.4,6.6,0.5,kaloricke_tabulky
+2026-05-19,lunch,hořčice plnotučná,hořčice plnotučná,45,45.8,2.5,3.3,2.4,0.6,2.2,kaloricke_tabulky
+2026-05-19,lunch,kureci rýže,kureci rýže,405,316.0,36.4,54.5,4.0,11.5,9.6,kaloricke_tabulky
+2026-05-20,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-05-20,lunch,Tatarská omáčka extra krémová Hellmann's,Tatarská omáčka extra krémová Hellmann's,30,82.3,0.2,2.7,7.8,,2.0,kaloricke_tabulky
+2026-05-20,lunch,kureci rýže,kureci rýže,623,536.0,69.2,51.0,4.3,17.6,14.8,kaloricke_tabulky
+2026-05-20,afternoon_snack,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-05-20,afternoon_snack,arašídy,arašídy,30,189.0,7.7,5.5,14.7,2.3,1.9,kaloricke_tabulky
+2026-05-20,dinner,kureci rýže,kureci rýže,570,438.0,64.6,56.9,6.3,16.1,13.5,kaloricke_tabulky
+2026-05-25,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-05-25,lunch,Anglická slanina shaved 94% Řezníkův talíř,Anglická slanina shaved 94% Řezníkův talíř,45,147.0,6.7,0.3,13.5,,0.2,kaloricke_tabulky
+2026-05-25,lunch,Tofu smoked Well Well,Tofu smoked Well Well,140,158.0,19.0,0.4,7.8,6.2,0.4,kaloricke_tabulky
+2026-05-25,lunch,kureci rýže,kureci rýže,435,454.0,49.3,54.6,3.0,12.3,10.3,kaloricke_tabulky
+2026-05-25,lunch,olej olivový extra panenský,olej olivový extra panenský,10,81.9,0.0,0.0,9.1,0.0,0.0,kaloricke_tabulky
+2026-05-25,lunch,vejce slepičí,vejce slepičí,100,151.0,12.4,0.9,10.9,,0.3,kaloricke_tabulky
+2026-06-01,breakfast,Protein drink plus kakaový Zott,Protein drink plus kakaový Zott,250,195.0,27.2,12.8,3.0,,11.5,kaloricke_tabulky
+2026-06-01,breakfast,banán,banán,90,84.6,1.1,19.8,0.2,1.8,17.1,kaloricke_tabulky
+2026-06-17,breakfast,Arašídové máslo 100% 4Slim,Arašídové máslo 100% 4Slim,30,188.0,8.7,5.7,14.7,2.4,2.0,kaloricke_tabulky
+2026-06-17,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-06-17,lunch,kureci rýže,kureci rýže,573,514.0,67.6,48.1,4.2,16.2,13.6,kaloricke_tabulky
+2026-06-17,afternoon_snack,Arašídové máslo jemné Allnature,Arašídové máslo jemné Allnature,30,179.0,7.3,6.4,14.9,,1.5,kaloricke_tabulky
+2026-06-17,afternoon_snack,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-06-17,dinner,kureci rýže,kureci rýže,555,518.0,65.5,72.2,6.0,15.7,13.1,kaloricke_tabulky
+2026-06-18,breakfast,Arašídové máslo 100% 4Slim,Arašídové máslo 100% 4Slim,30,188.0,8.7,5.7,14.7,2.4,2.0,kaloricke_tabulky
+2026-06-18,breakfast,vločky protein,vločky protein,107,420.0,43.1,44.0,6.8,4.8,3.1,kaloricke_tabulky
+2026-06-18,lunch,Tatarská omáčka extra krémová Hellmann's,Tatarská omáčka extra krémová Hellmann's,22,60.3,0.1,2.0,5.7,,1.5,kaloricke_tabulky
+2026-06-18,lunch,kureci rýže,kureci rýže,583,525.0,69.9,48.1,4.3,16.5,13.8,kaloricke_tabulky
+2026-06-19,breakfast,Arašídové máslo 100% 4Slim,Arašídové máslo 100% 4Slim,30,188.0,8.7,5.7,14.7,2.4,2.0,kaloricke_tabulky
+2026-06-19,breakfast,třešně,třešně,100,68.6,0.9,14.4,0.4,2.0,12.5,kaloricke_tabulky
+2026-06-19,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-06-21,breakfast,Arašídové máslo 100% 4Slim,Arašídové máslo 100% 4Slim,30,188.0,8.7,5.7,14.7,2.4,2.0,kaloricke_tabulky
+2026-06-21,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-06-21,lunch,Kečup o 50% méně kalorií bez přidaného cukru Otma,Kečup o 50% méně kalorií bez přidaného cukru Otma,25,11.8,0.3,2.1,0.1,,1.3,kaloricke_tabulky
+2026-06-21,lunch,hořčice plnotučná,hořčice plnotučná,30,30.6,1.7,2.2,1.6,0.4,1.5,kaloricke_tabulky
+2026-06-21,lunch,kureci rýže,kureci rýže,345,465.0,62.2,44.9,3.9,9.8,8.2,kaloricke_tabulky
+2026-06-21,lunch,mražená zelenina pod svíčkovou ANO,mražená zelenina pod svíčkovou ANO,270,113.0,3.8,22.7,0.8,,13.5,kaloricke_tabulky
+2026-06-21,afternoon_snack,Arašídové máslo 100% 4Slim,Arašídové máslo 100% 4Slim,35,219.0,10.2,6.7,17.1,2.8,2.3,kaloricke_tabulky
+2026-06-21,afternoon_snack,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-06-21,dinner,hořčice plnotučná,hořčice plnotučná,35,35.6,2.0,2.6,1.9,0.5,1.8,kaloricke_tabulky
+2026-06-21,dinner,kureci rýže,kureci rýže,563,504.0,64.0,53.6,4.0,15.9,13.3,kaloricke_tabulky
+2026-06-22,breakfast,vločky protein,vločky protein,110,502.0,37.7,41.7,19.8,5.0,3.2,kaloricke_tabulky
+2026-06-22,morning_snack,Kečup o 50% méně kalorií bez přidaného cukru Otma,Kečup o 50% méně kalorií bez přidaného cukru Otma,20,9.5,0.3,1.7,0.1,,1.1,kaloricke_tabulky
+2026-06-22,morning_snack,kureci rýže,kureci rýže,575,395.0,62.8,27.7,4.2,16.3,13.6,kaloricke_tabulky
+2026-06-22,lunch,Recky protein,Recky protein,275,383.0,32.2,14.8,21.8,0.3,11.1,kaloricke_tabulky
+2026-06-22,lunch,jahody mražené,jahody mražené,50,21.1,0.2,4.0,0.1,1.4,2.5,kaloricke_tabulky
+2026-06-22,dinner,Mustard & honey sauce Sau'cee,Mustard & honey sauce Sau'cee,35,125.0,0.4,9.1,9.8,0.2,8.1,kaloricke_tabulky
+2026-06-22,dinner,kureci rýže,kureci rýže,640,535.0,65.8,83.9,6.8,18.1,15.2,kaloricke_tabulky
+2026-06-23,breakfast,vločky protein,vločky protein,110,502.0,37.7,41.7,19.8,5.0,3.2,kaloricke_tabulky
+2026-06-23,lunch,kureci rýže,kureci rýže,675,364.0,60.8,55.9,7.5,19.1,16.0,kaloricke_tabulky
+2026-06-23,lunch,vejce slepičí,vejce slepičí,78,118.0,9.7,0.7,8.5,,0.3,kaloricke_tabulky
+2026-06-23,afternoon_snack,Recky protein,Recky protein,280,414.0,33.7,15.7,24.2,0.4,11.3,kaloricke_tabulky
+2026-06-23,dinner,kureci rýže,kureci rýže,645,596.0,70.6,68.6,4.5,18.3,15.3,kaloricke_tabulky
+2026-06-23,second_dinner,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-06-24,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-06-24,lunch,Rybí omáčka Nước Mắm Cao Cấp Chin-Su,Rybí omáčka Nước Mắm Cao Cấp Chin-Su,150,111.0,11.8,15.9,0.0,,12.0,kaloricke_tabulky
+2026-06-24,lunch,rýžové nudle Papa,rýžové nudle Papa,100,361.0,6.4,82.0,0.0,1.1,1.1,kaloricke_tabulky
+2026-06-24,lunch,smažené závitky,smažené závitky,200,226.0,17.6,1.2,16.8,,1.0,kaloricke_tabulky
+2026-06-25,breakfast,Raketa zmrzlina,Raketa zmrzlina,66,59.6,0.1,14.4,0.1,,14.5,kaloricke_tabulky
+2026-06-25,breakfast,vločky protein,vločky protein,110,502.0,37.7,41.7,19.8,5.0,3.2,kaloricke_tabulky
+2026-06-25,lunch,Samba lahodně krémová omáčka Hellmann's,Samba lahodně krémová omáčka Hellmann's,50,90.5,0.2,7.0,6.5,,5.0,kaloricke_tabulky
+2026-06-25,lunch,květák,květák,350,123.0,8.6,15.7,1.0,9.4,11.0,kaloricke_tabulky
+2026-06-25,lunch,losos,losos,250,489.0,55.0,0.0,30.0,,,kaloricke_tabulky
+2026-06-25,lunch,rýže,rýže,40,138.0,3.2,31.2,0.1,0.5,0.1,kaloricke_tabulky
+2026-06-25,afternoon_snack,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-06-25,dinner,kureci rýže,kureci rýže,545,515.0,65.4,70.9,5.8,15.4,12.9,kaloricke_tabulky
+2026-06-25,second_dinner,broskev,broskev,160,73.8,1.4,15.2,0.3,2.4,13.4,kaloricke_tabulky
+2026-06-25,second_dinner,nektarinka,nektarinka,160,65.3,1.9,12.8,0.2,2.7,12.4,kaloricke_tabulky
+2026-06-26,breakfast,vločky protein,vločky protein,110,502.0,37.7,41.7,19.8,5.0,3.2,kaloricke_tabulky
+2026-06-26,morning_snack,Raketa zmrzlina,Raketa zmrzlina,66,59.6,0.1,14.4,0.1,,14.5,kaloricke_tabulky
+2026-06-26,lunch,Samba lahodně krémová omáčka Hellmann's,Samba lahodně krémová omáčka Hellmann's,40,72.4,0.2,5.6,5.2,,4.0,kaloricke_tabulky
+2026-06-26,lunch,hořčice plnotučná,hořčice plnotučná,30,30.6,1.7,2.2,1.6,0.4,1.5,kaloricke_tabulky
+2026-06-26,lunch,kureci rýže,kureci rýže,335,423.0,61.8,35.5,3.9,9.5,7.9,kaloricke_tabulky
+2026-06-26,lunch,květák,květák,350,123.0,8.6,15.7,1.0,9.4,11.0,kaloricke_tabulky
+2026-07-09,morning_snack,Raketa zmrzlina,Raketa zmrzlina,264,238.0,0.5,57.8,0.3,,57.8,kaloricke_tabulky
+2026-07-09,morning_snack,broskev plochá (paraguayo),broskev plochá (paraguayo),280,120.0,2.0,26.3,0.0,3.9,24.1,kaloricke_tabulky
+2026-07-09,lunch,kureci rýže,kureci rýže,323,405.0,59.3,33.9,3.7,9.2,7.6,kaloricke_tabulky
+2026-07-09,lunch,květák,květák,300,106.0,7.3,13.4,0.8,8.0,9.4,kaloricke_tabulky
+2026-07-09,afternoon_snack,Mango mražené Edeka,Mango mražené Edeka,200,132.0,1.0,27.8,0.4,,22.6,kaloricke_tabulky
+2026-07-09,afternoon_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-07-09,dinner,Kečup o 50% méně kalorií bez přidaného cukru Otma,Kečup o 50% méně kalorií bez přidaného cukru Otma,30,14.2,0.4,2.5,0.1,,1.6,kaloricke_tabulky
+2026-07-09,dinner,Samba lahodně krémová omáčka Hellmann's,Samba lahodně krémová omáčka Hellmann's,20,36.2,0.1,2.8,2.6,,2.0,kaloricke_tabulky
+2026-07-09,dinner,Tatarská omáčka extra krémová Hellmann's,Tatarská omáčka extra krémová Hellmann's,20,54.8,0.1,1.8,5.2,,1.3,kaloricke_tabulky
+2026-07-09,dinner,Tofu SoYum!,Tofu SoYum!,140,123.0,14.7,1.1,1.1,,0.7,kaloricke_tabulky
+2026-07-09,dinner,kureci rýže,kureci rýže,485,457.0,53.1,70.1,5.1,13.7,11.5,kaloricke_tabulky
+2026-07-10,breakfast,vejce slepičí,vejce slepičí,220,332.0,27.2,2.1,23.9,,0.7,kaloricke_tabulky
+2026-07-10,morning_snack,Raketa zmrzlina,Raketa zmrzlina,66,59.6,0.1,14.4,0.1,,14.5,kaloricke_tabulky
+2026-07-10,morning_snack,broskev plochá (paraguayo),broskev plochá (paraguayo),70,30.1,0.5,6.6,0.0,1.0,6.0,kaloricke_tabulky
+2026-07-10,lunch,Tatarská omáčka extra krémová Hellmann's,Tatarská omáčka extra krémová Hellmann's,25,68.5,0.2,2.2,6.5,,1.7,kaloricke_tabulky
+2026-07-10,lunch,batáty sladké brambory,batáty sladké brambory,260,215.0,5.2,44.2,0.4,7.8,10.4,kaloricke_tabulky
+2026-07-10,lunch,cuketa,cuketa,250,55.7,3.7,7.2,0.8,2.7,5.1,kaloricke_tabulky
+2026-07-10,lunch,kureci rýže,kureci rýže,295,285.0,59.0,3.9,3.9,8.4,7.0,kaloricke_tabulky
+2026-07-10,afternoon_snack,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-07-10,afternoon_snack,borůvky,borůvky,30,20.1,0.1,4.2,0.1,0.8,3.4,kaloricke_tabulky
+2026-07-30,breakfast,jablko Golden Delicious,jablko Golden Delicious,100,66.4,0.6,14.0,0.2,3.5,10.0,kaloricke_tabulky
+2026-07-30,morning_snack,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-07-30,lunch,Libové syrové vepřové maso,Libové syrové vepřové maso,230,319.0,43.7,0.0,16.1,,,kaloricke_tabulky
+2026-07-30,lunch,brambory syrové,brambory syrové,260,230.0,5.2,49.4,0.5,3.9,2.6,kaloricke_tabulky
+2026-07-30,lunch,olej olivový extra panenský,olej olivový extra panenský,3,24.6,0.0,0.0,2.7,0.0,0.0,kaloricke_tabulky
+2026-08-03,morning_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-08-03,lunch,kureci rýže,kureci rýže,630,501.0,76.4,59.1,7.2,17.8,14.9,kaloricke_tabulky
+2026-08-03,afternoon_snack,Jablko je zelené,Jablko je zelené,80,33.4,0.8,7.5,0.4,1.4,6.4,kaloricke_tabulky
+2026-08-03,afternoon_snack,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-08-03,afternoon_snack,Tzatziki Grill & Fun,Tzatziki Grill & Fun,150,120.0,3.8,8.2,8.0,,5.2,kaloricke_tabulky
+2026-08-03,afternoon_snack,meloun vodní,meloun vodní,600,176.0,3.9,36.0,1.0,4.2,36.0,kaloricke_tabulky
+2026-08-03,dinner,Tatarská omáčka extra krémová Hellmann's,Tatarská omáčka extra krémová Hellmann's,30,82.3,0.2,2.7,7.8,,2.0,kaloricke_tabulky
+2026-08-03,dinner,kureci rýže,kureci rýže,585,454.0,64.9,60.2,6.5,16.6,13.9,kaloricke_tabulky
+2026-08-04,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-08-04,lunch,Kečup jemný Hellmann's,Kečup jemný Hellmann's,20,21.8,0.2,4.8,0.1,,4.2,kaloricke_tabulky
+2026-08-04,lunch,Tofu uzené Nature's Promise Veggie,Tofu uzené Nature's Promise Veggie,100,170.0,17.0,3.4,9.9,,0.5,kaloricke_tabulky
+2026-08-04,lunch,dýně Hokkaido,dýně Hokkaido,200,94.0,3.4,17.6,0.5,3.2,,kaloricke_tabulky
+2026-08-04,lunch,kureci rýže,kureci rýže,305,419.0,60.9,35.0,3.9,8.6,7.2,kaloricke_tabulky
+2026-08-05,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-08-05,morning_snack,"Skyr islandská tradice 0,1% tuku natur Bohušovická mlékárna","Skyr islandská tradice 0,1% tuku natur Bohušovická mlékárna",140,86.6,16.8,4.2,0.1,,4.2,kaloricke_tabulky
+2026-08-05,morning_snack,nektarinka,nektarinka,200,81.7,2.4,16.0,0.2,3.4,15.5,kaloricke_tabulky
+2026-08-05,lunch,Bun Bo Nam Bo,Bun Bo Nam Bo,350,512.0,23.8,72.1,12.9,6.7,16.8,kaloricke_tabulky
+2026-08-11,lunch,Coleslaw chicken sandwich Popeyes,Coleslaw chicken sandwich Popeyes,259,690.0,39.9,38.3,42.2,0.0,8.0,kaloricke_tabulky
+2026-08-12,breakfast,Rybí omáčka,Rybí omáčka,30,15.4,2.4,1.5,0.0,,1.5,kaloricke_tabulky
+2026-08-12,breakfast,cibule,cibule,70,30.4,1.0,6.2,0.2,1.8,4.3,kaloricke_tabulky
+2026-08-12,breakfast,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",250,264.0,57.8,0.0,3.8,,0.0,kaloricke_tabulky
+2026-08-12,breakfast,ledový salát,ledový salát,60,9.7,0.4,1.2,0.1,0.7,1.2,kaloricke_tabulky
+2026-08-12,breakfast,okurka salátová,okurka salátová,100,15.8,0.8,2.3,0.2,0.9,1.5,kaloricke_tabulky
+2026-08-12,breakfast,rýžové nudle Papa,rýžové nudle Papa,50,181.0,3.2,41.0,0.0,0.6,0.6,kaloricke_tabulky
+2026-08-12,breakfast,Ústřicová omáčka Pearl River Bridge,Ústřicová omáčka Pearl River Bridge,15,17.3,0.3,3.9,0.0,,3.3,kaloricke_tabulky
+2026-08-12,breakfast,česnek,česnek,30,39.0,1.9,7.5,0.1,0.5,1.0,kaloricke_tabulky
+2026-08-15,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-08-15,morning_snack,rajče keříkové,rajče keříkové,40,8.0,0.4,1.6,0.1,0.4,1.0,kaloricke_tabulky
+2026-08-15,morning_snack,tekuté vaječné bílky Eurevo service,tekuté vaječné bílky Eurevo service,200,100.0,20.0,2.4,1.0,,2.4,kaloricke_tabulky
+2026-08-19,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-08-19,lunch,batáty sladké brambory,batáty sladké brambory,150,124.0,3.0,25.5,0.2,4.5,6.0,kaloricke_tabulky
+2026-08-19,lunch,cuketa,cuketa,400,89.1,5.9,11.6,1.2,4.3,8.2,kaloricke_tabulky
+2026-08-19,lunch,hořčice plnotučná,hořčice plnotučná,30,30.6,1.7,2.2,1.6,0.4,1.5,kaloricke_tabulky
+2026-08-19,lunch,kureci rýže,kureci rýže,410,402.0,61.5,29.3,4.1,11.6,9.7,kaloricke_tabulky
+2026-08-19,afternoon_snack,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-08-19,dinner,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-08-19,dinner,burákové máslo,burákové máslo,30,186.0,7.3,4.4,15.0,2.0,,kaloricke_tabulky
+2026-08-24,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-09-01,breakfast,banán,banán,90,84.6,1.1,19.8,0.2,1.8,17.1,kaloricke_tabulky
+2026-09-01,breakfast,broskev,broskev,100,46.1,0.9,9.5,0.2,1.5,8.4,kaloricke_tabulky
+2026-09-01,breakfast,nektarinka,nektarinka,100,40.8,1.2,8.0,0.1,1.7,7.8,kaloricke_tabulky
+2026-09-01,morning_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-09-01,lunch,cuketa,cuketa,300,66.9,4.4,8.7,0.9,3.2,6.2,kaloricke_tabulky
+2026-09-01,lunch,rýže jasmínová,rýže jasmínová,50,173.0,3.5,39.5,0.0,0.8,0.0,kaloricke_tabulky
+2026-09-01,lunch,vepřová plec syrová libová,vepřová plec syrová libová,250,388.0,50.0,0.0,21.0,,,kaloricke_tabulky
+2026-10-14,breakfast,vločky protein,vločky protein,70,275.0,27.7,29.2,4.4,3.2,2.0,kaloricke_tabulky
+2026-10-14,lunch,tatarák z hovězího,tatarák z hovězího,150,247.0,28.5,3.8,13.2,0.5,1.2,kaloricke_tabulky
+2026-10-14,lunch,topinka na tuku,topinka na tuku,125,526.0,6.2,66.2,26.2,,,kaloricke_tabulky
+2026-10-14,dinner,Rýžové vlasové nudle  A.T. International,Rýžové vlasové nudle  A.T. International,50,177.0,3.4,39.1,0.2,0.9,0.0,kaloricke_tabulky
+2026-10-14,dinner,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",320,338.0,73.9,0.0,4.8,,0.0,kaloricke_tabulky
+2026-10-14,dinner,"mražená zelenina mrkev, hrášek, kukuřice Albert","mražená zelenina mrkev, hrášek, kukuřice Albert",220,113.0,7.9,18.5,1.1,11.0,0.0,kaloricke_tabulky
+2026-10-15,breakfast,kakao,kakao,5,15.3,1.1,0.6,0.6,1.7,0.0,kaloricke_tabulky
+2026-10-15,breakfast,mandlové mléko AdeZ,mandlové mléko AdeZ,200,26.7,0.0,1.0,2.2,,0.4,kaloricke_tabulky
+2026-10-15,morning_snack,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-10-15,lunch,kureci rýže,kureci rýže,605,461.0,71.1,59.5,7.2,17.1,14.3,kaloricke_tabulky
+2026-10-15,afternoon_snack,Recky protein,Recky protein,250,226.0,25.0,10.0,9.5,0.3,10.1,kaloricke_tabulky
+2026-10-15,dinner,Rýžové vlasové nudle bún gao A.T. International,Rýžové vlasové nudle bún gao A.T. International,25,88.4,1.7,19.6,0.1,0.5,0.0,kaloricke_tabulky
+2026-10-15,dinner,Výrobek z hovězího mletého masa 20% tuku Vocílka,Výrobek z hovězího mletého masa 20% tuku Vocílka,250,596.0,37.5,0.0,50.0,,0.0,kaloricke_tabulky
+2026-10-15,dinner,brokolice,brokolice,250,109.0,8.2,14.2,0.5,7.5,6.2,kaloricke_tabulky
+2026-10-16,breakfast,cibule,cibule,30,13.0,0.4,2.7,0.1,0.8,1.8,kaloricke_tabulky
+2026-10-16,breakfast,rajče cherry keříčkové,rajče cherry keříčkové,100,23.6,1.0,3.9,0.2,1.2,2.5,kaloricke_tabulky
+2026-10-16,breakfast,tekuté vaječné bílky Eurevo service,tekuté vaječné bílky Eurevo service,200,100.0,20.0,2.4,1.0,,2.4,kaloricke_tabulky
+2026-10-16,breakfast,vejce slepičí,vejce slepičí,36,54.4,4.5,0.3,3.9,,0.1,kaloricke_tabulky
+2026-10-16,lunch,Shirataki konjak noodles City Aroma,Shirataki konjak noodles City Aroma,160,13.8,0.0,2.4,0.0,,0.0,kaloricke_tabulky
+2026-10-16,lunch,Výrobek z hovězího mletého masa 20% tuku Vocílka,Výrobek z hovězího mletého masa 20% tuku Vocílka,250,596.0,37.5,0.0,50.0,,0.0,kaloricke_tabulky
+2026-10-16,lunch,hokaido dýně dušená,hokaido dýně dušená,180,89.6,3.6,16.2,0.4,3.6,0.0,kaloricke_tabulky
+2026-10-16,afternoon_snack,Kukuřičné chlebíčky s quinoou a bazalkou Tastino,Kukuřičné chlebíčky s quinoou a bazalkou Tastino,35,135.0,3.3,26.2,1.1,2.6,0.5,kaloricke_tabulky
+2026-10-16,afternoon_snack,Recky protein,Recky protein,270,304.0,40.0,11.8,10.6,0.3,10.9,kaloricke_tabulky
+2026-10-16,dinner,hokaido dýně dušená,hokaido dýně dušená,200,100.0,4.0,18.0,0.5,4.0,0.0,kaloricke_tabulky
+2026-10-16,dinner,kureci rýže,kureci rýže,449,351.0,64.7,11.5,4.1,12.7,10.6,kaloricke_tabulky
+2026-10-17,dinner,cibule,cibule,35,15.2,0.5,3.1,0.1,0.9,2.1,kaloricke_tabulky
+2026-10-17,dinner,cukety,cuketa,300,66.9,4.4,8.7,0.9,3.2,6.2,kaloricke_tabulky
+2026-10-17,dinner,rýžových vlasových nudlí,Rýžové vlasové nudle bún gao A.T. International,25,88.4,1.7,19.6,0.1,0.5,0.0,kaloricke_tabulky
+2026-10-17,dinner,syrového kuřecího masa,"kuřecí prsa syrová (bez kůže, bez kosti)",270,285.2,62.4,0.0,4.0,,0.0,kaloricke_tabulky
+2026-10-17,breakfast,vločky protein,vločky protein,80,315.0,29.0,36.0,5.1,3.6,2.3,kaloricke_tabulky
+2026-10-17,lunch,Syrový losos,Syrový losos,250,355.0,49.5,0.0,15.8,,,kaloricke_tabulky
+2026-10-17,lunch,brokolice,brokolice,250,109.0,8.2,14.2,0.5,7.5,6.2,kaloricke_tabulky
+2026-10-17,lunch,kureci rýže,kureci rýže,285,203.0,10.2,35.3,0.5,8.1,6.7,kaloricke_tabulky
+2026-10-17,afternoon_snack,syrovátkového proteinu,protein,20,79.3,15.3,1.4,1.5,,,kaloricke_tabulky
+2026-10-17,afternoon_snack,tvarohu,Tvaroh odtučněný Pilos,250,160.0,27.5,8.5,1.2,0.0,8.5,kaloricke_tabulky
+2026-10-17,afternoon_snack,kakaového prášku,kakao,8,24.5,1.7,1.0,0.9,2.8,0.0,kaloricke_tabulky
+2026-10-17,afternoon_snack,mandlového mléka,Bio Mandel Drink ungesüsst K-take it veggie,200,26.8,1.0,1.0,2.4,1.0,1.0,kaloricke_tabulky
+2026-10-18,breakfast,cibule,cibule,35,15.2,0.5,3.1,0.1,0.9,2.1,kaloricke_tabulky
+2026-10-18,breakfast,vaječných bílků,tekuté vaječné bílky Eurevo service,200,100.0,20.0,2.4,1.0,,2.4,kaloricke_tabulky
+2026-10-18,breakfast,žampiónů,žampiony,100,27.9,2.8,3.0,0.2,1.4,0.3,kaloricke_tabulky
+2026-10-18,breakfast,ovesných vloček,ovesné vločky,50,200.0,6.6,34.0,3.4,3.6,0.8,kaloricke_tabulky
+2026-10-18,breakfast,proteinu,protein,30,119.0,22.9,2.1,2.2,,,kaloricke_tabulky
+2026-10-18,lunch,cibule,cibule,35,15.2,0.5,3.1,0.1,0.9,2.1,kaloricke_tabulky
+2026-10-18,lunch,kuřecího,"kuřecí prsa syrová (bez kůže, bez kosti)",200,211.2,46.2,0.0,3.0,,0.0,kaloricke_tabulky
+2026-10-18,lunch,květáku,květák,370,130.7,9.1,16.6,1.0,9.9,11.6,kaloricke_tabulky
+2026-10-18,lunch,plnotučné hořčice,hořčice plnotučná,30,30.6,1.7,2.2,1.6,0.4,1.5,kaloricke_tabulky
+2026-10-18,lunch,tekuté vaječné bílky Eurevo service,tekuté vaječné bílky Eurevo service,100,50.0,10.0,1.2,0.5,,1.2,kaloricke_tabulky
+2026-10-18,afternoon_snack,racio kukuřičných chlebíčků,Cornies kukuřičné s lněným semínkem Racio,100,390.0,9.5,71.0,5.5,7.1,0.8,kaloricke_tabulky
+2026-10-18,afternoon_snack,zmrzlinu raketka,Raketa zmrzlina,66,59.6,0.1,14.5,0.1,,14.5,kaloricke_tabulky
+2026-10-18,afternoon_snack,kaki,kaki,300,210.0,1.7,55.8,0.6,10.8,37.6,usda
+2026-10-18,afternoon_snack,pizza quattro formaggi,Pizza Quattro Formaggi Trattoria Alfredo,280,690.0,33.6,89.6,21.6,,10.6,kaloricke_tabulky
+2026-10-19,afternoon_snack,Jedno kaki,kaki,150,105.0,0.9,27.9,0.3,5.4,18.8,usda
+2026-10-19,breakfast,proteinu,protein,30,119.0,22.9,2.1,2.2,,,kaloricke_tabulky
+2026-10-19,breakfast,vlocek,ovesné vločky,60,240.0,7.9,40.9,4.1,4.3,0.9,kaloricke_tabulky
+2026-10-19,lunch,bun cha,Bún chả,455,983.5,26.1,63.7,68.1,,,recipe
+2026-10-19,lunch,"súp gyoza - domaci japonský vývar, gyoza (2ks) , zelenina",Polévka Gyoza,529,109.7,8.1,8.9,5.4,,,recipe
+2026-10-19,afternoon_snack,cibule,cibule,30,13.0,0.4,2.7,0.1,0.8,1.8,kaloricke_tabulky
+2026-10-19,afternoon_snack,vaječných bílků,tekuté vaječné bílky Eurevo service,200,100.0,20.0,2.4,1.0,,2.4,kaloricke_tabulky
+2026-10-19,afternoon_snack,žampiónů,žampiony,100,27.9,2.8,3.0,0.2,1.4,0.3,kaloricke_tabulky
+2026-10-19,afternoon_snack,racio kukuřičné chlebicky,Cornies kukuřičné s lněným semínkem Racio,115,448.5,10.9,81.7,6.3,8.2,0.9,kaloricke_tabulky
+2026-10-19,afternoon_snack,tvaroh polotučný,"Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-10-19,dinner,kaki,kaki,450,315.0,2.6,83.7,0.9,16.2,56.4,usda
+2026-10-20,lunch,"LOKŠE PLNĚNÉ TRHANÝM KACHNÍM MASEM, červené zelí","Lokše plněné trhaným kachním masem, červené zelí",181,237.9,6.2,49.5,1.7,,,recipe
+2026-10-20,lunch,Zelí červené vařené,Zelí červené vařené,150,43.5,2.3,10.4,0.1,3.9,5.0,usda
+2026-10-20,lunch,kachní prsa syrová kachna domácí,kachní prsa syrová kachna domácí,100,131.7,18.0,0.0,5.0,,,kaloricke_tabulky
+2026-10-20,lunch,Uzena polevka s masem a kroupami,Uzená polévka s masem a kroupami,350,227.5,15.8,21.0,9.8,3.5,1.8,web_estimate
+2026-10-20,breakfast,protein,protein,30,119.0,22.9,2.1,2.2,,,kaloricke_tabulky
+2026-10-20,breakfast,vloček,ovesné vločky,50,200.0,6.6,34.0,3.4,3.6,0.8,kaloricke_tabulky
+2026-10-20,afternoon_snack,francouzska Bageta kvaskova,Bageta celozrnná,220,525.8,18.3,108.0,2.3,9.2,0.0,usda
+2026-10-20,afternoon_snack,vepřová šunka,šunka vepřová dušená nejvyšší jakosti,200,237.0,38.0,1.0,9.0,0.0,,kaloricke_tabulky
+2026-10-20,dinner,cibule,cibule,30,13.0,0.4,2.7,0.1,0.8,1.8,kaloricke_tabulky
+2026-10-20,dinner,kuřecího,"kuřecí prsa syrová (bez kůže, bez kosti)",260,274.6,60.1,0.0,3.9,,0.0,kaloricke_tabulky
+2026-10-20,dinner,žampiónů,žampiony,200,55.8,5.6,6.0,0.5,2.8,0.6,kaloricke_tabulky
