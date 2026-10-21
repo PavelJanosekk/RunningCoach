@@ -1,9 +1,10 @@
 # Profil sportovce
 
 ## Základní údaje
-- **Věk:** 29 · **Výška:** ~188 cm · **Váha:** ~85 kg (9/2026, z 83 kg) · **Tuk:** ~15 %
+- **Věk:** 29 · **Výška:** ~188 cm · **Váha:** 82,5 kg (10/2026; 9/2026 ~85) · **Tuk:** ~15 % (odhad)
 - **Primární background:** bodybuilding / silový trénink
-- **Příjem:** ~2500 kcal (odhad), váha roste → žádný deficit
+- **Příjem:** změřeno 14.–20.10. 2004 kcal (Fitness Hub, úplný log) — **záměrné
+  hubnutí do Thajska** na ~78–80 kg, pak udržovat / nabírat (`07`)
 - **Klidová HR:** ~50 (vsedě u PC); hodinky se na spaní nenosí
 - **Výkonnost:** VDOT ~40–42 (test 31.8.2026)
 - **Cíl: A = 3:40–3:50, B = sub-4:00 (jistota), 3:30 = bonus** ("insane",

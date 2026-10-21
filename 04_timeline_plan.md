@@ -1,6 +1,6 @@
 # Timeline do maratonu 2.5.2027
 
-**Aktualizováno:** 15.10.2026 (návrat z Indonésie, hlavní blok posunut o ~1 týden)
+**Aktualizováno:** 21.10.2026 (hubnutí do Thajska, kalorie podle vzorce v `07`)
 → **~28,5 týdne do závodu**
 **Závody:** Generali Prague Half Marathon **So 3.4.2027** · Vodafone Prague
 Marathon **Ne 2.5.2027** (ověřeno na runczech.com). Registrovat oba v říjnu
@@ -17,11 +17,11 @@ Všechny týdny jsou **po–ne**.
 | Období | Kde | Náplň |
 |---|---|---|
 | 24.9.–11.10.2026 | 🇮🇩 Indonésie | udržovací — reálně 1 běh ~7 km + 15–25 tis. kroků/den |
-| 12.10.–20.12. | doma | ⭐ **HLAVNÍ BLOK** (10 týdnů) |
-| 21.12.–3.1.2027 | 🇬🇪 Gruzie (lyže, ~2200 m) | udržovací |
-| 4.–27.1. | doma | návrat + objem |
-| 28.1.–14.2. | 🇹🇭 Thajsko | udržovací |
-| 15.2.–2.5. | doma | ⭐ **MARATONSKÝ BLOK** (11 týdnů) |
+| 12.10.–20.12. | doma | ⭐ **HLAVNÍ BLOK** (10 týdnů) · hubnutí od 21.10. |
+| 21.12.–3.1.2027 | 🇬🇪 Gruzie (lyže, ~2200 m) | udržovací · jídlo udržovací (pauza v hubnutí) |
+| 4.–27.1. | doma | návrat + objem · hubnutí (konec 27.1.) |
+| 28.1.–14.2. | 🇹🇭 Thajsko | udržovací · jíst do sytosti |
+| 15.2.–2.5. | doma | ⭐ **MARATONSKÝ BLOK** (11 týdnů) · bez deficitu |
 
 ## ⚠️ Kritické poznámky
 1. **Do 20.12. dosáhnout ~55 km/tý a LR ~22 km** (původně 23–24; posun o týden
@@ -160,8 +160,9 @@ Q2 = kopce 8–10× 45–60 s nebo 20–25 min steady @ HR 154–162. **Žádný
 Fueling na LR: do LR 16 km nic nutné · od LR 17 km 45–60 g/h · prosinec 60 g/h.
 Do února levně (DIY iont, med, želé), **gely od března** (viz `07`).
 
-Výživa: ~2500 kcal je OK; zastavit růst váhy na ~85 kg a ladit podle
-7denního průměru (~2800–3000 kcal při 55 km). Posunout makra ke sacharidům — viz `07`.
+Výživa: **hubnutí do Thajska** (rozhodnutí 21.10.), 0,3–0,5 kg/tý na ~78–80 kg.
+Kalorie podle vzorce v `07`: základ 2000 + běh (easy 0,75, LR a threshold
+1,0 × kg × km; LR ½ den předem, ½ v den LR). Klíčové tréninky plně nakrmené.
 
 ### Návrat 15.–25.10. — konkrétně
 Rýma jen nad krkem (nos, hlen v nose/krku) → běh OK, jen easy HR ≤150, bez
@@ -194,6 +195,7 @@ přidat — když ne, ubrat (20.10. byla horní hranice, 3:04–3:27).
 - Nadmořská výška (~2200 m) → HR +10–15 při stejném tempu. Není to ztráta formy.
 - Lyže = excentrika na quadricepsy; lyžák znehybní lýtka/Achilovku →
   **těžký gym vynechat, ale 2–3× 10 min lýtka / soleus / tibialis / kyčle.**
+- Jídlo udržovací = pauza v hubnutí (`07`); po návratu deficit podle vzorce.
 
 ---
 
@@ -210,6 +212,7 @@ přidat — když ne, ubrat (20.10. byla horní hranice, 3:04–3:27).
 ## Blok: Thajsko 28.1.–14.2.2027
 Stejný režim jako Indonésie: 2–3 běhy/týden (18–25 km/tý), 1× delší běh
 12–14 km za pobyt, HR ≤150, silový okruh.
+**Konec hubnutí** — jíst do sytosti. Od 15.2. udržovat nebo nabírat, bez deficitu (`07`).
 
 ---
 

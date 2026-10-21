@@ -1,49 +1,97 @@
 # Výživa
 
-## Aktuální stav (9/2026)
+## Aktuální stav (10/2026) — záměrné hubnutí do Thajska
 
-**Příjem:** reálně **~2500 kcal** (odhad sportovce; 1800–2000 = zvážené
-všední menu bez víkendů a extra jídel)
-**Váha:** 83 → **85 kg** (9/2026) i přes běhání · výška ~188 cm · tuk ~15 %
-**Makra:** 180–200 g protein / 25–30 g tuk (menu) / sacharidy **neověřené**
+**Rozhodnutí sportovce 21.10.2026:** vysekat se do odletu do Thajska (28.1.2027),
+pak udržovat nebo nabírat podle potřeby. „Necílit na hubnutí“ a „deficit
+není“ (i v errata `11`) popisují stav 9/2026 — od 21.10. je deficit záměrný.
 
-### Aktuální jídelníček
-| Jídlo | Obsah |
+**Změřeno 14.–20.10.** (Fitness Hub, zvážené, log úplný vč. víkendu):
+průměr **2004 kcal**, bílkoviny 171 g (2,1 g/kg), sacharidy **197 g (2,4 g/kg)**,
+tuky 58 g, vláknina 28 g.
+**Váha:** **82,5 kg** (17.–20.10., 4 vážení; v 9/2026 ~85) · 188 cm · tuk ~15 % (odhad)
+Jídelníček, váha a kroky po dnech: `fitness-hub/` (denní export z aplikace).
+
+## Hubnutí do Thajska (21.10.2026–27.1.2027)
+| Co | Jak | Proč |
+|---|---|---|
+| Tempo | **0,3–0,5 kg/tý** 7denního průměru (~0,5 % váhy) | sportovci s ~1,4 % váhy/tý ztratili výkon, s ~0,7 % ne a přibrali sval (Garthe 2011) |
+| Kalorie | **vzorec níže** = základ + běh | deficit hlavně ve dny bez běhu, klíčové tréninky nakrmené |
+| Bílkoviny | **175 g** fixně | 2,1 g/kg drží sval i v deficitu; 200 g nic nepřidá |
+| Tuky | **50 g** fixně (minimum ~0,6 g/kg) | hormony, vitamíny A/D/E/K — níž ne |
+| Sacharidy | **zbytek** kalorií | všechno navíc za běh jde do sacharidů |
+| Cíl | **~78–80 kg**, níž ne | při stejné svalové hmotě ~11–12 % tuku |
+
+**Fáze:**
+- **21.10.–20.12.:** deficit podle vzorce (objem 26 → 55 km).
+- **Gruzie 21.12.–3.1.:** udržovací (pauza v hubnutí) — lyže + výška, těžko
+  se loguje. Dvoutýdenní pauza výsledek nezhorší (MATADOR 2018, i když u obézních).
+- **4.–27.1.:** deficit podle vzorce (objem 32 → 52 km).
+- **Thajsko 28.1.–14.2.:** jíst do sytosti, nepočítat.
+- **Od 15.2. (maratonský blok):** **žádný deficit** — udržovat nebo nabírat.
+  Startovní základ ≈ poslední základ + ~500 kcal, pak ladit podle váhy.
+
+**Varovné signály nízké energie** (přebíjí váhu → hned +200 kcal do základu):
+klidová HR ráno +5 bpm držící se týden, easy tempo při stejné HR horší o
+>10 s/km a cutback nepomůže, pokles libida, opakované nemoci, lokální bolest
+kosti, únava neodchází po cutbacku.
+
+## Vzorec denních kalorií (pro Fitness Hub)
+```
+navíc(běh) = k × váha_kg × km          váha = 7denní průměr
+  k = 0,75   easy, strides, kopce
+  k = 1,0    threshold a long run (klíčové tréninky)
+
+kcal_den = základ
+         + navíc(běhy dnes, kromě LR)
+         + ½ navíc(LR dnes) + ½ navíc(LR zítra)
+
+základ = 2000 kcal (den bez běhu, posilovna +0)
+bílkoviny 175 g · tuky 50 g · sacharidy = (kcal − 700 − 450) / 4
+zaokrouhlit na 50 kcal
+```
+- **Lineárně podle km:** čistá cena běhu je ~0,9–1,0 kcal/kg/km skoro
+  nezávisle na tempu → 15 km stojí 3× víc než 5 km, ne méně za kilometr.
+- **k = 0,75 u easy** vrátí ~80 % ceny běhu; deficit pak s objemem roste
+  jen pomalu. **k = 1,0 u klíčových** — deficit na nich stojí kvalitu.
+- **LR napůl:** ½ den předem (glykogen na start), ½ v den LR (regenerace).
+  Den před LR je volno, takže základ + ½ LR.
+- **Fueling během běhu** (iont, med, želé, gely) jde **navíc nad cíl** — nešetřit.
+- km = plánované běhy; po běhu nahradit skutečnými km ze Stravy (jen pro dnešek).
+  LR a threshold podle plánu v `04` (`weeks.csv`: `plan_long_run`, `plan_quality`).
+- Odpovídá dřívějšímu pravidlu „+10 km/tý ≈ +120 kcal/den“.
+
+**Příklady při 82,5 kg** (easy ~62 kcal/km, LR/T ~83 kcal/km):
+| Den | kcal | sacharidy |
+|---|---|---|
+| bez běhu | 2000 | ~210 g (2,6 g/kg) |
+| easy 5 km | 2300 | ~290 g (3,5 g/kg) |
+| easy 7 km | 2450 | ~325 g (3,9 g/kg) |
+| threshold 10 km vč. rozklusu | 2850 | ~425 g (5,2 g/kg) |
+| den před LR 10 km / den LR | 2400 / 2400 | ~310 g (3,8 g/kg) |
+| den před LR 14 km / den LR | 2600 / 2600 | ~360 g (4,4 g/kg) |
+| den před LR 20 km / den LR | 2850 / 2850 | ~425 g (5,2 g/kg) |
+
+Týden 19.–25.10. podle vzorce: Po 2000 · Út 2350 · St 2450 · Čt 2000 ·
+Pá 2300 · So 2400 · Ne 2400 → průměr ~2270 kcal (14.–20.10. reálně 2004).
+
+**Ladění základu** — každé pondělí od 9.11. (do té doby váhu zkresluje
+glykogen z vyšších sacharidů, +0,5–1,5 kg): tempo = změna 7denního
+průměru za 2 týdny ÷ 2.
+| Tempo hubnutí | Základ |
 |---|---|
-| Snídaně | 50 g vločky + 30 g protein |
-| Oběd | 25 g rýžové nudle + 250 g kuřecí maso + 250 g zelenina + omáčka (sójová 10 g + 40 g tatarky/hořčice) |
-| Svačina | 250 g polotučný tvaroh |
-| Večeře | stejné jako oběd |
-
-## Energie — v pořádku, jen hlídat s rostoucím objemem
-- Reálný příjem ~2500 kcal a váha +2 kg → **deficit není**, spíš mírný
-  přebytek (část může být sval z gymu 3–4×/tý, glykogen, voda).
-- Energetická dostupnost ~26 kcal/kg netukové hmoty (~72 kg) — s váhou,
-  která roste, to nevadí.
-
-### Co dělat
-1. **Indonésie:** jíst do sytosti, nepočítat.
-2. **Od 12.10.:** ranní váha 3–7× týdně → **7denní průměr**. Cíl = váhu
-   **zastavit na ~85 a nechat ji s objemem pomalu klesat** (každý kg dolů
-   ≈ až ~2,5 min na maratonu, ale nikdy za cenu tréninku).
-3. **Škálování:** každých +10 km/tý ≈ +120 kcal/den → ~2800–3000 kcal při
-   55 km, ~3000–3300 při 60–65 km. Ladit podle 7denního průměru:
-   růst >0,3 kg/tý (po 1. týdnu vyšších sacharidů) → −200 kcal (z tuků/proteinu,
-   ne ze sacharidů); pokles >0,5 kg/tý → +200 kcal.
-4. **Makra přesunout ke sacharidům** (viz níže) — kalorie celkem stačí,
-   jejich složení pro maraton ne.
-5. Varovné signály nízké energie (pro jistotu): pokles libida, klidová HR +5,
-   opakované nemoci, lokální bolest kosti, únava neodchází po cutbacku.
+| > 0,6 kg/tý | +150 kcal |
+| 0,2–0,6 kg/tý | beze změny |
+| < 0,2 kg/tý nebo roste | −100 kcal (minimum 1900) |
 
 ## Sacharidy
-Deklarovaných "~240–250 g" byl dopočet, ne měření. Jídelníček výše obsahuje
-jen **~110–130 g (1,3–1,6 g/kg)**; dopočtem z kcal 180–215 g (2,2–2,6 g/kg).
+Změřeno 14.–20.10.: **197 g/den (2,4 g/kg)**, rozptyl 96–327 g; St–So jen
+96–157 g. (Dřívější „~240–250 g“ byl dopočet, menu z 9/2026 dávalo ~110–130 g.)
 
 | Období | Běžný den | Kvalita | LR den + den před LR |
 |---|---|---|---|
-| Indonésie | 3,5–4,5 g/kg, do sytosti | — | — |
-| 15.10.–22.11. (12–48 km) | 3,5–4 g/kg (~290–330 g) | 5 g/kg (~415 g) | 6 g/kg (~500 g) u LR ≥16 km |
-| Prosinec (55 km) | průměr 5–6 g/kg | | |
+| Hubnutí 21.10.–27.1. (kromě Gruzie) | podle vzorce: 2,6 g/kg bez běhu, 3,5–4 g/kg s easy | ~5 g/kg | ~4–5,5 g/kg (vzorec) + fueling navíc |
+| Gruzie 21.12.–3.1. | udržovací, do sytosti | — | — |
 | Maratonský blok | průměr 5–7 g/kg | | 7–8 g/kg u LR ≥26 km |
 | Závod | carb-load 36–48 h: 8–10 g/kg (660–830 g/den), málo vlákniny | | |
 
@@ -52,9 +100,8 @@ Prakticky: 500 g zeleniny + 500 g kuřete denně hodně zasytí → v klíčové
 džus, med. 30–60 g sacharidů před thresholdem.
 
 ## Tuky
-25–30 g/den (v menu) je málo (hormony, vitamíny A/D/E/K, omega-3).
-**Cíl 60–70 g.** Protože váha roste: vyměnit za část proteinu (200 → 170–180 g),
-**sacharidy nesnižovat**.
+Pod ~0,6 g/kg ne (hormony, vitamíny A/D/E/K, omega-3). **Při hubnutí 50 g**
+(14.–20.10. průměr 58 g), **od 15.2. 60–70 g**. Sacharidy kvůli tukům nesnižovat.
 
 | Kde | Co přidat | Δ tuk | Δ kcal |
 |---|---|---|---|
@@ -67,13 +114,14 @@ Zdroje: vejce, tučné ryby (losos, makrela, sardinky; bonus omega-3), ořechov�
 másla, avokádo, plnotučný řecký jogurt, sýry, ořechy.
 
 ## Protein
-**170–180 g (2,0–2,2 g/kg)** — výzkum 1,6–2,2 g/kg. Víc nepotřeba.
+**175 g (2,1 g/kg)** i při hubnutí — výzkum 1,6–2,2 g/kg. Víc nepotřeba
+(cíl 200 g ve Fitness Hub snížit).
 
 ## Váha a složení těla
-- 188 cm / 85 kg / ~15 % tuku → **necílit na hubnutí** (při ~15 % riziko
-  ztráty výkonu a svalu převáží zisk).
-- Priorita: **zastavit růst** (méně objemu na upper, víc sacharidů místo
-  tuků/proteinu) a nechat váhu s objemem klesat k ~83 kg sama.
+- 188 cm / 82,5 kg (10/2026) / ~15 % tuku (odhad) → hubnutí do Thajska
+  na **~78–80 kg**, tempo a fáze viz výše. Každý kg dolů ≈ až ~2,5 min na
+  maratonu, ale nikdy za cenu tréninku.
+- V deficitu drží sval **váha na čince, ne objem** (`09`).
 - Horní polovina těla na údržbě do 2.5. — další svalová hmota nahoře = kg navíc.
 - Více sacharidů = +1–2 kg glykogenu a vody za první týden. Není to tuk.
 - V závodním týdnu nevážit (carb-load = +1–2 kg).
@@ -160,7 +208,7 @@ snídaně (g sacharidů, kdy), gely (minuty), ml, sodík, GI 0–3.
 |---|---|---|
 | **Vitamin D3** | 1000–2000 IU s jídlem od listopadu | pokud 25(OH)D není >100 nmol/l; upravit podle února |
 | **Kofein** | 3 mg/kg na závod | viz Závod |
-| Kreatin | 3–5 g/den | volitelný; +0,5–1,5 kg vody (váha už roste); zvážit vysazení ~4–6 týdnů před závodem |
+| Kreatin | 3–5 g/den | volitelný; +0,5–1,5 kg vody (zkresluje váhu při hubnutí); zvážit vysazení ~4–6 týdnů před závodem |
 | Omega-3 | 2–3 g/den | nízká priorita, pokud 60–70 g tuku a ryby 2×/tý |
 | Hořčík | 300–400 mg večer | nízká priorita; glycinát / malát, ne oxid |
 | Železo | **jen podle krevního testu a lékaře** | muž naslepo nebrat |
@@ -171,6 +219,7 @@ Zbytečné: BCAA, glutamin, předtréninkovky, kloubní výživa.
 Odloženo z 15.10. kvůli rýmě (20.10. ještě mírná, proto ne 29.10.).
 Ne do ~2 týdnů po infekci a ne den po LR / kvalitě — zánět i tvrdý trénink zvedají feritin a CRP (feritin by vyšel
 falešně dobrý).
-KO, ferritin, saturace transferinu, 25(OH)D, CRP. Hormony (testosteron,
-TSH) jen volitelně — energie je v pořádku. Ferritin <30–35 µg/l = pro
+KO, ferritin, saturace transferinu, 25(OH)D, CRP + **testosteron, TSH, fT3**
+jako výchozí hodnota — od 21.10. záměrný deficit a při nízké energetické
+dostupnosti klesají první (srovnání, kdyby přišly varovné signály). Ferritin <30–35 µg/l = pro
 vytrvalce relevantní deficit. Hraniční hodnoty zopakovat v půlce února.

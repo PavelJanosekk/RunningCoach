@@ -1,6 +1,6 @@
 # Knowledge Base: Marathon Training
 
-**Vytvořeno:** 18.9.2026 · **Aktualizováno:** 20.10.2026 (Út 20.10. easy + první strides zalogováno)
+**Vytvořeno:** 18.9.2026 · **Aktualizováno:** 21.10.2026 (hubnutí do Thajska, data z Fitness Hub)
 **Cílový závod:** Vodafone Prague Marathon, **neděle 2.5.2027**
 **Generálka:** Generali Prague Half Marathon, **sobota 3.4.2027**
 **Cíl:** A = **3:40–3:50**, B = sub-4:00 (jistota), 3:30 bonus; dlouhodobě
@@ -26,7 +26,8 @@ zlepšovat rychlost. Závodní tempo podle PM 3.4.
 ## Rychlá fakta
 - LTHR = **172 bpm** (30min TT 31.8.2026), max HR ≥181
 - VDOT **~40–42** (≈ 3:40–3:48) · 3:40 potřebuje ~42,5–43
-- 188 cm / 85 kg / ~15 % tuku, ~2500 kcal — žádný deficit
+- 188 cm / **82,5 kg** (10/2026) / ~15 % tuku · **hubnutí do Thajska**
+  0,3–0,5 kg/tý na ~78–80 kg, kalorie = vzorec v `07`; od 15.2. bez deficitu
 - Easy = **138–153 bpm**, 5:45–6:15/km; prvních 10 min ≥5:45 podle tempa
 - Threshold repy = **4:55–5:05/km, konec repu HR ≤168** (ne 4:50)
 - Strides 15–20 s, 85–90 % (3:04–3:27 = horní hranice), po rovině / do kopce
@@ -43,3 +44,8 @@ python3 scripts/metrics.py --after 2026-09-20       # EF, decoupling, čas nad H
 ```
 Přihlašovací údaje v `.env` (gitignored), token se obnovuje sám.
 Strava API je zdroj pravdy — neodhadovat z popisu.
+
+## Data z Fitness Hub
+`fitness-hub/` = denní export z aplikace sportovce: jídlo (zvážené, úplné),
+váha, kroky, posilovna (série, RIR), týdenní přehled. Nejdřív `git pull`,
+pak `fitness-hub/README.md`. Ručně neupravovat; prázdná buňka = neznámá hodnota.

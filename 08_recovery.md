@@ -4,7 +4,7 @@
 
 | # | Co | Status |
 |---|---|---|
-| 1 | **Sacharidy kolem tréninku** | ⚠️ energie OK (~2500 kcal, váha roste), složení ne — viz `07` |
+| 1 | **Sacharidy kolem tréninku** | ⚠️ záměrný deficit do 27.1. → kalorie podle vzorce, navíc za běh do sacharidů — viz `07` |
 | 2 | **Spánek** | ✅ ~8 h stabilně |
 | 3 | Řízení zátěže (pravidla v `04`, návratový protokol) | ✓ |
 | 4 | Krevní testy (ferritin, D, …) | ⬜ Čt 5.11. (odloženo, rýma) |

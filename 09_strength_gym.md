@@ -37,11 +37,15 @@ Pá  easy → LEHKÝ LOWER 20 min (plyo, lýtka, kyčle; bez těžkých excentri
 So  volno → UPPER
 Ne  LONG RUN
 ```
-- Upper 3×/tý je OK, ale **na údržbě** (váha 83 → 85 kg; další sval nahoře = kg navíc).
+- Upper 3×/tý je OK, ale **na údržbě** (další sval nahoře = kg navíc).
+- **Do 27.1. v deficitu** (`07`): sval drží váha na čince, ne objem → držet
+  váhy, upper ~10 sérií/trénink, 2–3 RIR. 14.–20.10. bylo 15–21 sérií/trénink,
+  13 z 18 sérií s RIR ≤1, nohy 4 série a lýtka/kyčle 0.
 - Pátek v týdnech se 2 kvalitami (Q2): max 15 min lýtka/plyo.
 - **Nikdy nohy den před LR ani den po LR.**
 - Běh ráno → gym odpoledne, nikdy naopak.
-- **Gym zapisovat na Stravu** ("Upper" / "Lower"), i bez HR.
+- Gym se loguje ve Fitness Hub → `fitness-hub/gym_workouts.csv` a `gym_sets.csv`
+  (série, váhy, RIR). Na Stravu už není potřeba.
 - Starý split (easy v sobotu před LR, 2 lower dny bez vazby na kvalitu) je
   překonaný — porušoval errata.
 
