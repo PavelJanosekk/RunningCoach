@@ -1087,3 +1087,14 @@ date,meal,label,food,amount_g,kcal,protein_g,carbs_g,fat_g,fiber_g,sugar_g,food_
 2026-10-21,dinner,rýžových vlasových nudlí,Rýžové vlasové nudle  A.T. International,50,177.0,3.4,39.1,0.2,0.9,0.0,kaloricke_tabulky
 2026-10-21,dinner,žampiónů,žampiony,100,27.9,2.8,3.0,0.2,1.4,0.3,kaloricke_tabulky
 2026-10-21,second_dinner,Popcorn,Popcorn bez oleje,100,387.0,12.9,77.8,4.5,14.5,0.9,usda
+2026-10-22,breakfast,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,30,114.8,22.5,2.0,1.7,,1.6,kaloricke_tabulky
+2026-10-22,breakfast,ovesné vločky,ovesné vločky,50,200.0,6.6,34.0,3.4,3.6,0.8,kaloricke_tabulky
+2026-10-22,lunch,jasmínové rýže,rýže jasmínová,50,173.0,3.5,39.5,0.0,0.8,0.0,kaloricke_tabulky
+2026-10-22,lunch,mražené zeleniny hrášek kukuřice mrkev,"mražená zelenina mrkev, hrášek, kukuřice Albert",180,92.5,6.5,15.1,0.9,9.0,0.0,kaloricke_tabulky
+2026-10-22,lunch,vepřových jater,Vepřová játra syrová,460,616.4,98.4,11.4,16.8,0.0,,usda
+2026-10-22,afternoon_snack,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,30,114.8,22.5,2.0,1.7,,1.6,kaloricke_tabulky
+2026-10-22,afternoon_snack,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-10-22,dinner,Rýžové vlasové nudle  A.T. International,Rýžové vlasové nudle  A.T. International,25,88.5,1.7,19.6,0.1,0.5,0.0,kaloricke_tabulky
+2026-10-22,dinner,cibule,cibule,35,15.2,0.5,3.1,0.1,0.9,2.1,kaloricke_tabulky
+2026-10-22,dinner,dýně Hokkaido,dýně Hokkaido,280,131.6,4.8,24.6,0.6,4.5,,kaloricke_tabulky
+2026-10-22,dinner,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",200,211.2,46.2,0.0,3.0,,0.0,kaloricke_tabulky
