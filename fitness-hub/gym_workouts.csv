@@ -126,3 +126,4 @@ date,start_local,end_local,duration_min,ended_by,name,source,working_sets,exerci
 2026-10-19,2026-10-19 07:12,2026-10-19 08:28,76,user,Back biceps,manual,15,6,3157,,13381502-def1-4322-a3f0-e9210e05449f
 2026-10-20,2026-10-20 15:48,2026-10-20 16:53,66,user,Push,manual,21,9,6285,,94e0fead-0afc-4290-bdf6-cb92252ba6eb
 2026-10-21,2026-10-21 16:17,2026-10-21 16:25,8,user,Legs run,manual,7,3,1035,,5e63d320-795a-41a2-8bd0-3aa93d867a0e
+2026-10-24,2026-10-24 11:54,2026-10-24 12:20,26,auto_idle,Trénink,manual,17,6,3605,,34c4139f-1948-409a-a124-eefb7076be9a
