@@ -57,6 +57,9 @@ zaokrouhlit na 50 kcal
 - **LR napůl:** ½ den předem (glykogen na start), ½ v den LR (regenerace).
   Den před LR je volno, takže základ + ½ LR.
 - **Fueling během běhu** (iont, med, želé, gely) jde **navíc nad cíl** — nešetřit.
+- **Jídlo před během** (víc sacharidů den před LR, rýžové chlebíčky před LR)
+  zapisovat jako normální jídlo, ne fueling: na to je ½ LR v cíli den předem
+  a v den LR. Jako fueling jen to, co se sní během běhu.
 - km = plánované běhy; po běhu nahradit skutečnými km ze Stravy (jen pro dnešek).
   LR a threshold podle plánu v `04` (`weeks.csv`: `plan_long_run`, `plan_quality`).
 - Odpovídá dřívějšímu pravidlu „+10 km/tý ≈ +120 kcal/den“.

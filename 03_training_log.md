@@ -249,14 +249,17 @@ chyběl běžecký náraz. Proč jen 1 běh: program a cestování, ne bolest.
 - Metriky St–Ne z per-sec streamů ve Fitness Hub (port `metrics.py`, GAP
   Minetti). RPE ani popis na Stravě u žádného ze 3 běhů nejsou.
 - **St:** prvních 10 min 5:34 z kopce (km 1–2 −40 m). Km 6 = strmý kopec
-  12–15 % s chůzí (kadence ~50), HR skáče 141 ↔ 181, pak 3–4 min 167–176
-  na rovině při 6:30–7:40. Max 181 = jen na tomhle kopci → **nebrat jako
-  nové max HR ani do trendů**. >157 bpm 5,7 min (13 %), skoro vše km 5–6.
+  12–15 % s chůzí (kadence ~50), HR 141 → 181, pak 3–4 min 167–176 na
+  rovině při 6:30–7:40. **181 = skutečná námaha** (sportovec potvrdil),
+  odpovídá max HR ≥181. >157 bpm 5,7 min (13 %), skoro vše km 5–6.
   Decoupling 4,4 %.
+- **Strmý kopec ke konci = běžný vzorec trasy** (sportovec 25.10.): HR
+  vyletí, pak ji ~1 km pomalejším tempem stahuje. Byl i na zářijových
+  bězích (1,3–2,6 min nad 8 %), progres to nebrzdilo → neřešit.
 - **St lower:** BSS 36×5 (RIR 1), 18×8, 18×7 (RIR 2) · RDL 32,5×10 (RIR 3),
-  32,5×8 (RIR 1) · lýtka BW 2×20. ⚠️ 36 vs 18 kg u BSS — nejspíš zápis
-  obou jednoruček vs. jedné, ověřit; objem vs. Čt 15.10. proto nejistý.
-  RIR 1 je pod plánovanými 2–3.
+  32,5×8 (RIR 1) · lýtka BW 2×20. Jednoručky = součet obou, opakování na
+  každou nohu (sportovec 25.10.) → BSS 2×18 kg ×5, pak 2×9 kg; 15.10.
+  2×12,5 kg. 1. série skok +44 % a RIR 1 (plán 2–3).
 - **Pá:** prvních 10 min 5:40 z kopce. >157 bpm 2,5 min (8 %), vše km 4
   (stoupání +23 m, HR do 169). Decoupling 4,7 %.
 - **Ne LR:** 1,17× nejdelšího za 30 dní (9,11) — nad pravidlem ≤1,10×.
@@ -264,11 +267,15 @@ chyběl běžecký náraz. Proč jen 1 běh: program a cestování, ne bolest.
   do mírného kopce 6:25–6:47 při HR 149–158. Km ~9,6 strmý kopec 10–12 %
   (HR 175). >157 bpm 11,8 min (17 %), skoro vše km 8–10. Decoupling 3,7 %.
   Kadence celou dobu 79–80/nohu.
-- **GAP @ HR 143–150 po návratu: 6:06 (Pá), 6:10 (St), 6:20 (Ne)** vs. Čt
-  15.10. 5:42 a září 5:48. Poznámku „základ drží“ z 15.10. to oslabuje.
-  Ale všechny 3 trasy mají strmé kopce s chůzí (GAP chůzi nepočítá dobře),
-  od 21.10. je deficit a posilovna 4×/tý. Do trendu nemíchat; rozhodne
-  easy běh na rovinaté trase.
+- **GAP @ HR 143–150 po návratu: 6:06 (Pá), 6:10 (St), 6:20 (Ne)** vs.
+  září easy 5:48–6:07 (8–9 km), LR 13.9. 6:03 a 20.9. 6:10. Kopce to
+  nevysvětlují: bez úseků >4 % a 5 min po strmém kopci vychází stejně
+  (St 6:14, Ne 6:19) a zářijové běhy měly stejný kopec. → **~10–15 s/km
+  ztráta při stejné HR**, odpovídá ~4 týdnům s 1 během/tý (Indonésie);
+  15.10. 5:42 byl krátký rovinatý běh (n = 1). Od 21.10. navíc deficit.
+  Re-adaptace obvykle 2–4 týdny → srovnat znovu ~8.11.
+- **Fueling 24.–25.10.** = jídlo před LR (víc sacharidů v So, rýžové
+  chlebíčky před LR), ne během běhu → patří do normálního jídla (`07`).
 - Váha 82,2–82,6 (17.–20.10.) → 83,4–84,2 (21.–24.10.), současně sacharidy
   ~130 → 160–250 g/den. Hodnotit 7denní průměr, první kontrola 9.11. (`07`).
 

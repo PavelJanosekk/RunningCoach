@@ -141,7 +141,7 @@ Po návratu bude HR při stejném tempu 1–2 týdny nižší (aklimatizace) —
 |---|---|---|---|---|---|
 | 1 | 12.–18.10. | ✅ 14,2 | ✅ 9,1 | nic | 1. lower Čt 15.10. → DOMS do neděle; krevní test odložen |
 | 2 | 19.–25.10. | ✅ 28,6 | ✅ 10,7 | ✅ strides | 2. lower St 21.10.; upper So 24.10.; registrace |
-| 3 | 26.10.–1.11. | 32–34 (85–90 %) | 12 | strides + kopce 6–8× 45 s | |
+| 3 | 26.10.–1.11. | 32–34 (85–90 %) | 12 | strides + kopce 6–8× 45 s | 3. lower St 28.10. (+ lýtka, soleus, Copenhagen) |
 | 4 | 2.–8.11. | 38–40 (100 %) | 14 | T 3× 1,5 km | krevní test Čt 5.11. (rýma do ~20.10.) |
 | 5 | 9.–15.11. | 42–44 | 16 | T 4× 1,5 km | **5. běh** (5 km easy) |
 | 6 | 16.–22.11. | 46–48 | 17–18 | T 2× 12–15 min | LR ≥17 km: 500 ml DIY iont + med/želé; nohy už ne v den LR |
@@ -187,6 +187,29 @@ Prvních 10 min ≥5:45/km, HR ≤150, objem nepřidávat.
 První 2 týdny nesrovnávat efektivitu (návrat, DOMS).
 Strides: po rovině nebo do kopce, ne z kopce. Na vrcholu musí jít ještě
 přidat — když ne, ubrat (20.10. byla horní hranice, 3:04–3:27).
+
+### Týden 26.10.–1.11. — konkrétně (85–90 %, ~33,5 km)
+```
+Po 26.  Volno + pull (~10 sérií, 2–3 RIR)
+Út 27.  Kopce 7–8 km: 15 min rozklus, 6–8× 45 s do kopce 4–8 %, klus dolů, 10 min výklus + odpoledne push
+St 28.  Easy 8 km + odpoledne lower (3. po pauze)
+Čt 29.  Volno / mobilita
+Pá 30.  Easy 6 km + 4–6 strides + 15 min kyčle (bez těžkých excentrik)
+So 31.  Volno + upper (~10 sérií)
+Ne 1.   Long run 12 km (1,12× 10,67)
+```
+- **Kopce:** svah 4–8 %, ne ten strmý 12–15 % (tam se nedá držet krok).
+  Úsilí ~5K, technika, nahoře by šlo přidat. HR neřešit (45 s ji
+  nestihne zvednout). Klus dolů pomalu = pauza. První kopce → 6×; když
+  je poslední stejně dobrý jako první, příště 8×.
+- **Lower St** (3. trénink po pauze → objem přidat, nohy ~11 sérií/tý):
+  BSS 3 × 6–8 @ 2–3 RIR (~2×14–16 kg) · RDL 2–3 × 6–8 @ 2–3 RIR ·
+  výpony s propnutým kolenem 2 × 10–12 · soleus vsedě 2 × 12–15 ·
+  Copenhagen 2 × 20 s/strana.
+- **Pá kyčle:** boční step-down 2 × 10, side plank s nohou, single leg
+  glute bridge 2 × 10–12, tibialis 2 × 15 (`09`).
+- Autoregulace: nohy v Pá >3/10 → LR jen 10–11 km.
+- Strmý kopec na LR: klidně stejně jako dosud (vyběhnout, pak stáhnout).
 
 ---
 

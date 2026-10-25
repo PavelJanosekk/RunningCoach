@@ -45,7 +45,8 @@ Ne  LONG RUN
 - **Nikdy nohy den před LR ani den po LR.**
 - Běh ráno → gym odpoledne, nikdy naopak.
 - Gym se loguje ve Fitness Hub → `fitness-hub/gym_workouts.csv` a `gym_sets.csv`
-  (série, váhy, RIR). Na Stravu už není potřeba.
+  (série, váhy, RIR). Na Stravu už není potřeba. Jednoručky: váha = součet
+  obou, opakování = na každou nohu/ruku.
 - Starý split (easy v sobotu před LR, 2 lower dny bez vazby na kvalitu) je
   překonaný — porušoval errata.
 
