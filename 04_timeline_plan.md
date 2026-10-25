@@ -1,6 +1,6 @@
 # Timeline do maratonu 2.5.2027
 
-**Aktualizováno:** 21.10.2026 (hubnutí do Thajska, kalorie podle vzorce v `07`)
+**Aktualizováno:** 25.10.2026 (týden 19.–25.10. odběhnut; dříve: hubnutí do Thajska, vzorec v `07`)
 → **~28,5 týdne do závodu**
 **Závody:** Generali Prague Half Marathon **So 3.4.2027** · Vodafone Prague
 Marathon **Ne 2.5.2027** (ověřeno na runczech.com). Registrovat oba v říjnu
@@ -140,7 +140,7 @@ Po návratu bude HR při stejném tempu 1–2 týdny nižší (aklimatizace) —
 | Týden | Datum | km | LR | Kvalita | Pozn. |
 |---|---|---|---|---|---|
 | 1 | 12.–18.10. | ✅ 14,2 | ✅ 9,1 | nic | 1. lower Čt 15.10. → DOMS do neděle; krevní test odložen |
-| 2 | 19.–25.10. | 26–28 (70 %) | 10 | strides | 2. lower St 21.10. (objem ≤ Čt 15.10.); registrace |
+| 2 | 19.–25.10. | ✅ 28,6 | ✅ 10,7 | ✅ strides | 2. lower St 21.10.; upper So 24.10.; registrace |
 | 3 | 26.10.–1.11. | 32–34 (85–90 %) | 12 | strides + kopce 6–8× 45 s | |
 | 4 | 2.–8.11. | 38–40 (100 %) | 14 | T 3× 1,5 km | krevní test Čt 5.11. (rýma do ~20.10.) |
 | 5 | 9.–15.11. | 42–44 | 16 | T 4× 1,5 km | **5. běh** (5 km easy) |
@@ -176,11 +176,11 @@ So 17.  ✅ Volno
 Ne 18.  ✅ Easy 9,11 km (plán 7–8), bolavé nohy
 Po 19.  ✅ Volno
 Út 20.  ✅ Easy 5,06 km + 4 strides (rýma už jen mírná)
-St 21.  Easy 7 km + odpoledne lower: stejné cviky, objem ≤ Čt 15.10., 2–3 RIR
-Čt 22.  Volno / mobilita
-Pá 23.  Easy 5 km
-So 24.  Volno + upper
-Ne 25.  Long run 10 km (= 1,10× 9,1; trasu naplánovat předem)
+St 21.  ✅ Easy 7,08 km + odpoledne lower (BSS, RDL, lýtka)
+Čt 22.  ✅ Volno
+Pá 23.  ✅ Easy 5,25 km
+So 24.  ✅ Volno + upper
+Ne 25.  ✅ Long run 10,67 km (plán 10)
 ```
 Autoregulace: když v pátek bolí nohy >3/10, LR v neděli jen 8–9 km.
 Prvních 10 min ≥5:45/km, HR ≤150, objem nepřidávat.

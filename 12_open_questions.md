@@ -10,11 +10,11 @@
       odeznění, ne den po LR/kvalitě; **+ testosteron, TSH, fT3** (deficit)
 - [ ] **Hubnutí do Thajska** 0,3–0,5 kg/tý na ~78–80 kg; ranní váha
       3–7×/tý ve Fitness Hub → 7denní průměr; ladit základ od Po 9.11. (`07`)
-- [ ] **Fitness Hub:** cíle přenastavit (bílkoviny 200 → 175 g, tuky 50 g,
+- [x] **Fitness Hub:** cíle přenastavit (bílkoviny 200 → 175 g, tuky 50 g,
       sacharidy = zbytek) a doprogramovat vzorec denních kcal podle běhu (`07`)
 - [ ] Fitness Hub export: datum aktivit v místním čase běhu (`start_date_local`,
-      Gili 6.10. je teď 5.10.); `steps = 1` (19.9., 24.9.) → prázdné;
-      posilovna 21.7.–15.10. chybí (import ze Strongu?)
+      Gili 6.10. je pořád 5.10.); ✅ `steps = 1` → prázdné;
+      posilovna 21.7.–15.10. chybí (v README export popsáno, neimportováno)
 - [ ] **Najít plochý okruh pro threshold** (a pro retest 23.–29.11.)
 - [ ] **Založit intervals.icu** (threshold pace 5:00, LTHR 172, zóny % LTHR)
 - [ ] Na LR ≥17 km (od 22.11.): ~500 ml DIY iont + med/želé — větší láhev
@@ -22,7 +22,8 @@
 - [ ] Boty přidat na Stravu; 2. pár Novablast 5 ~listopad/prosinec
 - [ ] Zvážit hrudní pás Polar H10 (intervaly, testy)
 - [ ] Silový program z `09` (soleus, plyo, **kyčle / gluteus medius**);
-      1. lower Čt 15.10. (DOMS do neděle) → 2. lower St 21.10., objem ≤ 1.
+      1. lower Čt 15.10. (DOMS do neděle) → ✅ 2. lower St 21.10. (BSS 36 vs
+      18 kg ověřit, RIR 1–3)
 
 ## Monitoring — co zapisovat
 | Co | Jak |

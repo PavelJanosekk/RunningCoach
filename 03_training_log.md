@@ -224,11 +224,16 @@ chyběl běžecký náraz. Proč jen 1 běh: program a cestování, ne bolest.
 - **Lower Čt → bolest ještě v Ne (72 h).** První lower po pauze měl být na
   ~50 %. Druhý trénink stejných cviků bolí výrazně méně (repeated bout effect).
 
-### Týden 19.–25.10. — 70 % (rozpracováno; zatím 5,6 km, plán 26–28)
+### Týden 19.–25.10. — 70 % (28,6 km, 4 běhy, plán 26–28 + 2× lower/upper)
 | Datum | Trénink | Tempo | Avg HR | % LTHR | D+ |
 |---|---|---|---|---|---|
 | Po 19.10. | *volno* | | | | |
 | Út 20.10. | 5,56 km: 5,06 easy + **4× strides** (první po ~4 týdnech) | 6:09 | 148 | 86 % | 69 m |
+| St 21.10. | 7,08 km easy + odpoledne **lower** | 6:17 | 150 | 87 % | 67 m |
+| Čt 22.10. | *volno* | | | | |
+| Pá 23.10. | 5,25 km easy | 6:10 | 148 | 86 % | 56 m |
+| So 24.10. | *volno* + upper | | | | |
+| Ne 25.10. | **LR 10,67 km** (plán 10) | 6:23 | 150 | 87 % | 96 m |
 
 - **Easy část:** 6:21, HR 149. Prvních 10 min 7:13 do kopce (+45 m), GAP 6:06
   → cue ≥5:45 splněn. >157 bpm 2,7 min (8 %, září 11 %) — skoro vše na konci
@@ -241,6 +246,31 @@ chyběl běžecký náraz. Proč jen 1 běh: program a cestování, ne bolest.
   z kopce (−2 až −7 %, nejrychlejší) → strides jen po rovině / do kopce.
 - Rýma už jen mírná (smrkání na zimě) → krevní test posunut na **Čt 5.11.**
   (≥2 týdny po odeznění, jinak falešně vysoký feritin).
+- Metriky St–Ne z per-sec streamů ve Fitness Hub (port `metrics.py`, GAP
+  Minetti). RPE ani popis na Stravě u žádného ze 3 běhů nejsou.
+- **St:** prvních 10 min 5:34 z kopce (km 1–2 −40 m). Km 6 = strmý kopec
+  12–15 % s chůzí (kadence ~50), HR skáče 141 ↔ 181, pak 3–4 min 167–176
+  na rovině při 6:30–7:40. Max 181 = jen na tomhle kopci → **nebrat jako
+  nové max HR ani do trendů**. >157 bpm 5,7 min (13 %), skoro vše km 5–6.
+  Decoupling 4,4 %.
+- **St lower:** BSS 36×5 (RIR 1), 18×8, 18×7 (RIR 2) · RDL 32,5×10 (RIR 3),
+  32,5×8 (RIR 1) · lýtka BW 2×20. ⚠️ 36 vs 18 kg u BSS — nejspíš zápis
+  obou jednoruček vs. jedné, ověřit; objem vs. Čt 15.10. proto nejistý.
+  RIR 1 je pod plánovanými 2–3.
+- **Pá:** prvních 10 min 5:40 z kopce. >157 bpm 2,5 min (8 %), vše km 4
+  (stoupání +23 m, HR do 169). Decoupling 4,7 %.
+- **Ne LR:** 1,17× nejdelšího za 30 dní (9,11) — nad pravidlem ≤1,10×.
+  Prvních 10 min 5:44 z kopce, km 1–4 5:34–6:01 při HR 128–149, km 5–11
+  do mírného kopce 6:25–6:47 při HR 149–158. Km ~9,6 strmý kopec 10–12 %
+  (HR 175). >157 bpm 11,8 min (17 %), skoro vše km 8–10. Decoupling 3,7 %.
+  Kadence celou dobu 79–80/nohu.
+- **GAP @ HR 143–150 po návratu: 6:06 (Pá), 6:10 (St), 6:20 (Ne)** vs. Čt
+  15.10. 5:42 a září 5:48. Poznámku „základ drží“ z 15.10. to oslabuje.
+  Ale všechny 3 trasy mají strmé kopce s chůzí (GAP chůzi nepočítá dobře),
+  od 21.10. je deficit a posilovna 4×/tý. Do trendu nemíchat; rozhodne
+  easy běh na rovinaté trase.
+- Váha 82,2–82,6 (17.–20.10.) → 83,4–84,2 (21.–24.10.), současně sacharidy
+  ~130 → 160–250 g/den. Hodnotit 7denní průměr, první kontrola 9.11. (`07`).
 
 ## Klíčové trendy
 
