@@ -141,7 +141,7 @@ Po návratu bude HR při stejném tempu 1–2 týdny nižší (aklimatizace) —
 |---|---|---|---|---|---|
 | 1 | 12.–18.10. | ✅ 14,2 | ✅ 9,1 | nic | 1. lower Čt 15.10. → DOMS do neděle; krevní test odložen |
 | 2 | 19.–25.10. | ✅ 28,6 | ✅ 10,7 | ✅ strides | 2. lower St 21.10.; upper So 24.10.; registrace |
-| 3 | 26.10.–1.11. | 32–34 (85–90 %) | 12 | strides + kopce 6–8× 45 s | 3. lower St 28.10. (+ lýtka, soleus, Copenhagen) |
+| 3 | 26.10.–1.11. | 32–34 (85–90 %) | 12 | strides + kopce 6–8× 45 s | 3. lower Út 27.10. po kopcích (+ lýtka, soleus, Copenhagen) |
 | 4 | 2.–8.11. | 38–40 (100 %) | 14 | T 3× 1,5 km | krevní test Čt 5.11. (rýma do ~20.10.) |
 | 5 | 9.–15.11. | 42–44 | 16 | T 4× 1,5 km | **5. běh** (5 km easy) |
 | 6 | 16.–22.11. | 46–48 | 17–18 | T 2× 12–15 min | LR ≥17 km: 500 ml DIY iont + med/želé; nohy už ne v den LR |
@@ -191,8 +191,8 @@ přidat — když ne, ubrat (20.10. byla horní hranice, 3:04–3:27).
 ### Týden 26.10.–1.11. — konkrétně (85–90 %, ~33,5 km)
 ```
 Po 26.  Volno + pull (~10 sérií, 2–3 RIR)
-Út 27.  Kopce 7–8 km: 15 min rozklus, 6–8× 45 s do kopce 4–8 %, klus dolů, 10 min výklus + odpoledne push
-St 28.  Easy 8 km + odpoledne lower (3. po pauze)
+Út 27.  Kopce 7–8 km: 15 min rozklus, 6–8× 45 s do kopce 4–8 %, klus dolů, 10 min výklus + odpoledne lower (3. po pauze)
+St 28.  Easy 8 km + odpoledne push
 Čt 29.  Volno / mobilita
 Pá 30.  Easy 6 km + 4–6 strides + 15 min kyčle (bez těžkých excentrik)
 So 31.  Volno + upper (~10 sérií)
@@ -202,14 +202,26 @@ Ne 1.   Long run 12 km (1,12× 10,67)
   Úsilí ~5K, technika, nahoře by šlo přidat. HR neřešit (45 s ji
   nestihne zvednout). Klus dolů pomalu = pauza. První kopce → 6×; když
   je poslední stejně dobrý jako první, příště 8×.
-- **Lower St** (3. trénink po pauze → objem přidat, nohy ~11 sérií/tý):
-  BSS 3 × 6–8 @ 2–3 RIR (~2×14–16 kg) · RDL 2–3 × 6–8 @ 2–3 RIR ·
-  výpony s propnutým kolenem 2 × 10–12 · soleus vsedě 2 × 12–15 ·
-  Copenhagen 2 × 20 s/strana.
+- **Lower Út odpoledne po kopcích** (prohozeno s push 26.10.: hard day hard
+  podle `09`; vrchol DOMS 24–48 h padne na easy St a volný Čt, ne na páteční
+  strides; do LR 5 dní místo 4). 3. trénink po pauze → objem přidat, nohy
+  ~11 sérií/tý: BSS 3 × 6–8 @ **2–3 RIR opravdu** (21.10. 1. série RIR 1,
+  +44 %; ~2×14–16 kg) · RDL 2–3 × 6–8 @ 2–3 RIR · výpony s propnutým kolenem
+  2 × 10–12 · soleus vsedě 2 × 12–15 · Copenhagen 2 × 20 s/strana.
+  **Výpony a soleus tento týden lehce** (3–4 RIR, bez 3s spouštění) — první
+  zátěž lýtek ve stejný den jako kopce; plná verze od 2.11.
+- **St easy po nohách** bude při stejné HR pomalejší (24–48 h po silovém) —
+  normální, do srovnání efektivity nepatří.
 - **Pá kyčle:** boční step-down 2 × 10, side plank s nohou, single leg
   glute bridge 2 × 10–12, tibialis 2 × 15 (`09`).
 - Autoregulace: nohy v Pá >3/10 → LR jen 10–11 km.
 - Strmý kopec na LR: klidně stejně jako dosud (vyběhnout, pak stáhnout).
+- **Trasy na přesnou délku:** 3 týdny po sobě nad plánem (LR 9,1 vs 7–8,
+  10,7 vs 10, týden 28,6 vs 26–28 → LR 1,17× místo ≤1,10×). LR 12, ne 13.
+- **Maska:** na kopce, threshold a retest ne (dřív dojdeš na HR strop →
+  špatná kalibrace temp). Jinak jen pod ~−10 °C nebo při kašli z mrazu;
+  při −2 až 5 °C stačí buff přes pusu na prvních 10 min.
+- Bolest 0–10 (lýtka, Achilovka, bok) po kopcích a po LR do popisu na Stravě.
 
 ---
 

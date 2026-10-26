@@ -270,14 +270,53 @@ chyběl běžecký náraz. Proč jen 1 běh: program a cestování, ne bolest.
 - **GAP @ HR 143–150 po návratu: 6:06 (Pá), 6:10 (St), 6:20 (Ne)** vs.
   září easy 5:48–6:07 (8–9 km), LR 13.9. 6:03 a 20.9. 6:10. Kopce to
   nevysvětlují: bez úseků >4 % a 5 min po strmém kopci vychází stejně
-  (St 6:14, Ne 6:19) a zářijové běhy měly stejný kopec. → **~10–15 s/km
-  ztráta při stejné HR**, odpovídá ~4 týdnům s 1 během/tý (Indonésie);
-  15.10. 5:42 byl krátký rovinatý běh (n = 1). Od 21.10. navíc deficit.
-  Re-adaptace obvykle 2–4 týdny → srovnat znovu ~8.11.
+  (St 6:14, Ne 6:19) a zářijové běhy měly stejný kopec. 15.10. 5:42 byl
+  krátký rovinatý běh (n = 1). Od 21.10. navíc deficit. Přepočet níže.
 - **Fueling 24.–25.10.** = jídlo před LR (víc sacharidů v So, rýžové
   chlebíčky před LR), ne během běhu → patří do normálního jídla (`07`).
 - Váha 82,2–82,6 (17.–20.10.) → 83,4–84,2 (21.–24.10.), současně sacharidy
   ~130 → 160–250 g/den. Hodnotit 7denní průměr, první kontrola 9.11. (`07`).
+- **Jídlo 21.–25.10. vs. cíle Fitness Hub:** 2170 vs 2340 kcal, sacharidy
+  219 vs 298 g (−80 g/den), bílkoviny 194 vs 175 g (22.10. 238 g) → kcal
+  navíc za běh jdou do bílkovin místo sacharidů; den LR 266 vs 325 g.
+
+#### Analýza efektivity po návratu (26.10.) — opravuje odhad „10–15 s/km“
+**Metoda** (přísnější než `gap@hr143-150` v `metrics.py`, kde se do pásma
+dostanou i sekundy, kdy HR dobíhá po kopci): ustálené 2min okna, krok 1 min,
+od 10. min; ≥95 % v pohybu a průměr >2 m/s; 90 % vzorků sklon ≤6 % a průměr
+≤3 %; HR rozptyl ≤10 bpm; bez strides (max ≤1,4× průměru); ≥5 min po sklonu
+>8 %. Okna s HR 140–155 → medián GAP/HR → tempo při **HR 147**. LR jen
+prvních 45 min (srovnatelné s easy, bez driftu).
+
+| | Před cestou (srpen–září) | Po návratu |
+|---|---|---|
+| Easy | **5:54** (5:37–6:05, 11 běhů) | **6:18–6:19** (20. a 21.10.) |
+| LR, prvních 45 min | **6:06** (5:53–6:19, 5 běhů) | **6:22** (25.10.) |
+
+→ **+25 s/km easy (~7 %), +16 s/km LR (~4 %)**. Výjimky: 15.10. 5:49
+(první běh po 3 dnech volna, krátký), 18.10. 6:33 (DOMS); 23.10. bez
+ustálených rovných oken. Malý vzorek (3 běhy), ale stejný směr.
+
+Ověřené alternativní příčiny:
+- **Leg day** (sportovec 26.10.: před Indonésií **žádné nohy**, teď lehce
+  BSS/RDL — `09`): silový trénink zhorší ekonomiku 24–48 h (s DOMS ~72 h).
+  Srovnávané běhy ale byly **88–135 h** po 4–7 sériích, DOMS pryč (kadence
+  zpět na 80) → **nevysvětluje**. Do budoucna srovnávat jen běhy ≥48 h po nohou.
+- **Teplota** (Open-Meteo, okolí startu): září 14,5–18,4 °C, po návratu
+  4,5–11 °C. Nejchladnější zářijový běh (7.9., 8,3 °C) byl nejrychlejší
+  (5:37), 15.10. při 5,7 °C 5:49, 21.10. při **11 °C** stejně pomalý (6:19)
+  jako běhy v 5 °C → **nevysvětluje**. 5–10 °C je blíž optimu než 15–20 °C.
+- **Běžecká maska** (od návratu v zimě): odpor dýchání → typicky 0–3 bpm;
+  1 bpm ≈ 2,5 s/km (5:54 @147 vs 4:52 @172) → **max ~5–8 s/km**. Na
+  kterých bězích byla, zatím nevíme (hlavně 15. a 21.10. — `12`).
+- Deficit od 21.10. + váha +1–1,5 kg (glykogen, voda) → ~1–2 %.
+
+**Hlavní příčina = ~3 týdny s 1 během/tý** (15–25 tis. kroků drží aerobní
+základ, ne běžecká specifika — objem plazmy, ekonomiku). Re-adaptace 2–4 týdny
+(květen → červenec to samé). **Kontrola ~8.11. stejnou metodou:** jen běhy
+≥48 h po nohou, bez masky, s teplotou; čekám ~5:55–6:05. Když ≥6:15 →
+řešit deficit a regeneraci (klidová HR). Threshold 2.–8.11.: rozhoduje
+**HR ≤168 na konci repu**, ne 4:55–5:05 — 5:05–5:10 je teď v pořádku.
 
 ## Klíčové trendy
 

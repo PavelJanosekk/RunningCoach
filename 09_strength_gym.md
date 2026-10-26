@@ -20,12 +20,21 @@ Těžký silový trénink + plyometrie zlepšují running economy o ~2–8 %
 - **Nejít pod 3 opakování** (riziko, CNS únava bez benefitu)
 
 ## Kam gym v týdnu (platí šablona z `04`)
-**Teď (3–4×/tý):** Út pull · St push · So upper · Ne lower (po LR). OK, dokud
-je LR ≤16–17 km a lehký.
+**Teď (do 8.11.):** Po pull · Út kopce/kvalita ráno → lower odpoledne ·
+St easy → push · So upper (rozpis týdne v `04`).
+
+**Historie nohou (sportovec 26.10.):** před Indonésií (od ~července do září)
+**žádný leg day** — poslední „Legs“ ve Fitness Hub 27.6.; RDL dřív ~90 kg
+(teď 32,5 kg). Zářijová efektivita běhu = na úplně čerstvých nohách.
+Silový trénink zhorší ekonomiku běhu **24–48 h** (s DOMS ~72 h), dlouhodobě
+ji zlepšuje (2–8 %) → **do srovnání efektivity jen běhy ≥48 h po nohou**.
+Na běhy 20.–25.10. (88–135 h po 4–7 sériích) vliv neměl (`03`).
 
 **Po pauze ≥3 týdny:** první lower na ~50 % objemu a ≥4 dny před LR (lower
-Čt 15.10. po ~4 týdnech → DOMS ještě v Ne, LR "meh"). Druhý trénink stejných
-cviků už bolí výrazně méně (repeated bout effect), objem přidávat až od třetího.
+Čt 15.10. po ~3,5 měsíce → 4 lehké série a DOMS ještě v Ne, LR "meh").
+Druhý trénink stejných cviků už bolí výrazně méně (repeated bout effect),
+objem přidávat až od třetího. K 90 kg na RDL zpět postupně (+2,5–5 kg/tý
+při 2–3 RIR), nové cviky (lýtka se zátěží, soleus) první týden lehce.
 
 **Od 9.11. (5 běhů; lower na úterý od LR 17–18 km, ~22.11.):**
 ```

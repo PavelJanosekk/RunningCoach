@@ -23,7 +23,10 @@
 - [ ] Zvážit hrudní pás Polar H10 (intervaly, testy)
 - [ ] Silový program z `09` (soleus, plyo, **kyčle / gluteus medius**);
       1. lower Čt 15.10. (DOMS do neděle) → ✅ 2. lower St 21.10. (BSS 36 vs
-      18 kg ověřit, RIR 1–3)
+      18 kg ověřit, RIR 1–3) → 3. lower Út 27.10. po kopcích (lýtka lehce)
+- [ ] **Maska:** na kterých bězích po návratu byla (hlavně 15. a 21.10.)?
+      Rozhodne, jestli vysvětluje část ztráty efektivity (max ~5–8 s/km, `03`).
+      Do budoucna „maska“ do názvu běhu na Stravě.
 
 ## Monitoring — co zapisovat
 | Co | Jak |
@@ -36,6 +39,8 @@
 | Jídlo | Fitness Hub, zvážené, všechno vč. víkendů |
 | Bolest 0–10 | bok hýždě/stehna, kolena, Achilovka, holeně do popisu běhu |
 | Běhy v horku | v názvu "heat" |
+| Běhy s maskou | v názvu "maska" (zvedá HR → do srovnání efektivity nemíchat) |
+| Efektivita | tempo @ HR 147 z ustálených rovných oken (metoda v `03`); jen běhy ≥48 h po nohou, bez masky, s teplotou |
 
 ## Neověřené / chybějící údaje
 | Co | Status |
@@ -52,6 +57,7 @@
 | 30.9. | sweat test v horku |
 | 15.–31.10. | registrace, váha; návrat 70 → 90 % (`04`) |
 | Čt 5.11. | krevní test (+ testosteron, TSH, fT3) |
+| ~8.11. | kontrola efektivity po návratu (`03`): čekám ~5:55–6:05 @ HR 147; ≥6:15 → deficit / regenerace |
 | 9.11. | 5. běh v týdnu; první kontrola tempa hubnutí → ladit základ (`07`) |
 | 22.11. | LR 17–18 km: 500 ml DIY iont + med/želé (gely až od března), lower na úterý |
 | **23.–29.11.** | **Retest LTHR (30 min, rovina)** → přepočet temp a zón; prahy v `02` |
