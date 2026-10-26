@@ -41,6 +41,7 @@ zlepšovat rychlost. Závodní tempo podle PM 3.4.
 python3 scripts/strava.py list --after 2026-09-20   # přehled aktivit
 python3 scripts/strava.py detail <id>               # km splity, laps, HR, RPE, popis
 python3 scripts/metrics.py --after 2026-09-20       # EF, decoupling, čas nad HR prahy, GAP
+python3 scripts/efficiency.py --after 2026-09-20    # tempo @ HR 147 z rovných ustálených úseků (trend)
 ```
 Přihlašovací údaje v `.env` (gitignored), token se obnovuje sám.
 Strava API je zdroj pravdy — neodhadovat z popisu.

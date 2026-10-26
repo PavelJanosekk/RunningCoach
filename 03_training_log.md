@@ -287,6 +287,8 @@ od 10. min; ≥95 % v pohybu a průměr >2 m/s; 90 % vzorků sklon ≤6 % a prů
 ≤3 %; HR rozptyl ≤10 bpm; bez strides (max ≤1,4× průměru); ≥5 min po sklonu
 >8 %. Okna s HR 140–155 → medián GAP/HR → tempo při **HR 147**. LR jen
 prvních 45 min (srovnatelné s easy, bez driftu).
+Skript: `python3 scripts/efficiency.py --after YYYY-MM-DD` (+ teplota, hodiny
+od nohou, maska, příznak `comparable`).
 
 | | Před cestou (srpen–září) | Po návratu |
 |---|---|---|
@@ -295,17 +297,19 @@ prvních 45 min (srovnatelné s easy, bez driftu).
 
 → **+25 s/km easy (~7 %), +16 s/km LR (~4 %)**. Výjimky: 15.10. 5:49
 (první běh po 3 dnech volna, krátký), 18.10. 6:33 (DOMS); 23.10. bez
-ustálených rovných oken. Malý vzorek (3 běhy), ale stejný směr.
+ustálených rovných oken (a 40 h po nohou). Malý vzorek (3 běhy), ale stejný směr.
 
 Ověřené alternativní příčiny:
 - **Leg day** (sportovec 26.10.: před Indonésií **žádné nohy**, teď lehce
   BSS/RDL — `09`): silový trénink zhorší ekonomiku 24–48 h (s DOMS ~72 h).
   Srovnávané běhy ale byly **88–135 h** po 4–7 sériích, DOMS pryč (kadence
   zpět na 80) → **nevysvětluje**. Do budoucna srovnávat jen běhy ≥48 h po nohou.
-- **Teplota** (Open-Meteo, okolí startu): září 14,5–18,4 °C, po návratu
-  4,5–11 °C. Nejchladnější zářijový běh (7.9., 8,3 °C) byl nejrychlejší
-  (5:37), 15.10. při 5,7 °C 5:49, 21.10. při **11 °C** stejně pomalý (6:19)
-  jako běhy v 5 °C → **nevysvětluje**. 5–10 °C je blíž optimu než 15–20 °C.
+- **Teplota** (Open-Meteo pro okolí startu, `efficiency.py`): srpen–září
+  většinou 14–18 °C, po návratu 3,4–10 °C. Dva nejchladnější zářijové běhy
+  byly nejrychlejší (7.9. 8,3 °C → 5:37; 22.9. 7,1 °C → 5:19, přestřelený),
+  15.10. při 5,6 °C 5:49, 21.10. při **9,7 °C** (nejtepleji po návratu)
+  stejně pomalý (6:19) jako běhy ve 3–4 °C → **nevysvětluje**. 5–10 °C je
+  blíž optimu než 15–20 °C.
 - **Běžecká maska** (od návratu v zimě): odpor dýchání → typicky 0–3 bpm;
   1 bpm ≈ 2,5 s/km (5:54 @147 vs 4:52 @172) → **max ~5–8 s/km**. Na
   kterých bězích byla, zatím nevíme (hlavně 15. a 21.10. — `12`).

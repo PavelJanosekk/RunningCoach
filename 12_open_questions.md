@@ -40,7 +40,7 @@
 | Bolest 0–10 | bok hýždě/stehna, kolena, Achilovka, holeně do popisu běhu |
 | Běhy v horku | v názvu "heat" |
 | Běhy s maskou | v názvu "maska" (zvedá HR → do srovnání efektivity nemíchat) |
-| Efektivita | tempo @ HR 147 z ustálených rovných oken (metoda v `03`); jen běhy ≥48 h po nohou, bez masky, s teplotou |
+| Efektivita | `scripts/efficiency.py` → tempo @ HR 147 (metoda v `03`); srovnávat jen `comparable=True` (≥48 h po nohou, bez masky) a bez DOMS |
 
 ## Neověřené / chybějící údaje
 | Co | Status |
