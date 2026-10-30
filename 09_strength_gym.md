@@ -100,6 +100,19 @@ Ne  LONG RUN
   z boku hýždě/stehna v červenci: boční step-down, side plank s nohou,
   Copenhagen, single leg glute bridge nevynechávat.
 
+### Prevence třísel (po tříslu L 27.10., `03`)
+- **Mobilita/protahování zranění nepředchází** (metaanalýza Lauersen 2014,
+  ~26 tis. sportovců: protahování ~0; silový trénink −⅓ zranění, −½ z
+  přetížení). Mobilita jen jako 5 min dynamické rozcvičky před kopci.
+- **Copenhagen** (fotbal −41 % zranění třísel, Harøy 2019) 2×/tý — do 27.10.
+  hotovo **0 sérií** kyčlí/adduktorů (jen BSS). Start na kolenou (krátká
+  páka) 2 × 15–20 s/strana → postupně propnutá noha, 20–30 s.
+- Boční step-down, side plank s nohou, leg raise (flexory kyčle, kopce).
+- **Návrat:** až po hop testu 0–1 a 2 bězích bez bolesti; první týden
+  krátká páka a lehce.
+- Hlavní příčina = zátěž: návrat po pauze + nový leg day + první kopce
+  v jednom týdnu a v deficitu → **1 novinka za týden**.
+
 ## Core
 | Cvik | Série | Proč |
 |---|---|---|

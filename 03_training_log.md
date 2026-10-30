@@ -322,6 +322,37 @@ základ, ne běžecká specifika — objem plazmy, ekonomiku). Re-adaptace 2–4
 řešit deficit a regeneraci (klidová HR). Threshold 2.–8.11.: rozhoduje
 **HR ≤168 na konci repu**, ne 4:55–5:05 — 5:05–5:10 je teď v pořádku.
 
+### Týden 26.10.–1.11. — tříslo L, místo 85–90 % jen návrat (plán 33,5 km)
+| Datum | Trénink | Tempo | Avg HR | % LTHR | D+ |
+|---|---|---|---|---|---|
+| Po 26.10. | *volno* + pull | | | | |
+| Út 27.10. | *volno* (kopce zrušeny — tříslo L) + odpoledne push | | | | |
+| St 28.10. | *volno* | | | | |
+| Čt 29.10. | *volno* (test 1, běh posunut na Pá) | | | | |
+| Pá 30.10. | 5,28 km easy (1. běh po tříslu) | 6:06 | 147 | 85 % | 56 m |
+| So 31.10. | | | | | |
+| Ne 1.11. | | | | | |
+
+- **Tříslo L** (Út 27.10. ráno, místo kopců): svalová únava mezi horní částí
+  stehna a podbřiškem. Nebolí chůze ani nic jiného, **jen výskoky na levé
+  noze**. Bolest jen při dopadu = test na únavovou zlomeninu (krček
+  stehenní / stydká kost), rizika: rostoucí objem, deficit, ~83 kg. K lékaři
+  sportovec nechce → pravidlo: **neběhat, dokud výskoky bolí**.
+- **Hop test** (ráno, 10 výskoků na L, nejhorší moment; škála v `12`):
+  Út 3 (ráno bez škály 4–5) → St 1–2 → Čt 1 → Pá 1. Klesá ~1 bod/den.
+- Út–Čt bez běhu a nohou; Út push místo lower, lower i kopce odloženy.
+  Jídlo na udržovací úrovni (základ +500), dokud bolí — deficit je
+  rizikový faktor pro kosti.
+- **Pá 5,28 km:** prvních 100–200 m mírná bolest, pak nic; mírně jen na
+  sestupu km 4 (−27 m, **5:52** — nejrychlejší km). Po běhu stejné jako
+  během, nezhoršilo se → spíš sval/úpon (rozběhá se), ne kost (ta se
+  s délkou zhoršuje). Km 1 5:51 při HR 131 (HR se ještě nezvedla), km 2
+  stoupání HR ~153; >153 bpm 20 % času, max 160. Decoupling −0,7 %.
+  Efektivita **6:20 @ HR 147** (3 °C, 208 h po nohou, bez masky,
+  `comparable=True`) = stejně jako 20.–21.10. (6:18–6:19).
+- **Sestupy:** brzdění a delší krok = největší zátěž třísla → z kopce
+  pomalu, krátký krok; sestup od smetiště zatím chůzí.
+
 ## Klíčové trendy
 
 | Metrika | Květen | Červenec | Září |

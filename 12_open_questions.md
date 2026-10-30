@@ -23,7 +23,8 @@
 - [ ] Zvážit hrudní pás Polar H10 (intervaly, testy)
 - [ ] Silový program z `09` (soleus, plyo, **kyčle / gluteus medius**);
       1. lower Čt 15.10. (DOMS do neděle) → ✅ 2. lower St 21.10. (BSS 36 vs
-      18 kg ověřit, RIR 1–3) → 3. lower Út 27.10. po kopcích (lýtka lehce)
+      18 kg ověřit, RIR 1–3) → 3. lower Út 27.10. **zrušen (tříslo L)** →
+      lower + Copenhagen až po 2 bězích bez bolesti (`09`)
 - [ ] **Maska:** na kterých bězích po návratu byla (hlavně 15. a 21.10.)?
       Rozhodne, jestli vysvětluje část ztráty efektivity (max ~5–8 s/km, `03`).
       Do budoucna „maska“ do názvu běhu na Stravě.
@@ -37,10 +38,28 @@
 | Fueling | 1 řádek do popisu běhů ≥75 min (snídaně, gely, ml, GI 0–3) |
 | Gym | Fitness Hub (série, váhy, RIR) |
 | Jídlo | Fitness Hub, zvážené, všechno vč. víkendů |
-| Bolest 0–10 | bok hýždě/stehna, kolena, Achilovka, holeně do popisu běhu |
+| Bolest 0–10 | bok hýždě/stehna, kolena, Achilovka, holeně, **tříslo L** do popisu běhu |
+| Hop test (tříslo L) | každé ráno 10 výskoků na L, nejhorší moment 0–10 + jestli bolest do minuty zmizí; ≤1 = běh |
 | Běhy v horku | v názvu "heat" |
 | Běhy s maskou | v názvu "maska" (zvedá HR → do srovnání efektivity nemíchat) |
 | Efektivita | `scripts/efficiency.py` → tempo @ HR 147 (metoda v `03`); srovnávat jen `comparable=True` (≥48 h po nohou, bez masky) a bez DOMS |
+
+### Škála hop testu (nejhorší moment z 10 výskoků)
+| Bolest | Při výskocích | Běh |
+|---|---|---|
+| 0 | nic, stejně jako pravá | ano |
+| 1 | spíš pocit / ztuhlost než bolest | ano (easy, rovina) |
+| 2 | jasná lehká bolest, skáčeš normálně | ne, test zítra |
+| 3 | bolí každý dopad, výška a rytmus stejné | ne |
+| 4 | brzdí tě: skáčeš níž, měkčeji | ne |
+| 5 | 10 výskoků se zatnutými zuby | ne |
+| 6 | 10 na hraně, skoky viditelně slabší | ne, lékař |
+| 7–8 | 1–5 výskoků a dál to nejde | lékař co nejdřív |
+| 9–10 | nejde skočit, bolí i stání na noze | lékař hned |
+
+Ráno po pár minutách chůze, stejná obuv, výška ~5–10 cm, pak pravá na
+srovnání. Změnil se kvůli bolesti pohyb → ≥4. Bolest, co po testu
+nezmizí do minuty, je horší znamení.
 
 ## Neověřené / chybějící údaje
 | Co | Status |
@@ -75,6 +94,7 @@
 |---|---|
 | Zranění z dohánění po cestách | návratový protokol 70 → 90 → 100 % (`04`) |
 | Návrat bolesti z boku hýždě/stehna | LR ≤1,10× nejdelšího za 30 dní; kyčle v `09`; bolest ≥3/10 → LR neprodlužovat |
+| Tříslo L / únavová zlomenina (27.10.) | hop test denně, běh jen při ≤1; nezlepšuje se 5–7 dní nebo bolí chůze/v noci → lékař + MR; Copenhagen 2×/tý (`09`) |
 | Velký sestup (sopka, lyže) | stupně podle sestupu (`04`) |
 | Moc rychlé hubnutí / nízká energetická dostupnost | 0,3–0,5 kg/tý, LR a threshold plně nakrmené (vzorec), pauza v Gruzii, klidová HR, krevní test s hormony (`07`) |
 | Přestřelené threshold repy | 4:55–5:05, 500 m za 2:28–2:32, konec repu HR ≤168 |

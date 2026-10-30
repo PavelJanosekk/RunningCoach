@@ -1,11 +1,12 @@
 # Knowledge Base: Marathon Training
 
-**Vytvořeno:** 18.9.2026 · **Aktualizováno:** 25.10.2026 (log do 25.10., týden 70 % hotový)
+**Vytvořeno:** 18.9.2026 · **Aktualizováno:** 30.10.2026 (log do 30.10., tříslo L)
 **Cílový závod:** Vodafone Prague Marathon, **neděle 2.5.2027**
 **Generálka:** Generali Prague Half Marathon, **sobota 3.4.2027**
 **Cíl:** A = **3:40–3:50**, B = sub-4:00 (jistota), 3:30 bonus; dlouhodobě
 zlepšovat rychlost. Závodní tempo podle PM 3.4.
-**Aktuální fáze:** návrat po Indonésii — 70 % hotovo (28,6 km), teď 85–90 %; hlavní blok do 20.12.
+**Aktuální fáze:** návrat po Indonésii — 70 % hotovo (28,6 km); 27.10. **tříslo L**
+(bolí jen výskoky) → běh podle ranního hop testu (`04`, `12`); hlavní blok do 20.12.
 
 ## Obsah
 | Soubor | Obsah |
