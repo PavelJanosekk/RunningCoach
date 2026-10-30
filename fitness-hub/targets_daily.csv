@@ -9,3 +9,4 @@ date,mode,base_kcal,weight_used_kg,runs,extra_kcal,kcal_target,protein_target_g,
 2026-10-28,cut,2000,84.02,easy:8.0,504.1,2500,175,50,338
 2026-10-29,cut,2000,83.98,,,2000,175,50,213
 2026-10-30,cut,2000,83.97,strides:6.0,377.9,2400,175,50,313
+2026-10-31,cut,2000,84.0,long_run_tomorrow:12.0,504.0,2500,175,50,338
