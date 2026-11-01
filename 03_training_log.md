@@ -330,8 +330,8 @@ základ, ne běžecká specifika — objem plazmy, ekonomiku). Re-adaptace 2–4
 | St 28.10. | *volno* | | | | |
 | Čt 29.10. | *volno* (test 1, běh posunut na Pá) | | | | |
 | Pá 30.10. | 5,28 km easy (1. běh po tříslu) | 6:06 | 147 | 85 % | 56 m |
-| So 31.10. | | | | | |
-| Ne 1.11. | | | | | |
+| So 31.10. | *volno* | | | | |
+| Ne 1.11. | 7,04 km easy (místo LR 12) | 6:27 | 141 | 82 % | 64 m |
 
 - **Tříslo L** (Út 27.10. ráno, místo kopců): svalová únava mezi horní částí
   stehna a podbřiškem. Nebolí chůze ani nic jiného, **jen výskoky na levé
@@ -352,6 +352,18 @@ základ, ne běžecká specifika — objem plazmy, ekonomiku). Re-adaptace 2–4
   `comparable=True`) = stejně jako 20.–21.10. (6:18–6:19).
 - **Sestupy:** brzdění a delší krok = největší zátěž třísla → z kopce
   pomalu, krátký krok; sestup od smetiště zatím chůzí.
+- **Ne 7,04 km** (týden 12,3 km): HR max 153, 0 % nad 153, decoupling
+  −4,3 %. Tříslo jen prvních pár set metrů, pak nic (stejně jako Pá →
+  vzorec šlachy/úponu, ne kosti). **Levá hýždě** kolem km 5 = začátek
+  stoupání (km 4–7 +55 m, 6:37–6:42) po svižném sestupu km 2–3 (−47 m,
+  6:00–6:06) → ~1,5 min chůze do kopce (hodinky stopnuté), pak bez bolesti
+  do konce. **Stejné místo jako červencová bolest z boku hýždě/stehna**
+  (sportovec 1.11.) → slabé místo = boční hýžďové svaly (gluteus medius),
+  pravděpodobně i kompenzace třísla. Efektivita **6:20 @ HR 147** (3,3 °C,
+  `comparable=True`, 14 oken) = beze změny od Pá.
+- Podmínka „2 běhy úplně bez bolesti“ nesplněna (startovní bolest třísla)
+  → týden 2.–8.11. jen easy, kopce a threshold až 9.–15.11. (`04`).
+- Hop test So a Ne ráno nezapsán.
 
 ## Klíčové trendy
 

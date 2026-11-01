@@ -7,7 +7,7 @@
 | 1 | **Sacharidy kolem tréninku** | ⚠️ záměrný deficit do 27.1. → kalorie podle vzorce, navíc za běh do sacharidů — viz `07` |
 | 2 | **Spánek** | ✅ ~8 h stabilně |
 | 3 | Řízení zátěže (pravidla v `04`, návratový protokol) | ✓ |
-| 4 | Krevní testy (ferritin, D, …) | ⬜ Čt 5.11. (odloženo, rýma) |
+| 4 | Krevní testy (ferritin, D, …) | ⬜ Út 10.11. (odloženo, rýma) |
 | 5 | Sacharidy + protein po tréninku | ✓ |
 | 6 | Chůze / lehká aktivita | ✅ 10–15k kroků |
 | 7 | Mobilita / jóga 2–3×/týden | ← další krok |

@@ -4,7 +4,7 @@
 - [x] Doplnit indonéský běh do logu (Út 6.10., 7,05 km — `03`)
 - [ ] **Registrace:** Generali Prague Half Marathon So 3.4.2027 + Vodafone
       Prague Marathon Ne 2.5.2027 (startovné roste, PM se vyprodává)
-- [ ] **Krevní test Čt 5.11. ráno nalačno** (KO, ferritin,
+- [ ] **Krevní test Út 10.11. ráno nalačno** (KO, ferritin,
       saturace transferinu, 25(OH)D, CRP) — odloženo z 15.10. kvůli rýmě
       (20.10. ještě mírná): infekce zvedá feritin a CRP; ≥2 týdny po
       odeznění, ne den po LR/kvalitě; **+ testosteron, TSH, fT3** (deficit)
@@ -66,7 +66,7 @@ nezmizí do minuty, je horší znamení.
 |---|---|
 | Max HR | ≥181 reálně naměřeno, odhad 185–190. Netestovat. |
 | Klidová HR | ~50 vsedě; ranní vleže neměřena |
-| Krevní testy | neprovedeny → Čt 5.11. (odloženo, rýma) |
+| Krevní testy | neprovedeny → Út 10.11. (odloženo, rýma) |
 | Sweat rate | neznámý → test St 30.9. |
 | Skutečný příjem | ✅ 14.–20.10.: 2004 kcal, sacharidy 197 g (2,4 g/kg), bílkoviny 171 g (Fitness Hub) |
 
@@ -75,9 +75,9 @@ nezmizí do minuty, je horší znamení.
 |---|---|
 | 30.9. | sweat test v horku |
 | 15.–31.10. | registrace, váha; návrat 70 → 90 % (`04`) |
-| Čt 5.11. | krevní test (+ testosteron, TSH, fT3) |
 | ~8.11. | kontrola efektivity po návratu (`03`): čekám ~5:55–6:05 @ HR 147; ≥6:15 → deficit / regenerace |
 | 9.11. | 5. běh v týdnu; první kontrola tempa hubnutí → ladit základ (`07`) |
+| Út 10.11. | krevní test (+ testosteron, TSH, fT3), ne den po LR |
 | 22.11. | LR 17–18 km: 500 ml DIY iont + med/želé (gely až od března), lower na úterý |
 | **23.–29.11.** | **Retest LTHR (30 min, rovina)** → přepočet temp a zón; prahy v `02` |
 | 20.12. | ~55 km/tý a LR ~22 dosaženo? Gruzie = jídlo udržovací |
@@ -93,7 +93,7 @@ nezmizí do minuty, je horší znamení.
 | Riziko | Mitigace |
 |---|---|
 | Zranění z dohánění po cestách | návratový protokol 70 → 90 → 100 % (`04`) |
-| Návrat bolesti z boku hýždě/stehna | LR ≤1,10× nejdelšího za 30 dní; kyčle v `09`; bolest ≥3/10 → LR neprodlužovat |
+| Návrat bolesti z boku hýždě/stehna (**1.11. ozvala se, L, do kopce**) | LR ≤1,10× nejdelšího za 30 dní; kyčle v `09` (Čt 15 min); bolest ≥3/10 → LR neprodlužovat |
 | Tříslo L / únavová zlomenina (27.10.) | hop test denně, běh jen při ≤1; nezlepšuje se 5–7 dní nebo bolí chůze/v noci → lékař + MR; Copenhagen 2×/tý (`09`) |
 | Velký sestup (sopka, lyže) | stupně podle sestupu (`04`) |
 | Moc rychlé hubnutí / nízká energetická dostupnost | 0,3–0,5 kg/tý, LR a threshold plně nakrmené (vzorec), pauza v Gruzii, klidová HR, krevní test s hormony (`07`) |

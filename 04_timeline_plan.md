@@ -141,8 +141,8 @@ Po návratu bude HR při stejném tempu 1–2 týdny nižší (aklimatizace) —
 |---|---|---|---|---|---|
 | 1 | 12.–18.10. | ✅ 14,2 | ✅ 9,1 | nic | 1. lower Čt 15.10. → DOMS do neděle; krevní test odložen |
 | 2 | 19.–25.10. | ✅ 28,6 | ✅ 10,7 | ✅ strides | 2. lower St 21.10.; upper So 24.10.; registrace |
-| 3 | 26.10.–1.11. | ~11–13 (plán 32–34) | ✗ (easy 6–8) | ✗ | **tříslo L** 27.10. → Út–Čt bez běhu, Pá 5,3 km; kopce a lower zrušeny (`03`) |
-| 4 | 2.–8.11. | rozhodnout 1.11. (~28–32) | ≤11 | kvalita až po 2 bězích bez bolesti | krevní test Čt 5.11.; Copenhagen lehce po hop testu 0–1 |
+| 3 | 26.10.–1.11. | ✅ 12,3 (plán 32–34) | ✗ (easy 7,0) | ✗ | **tříslo L** 27.10. → Út–Čt bez běhu; Ne levá hýždě (stejné místo jako v červenci) |
+| 4 | 2.–8.11. | 26–28 (jen easy) | 9–10 | ✗ | kyčle Čt 15 min; BSS/RDL ne; krevní test → Út 10.11. |
 | 5 | 9.–15.11. | 42–44 | 16 | T 4× 1,5 km | **5. běh** (5 km easy) |
 | 6 | 16.–22.11. | 46–48 | 17–18 | T 2× 12–15 min | LR ≥17 km: 500 ml DIY iont + med/želé; nohy už ne v den LR |
 | 7 | 23.–29.11. | ~35 | 13–14 | **retest 30 min (rovina)** | cutback; přepočet temp a zón |
@@ -187,6 +187,26 @@ Prvních 10 min ≥5:45/km, HR ≤150, objem nepřidávat.
 První 2 týdny nesrovnávat efektivitu (návrat, DOMS).
 Strides: po rovině nebo do kopce, ne z kopce. Na vrcholu musí jít ještě
 přidat — když ne, ubrat (20.10. byla horní hranice, 3:04–3:27).
+
+### Týden 2.–8.11. — konkrétně (jen easy, ~26–28 km)
+```
+Po 2.   Volno
+Út 3.   Easy 6 km + pull
+St 4.   Volno + push
+Čt 5.   Easy 6–7 km + 15 min kyčle
+Pá 6.   Volno
+So 7.   Easy 5 km + upper
+Ne 8.   Long run 9–10 km
+```
+- Tříslo bolí na startu a levá hýždě do kopce (Ne 1.11., `03`) → **žádné
+  kopce, strides ani threshold**; trasy co nejrovnější, z kopce pomalu
+  a krátkým krokem (km 2 v Ne 6:00 = nejrychlejší), do kopce HR ≤150.
+- **Hop test každé ráno dál** (škála v `12`); >1 → ten den neběhat.
+- Hýždě během běhu → chůze do kopce, jako v Ne; nepřejde → domů.
+- **Čt kyčle:** boční step-down 2 × 10, side plank s nohou 2 × 20–30 s,
+  Copenhagen na kolenou 2 × 15 s/strana, stisk míče mezi koleny 5 × 10 s
+  (`09`). BSS a RDL až 9.–15.11., když tříslo bez bolesti na startu.
+- **9.–15.11.** threshold jen při tříslu bez bolesti na startu a klidné hýždi.
 
 ### Týden 26.10.–1.11. — konkrétně (přepracováno 27.10.: tříslo L)
 ```
