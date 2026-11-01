@@ -4,13 +4,13 @@
 
 | # | Co | Status |
 |---|---|---|
-| 1 | **Sacharidy kolem tréninku** | ⚠️ záměrný deficit do 27.1. → kalorie podle vzorce, navíc za běh do sacharidů — viz `07` |
+| 1 | **Sacharidy kolem tréninku** | ⚠️ záměrný deficit do 27.1. (kromě udržování 2.–22.11. a Gruzie) → kalorie podle vzorce, navíc za běh do sacharidů — viz `07` |
 | 2 | **Spánek** | ✅ ~8 h stabilně |
 | 3 | Řízení zátěže (pravidla v `04`, návratový protokol) | ✓ |
 | 4 | Krevní testy (ferritin, D, …) | ⬜ Út 10.11. (odloženo, rýma) |
 | 5 | Sacharidy + protein po tréninku | ✓ |
 | 6 | Chůze / lehká aktivita | ✅ 10–15k kroků |
-| 7 | Mobilita / jóga 2–3×/týden | ← další krok |
+| 7 | Mobilita / jóga | volitelné — zranění nepředchází, prevence = síla kyčlí (`09`) |
 | 8 | Foam roller | volitelné |
 | 9 | Masážní pistole | nejnižší priorita |
 

@@ -8,8 +8,11 @@
       saturace transferinu, 25(OH)D, CRP) — odloženo z 15.10. kvůli rýmě
       (20.10. ještě mírná): infekce zvedá feritin a CRP; ≥2 týdny po
       odeznění, ne den po LR/kvalitě; **+ testosteron, TSH, fT3** (deficit)
-- [ ] **Hubnutí do Thajska** 0,3–0,5 kg/tý na ~78–80 kg; ranní váha
-      3–7×/tý ve Fitness Hub → 7denní průměr; ladit základ od Po 9.11. (`07`)
+- [ ] **Udržování 2.–22.11.** (základ 2500): přepnout režim ve Fitness Hub,
+      **vážit každé ráno**, ladit základ Po 16. a 23.11. → skutečný udržovací;
+      od 23.11. hubnutí do Thajska 0,3–0,5 kg/tý na ~80 kg (`07`)
+- [ ] **Data 29.–30.10.:** 29.10. jídlo chybí, 30.10. jen 1 jídlo (1740 kcal)
+      — úplné? Kroky od 22.10. prázdné — hodinky nenošené? (kroky = výdej)
 - [x] **Fitness Hub:** cíle přenastavit (bílkoviny 200 → 175 g, tuky 50 g,
       sacharidy = zbytek) a doprogramovat vzorec denních kcal podle běhu (`07`)
 - [ ] Fitness Hub export: datum aktivit v místním čase běhu (`start_date_local`,
@@ -76,14 +79,16 @@ nezmizí do minuty, je horší znamení.
 | 30.9. | sweat test v horku |
 | 15.–31.10. | registrace, váha; návrat 70 → 90 % (`04`) |
 | ~8.11. | kontrola efektivity po návratu (`03`): čekám ~5:55–6:05 @ HR 147; ≥6:15 → deficit / regenerace |
-| 9.11. | 5. běh v týdnu; první kontrola tempa hubnutí → ladit základ (`07`) |
+| 9.11. | 5. běh v týdnu |
 | Út 10.11. | krevní test (+ testosteron, TSH, fT3), ne den po LR |
+| Po 16.11. | udržování: 7denní průměr proti minulému týdnu → základ ±150 (`07`) |
+| Po 23.11. | udržování hotové → skutečný udržovací základ; od 23.11. hubnutí = základ − 500 |
 | 22.11. | LR 17–18 km: 500 ml DIY iont + med/želé (gely až od března), lower na úterý |
 | **23.–29.11.** | **Retest LTHR (30 min, rovina)** → přepočet temp a zón; prahy v `02` |
 | 20.12. | ~55 km/tý a LR ~22 dosaženo? Gruzie = jídlo udržovací |
 | Leden | ~50 km a LR 20 před Thajskem |
-| 27.1. | konec hubnutí — váha vs. cíl ~78–80 kg? |
-| 15.2. | udržovat / nabírat, bez deficitu (základ ≈ poslední + ~500 kcal) |
+| 27.1. | konec hubnutí — váha vs. cíl ~80 kg? |
+| 15.2. | udržovat / nabírat, bez deficitu (základ ≈ udržovací z 23.11., ladit podle váhy) |
 | Březen | 3. pár bot (závodní); MP long runy: HR v MP úseku ≤158? kofein test |
 | **So 3.4.2027** | **PM Praha naostro → závodní tempo** (tabulka v `02`) |
 | 17./18.4. | peak LR 30 km s 10–12 km @ MP |
@@ -96,7 +101,7 @@ nezmizí do minuty, je horší znamení.
 | Návrat bolesti z boku hýždě/stehna (**1.11. ozvala se, L, do kopce**) | LR ≤1,10× nejdelšího za 30 dní; kyčle v `09` (Čt 15 min); bolest ≥3/10 → LR neprodlužovat |
 | Tříslo L / únavová zlomenina (27.10.) | hop test denně, běh jen při ≤1; nezlepšuje se 5–7 dní nebo bolí chůze/v noci → lékař + MR; Copenhagen 2×/tý (`09`) |
 | Velký sestup (sopka, lyže) | stupně podle sestupu (`04`) |
-| Moc rychlé hubnutí / nízká energetická dostupnost | 0,3–0,5 kg/tý, LR a threshold plně nakrmené (vzorec), pauza v Gruzii, klidová HR, krevní test s hormony (`07`) |
+| Moc rychlé hubnutí / nízká energetická dostupnost | 0,3–0,5 kg/tý, LR a threshold plně nakrmené (vzorec), udržování 2.–22.11. (tříslo) a v Gruzii, klidová HR, krevní test s hormony (`07`) |
 | Přestřelené threshold repy | 4:55–5:05, 500 m za 2:28–2:32, konec repu HR ≤168 |
 | Přestřelený začátek závodu | nacvičit na PM: prvních 5 km záměrně pomaleji |
 | Týden 30.11. a peak po PM | rozloženo (`04`) |

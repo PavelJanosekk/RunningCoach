@@ -47,7 +47,7 @@ So  volno → UPPER
 Ne  LONG RUN
 ```
 - Upper 3×/tý je OK, ale **na údržbě** (další sval nahoře = kg navíc).
-- **Do 27.1. v deficitu** (`07`): sval drží váha na čince, ne objem → držet
+- **Do 27.1. v deficitu** (kromě 2.–22.11. a Gruzie, `07`): sval drží váha na čince, ne objem → držet
   váhy, upper ~10 sérií/trénink, 2–3 RIR. 14.–20.10. bylo 15–21 sérií/trénink,
   13 z 18 sérií s RIR ≤1, nohy 4 série a lýtka/kyčle 0.
 - Pátek v týdnech se 2 kvalitami (Q2): max 15 min lýtka/plyo.

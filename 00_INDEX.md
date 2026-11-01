@@ -1,6 +1,6 @@
 # Knowledge Base: Marathon Training
 
-**Vytvořeno:** 18.9.2026 · **Aktualizováno:** 30.10.2026 (log do 30.10., tříslo L)
+**Vytvořeno:** 18.9.2026 · **Aktualizováno:** 1.11.2026 (log do 1.11., tříslo L, udržování 2.–22.11.)
 **Cílový závod:** Vodafone Prague Marathon, **neděle 2.5.2027**
 **Generálka:** Generali Prague Half Marathon, **sobota 3.4.2027**
 **Cíl:** A = **3:40–3:50**, B = sub-4:00 (jistota), 3:30 bonus; dlouhodobě
@@ -27,8 +27,9 @@ zlepšovat rychlost. Závodní tempo podle PM 3.4.
 ## Rychlá fakta
 - LTHR = **172 bpm** (30min TT 31.8.2026), max HR ≥181
 - VDOT **~40–42** (≈ 3:40–3:48) · 3:40 potřebuje ~42,5–43
-- 188 cm / **82,5 kg** (10/2026) / ~15 % tuku · **hubnutí do Thajska**
-  0,3–0,5 kg/tý na ~78–80 kg, kalorie = vzorec v `07`; od 15.2. bez deficitu
+- 188 cm / **82,5 kg** (10/2026) / ~15 % tuku · **2.–22.11. udržování**
+  (základ 2500 + běh; výdej z dat ~2500 při ~18 km/tý), od 23.11. **hubnutí
+  do Thajska** 0,3–0,5 kg/tý na ~80 kg, kalorie = vzorec v `07`; od 15.2. bez deficitu
 - Easy = **138–153 bpm**, 5:45–6:15/km; prvních 10 min ≥5:45 podle tempa
 - Threshold repy = **4:55–5:05/km, konec repu HR ≤168** (ne 4:50)
 - Strides 15–20 s, 85–90 % (3:04–3:27 = horní hranice), po rovině / do kopce

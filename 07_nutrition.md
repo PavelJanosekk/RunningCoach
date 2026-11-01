@@ -1,10 +1,12 @@
 # Výživa
 
-## Aktuální stav (10/2026) — záměrné hubnutí do Thajska
+## Aktuální stav (11/2026) — 2.–22.11. udržování, pak hubnutí do Thajska
 
 **Rozhodnutí sportovce 21.10.2026:** vysekat se do odletu do Thajska (28.1.2027),
 pak udržovat nebo nabírat podle potřeby. „Necílit na hubnutí“ a „deficit
 není“ (i v errata `11`) popisují stav 9/2026 — od 21.10. je deficit záměrný.
+**1.11.:** 3 týdny udržování (2.–22.11.) — změřit skutečný výdej a nechat
+zahojit tříslo a hýždě (protokol níže), hubnutí pokračuje od 23.11.
 
 **Změřeno 14.–20.10.** (Fitness Hub, zvážené, log úplný vč. víkendu):
 průměr **2004 kcal**, bílkoviny 171 g (2,1 g/kg), sacharidy **197 g (2,4 g/kg)**,
@@ -20,10 +22,12 @@ Jídelníček, váha a kroky po dnech: `fitness-hub/` (denní export z aplikace)
 | Bílkoviny | **175 g** fixně | 2,1 g/kg drží sval i v deficitu; 200 g nic nepřidá |
 | Tuky | **50 g** fixně (minimum ~0,6 g/kg) | hormony, vitamíny A/D/E/K — níž ne |
 | Sacharidy | **zbytek** kalorií | všechno navíc za běh jde do sacharidů |
-| Cíl | **~78–80 kg**, níž ne | při stejné svalové hmotě ~11–12 % tuku |
+| Cíl | **~80 kg** (78 po udržování 2.–22.11. nereálné), níž ne | při stejné svalové hmotě ~12 % tuku |
 
 **Fáze:**
-- **21.10.–20.12.:** deficit podle vzorce (objem 26 → 55 km).
+- **21.10.–1.11.:** deficit podle vzorce (základ 2000).
+- **2.–22.11.:** udržovací (základ 2500) — změřit výdej, protokol níže.
+- **23.11.–20.12.:** deficit, základ = ověřený udržovací − 500 (objem → 55 km).
 - **Gruzie 21.12.–3.1.:** udržovací (pauza v hubnutí) — lyže + výška, těžko
   se loguje. Dvoutýdenní pauza výsledek nezhorší (MATADOR 2018, i když u obézních).
 - **4.–27.1.:** deficit podle vzorce (objem 32 → 52 km).
@@ -36,6 +40,47 @@ klidová HR ráno +5 bpm držící se týden, easy tempo při stejné HR horší
 >10 s/km a cutback nepomůže, pokles libida, opakované nemoci, lokální bolest
 kosti, únava neodchází po cutbacku.
 
+### Skutečný výdej z dat (1.11.) — udržovací příjem není ~2300
+| Období | Příjem | Váha | Výdej |
+|---|---|---|---|
+| 12/2025–2/2026, bez běhu, gym | ~2180 (48 ze 78 dní, dny <1500 vynechány) | 88,6 → 85,9 | **~2450** |
+| 21.–31.10., ~18 km/tý (tříslo) | 2220 (10 z 11 dní) | −0,25 kg/tý (8 vážení) | **~2500** |
+| Rovnice: 83 kg, RMR 1870–2060, 10 tis. kroků, gym, bez běhu | | | ~2550–2800 |
+
+- Výdej = příjem + úbytek × 7700 kcal/kg. Reálně ~5–10 % pod rovnicemi —
+  po −34 kg (116 → 82) normální, ne „rozbitý metabolismus“.
+- „Skoro nehubnu“ (sportovec 1.11.): sacharidy od 18.10. ~130 → ~230 g →
+  glykogen a voda +1–1,5 kg (82,5 → 84), denní výkyv ±1 kg. 0,3–0,5 kg/tý
+  je vidět až z 7denních průměrů za 2–3 týdny.
+- Při 30–35 km/tý čekat ~2750–2850, při 55 km/tý ~3000.
+- **Co výdej zvedá:** běh (+10 km/tý ≈ +120 kcal/den), kroky (+2000/den ≈
+  +70), nebýt dlouho v deficitu. Adaptivní termogeneze bývá 5–15 % a po pár
+  týdnech na udržovacím z velké části zmizí (Martins 2020). Reverse dieting
+  (+50–100 kcal/tý) nemá důkaz, že zvedne výdej víc než rovnou přejít na
+  udržovací. Sval ~13 kcal/kg/den (+3 kg ≈ +40 kcal).
+- Historie (sportovec 1.11.): 116 → ~90 kg na 1800–2000 kcal bez udržovací
+  fáze → ~98 bez počítání (jedl nad udržovacím) → 88,6 (12/2025) → 82,5.
+
+### Udržování 2.–22.11. — najít skutečný udržovací příjem
+Důvody: tříslo L a hýždě se hojí (deficit = rizikový faktor pro kosti
+a šlachy), objem roste, výdej změřit místo odhadu.
+- Fitness Hub režim `maintenance`: **základ 2500** + běh podle vzorce,
+  rovnou (ne po 50 kcal).
+- Makra beze změny; kcal navíc klidně i do tuků (60–70 g) — pro měření
+  rozhoduje součet kcal.
+- **Vážit každé ráno** (po WC, před jídlem a pitím), log každý den celý.
+- 1. týden +0,5–1 kg (glykogen a voda) — neřešit.
+- **Po 16.11. a Po 23.11.:** změna 7denního průměru proti předchozímu týdnu:
+
+| Změna 7denního průměru | Základ |
+|---|---|
+| ±0,2 kg | beze změny = udržovací |
+| +0,3 kg a víc | −150 kcal |
+| −0,3 kg a víc | +150 kcal |
+
+- **Od 23.11. hubnutí:** základ = ověřený udržovací − 500 (~0,45 kg/tý);
+  při 2500 → 2000 jako dosud. Cíl Thajsko ~80 kg (~7,5 týdne hubnutí).
+
 ## Vzorec denních kalorií (pro Fitness Hub)
 ```
 navíc(běh) = k × váha_kg × km          váha = 7denní průměr
@@ -46,7 +91,7 @@ kcal_den = základ
          + navíc(běhy dnes, kromě LR)
          + ½ navíc(LR dnes) + ½ navíc(LR zítra)
 
-základ = 2000 kcal (den bez běhu, posilovna +0)
+základ = 2000 kcal hubnutí / 2500 udržování (den bez běhu, posilovna +0)
 bílkoviny 175 g · tuky 50 g · sacharidy = (kcal − 700 − 450) / 4
 zaokrouhlit na 50 kcal
 ```
@@ -78,9 +123,9 @@ zaokrouhlit na 50 kcal
 Týden 19.–25.10. podle vzorce: Po 2000 · Út 2350 · St 2450 · Čt 2000 ·
 Pá 2300 · So 2400 · Ne 2400 → průměr ~2270 kcal (14.–20.10. reálně 2004).
 
-**Ladění základu** — každé pondělí od 9.11. (do té doby váhu zkresluje
-glykogen z vyšších sacharidů, +0,5–1,5 kg): tempo = změna 7denního
-průměru za 2 týdny ÷ 2.
+**Ladění základu v hubnutí** — každé pondělí od 7.12. (první týden po
+23.11. zkreslí úbytek glykogenu a vody): tempo = změna 7denního průměru
+za 2 týdny ÷ 2. V udržování 2.–22.11. platí tabulka výše.
 | Tempo hubnutí | Základ |
 |---|---|
 | > 0,6 kg/tý | +150 kcal |
@@ -93,7 +138,8 @@ Změřeno 14.–20.10.: **197 g/den (2,4 g/kg)**, rozptyl 96–327 g; St–So je
 
 | Období | Běžný den | Kvalita | LR den + den před LR |
 |---|---|---|---|
-| Hubnutí 21.10.–27.1. (kromě Gruzie) | podle vzorce: 2,6 g/kg bez běhu, 3,5–4 g/kg s easy | ~5 g/kg | ~4–5,5 g/kg (vzorec) + fueling navíc |
+| Hubnutí 21.10.–27.1. (kromě 2.–22.11. a Gruzie) | podle vzorce: 2,6 g/kg bez běhu, 3,5–4 g/kg s easy | ~5 g/kg | ~4–5,5 g/kg (vzorec) + fueling navíc |
+| Udržování 2.–22.11. | vzorec se základem 2500: ~4 g/kg bez běhu, ~5 g/kg s easy | — | +1,5 g/kg proti hubnutí |
 | Gruzie 21.12.–3.1. | udržovací, do sytosti | — | — |
 | Maratonský blok | průměr 5–7 g/kg | | 7–8 g/kg u LR ≥26 km |
 | Závod | carb-load 36–48 h: 8–10 g/kg (660–830 g/den), málo vlákniny | | |
@@ -122,7 +168,7 @@ másla, avokádo, plnotučný řecký jogurt, sýry, ořechy.
 
 ## Váha a složení těla
 - 188 cm / 82,5 kg (10/2026) / ~15 % tuku (odhad) → hubnutí do Thajska
-  na **~78–80 kg**, tempo a fáze viz výše. Každý kg dolů ≈ až ~2,5 min na
+  na **~80 kg**, tempo a fáze viz výše. Každý kg dolů ≈ až ~2,5 min na
   maratonu, ale nikdy za cenu tréninku.
 - V deficitu drží sval **váha na čince, ne objem** (`09`).
 - Horní polovina těla na údržbě do 2.5. — další svalová hmota nahoře = kg navíc.

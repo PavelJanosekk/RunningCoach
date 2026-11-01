@@ -1,6 +1,6 @@
 # Timeline do maratonu 2.5.2027
 
-**Aktualizováno:** 25.10.2026 (týden 19.–25.10. odběhnut; dříve: hubnutí do Thajska, vzorec v `07`)
+**Aktualizováno:** 1.11.2026 (týden 26.10.–1.11. odběhnut — tříslo L; 2.–22.11. jídlo udržovací, `07`)
 → **~28,5 týdne do závodu**
 **Závody:** Generali Prague Half Marathon **So 3.4.2027** · Vodafone Prague
 Marathon **Ne 2.5.2027** (ověřeno na runczech.com). Registrovat oba v říjnu
@@ -17,7 +17,7 @@ Všechny týdny jsou **po–ne**.
 | Období | Kde | Náplň |
 |---|---|---|
 | 24.9.–11.10.2026 | 🇮🇩 Indonésie | udržovací — reálně 1 běh ~7 km + 15–25 tis. kroků/den |
-| 12.10.–20.12. | doma | ⭐ **HLAVNÍ BLOK** (10 týdnů) · hubnutí od 21.10. |
+| 12.10.–20.12. | doma | ⭐ **HLAVNÍ BLOK** (10 týdnů) · hubnutí 21.10.–1.11. a 23.11.–20.12., mezi tím udržovací |
 | 21.12.–3.1.2027 | 🇬🇪 Gruzie (lyže, ~2200 m) | udržovací · jídlo udržovací (pauza v hubnutí) |
 | 4.–27.1. | doma | návrat + objem · hubnutí (konec 27.1.) |
 | 28.1.–14.2. | 🇹🇭 Thajsko | udržovací · jíst do sytosti |
@@ -160,9 +160,11 @@ Q2 = kopce 8–10× 45–60 s nebo 20–25 min steady @ HR 154–162. **Žádný
 Fueling na LR: do LR 16 km nic nutné · od LR 17 km 45–60 g/h · prosinec 60 g/h.
 Do února levně (DIY iont, med, želé), **gely od března** (viz `07`).
 
-Výživa: **hubnutí do Thajska** (rozhodnutí 21.10.), 0,3–0,5 kg/tý na ~78–80 kg.
-Kalorie podle vzorce v `07`: základ 2000 + běh (easy 0,75, LR a threshold
-1,0 × kg × km; LR ½ den předem, ½ v den LR). Klíčové tréninky plně nakrmené.
+Výživa: **hubnutí do Thajska** (rozhodnutí 21.10.), 0,3–0,5 kg/tý na ~80 kg;
+**2.–22.11. udržovací** (základ 2500 — změřit výdej, hojení třísla), od 23.11.
+zase hubnutí. Kalorie podle vzorce v `07`: základ + běh (easy 0,75, LR a
+threshold 1,0 × kg × km; LR ½ den předem, ½ v den LR). Klíčové tréninky
+plně nakrmené.
 
 ### Návrat 15.–25.10. — konkrétně
 Rýma jen nad krkem (nos, hlen v nose/krku) → běh OK, jen easy HR ≤150, bez
