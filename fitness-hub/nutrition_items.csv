@@ -1189,3 +1189,9 @@ date,meal,label,food,amount_g,kcal,protein_g,carbs_g,fat_g,fiber_g,sugar_g,food_
 2026-10-31,dinner,Rýžové vlasové nudle  A.T. International,Rýžové vlasové nudle  A.T. International,50,177.0,3.4,39.1,0.2,0.9,0.0,kaloricke_tabulky
 2026-10-31,dinner,vepřová panenka,vepřová panenka,250,326.0,51.2,0.0,13.5,,,kaloricke_tabulky
 2026-10-31,dinner,zelí bílé,zelí bílé,200,62.8,3.0,9.0,0.5,5.4,6.0,kaloricke_tabulky
+2026-11-01,breakfast,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,30,114.8,22.5,2.0,1.7,,1.6,kaloricke_tabulky
+2026-11-01,breakfast,Tesco mrazené maliny,Tesco mrazené maliny,100,39.6,1.3,5.3,0.0,6.7,5.3,kaloricke_tabulky
+2026-11-01,breakfast,ovesné vločky,ovesné vločky,50,200.0,6.6,34.0,3.4,3.6,0.8,kaloricke_tabulky
+2026-11-01,morning_snack,cibule,cibule,30,13.0,0.4,2.7,0.1,0.8,1.8,kaloricke_tabulky
+2026-11-01,morning_snack,rajče cherry keříčkové,rajče cherry keříčkové,100,23.6,1.0,3.9,0.2,1.2,2.5,kaloricke_tabulky
+2026-11-01,morning_snack,tekuté vaječné bílky Eurevo service,tekuté vaječné bílky Eurevo service,200,100.0,20.0,2.4,1.0,,2.4,kaloricke_tabulky
