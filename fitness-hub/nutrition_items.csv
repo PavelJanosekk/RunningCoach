@@ -1195,3 +1195,23 @@ date,meal,label,food,amount_g,kcal,protein_g,carbs_g,fat_g,fiber_g,sugar_g,food_
 2026-11-01,morning_snack,cibule,cibule,30,13.0,0.4,2.7,0.1,0.8,1.8,kaloricke_tabulky
 2026-11-01,morning_snack,rajče cherry keříčkové,rajče cherry keříčkové,100,23.6,1.0,3.9,0.2,1.2,2.5,kaloricke_tabulky
 2026-11-01,morning_snack,tekuté vaječné bílky Eurevo service,tekuté vaječné bílky Eurevo service,200,100.0,20.0,2.4,1.0,,2.4,kaloricke_tabulky
+2026-11-01,lunch,Hovězí maso z pupku flank steak Maso uzeniny Polička,Hovězí maso z pupku flank steak Maso uzeniny Polička,120,185.9,25.2,0.6,8.4,,0.6,kaloricke_tabulky
+2026-11-01,lunch,Knedlíčky (wonton / gyoza) vepřové,Knedlíčky (wonton / gyoza) vepřové,200,272.0,16.6,26.6,11.0,2.8,5.5,usda
+2026-11-01,dinner,Rýžové vlasové nudle bún gao A.T. International,Rýžové vlasové nudle bún gao A.T. International,50,176.8,3.4,39.1,0.2,0.9,0.0,kaloricke_tabulky
+2026-11-01,dinner,mleté kuřecí maso DZ Klatovy,mleté kuřecí maso DZ Klatovy,255,372.3,45.9,1.3,20.4,,1.3,kaloricke_tabulky
+2026-11-01,dinner,olej olivový extra panenský,olej olivový extra panenský,10,82.0,0.0,0.0,9.1,0.0,0.0,kaloricke_tabulky
+2026-11-01,dinner,vejce slepičí,vejce slepičí,150,226.7,18.6,1.4,16.3,,0.5,kaloricke_tabulky
+2026-11-01,second_dinner,Popcorn do mikrovlnky,Popcorn do mikrovlnky,80,466.4,5.8,36.0,34.8,6.5,0.4,usda
+2026-11-01,second_dinner,jablko Golden Delicious,jablko Golden Delicious,100,66.4,0.6,14.0,0.2,3.5,10.0,kaloricke_tabulky
+2026-11-02,breakfast,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,30,114.8,22.5,2.0,1.7,,1.6,kaloricke_tabulky
+2026-11-02,breakfast,ovesné vločky,ovesné vločky,50,200.0,6.6,34.0,3.4,3.6,0.8,kaloricke_tabulky
+2026-11-02,lunch,Musaka s tzatziki,Musaka s tzatziki,450,593.1,28.1,33.5,39.7,,,recipe
+2026-11-02,dinner,kaiserky,Kaiserka (houska),120,351.6,11.9,63.2,5.2,2.8,2.1,usda
+2026-11-02,dinner,mleté kuřecí maso DZ Klatovy,mleté kuřecí maso DZ Klatovy,200,292.0,36.0,1.0,16.0,,1.0,kaloricke_tabulky
+2026-11-02,dinner,mouka,Mouka pšeničná hladká,15,54.3,1.8,11.2,0.3,0.5,,usda
+2026-11-02,dinner,vejce,vejce slepičí,150,226.7,18.6,1.4,16.3,,0.5,kaloricke_tabulky
+2026-11-02,dinner,Kukuřičné chlebíčky,Kukuřičné chlebíčky,30,116.1,2.4,25.0,0.7,0.6,7.0,usda
+2026-11-02,dinner,horcice kremzska,Hořčice kremžská,40,39.2,2.0,3.4,1.8,1.2,2.4,web_estimate
+2026-11-02,dinner,olej,olej olivový extra panenský,10,82.0,0.0,0.0,9.1,0.0,0.0,kaloricke_tabulky
+2026-11-02,afternoon_snack,Royal Rolls wafer pistachio cream,Royal Rolls Wafer Pistachio Cream,110,577.5,7.2,63.8,31.9,2.2,46.2,web_estimate
+2026-11-02,afternoon_snack,jablka Golden Delicious,jablko Golden Delicious,200,132.8,1.2,28.0,0.3,7.0,20.0,kaloricke_tabulky
