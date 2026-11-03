@@ -1215,3 +1215,9 @@ date,meal,label,food,amount_g,kcal,protein_g,carbs_g,fat_g,fiber_g,sugar_g,food_
 2026-11-02,dinner,olej,olej olivový extra panenský,10,82.0,0.0,0.0,9.1,0.0,0.0,kaloricke_tabulky
 2026-11-02,afternoon_snack,Royal Rolls wafer pistachio cream,Royal Rolls Wafer Pistachio Cream,110,577.5,7.2,63.8,31.9,2.2,46.2,web_estimate
 2026-11-02,afternoon_snack,jablka Golden Delicious,jablko Golden Delicious,200,132.8,1.2,28.0,0.3,7.0,20.0,kaloricke_tabulky
+2026-11-03,breakfast,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,30,114.8,22.5,2.0,1.7,,1.6,kaloricke_tabulky
+2026-11-03,breakfast,ovesné vločky,ovesné vločky,50,200.0,6.6,34.0,3.4,3.6,0.8,kaloricke_tabulky
+2026-11-03,afternoon_snack,Jablko golden delicious,jablko Golden Delicious,100,66.4,0.6,14.0,0.2,3.5,10.0,kaloricke_tabulky
+2026-11-03,lunch,2 krajíce chleba,Pšeničný chléb (kmínový/toustový tmavý),120,328.8,12.8,57.0,5.4,4.8,6.9,usda
+2026-11-03,lunch,Bůčková žebra,Vepřová žebra (bůčková) pečená,250,902.5,52.2,0.0,77.2,0.0,0.0,usda
+2026-11-03,lunch,brokolicový krém s topinkovými kostičkami,Brokolicový krém s krutony,300,336.6,6.9,25.1,24.4,,,recipe
