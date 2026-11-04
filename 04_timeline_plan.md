@@ -194,11 +194,11 @@ přidat — když ne, ubrat (20.10. byla horní hranice, 3:04–3:27).
 ```
 Po 2.   Volno
 Út 3.   Easy 6 km + pull
-St 4.   Volno + push
-Čt 5.   Easy 6–7 km + 15 min kyčle
+St 4.   Volno + pull
+Čt 5.   Easy 6–7 km + push + 15 min kyčle
 Pá 6.   Volno
-So 7.   Easy 5 km + upper
-Ne 8.   Long run 9–10 km
+So 7.   Easy 5 km
+Ne 8.   Long run 9–10 km + upper
 ```
 - Tříslo bolí na startu a levá hýždě do kopce (Ne 1.11., `03`) → **žádné
   kopce, strides ani threshold**; trasy co nejrovnější, z kopce pomalu
