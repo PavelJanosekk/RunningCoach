@@ -13,5 +13,6 @@ date,mode,base_kcal,weight_used_kg,runs,extra_kcal,kcal_target,protein_target_g,
 2026-11-01,maintenance,2500,83.97,easy:7.0,443.4,2950,175,50,450
 2026-11-02,maintenance,2500,83.9,,,2500,175,50,338
 2026-11-03,maintenance,2500,83.67,easy:6.5,404.8,2900,175,50,438
-2026-11-04,maintenance,2500,83.67,,,2500,175,50,338
-2026-11-05,maintenance,2500,83.67,easy:6.5,407.9,2900,175,50,438
+2026-11-04,maintenance,2500,83.76,,,2500,175,50,338
+2026-11-05,maintenance,2500,83.76,easy:6.5,408.3,2900,175,50,438
+2026-11-06,maintenance,2500,83.76,,,2500,175,50,338
