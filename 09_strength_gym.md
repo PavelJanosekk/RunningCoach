@@ -20,8 +20,9 @@ Těžký silový trénink + plyometrie zlepšují running economy o ~2–8 %
 - **Nejít pod 3 opakování** (riziko, CNS únava bez benefitu)
 
 ## Kam gym v týdnu (platí šablona z `04`)
-**Teď (do 8.11.):** Po pull · Út kopce/kvalita ráno → lower odpoledne ·
-St easy → push · So upper (rozpis týdne v `04`).
+**Teď (do 29.11., 4 běhy):** Po pull · St push · So upper · kyčle po
+každém běhu + 10 min po pull a push · **lower od 16.11. (~50 %)**
+odpoledne ve dni kvality (rozpis týdne v `04`).
 
 **Historie nohou (sportovec 26.10.):** před Indonésií (od ~července do září)
 **žádný leg day** — poslední „Legs“ ve Fitness Hub 27.6.; RDL dřív ~90 kg
@@ -36,7 +37,7 @@ Druhý trénink stejných cviků už bolí výrazně méně (repeated bout effec
 objem přidávat až od třetího. K 90 kg na RDL zpět postupně (+2,5–5 kg/tý
 při 2–3 RIR), nové cviky (lýtka se zátěží, soleus) první týden lehce.
 
-**Od 9.11. (5 běhů; lower na úterý od LR 17–18 km, ~22.11.):**
+**Od 30.11. (5 běhů):**
 ```
 Po  volno → PULL
 Út  KVALITA ráno → TĚŽKÝ LOWER odpoledne (hard day hard)
@@ -104,14 +105,40 @@ Ne  LONG RUN
 - **Mobilita/protahování zranění nepředchází** (metaanalýza Lauersen 2014,
   ~26 tis. sportovců: protahování ~0; silový trénink −⅓ zranění, −½ z
   přetížení). Mobilita jen jako 5 min dynamické rozcvičky před kopci.
-- **Copenhagen** (fotbal −41 % zranění třísel, Harøy 2019) 2×/tý — do 27.10.
-  hotovo **0 sérií** kyčlí/adduktorů (jen BSS). Start na kolenou (krátká
-  páka) 2 × 15–20 s/strana → postupně propnutá noha, 20–30 s.
+- **Copenhagen** (fotbal −41 % zranění třísel, Harøy 2019) 2×/tý — do 8.11.
+  hotovo **0 sérií** kyčlí/adduktorů (jen BSS 21.10.). Od 9.11. po pull
+  a push: na kolenou (krátká páka) 2 × 15–20 s/strana → postupně propnutá
+  noha, 20–30 s.
 - Boční step-down, side plank s nohou, leg raise (flexory kyčle, kopce).
-- **Návrat:** až po hop testu 0–1 a 2 bězích bez bolesti; první týden
-  krátká páka a lehce.
+- **Návrat:** ✅ 8.11. (tříslo bez bolesti) — první týden krátká páka
+  a lehce.
 - Hlavní příčina = zátěž: návrat po pauze + nový leg day + první kopce
   v jednom týdnu a v deficitu → **1 novinka za týden**.
+
+### Boční kyčel L (od 1.11., `03`)
+Vnější strana levé kyčle/hýždě, stejné místo jako v červenci; při běhu
+~1–2/10. Vzorec sedí na šlachu gluteus medius (gluteální tendinopatie):
+nesnáší **stlačení** (noha přes střed těla) a dlouhé kopce. Nejlépe
+podložená léčba = vysvětlení + cvičení (LEAP, Mellor 2018: lepší než
+injekce i čekání).
+- **Bez stlačení:** nekřížit nohy, nespát na levém boku (na pravém
+  polštář mezi koleny), nestát „v boku“ na levé noze, nestrečovat
+  hýždě/ITB (protažení šlachu stlačí).
+- **Izometrie** 5 × 30–45 s, ~70 % síly, cítit nahoře vně levé hýždě:
+  1. **stoj na levé, pravý bok ke zdi, pravé koleno (pokrčené) tlačí do
+     zdi** — nejlepší, pracuje stojná noha jako při běhu;
+  2. leh na zádech, guma kolem kolen, tlak ven;
+  3. leh na pravém boku, levá noha v ose těla (ne dopředu, ne dolů), držet.
+
+  Tlak nohou dolů do podložky = adduktory (tříslo, ne bok). Stoj na pravé
+  s levým kolenem do zdi = pracuje hlavně pravá.
+- **Kdy, ať se nezapomíná:** po každém běhu před sprchou varianta 1
+  (3 min); Po a St 10 min po gymu: Copenhagen na kolenou 2 × 15–20 s,
+  side plank 2 × 20–30 s (→ s nohou), jednonožný most 2 × 10.
+- **Progrese** po 2–3 týdnech: boční step-down, BSS, side plank s nohou
+  (lower od 16.11.).
+- **Bolest:** ≤3/10 při běhu a do rána zpět = OK (Silbernagel 2007).
+  Roste týden od týdne → LR neprodlužovat, threshold vynechat.
 
 ## Core
 | Cvik | Série | Proč |
@@ -119,6 +146,15 @@ Ne  LONG RUN
 | Dragon flag | 2 | anti-extenze |
 | Leg raise | 2 | flexory kyčle |
 | **Pallof press** | 2 × 10 / strana | anti-rotace, přímo pro běh |
+
+**Po tříslu (27.10.)** břicho nevynechávat: aktivní program břicho
++ adduktory vrátil ke sportu 79 % proti 14 % u pasivní léčby (Hölmich
+1999). Dragon flag a leg raise zatěžují flexory kyčle a stydkou kost →
+- hned: cable crunch ~70 %, 2–3 RIR; Pallof press, dead bug, plank, side plank;
+- od ~16.11. (tříslo 1–2 týdny bez bolesti): leg raise s pokrčenými koleny;
+- od ~23.11.: dragon flag nejdřív jen negativy, pak plný.
+
+Pravidlo: tříslo při cviku ≤2/10 a druhý den ne hůř.
 
 ❌ Weighted side bend vyřadit (QL v rozsahu, který běh nevyužije, rozšiřuje pas).
 

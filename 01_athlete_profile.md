@@ -33,7 +33,9 @@
   3 % času nad 162) — neopravovat.
 - **Zdravotní historie:** kolena ~1 týden po velkém sestupu (Slovinsko 5.7.);
   **mírná bolest z boku hýždě/stehna** po 19.7. → 3,5 týdne bez LR, jen easy,
-  odeznělo (LR 15 km 13.8. OK). Jinak bez zranění.
+  odeznělo (LR 15 km 13.8. OK). **Tříslo L** 27.10. (bolely výskoky, 4 dny
+  bez běhu, odeznělo do 8.11.); **bok kyčle L** od 1.11. zase mírně (stejné
+  místo jako v červenci) → kyčle v `09`.
 - **Preferuje:** stručné odpovědi, žádné sugarcoating, vědecky podložené
 - Nechce rigidní plán, chce rozumět "proč"
 
@@ -52,7 +54,7 @@
 - Boty: **Asics Novablast 5** (od ~14.5., ~430 km), cca 30 % běhů na
   lesních/polních cestách. Závodní (karbon) boty kupovat nechce.
 - Hydratační vesta ✅ — na LR bere ≤250 ml vody, gely teď nebere
-- Gym 3–4×/tý: Út pull, St push, So upper, Ne lower
+- Gym 3–4×/tý: Po pull, St push, So upper, lower ve dni kvality (`09`)
 - Běžecký pás (levný) — houpe se, nevyhovuje
 - Strava Premium
 - **Doporučeno:** intervals.icu (per-lap analýza), hrudní pás Polar H10

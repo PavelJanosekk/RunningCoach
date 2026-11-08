@@ -101,6 +101,26 @@ Long run má skončit s pocitem "mohl bych pokračovat", ne "musel jsem zastavit
 ne HR — HR se zpožďuje 2–3 min a strmý úsek po 1. km se jinak běží
 rychleji než threshold na studené nohy. Platí i pro easy běhy.
 
+## Technika: z kopce a náklon (8.11., `03`)
+- **Z kopce rozhoduje délka kroku.** Stejná kadence + vyšší rychlost =
+  delší krok = tvrdší dopady (−9°: náraz +54 %, brzdění +73 %, Gottschall
+  & Kram 2005); +10 % kadence při stejném tempu snižuje zátěž kyčle
+  a kolena (Heiderscheit 2011). → **Kadence nahoru (~168–170), tempo
+  stejné** (krok ~1,0 m ≈ 5:50–6:00), dopad pod boky, mírný náklon
+  vpřed, nezaklánět se. 5.–8.11.: kadence nahoru, ale i tempo (5:02–5:19,
+  krok 1,13–1,18 m) = opačný efekt.
+- **Náklon:** mírný z kotníků, tělo rovné, hlava nahoře = OK, hlavně
+  z kopce a při únavě. Přepadávání a předklon v pase = moc: trup vpřed
+  přesouvá práci z kolen na hýždě a hamstringy (Teng & Powers 2015) —
+  proto pocit „líp“ na unavených stehnech, ale víc zátěže pro kyčel.
+  Vědomá změna stylu stojí energii: vlastní technika je blízko
+  nejúspornější (Moore 2016); Pose (náklon + vysoká kadence) za 12 týdnů
+  ekonomiku zhoršil (Dallam 2005). → Na konci easy běhu náklon a rychlejší
+  kroky, ale **tempo držet** (kratší krok). Po rovině kadenci neměnit (`11`).
+- **Kopce na easy bězích** jsou OK. Strmý kopec na konci domácí trasy
+  chůzí, dokud bolí kyčel (chůze ~1,2× tělesné hmotnosti, běh 2,5–3×);
+  během zpět po 2 týdnech bez bolesti.
+
 ## Progrese
 
 - Objem: **max +10 %/týden** (návrat na objem před cestou smí rychleji podle

@@ -365,6 +365,52 @@ základ, ne běžecká specifika — objem plazmy, ekonomiku). Re-adaptace 2–4
   → týden 2.–8.11. jen easy, kopce a threshold až 9.–15.11. (`04`).
 - Hop test So a Ne ráno nezapsán.
 
+### Týden 2.–8.11. — jen easy, 28,1 km (plán 26–28), tříslo odeznělo
+| Datum | Trénink | Tempo | Avg HR | % LTHR | D+ |
+|---|---|---|---|---|---|
+| Po 2.11. | *volno* | | | | |
+| Út 3.11. | 6,45 km easy | 6:22 | 143 | 83 % | 80 m |
+| St 4.11. | *volno* + pull | | | | |
+| Čt 5.11. | 7,04 km easy | 5:52 | 151 | 88 % | 58 m |
+| Pá 6.11. | *volno* | | | | |
+| So 7.11. | 3,88 km easy (název „5k rip hodinky“ — ~5 km, hodinky vypnuly) + push | 5:51 | 153 | 89 % | 40 m |
+| Ne 8.11. | 10,69 km long run | 6:12 | 151 | 88 % | 96 m |
+
+- **Tříslo L odeznělo:** Út mírně jen na startu, Ne „vůbec necítil“
+  (sportovec 8.11.). Hop test se od 31.10. nedělá (nebolí, zapomíná)
+  → ukončen; zpět jen při bolesti třísla na startu běhu.
+- **Kyčel L** (vnější strana, stejné místo jako v červenci a 1.11.): Út
+  ~2/10 při běhu, do Ne „jen mírně při běhu“. Cviky kyčlí a třísla **0**
+  (plán Čt 15 min nesplněn), nohy 0 (poslední 21.10.).
+- **Út 3.11.:** prvních 10 min 6:57, >153 bpm 5 %, decoupling −1,4 %,
+  efektivita **6:13** @ HR 147 (2,9 °C, 5 oken).
+- **Čt 5.11.:** efektivita **6:01** (−0,1 °C, 17 oken) — nejlepší od
+  návratu. Prvních 10 min 5:22: sestup od startu, km 1–1,5 **4:50** při −5 %
+  (rychleji než threshold, na studené nohy).
+- **So 7.11.:** po rovině 5:54 při HR **157** (Čt 5:53 při 151), 76 % času
+  nad 153; efektivita nejde spočítat (0 oken). Běh den před LR byl v plánu
+  — chyba proti pravidlu „1 den volna před LR“ (`11`); od 9.11. So volno.
+- **Ne 8.11.** (stejná trasa jako Čt, delší okruh): efektivita **6:19**
+  (3 °C, 15 oken), decoupling −0,9 %. HR v So i Ne ~5–6 bpm vyšší při
+  stejném tempu než ve Čt — příčina neznámá (dotaz v `12`).
+- **Náklon na konci Ne** (sportovec: „víc naklonil, přepadával dopředu“,
+  kroky se samy zrychlily, náročné): posledních ~700 m 168 spm (předtím
+  159–161), krok 1,00 m (0,92–0,98), **5:55** (6:20–6:50), HR **156–158**
+  (149–153) → náklon = zrychlení o ~12 %, napůl kadencí, napůl delším
+  krokem. Technika v `05`.
+- **Sestupy po radě 3.11. „rychlejší, kratší kroky“** (úseky pod −3 %):
+  30.10.–3.11. 5:38–5:44, 161–162 spm, krok 1,08–1,10 m → 5.–8.11.
+  5:02–5:19, 166–169 spm, krok **1,13–1,18 m**. Kadence nahoru ✔, ale tempo
+  taky → krok delší, ne kratší. Cíl: kadence nahoru při stejném tempu
+  (krok ~1,0 m ≈ 5:50–6:00), `05`.
+- **Efektivita @ HR 147** (`comparable=True`): 6:18–6:22 (20.10.–1.11.)
+  → 6:13 → 6:01 → 6:19, průměr týdne **6:11** (před cestou 5:54). Kontrolní
+  bod ~8.11. (5:55–6:05) nesplněn, tříslo vzalo ~2 týdny; pod hranicí
+  6:15 → deficit ani regenerace to nejsou (od 2.11. udržování).
+- Gym: pull St, push So (13 + 14 sérií), upper Ne vynechán.
+- Jídlo: udržování, 2.–7.11. průměr 2707 kcal (cíl 2750); váha 83,95
+  (4 vážení ze 7) vs. 83,98 minulý týden.
+
 ## Klíčové trendy
 
 | Metrika | Květen | Červenec | Září |

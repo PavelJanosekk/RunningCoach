@@ -70,6 +70,9 @@ a šlachy), objem roste, výdej změřit místo odhadu.
   rozhoduje součet kcal.
 - **Vážit každé ráno** (po WC, před jídlem a pitím), log každý den celý.
 - 1. týden +0,5–1 kg (glykogen a voda) — neřešit.
+- **Týden 1 (2.–8.11.):** příjem 2707 kcal/den (cíl 2750), váha 83,95
+  (jen 4 vážení ze 7) vs. 83,98 týden předtím → zatím beze změny.
+  Kontrola 16.11. = průměr 9.–15.11. proti 2.–8.11.
 - **Po 16.11. a Po 23.11.:** změna 7denního průměru proti předchozímu týdnu:
 
 | Změna 7denního průměru | Základ |

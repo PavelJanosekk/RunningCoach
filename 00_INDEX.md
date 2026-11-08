@@ -1,12 +1,13 @@
 # Knowledge Base: Marathon Training
 
-**Vytvořeno:** 18.9.2026 · **Aktualizováno:** 1.11.2026 (log do 1.11., tříslo L, udržování 2.–22.11.)
+**Vytvořeno:** 18.9.2026 · **Aktualizováno:** 8.11.2026 (log do 8.11., tříslo odeznělo, kyčel L mírně, threshold zpět 12.11.)
 **Cílový závod:** Vodafone Prague Marathon, **neděle 2.5.2027**
 **Generálka:** Generali Prague Half Marathon, **sobota 3.4.2027**
 **Cíl:** A = **3:40–3:50**, B = sub-4:00 (jistota), 3:30 bonus; dlouhodobě
 zlepšovat rychlost. Závodní tempo podle PM 3.4.
-**Aktuální fáze:** návrat po Indonésii — 70 % hotovo (28,6 km); 27.10. **tříslo L**
-(bolí jen výskoky) → běh podle ranního hop testu (`04`, `12`); hlavní blok do 20.12.
+**Aktuální fáze:** hlavní blok do 20.12. po tříslu L (27.10., odeznělo):
+2.–8.11. 28 km easy, 9.–15.11. ~32 km a **threshold zpět Čt 12.11.**; kyčel L
+mírně → kyčle po každém běhu (`09`). Cíl k 20.12. ~45 km / LR ~17 (`04`).
 
 ## Obsah
 | Soubor | Obsah |
@@ -33,10 +34,10 @@ zlepšovat rychlost. Závodní tempo podle PM 3.4.
 - Easy = **138–153 bpm**, 5:45–6:15/km; prvních 10 min ≥5:45 podle tempa
 - Threshold repy = **4:55–5:05/km, konec repu HR ≤168** (ne 4:50)
 - Strides 15–20 s, 85–90 % (3:04–3:27 = horní hranice), po rovině / do kopce
-- Objem před Indonésií: **34–39 km/týden**, 4 běhy · od 9.11. 5 běhů
+- Objem před Indonésií: **34–39 km/týden**, 4 běhy · 5. běh od 30.11.
 - Long run max: **16,02 km** (20.9.2026) · pravidlo LR ≤1,10× nejdelšího za 30 dní
-- Od restartu 8.5.2026: 499 km (66 běhů); jediný problém mírná bolest z boku
-  hýždě/stehna v červenci (odeznělo)
+- Od restartu 8.5.2026: 539 km (72 běhů); problémy: bok hýždě/stehna L
+  v červenci (odeznělo, od 1.11. zase mírně), tříslo L 27.10. (odeznělo)
 
 ## Data ze Stravy
 ```
