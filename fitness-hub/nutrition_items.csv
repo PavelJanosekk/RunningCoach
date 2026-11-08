@@ -1243,3 +1243,23 @@ date,meal,label,food,amount_g,kcal,protein_g,carbs_g,fat_g,fiber_g,sugar_g,food_
 2026-11-05,lunch,cibule,cibule,35,15.2,0.5,3.1,0.1,0.9,2.1,kaloricke_tabulky
 2026-11-05,lunch,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",250,264.1,57.8,0.0,3.8,,0.0,kaloricke_tabulky
 2026-11-05,lunch,rýže jasmínová,rýže jasmínová,50,173.0,3.5,39.5,0.0,0.8,0.0,kaloricke_tabulky
+2026-11-06,morning_snack,Jablko je zelené,Jablko je zelené,200,83.5,1.9,18.8,0.9,3.6,16.0,kaloricke_tabulky
+2026-11-06,morning_snack,Mražená zeleninová  směs pod svíčkovou Dle Gusta,Mražená zeleninová  směs pod svíčkovou Dle Gusta,400,104.0,4.0,28.0,0.0,,,kaloricke_tabulky
+2026-11-06,morning_snack,Müsli tyčinka tvrdá,Müsli tyčinka tvrdá,270,1271.7,27.3,173.9,53.5,14.3,77.1,usda
+2026-11-06,morning_snack,Tatarská omáčka extra krémová Hellmann's,Tatarská omáčka extra krémová Hellmann's,60,164.6,0.4,5.4,15.6,,4.0,kaloricke_tabulky
+2026-11-06,morning_snack,Těstoviny bezlepkové kukuřičné,Těstoviny bezlepkové kukuřičné,160,571.2,11.9,126.8,3.3,17.6,,usda
+2026-11-06,morning_snack,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",500,528.1,115.5,0.0,7.5,,0.0,kaloricke_tabulky
+2026-11-06,morning_snack,mandlové mléko AdeZ,mandlové mléko AdeZ,700,93.5,0.0,3.5,7.7,,1.4,kaloricke_tabulky
+2026-11-06,morning_snack,pomeranč,pomeranč,100,49.7,0.9,11.0,0.2,3.1,7.3,kaloricke_tabulky
+2026-11-06,morning_snack,protein power vanilla Biotech USA,protein power vanilla Biotech USA,90,342.4,77.4,3.3,1.4,,0.5,kaloricke_tabulky
+2026-11-07,morning_snack,Müsli tyčinka tvrdá,Müsli tyčinka tvrdá,85,400.4,8.6,54.7,16.8,4.5,24.3,usda
+2026-11-07,morning_snack,mandlové mléko AdeZ,mandlové mléko AdeZ,250,33.4,0.0,1.2,2.8,,0.5,kaloricke_tabulky
+2026-11-07,morning_snack,protein,protein,30,119.0,22.9,2.1,2.2,,,kaloricke_tabulky
+2026-11-07,lunch,Květák vařený,Květák vařený,300,69.0,5.5,12.3,1.4,6.9,6.2,usda
+2026-11-07,lunch,Rýžové vlasové nudle  A.T. International,Rýžové vlasové nudle  A.T. International,50,177.0,3.4,39.1,0.2,0.9,0.0,kaloricke_tabulky
+2026-11-07,lunch,cibule,cibule,35,15.2,0.5,3.1,0.1,0.9,2.1,kaloricke_tabulky
+2026-11-07,lunch,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",250,264.1,57.8,0.0,3.8,,0.0,kaloricke_tabulky
+2026-11-07,afternoon_snack,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,30,114.8,22.5,2.0,1.7,,1.6,kaloricke_tabulky
+2026-11-07,afternoon_snack,jablko Golden Delicious,jablko Golden Delicious,200,132.8,1.2,28.0,0.3,7.0,20.0,kaloricke_tabulky
+2026-11-07,afternoon_snack,ovesné vločky,ovesné vločky,50,200.0,6.6,34.0,3.4,3.6,0.8,kaloricke_tabulky
+2026-11-07,dinner,Pizza Quattro Formaggi Trattoria Alfredo,Pizza Quattro Formaggi Trattoria Alfredo,330,813.2,39.6,105.6,25.4,,12.5,kaloricke_tabulky
