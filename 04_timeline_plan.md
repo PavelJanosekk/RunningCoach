@@ -142,7 +142,7 @@ Po návratu bude HR při stejném tempu 1–2 týdny nižší (aklimatizace) —
 | 1 | 12.–18.10. | ✅ 14,2 | ✅ 9,1 | nic | 1. lower Čt 15.10. → DOMS do neděle; krevní test odložen |
 | 2 | 19.–25.10. | ✅ 28,6 | ✅ 10,7 | ✅ strides | 2. lower St 21.10.; upper So 24.10.; registrace |
 | 3 | 26.10.–1.11. | ✅ 12,3 (plán 32–34) | ✗ (easy 7,0) | ✗ | **tříslo L** 27.10. → Út–Čt bez běhu; Ne levá hýždě (stejné místo jako v červenci) |
-| 4 | 2.–8.11. | ✅ 28,1 (plán 26–28) | ✅ 10,7 | ✗ | tříslo odeznělo; kyčel L mírně; kyčle 0, nohy 0; gym jen pull + push |
+| 4 | 2.–8.11. | ✅ 29,2 (plán 26–28) | ✅ 10,7 | ✗ | tříslo odeznělo; kyčel L mírně; kyčle 0, nohy 0; gym jen pull + push |
 | 5 | 9.–15.11. | 31–33 | 11–12 | T 3× 1,5 km (Čt) | krevní test Út; kyčle po každém běhu; lower ještě ne |
 | 6 | 16.–22.11. | 34–36 | 13 | T 4× 1,5 km | lower zpět ~50 % (odpoledne po T); konec udržování 22.11. |
 | 7 | 23.–29.11. | ~32 | 13–14 | **retest 30 min (rovina)** | lehčí kvůli testu; přepočet temp a zón; od 23.11. hubnutí |
@@ -154,7 +154,7 @@ Přepracováno 15.10.: v Indonésii 1 běh místo 2/týden → start na 70 %
 (návratový protokol), vše o ~1 týden později. Cíl k 20.12. ~55 km / LR ~22
 místo 23–24 — pro maraton zanedbatelné (v lednu se staví ~50 km / LR 20).
 
-Přepracováno 8.11.: tříslo L (27.10.) → týdny 3–4 jen 12 a 28 km easy.
+Přepracováno 8.11.: tříslo L (27.10.) → týdny 3–4 jen 12 a 29 km easy.
 Navazuje 85–90 % (31–33 km), threshold zpět 12.11., 5. běh až 30.11. K 20.12.
 ~45 km / LR ~17 (pravidlo 1,10× z 10,7 km) — pro maraton pořád zanedbatelné.
 
@@ -211,7 +211,8 @@ Ne 15.  Long run 11–12 km
   threshold; jinak Čt easy 7 km. Běh až po odběru (`07`).
 - **Čt threshold:** 4:55–5:05/km, 500 m za 2:28–2:32, konec repu HR ≤168.
   Co nejrovnější úsek (okruh ze So 7.11. byl skoro celý do ±2 %). Kyčel
-  >3/10 nebo změna kroku → klusem domů.
+  >3/10 nebo změna kroku → klusem domů. **Jen po noci ≥6 h spánku**,
+  jinak prohodit s Pá easy (kvalita smí být 2 dny před LR, `08`).
 - **Kyčle (`09`):** po každém běhu před sprchou 5 × 30–45 s koleno do zdi
   (stoj na levé); Po a St 10 min po gymu: Copenhagen na kolenou, side
   plank, jednonožný most.
@@ -221,14 +222,14 @@ Ne 15.  Long run 11–12 km
 - Ne 11–12 km, ne víc (1,10× z 10,7 = 11,8).
 - Váha každé ráno → Po 16.11. kontrola udržování (`07`).
 
-### Týden 2.–8.11. — konkrétně (jen easy, ~26–28 km) — ✅ 28,1 km
+### Týden 2.–8.11. — konkrétně (jen easy, ~26–28 km) — ✅ 29,2 km
 ```
 Po 2.   ✅ Volno
 Út 3.   ✅ Easy 6,45 km
 St 4.   ✅ Volno + pull
 Čt 5.   ✅ Easy 7,04 km (push a kyčle ne)
 Pá 6.   ✅ Volno
-So 7.   ✅ Easy 3,88 km (~5, hodinky vypnuly) + push
+So 7.   ✅ Easy 5 km (záznam 3,88, hodinky vypnuly) + push
 Ne 8.   ✅ Long run 10,69 km (upper ne)
 ```
 - Tříslo bolí na startu a levá hýždě do kopce (Ne 1.11., `03`) → **žádné

@@ -13,9 +13,9 @@
       od 23.11. hubnutí do Thajska 0,3–0,5 kg/tý na ~80 kg (`07`)
 - [ ] **Data 29.–30.10.:** 29.10. jídlo chybí, 30.10. jen 1 jídlo (1740 kcal)
       — úplné? Kroky od 22.10. prázdné — hodinky nenošené? (kroky = výdej)
-- [ ] **HR So 7. a Ne 8.11. ~5–6 bpm výš** při stejném tempu než Čt 5.11.
-      — spánek, alkohol, stres, začínající rýma? Trvá i v Út → Čt easy
-      místo thresholdu.
+- [x] **HR So 7. a Ne 8.11. ~5–6 bpm výš** při stejném tempu než Čt 5.11.
+      → So běh krátce po snídani; Ne 6:19 = úroveň 20.10.–1.11., odchylka
+      je spíš Čt 6:01 (Čt ~4 h spánku). Nic systémového → Čt threshold platí.
 - [x] **Fitness Hub:** cíle přenastavit (bílkoviny 200 → 175 g, tuky 50 g,
       sacharidy = zbytek) a doprogramovat vzorec denních kcal podle běhu (`07`)
 - [ ] Fitness Hub export: datum aktivit v místním čase běhu (`start_date_local`,

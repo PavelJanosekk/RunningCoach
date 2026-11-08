@@ -6,7 +6,7 @@
 **Cíl:** A = **3:40–3:50**, B = sub-4:00 (jistota), 3:30 bonus; dlouhodobě
 zlepšovat rychlost. Závodní tempo podle PM 3.4.
 **Aktuální fáze:** hlavní blok do 20.12. po tříslu L (27.10., odeznělo):
-2.–8.11. 28 km easy, 9.–15.11. ~32 km a **threshold zpět Čt 12.11.**; kyčel L
+2.–8.11. 29 km easy, 9.–15.11. ~32 km a **threshold zpět Čt 12.11.**; kyčel L
 mírně → kyčle po každém běhu (`09`). Cíl k 20.12. ~45 km / LR ~17 (`04`).
 
 ## Obsah
@@ -36,7 +36,7 @@ mírně → kyčle po každém běhu (`09`). Cíl k 20.12. ~45 km / LR ~17 (`04`
 - Strides 15–20 s, 85–90 % (3:04–3:27 = horní hranice), po rovině / do kopce
 - Objem před Indonésií: **34–39 km/týden**, 4 běhy · 5. běh od 30.11.
 - Long run max: **16,02 km** (20.9.2026) · pravidlo LR ≤1,10× nejdelšího za 30 dní
-- Od restartu 8.5.2026: 539 km (72 běhů); problémy: bok hýždě/stehna L
+- Od restartu 8.5.2026: 540 km (72 běhů); problémy: bok hýždě/stehna L
   v červenci (odeznělo, od 1.11. zase mírně), tříslo L 27.10. (odeznělo)
 
 ## Data ze Stravy

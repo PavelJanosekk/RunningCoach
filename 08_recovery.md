@@ -18,6 +18,9 @@
 Pod 7 h = horší regenerace svalů, vyšší kortizol, pomalejší adaptace.
 Pokud spíš málo, nic jiného moc nepomůže.
 **Neposouvat spánek kvůli ranním běhům** — raději přesunout běh na večer.
+**Po noci pod 6 h žádná kvalita** (threshold, kopce, retest) — prohodit
+s easy dnem. Easy běh je OK: ani 36 h bez spánku nezměnilo tep při
+submaximální zátěži, jen zkrátilo výdrž o ~11 % a zvedlo námahu (Martin 1981).
 
 ## Chůze
 - Běh: náraz 2,5–3× tělesná hmotnost na krok

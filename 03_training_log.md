@@ -365,7 +365,7 @@ základ, ne běžecká specifika — objem plazmy, ekonomiku). Re-adaptace 2–4
   → týden 2.–8.11. jen easy, kopce a threshold až 9.–15.11. (`04`).
 - Hop test So a Ne ráno nezapsán.
 
-### Týden 2.–8.11. — jen easy, 28,1 km (plán 26–28), tříslo odeznělo
+### Týden 2.–8.11. — jen easy, 29,2 km (plán 26–28), tříslo odeznělo
 | Datum | Trénink | Tempo | Avg HR | % LTHR | D+ |
 |---|---|---|---|---|---|
 | Po 2.11. | *volno* | | | | |
@@ -373,7 +373,7 @@ základ, ne běžecká specifika — objem plazmy, ekonomiku). Re-adaptace 2–4
 | St 4.11. | *volno* + pull | | | | |
 | Čt 5.11. | 7,04 km easy | 5:52 | 151 | 88 % | 58 m |
 | Pá 6.11. | *volno* | | | | |
-| So 7.11. | 3,88 km easy (název „5k rip hodinky“ — ~5 km, hodinky vypnuly) + push | 5:51 | 153 | 89 % | 40 m |
+| So 7.11. | 5 km easy (záznam 3,88 km, pak hodinky vypnuly; tempo a HR ze záznamu) + push | 5:51 | 153 | 89 % | 40 m |
 | Ne 8.11. | 10,69 km long run | 6:12 | 151 | 88 % | 96 m |
 
 - **Tříslo L odeznělo:** Út mírně jen na startu, Ne „vůbec necítil“
@@ -388,11 +388,14 @@ základ, ne běžecká specifika — objem plazmy, ekonomiku). Re-adaptace 2–4
   návratu. Prvních 10 min 5:22: sestup od startu, km 1–1,5 **4:50** při −5 %
   (rychleji než threshold, na studené nohy).
 - **So 7.11.:** po rovině 5:54 při HR **157** (Čt 5:53 při 151), 76 % času
-  nad 153; efektivita nejde spočítat (0 oken). Běh den před LR byl v plánu
+  nad 153; efektivita nejde spočítat (0 oken). Běh krátce po snídani, plný
+  žaludek (sportovec) → vyšší tep. Běh den před LR byl v plánu
   — chyba proti pravidlu „1 den volna před LR“ (`11`); od 9.11. So volno.
 - **Ne 8.11.** (stejná trasa jako Čt, delší okruh): efektivita **6:19**
-  (3 °C, 15 oken), decoupling −0,9 %. HR v So i Ne ~5–6 bpm vyšší při
-  stejném tempu než ve Čt — příčina neznámá (dotaz v `12`).
+  (3 °C, 15 oken), decoupling −0,9 %. 6:19 = úroveň 20.10.–1.11.
+  (6:18–6:22) → odchylka je spíš Čt 6:01. Čt ~4 h spánku (sportovec) —
+  to rozdíl nevysvětluje: ani 36 h bez spánku nezměnilo tep při
+  submaximální zátěži (Martin 1981).
 - **Náklon na konci Ne** (sportovec: „víc naklonil, přepadával dopředu“,
   kroky se samy zrychlily, náročné): posledních ~700 m 168 spm (předtím
   159–161), krok 1,00 m (0,92–0,98), **5:55** (6:20–6:50), HR **156–158**
