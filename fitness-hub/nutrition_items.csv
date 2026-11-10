@@ -1274,3 +1274,13 @@ date,meal,label,food,amount_g,kcal,protein_g,carbs_g,fat_g,fiber_g,sugar_g,food_
 2026-11-08,dinner,"Krůtí maso syrové (celé, bez kůže)","Krůtí maso syrové (celé, bez kůže)",250,287.5,56.6,0.3,4.8,0.0,0.2,usda
 2026-11-08,dinner,jablko,jablko,300,188.0,1.1,38.9,1.2,9.4,32.9,kaloricke_tabulky
 2026-11-08,dinner,rýže jasmínová,rýže jasmínová,50,173.0,3.5,39.5,0.0,0.8,0.0,kaloricke_tabulky
+2026-11-09,breakfast,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,30,114.8,22.5,2.0,1.7,,1.6,kaloricke_tabulky
+2026-11-09,breakfast,ovesné vločky,ovesné vločky,50,200.0,6.6,34.0,3.4,3.6,0.8,kaloricke_tabulky
+2026-11-09,lunch,Hovězí vývar domácí,Hovězí vývar domácí,500,65.0,9.8,6.0,0.5,0.0,2.7,usda
+2026-11-09,lunch,Pečená žebra s kostí,Vepřová žebra (bůčková) pečená,250,902.5,52.2,0.0,77.2,0.0,0.0,usda
+2026-11-09,lunch,cibule,cibule,35,15.2,0.5,3.1,0.1,0.9,2.1,kaloricke_tabulky
+2026-11-09,lunch,krajíce chleba,Pšeničný chléb (kmínový/toustový tmavý),120,328.8,12.8,57.0,5.4,4.8,6.9,usda
+2026-11-09,afternoon_snack,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-11-09,dinner,"Krůtí maso syrové (celé, bez kůže)","Krůtí maso syrové (celé, bez kůže)",230,264.5,52.1,0.3,4.4,0.0,0.2,usda
+2026-11-09,dinner,Rýžové vlasové nudle  A.T. International,Rýžové vlasové nudle  A.T. International,50,177.0,3.4,39.1,0.2,0.9,0.0,kaloricke_tabulky
+2026-11-09,dinner,jablko,jablko,200,125.3,0.7,25.9,0.8,6.3,22.0,kaloricke_tabulky
