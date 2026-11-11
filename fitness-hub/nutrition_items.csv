@@ -1284,3 +1284,17 @@ date,meal,label,food,amount_g,kcal,protein_g,carbs_g,fat_g,fiber_g,sugar_g,food_
 2026-11-09,dinner,"Krůtí maso syrové (celé, bez kůže)","Krůtí maso syrové (celé, bez kůže)",230,264.5,52.1,0.3,4.4,0.0,0.2,usda
 2026-11-09,dinner,Rýžové vlasové nudle  A.T. International,Rýžové vlasové nudle  A.T. International,50,177.0,3.4,39.1,0.2,0.9,0.0,kaloricke_tabulky
 2026-11-09,dinner,jablko,jablko,200,125.3,0.7,25.9,0.8,6.3,22.0,kaloricke_tabulky
+2026-11-10,lunch,Tatarská omáčka extra krémová Hellmann's,Tatarská omáčka extra krémová Hellmann's,30,82.3,0.2,2.7,7.8,,2.0,kaloricke_tabulky
+2026-11-10,lunch,Tortilla,Tortilla,120,372.0,11.2,58.0,9.1,,2.8,kaloricke_tabulky
+2026-11-10,lunch,cibule,cibule,35,15.2,0.5,3.1,0.1,0.9,2.1,kaloricke_tabulky
+2026-11-10,lunch,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",250,264.1,57.8,0.0,3.8,,0.0,kaloricke_tabulky
+2026-11-10,breakfast,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,30,114.8,22.5,2.0,1.7,,1.6,kaloricke_tabulky
+2026-11-10,breakfast,ovesné vločky,ovesné vločky,60,240.0,7.9,40.9,4.1,4.3,0.9,kaloricke_tabulky
+2026-11-10,morning_snack,jablko,jablko,300,188.0,1.1,38.9,1.2,9.4,32.9,kaloricke_tabulky
+2026-11-10,dinner,Tatarská omáčka typu Miracle Whip,Tatarská omáčka typu Miracle Whip,30,75.0,0.2,4.4,6.5,0.0,3.0,usda
+2026-11-10,dinner,Tortilla,Tortilla,120,372.0,11.2,58.0,9.1,,2.8,kaloricke_tabulky
+2026-11-10,dinner,Zmrzlina jahodová,Zmrzlina jahodová,200,384.0,6.4,55.2,16.8,1.8,,usda
+2026-11-10,dinner,cibule,cibule,35,15.2,0.5,3.1,0.1,0.9,2.1,kaloricke_tabulky
+2026-11-10,dinner,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",250,264.1,57.8,0.0,3.8,,0.0,kaloricke_tabulky
+2026-11-10,afternoon_snack,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,30,114.8,22.5,2.0,1.7,,1.6,kaloricke_tabulky
+2026-11-10,afternoon_snack,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
