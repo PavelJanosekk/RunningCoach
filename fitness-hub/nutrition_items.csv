@@ -1298,3 +1298,17 @@ date,meal,label,food,amount_g,kcal,protein_g,carbs_g,fat_g,fiber_g,sugar_g,food_
 2026-11-10,dinner,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",250,264.1,57.8,0.0,3.8,,0.0,kaloricke_tabulky
 2026-11-10,afternoon_snack,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,30,114.8,22.5,2.0,1.7,,1.6,kaloricke_tabulky
 2026-11-10,afternoon_snack,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-11-11,breakfast,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,30,114.8,22.5,2.0,1.7,,1.6,kaloricke_tabulky
+2026-11-11,breakfast,ovesné vločky,ovesné vločky,50,200.0,6.6,34.0,3.4,3.6,0.8,kaloricke_tabulky
+2026-11-11,lunch,Tatarská omáčka extra krémová Hellmann's,Tatarská omáčka extra krémová Hellmann's,30,82.3,0.2,2.7,7.8,,2.0,kaloricke_tabulky
+2026-11-11,lunch,batáty sladké brambory,batáty sladké brambory,250,206.7,5.0,42.5,0.3,7.5,10.0,kaloricke_tabulky
+2026-11-11,lunch,brokolice,brokolice,340,148.2,11.2,19.4,0.7,10.2,8.5,kaloricke_tabulky
+2026-11-11,lunch,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",180,190.1,41.6,0.0,2.7,,0.0,kaloricke_tabulky
+2026-11-11,afternoon_snack,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,30,114.8,22.5,2.0,1.7,,1.6,kaloricke_tabulky
+2026-11-11,afternoon_snack,ovesné vločky,ovesné vločky,50,200.0,6.6,34.0,3.4,3.6,0.8,kaloricke_tabulky
+2026-11-11,dinner,Tatarská omáčka extra krémová Hellmann's,Tatarská omáčka extra krémová Hellmann's,30,82.3,0.2,2.7,7.8,,2.0,kaloricke_tabulky
+2026-11-11,dinner,batáty sladké brambory,batáty sladké brambory,250,206.7,5.0,42.5,0.3,7.5,10.0,kaloricke_tabulky
+2026-11-11,dinner,vepřová panenka,vepřová panenka,240,312.9,49.2,0.0,13.0,,,kaloricke_tabulky
+2026-11-11,second_dinner,Zmrzlina jahodová,Zmrzlina jahodová,110,211.2,3.5,30.4,9.2,1.0,,usda
+2026-11-11,second_dinner,jablko,jablko,100,62.7,0.4,12.9,0.4,3.1,11.0,kaloricke_tabulky
+2026-11-11,second_dinner,pomeranč,pomeranč,100,49.7,0.9,11.0,0.2,3.1,7.3,kaloricke_tabulky

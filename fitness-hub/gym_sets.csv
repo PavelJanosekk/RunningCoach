@@ -2006,8 +2006,8 @@ date,workout,exercise,muscle_group,exercise_order,set_order,set_type,weight_kg,r
 2026-04-28,Legs 2,T Bar Row,back,2,2,normal,60.0,4,,,,True,,,,False,,45486ddc-6da0-4b5e-a4f9-c692ec01fd38
 2026-05-02,Legs 2,Bench Press (Dumbbell),chest,1,1,normal,40.0,6,,,,True,,,,False,,34e39090-cd43-42f2-aa5e-39e97c3ffa07
 2026-05-02,Legs 2,Bench Press (Dumbbell),chest,1,1,normal,42.5,5,,,,True,,,,False,,34e39090-cd43-42f2-aa5e-39e97c3ffa07
-2026-05-02,Legs 2,Bench Press (Dumbbell),chest,1,2,normal,40.0,5,,,,True,,,,False,,34e39090-cd43-42f2-aa5e-39e97c3ffa07
 2026-05-02,Legs 2,Bench Press (Dumbbell),chest,1,2,normal,42.5,5,,,,True,,,,False,,34e39090-cd43-42f2-aa5e-39e97c3ffa07
+2026-05-02,Legs 2,Bench Press (Dumbbell),chest,1,2,normal,40.0,5,,,,True,,,,False,,34e39090-cd43-42f2-aa5e-39e97c3ffa07
 2026-05-02,Legs 2,Chest Fly (Dumbbell),chest,2,1,normal,25.0,9,,,,True,,,,False,,34e39090-cd43-42f2-aa5e-39e97c3ffa07
 2026-05-02,Legs 2,Chest Fly (Dumbbell),chest,2,2,normal,25.0,8,,,,True,,,,False,,34e39090-cd43-42f2-aa5e-39e97c3ffa07
 2026-05-02,Legs 2,Chest Dip,chest,3,1,normal,0.0,10,,,,True,,,,False,,34e39090-cd43-42f2-aa5e-39e97c3ffa07
@@ -2434,8 +2434,8 @@ date,workout,exercise,muscle_group,exercise_order,set_order,set_type,weight_kg,r
 2026-10-26,Pull,Bicep Curl (Dumbbell),biceps,5,1,normal,20.0,7,,,1.0,True,20.0,9,straight,False,,f38c1c44-52e6-4576-a696-e8eb1902515a
 2026-10-26,Pull,Hammer Curl (Dumbbell),biceps,5,2,normal,20.0,7,,,,True,,,,False,,f38c1c44-52e6-4576-a696-e8eb1902515a
 2026-10-26,Pull,Bicep Curl (Dumbbell),biceps,5,2,normal,20.0,6,,,1.0,True,,,,False,,f38c1c44-52e6-4576-a696-e8eb1902515a
-2026-10-26,Pull,Hammer Curl (Dumbbell),biceps,6,1,normal,20.0,8,,,,True,20.0,9,straight,False,,f38c1c44-52e6-4576-a696-e8eb1902515a
 2026-10-26,Pull,Reverse Fly (Machine),shoulders,6,1,normal,20.0,11,,,,True,20.0,11,straight,False,,f38c1c44-52e6-4576-a696-e8eb1902515a
+2026-10-26,Pull,Hammer Curl (Dumbbell),biceps,6,1,normal,20.0,8,,,,True,20.0,9,straight,False,,f38c1c44-52e6-4576-a696-e8eb1902515a
 2026-10-26,Pull,Reverse Fly (Machine),shoulders,6,2,normal,20.0,11,,,,True,20.0,11,straight,False,,f38c1c44-52e6-4576-a696-e8eb1902515a
 2026-10-27,Push,Bench Press (Dumbbell),chest,1,1,normal,40.0,7,,,1.0,True,40.0,7,straight,False,,af5d080d-7b55-4483-9537-415cdba04187
 2026-10-27,Push,Bench Press (Dumbbell),chest,1,2,normal,40.0,6,,,0.0,True,40.0,5,straight,False,,af5d080d-7b55-4483-9537-415cdba04187
@@ -2520,3 +2520,21 @@ date,workout,exercise,muscle_group,exercise_order,set_order,set_type,weight_kg,r
 2026-11-10,Pull,Bicep Curl (Dumbbell),biceps,5,2,normal,20.0,6,,,,True,,,,False,,6992d368-7432-4b96-a37e-0544d0ba27d2
 2026-11-10,Pull,Preacher Curl (Machine),biceps,6,1,normal,30.0,11,,,,True,30.0,11,straight,False,,6992d368-7432-4b96-a37e-0544d0ba27d2
 2026-11-10,Pull,Preacher Curl (Machine),biceps,6,2,normal,30.0,10,,,,True,30.0,10,straight,False,,6992d368-7432-4b96-a37e-0544d0ba27d2
+2026-11-11,Push,Bench Press (Dumbbell),chest,1,1,normal,40.0,9,,,,True,40.0,9,straight,False,,6c368dad-a7ec-4b21-8241-164f49b9c919
+2026-11-11,Push,Bench Press (Dumbbell),chest,1,2,normal,40.0,6,,,,True,40.0,6,straight,False,,6c368dad-a7ec-4b21-8241-164f49b9c919
+2026-11-11,Push,Chest Fly,chest,2,1,normal,30.0,11,,,,True,30.0,11,straight,False,,6c368dad-a7ec-4b21-8241-164f49b9c919
+2026-11-11,Push,Chest Fly,chest,2,2,normal,30.0,9,,,,True,30.0,9,straight,False,,6c368dad-a7ec-4b21-8241-164f49b9c919
+2026-11-11,Push,Chest Dip,chest,3,1,normal,0.0,12,,,,True,0.0,10,straight,False,,6c368dad-a7ec-4b21-8241-164f49b9c919
+2026-11-11,Push,Chest Dip,chest,3,2,normal,0.0,8,,,,True,0.0,10,straight,False,,6c368dad-a7ec-4b21-8241-164f49b9c919
+2026-11-11,Push,Triceps Extension,triceps,4,1,normal,60.0,8,,,,True,60.0,8,straight,False,,6c368dad-a7ec-4b21-8241-164f49b9c919
+2026-11-11,Push,Triceps Extension,triceps,4,2,normal,60.0,8,,,,True,60.0,5,straight,False,,6c368dad-a7ec-4b21-8241-164f49b9c919
+2026-11-11,Push,Triceps Pushdown (Cable - Straight Bar),triceps,5,1,normal,55.0,11,,,,True,55.0,10,straight,False,,6c368dad-a7ec-4b21-8241-164f49b9c919
+2026-11-11,Push,Triceps Pushdown (Cable - Straight Bar),triceps,5,2,normal,55.0,10,,,,True,55.0,10,straight,False,,6c368dad-a7ec-4b21-8241-164f49b9c919
+2026-11-11,Push,Lateral Raise (Cable),shoulders,6,1,normal,15.0,9,,,,True,15.0,9,straight,False,,6c368dad-a7ec-4b21-8241-164f49b9c919
+2026-11-11,Push,Lateral Raise (Cable),shoulders,6,2,normal,15.0,8,,,,True,15.0,8,straight,False,,6c368dad-a7ec-4b21-8241-164f49b9c919
+2026-11-11,Push,Lateral Raise (Cable),shoulders,6,3,normal,15.0,8,,,,True,15.0,8,straight,False,,6c368dad-a7ec-4b21-8241-164f49b9c919
+2026-11-11,Push,Cable Crunch,core,7,1,normal,75.0,10,,,,True,75.0,10,straight,False,,6c368dad-a7ec-4b21-8241-164f49b9c919
+2026-11-11,Push,Cable Crunch,core,7,2,normal,75.0,9,,,,True,75.0,7,straight,False,,6c368dad-a7ec-4b21-8241-164f49b9c919
+2026-11-11,Push,Cable Crunch,core,7,3,normal,75.0,6,,,,True,75.0,6,straight,False,,6c368dad-a7ec-4b21-8241-164f49b9c919
+2026-11-11,Trénink,Coppenhagen plank,legs,1,1,normal,,15,,,,True,,,,False,,70fe6b03-61b8-4832-9501-069179ae25dd
+2026-11-11,Trénink,Coppenhagen plank,legs,1,2,normal,,20,,,,True,,,,False,,70fe6b03-61b8-4832-9501-069179ae25dd
