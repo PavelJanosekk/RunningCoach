@@ -22,5 +22,6 @@ date,mode,base_kcal,weight_used_kg,runs,extra_kcal,kcal_target,protein_target_g,
 2026-11-10,maintenance,2500,83.92,strides:7.1,448.8,2950,175,50,450
 2026-11-11,maintenance,2500,83.83,,,2500,175,50,338
 2026-11-12,maintenance,2500,83.72,threshold:7.7,646.3,3150,175,50,500
-2026-11-13,maintenance,2500,83.65,easy:5.5,345.1,2850,175,50,425
-2026-11-14,maintenance,2500,83.65,long_run_tomorrow:11.5,481.0,3000,175,50,463
+2026-11-13,maintenance,2500,83.54,easy:5.8,365.9,2850,175,50,425
+2026-11-14,maintenance,2500,83.54,long_run_tomorrow:11.5,480.4,3000,175,50,463
+2026-11-15,maintenance,2500,83.5,long_run:11.5,480.1,3000,175,50,463
