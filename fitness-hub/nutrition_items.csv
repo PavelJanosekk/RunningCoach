@@ -1325,14 +1325,14 @@ date,meal,label,food,amount_g,kcal,protein_g,carbs_g,fat_g,fiber_g,sugar_g,food_
 2026-11-13,lunch,Rýžové vlasové nudle  A.T. International,Rýžové vlasové nudle  A.T. International,50,177.0,3.4,39.1,0.2,0.9,0.0,kaloricke_tabulky
 2026-11-13,lunch,Tatarská omáčka extra krémová Hellmann's,Tatarská omáčka extra krémová Hellmann's,30,82.3,0.2,2.7,7.8,,2.0,kaloricke_tabulky
 2026-11-13,lunch,cibule,cibule,35,15.2,0.5,3.1,0.1,0.9,2.1,kaloricke_tabulky
-2026-11-13,lunch,jablko,jablko,200,125.3,0.7,25.9,0.8,6.3,22.0,kaloricke_tabulky
+2026-11-13,lunch,jablko,jablko,300,188.0,1.1,38.9,1.2,9.4,32.9,kaloricke_tabulky
 2026-11-13,lunch,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",250,264.1,57.8,0.0,3.8,,0.0,kaloricke_tabulky
 2026-11-13,breakfast,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,30,114.8,22.5,2.0,1.7,,1.6,kaloricke_tabulky
 2026-11-13,breakfast,ovesné vločky,ovesné vločky,50,200.0,6.6,34.0,3.4,3.6,0.8,kaloricke_tabulky
 2026-11-13,afternoon_snack,racio chlebicky,Cornies kukuřičné s lněným semínkem Racio,21,81.9,2.0,14.9,1.2,1.5,0.2,kaloricke_tabulky
 2026-11-13,afternoon_snack,svestkovym rozvarem bez cukru,Švestkový rozvar bez cukru,40,22.0,0.2,5.0,0.1,0.7,4.0,web_estimate
 2026-11-13,afternoon_snack,dr oetker pudink prasek,Vanilkový pudinkový prášek,40,151.6,0.1,37.4,0.2,0.2,31.7,usda
-2026-11-13,afternoon_snack,neslazene mandlove mleko,mandlové mléko neslazené organic Sante,400,76.4,2.4,4.8,6.8,0.4,1.6,kaloricke_tabulky
+2026-11-13,afternoon_snack,neslazene mandlove mleko,mandlové mléko neslazené organic Sante,600,114.6,3.6,7.2,10.2,0.6,2.4,kaloricke_tabulky
 2026-11-13,dinner,Rýžové vlasové nudle bún gao A.T. International,Rýžové vlasové nudle bún gao A.T. International,50,176.8,3.4,39.1,0.2,0.9,0.0,kaloricke_tabulky
 2026-11-13,dinner,brokolice,brokolice,200,87.2,6.6,11.4,0.4,6.0,5.0,kaloricke_tabulky
 2026-11-13,dinner,cibule,cibule,30,13.0,0.4,2.7,0.1,0.8,1.8,kaloricke_tabulky
@@ -1342,3 +1342,20 @@ date,meal,label,food,amount_g,kcal,protein_g,carbs_g,fat_g,fiber_g,sugar_g,food_
 2026-11-13,dinner,vajíček,vejce slepičí,100,151.1,12.4,0.9,10.9,,0.3,kaloricke_tabulky
 2026-11-13,second_dinner,Cornies kukuřičné s lněným semínkem Racio,Cornies kukuřičné s lněným semínkem Racio,35,136.5,3.3,24.9,1.9,2.5,0.3,kaloricke_tabulky
 2026-11-13,second_dinner,"Tvaroh polotučný 3,8% Pilos","Tvaroh polotučný 3,8% Pilos",250,226.0,25.0,10.0,9.5,,10.0,kaloricke_tabulky
+2026-11-14,breakfast,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,30,114.8,22.5,2.0,1.7,,1.6,kaloricke_tabulky
+2026-11-14,breakfast,ovesné vločky,ovesné vločky,50,200.0,6.6,34.0,3.4,3.6,0.8,kaloricke_tabulky
+2026-11-14,lunch,Rýžové vlasové nudle  A.T. International,Rýžové vlasové nudle  A.T. International,50,177.0,3.4,39.1,0.2,0.9,0.0,kaloricke_tabulky
+2026-11-14,lunch,Tatarská omáčka extra krémová Hellmann's,Tatarská omáčka extra krémová Hellmann's,30,82.3,0.2,2.7,7.8,,2.0,kaloricke_tabulky
+2026-11-14,lunch,brokolice,brokolice,220,95.9,7.3,12.5,0.4,6.6,5.5,kaloricke_tabulky
+2026-11-14,lunch,cibule,cibule,35,15.2,0.5,3.1,0.1,0.9,2.1,kaloricke_tabulky
+2026-11-14,lunch,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",250,264.1,57.8,0.0,3.8,,0.0,kaloricke_tabulky
+2026-11-14,breakfast,jednohubky,"jednohubky Rama, klobása, sýr",20,49.7,2.0,2.5,3.5,0.2,0.2,kaloricke_tabulky
+2026-11-14,breakfast,kofoly,Kofola,300,108.0,0.0,26.4,0.0,0.0,26.4,web_estimate
+2026-11-14,breakfast,rohlíku,rohlík,140,399.0,11.9,77.0,4.5,3.1,2.8,web_estimate
+2026-11-14,dinner,Sýr eidam,Sýr eidam,80,285.6,20.0,1.1,22.9,0.0,0.0,usda
+2026-11-14,dinner,Tatarská omáčka extra krémová Hellmann's,Tatarská omáčka extra krémová Hellmann's,30,82.3,0.2,2.7,7.8,,2.0,kaloricke_tabulky
+2026-11-14,dinner,Tortilla,Tortilla,120,372.0,11.2,58.0,9.1,,2.8,kaloricke_tabulky
+2026-11-14,dinner,cibule,cibule,35,15.2,0.5,3.1,0.1,0.9,2.1,kaloricke_tabulky
+2026-11-14,dinner,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",260,274.6,60.1,0.0,3.9,,0.0,kaloricke_tabulky
+2026-11-14,dinner,slanina anglická,slanina anglická,30,120.8,3.2,0.0,12.0,,,kaloricke_tabulky
+2026-11-14,second_dinner,Zmrzlina jahodová,Zmrzlina jahodová,200,384.0,6.4,55.2,16.8,1.8,,usda
