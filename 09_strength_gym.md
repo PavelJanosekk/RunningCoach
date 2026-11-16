@@ -20,9 +20,10 @@ Těžký silový trénink + plyometrie zlepšují running economy o ~2–8 %
 - **Nejít pod 3 opakování** (riziko, CNS únava bez benefitu)
 
 ## Kam gym v týdnu (platí šablona z `04`)
-**Teď (do 29.11., 4 běhy):** Po pull · St push · So upper · kyčle po
-každém běhu + 10 min po pull a push · **lower od 16.11. (~50 %)**
-odpoledne ve dni kvality (rozpis týdne v `04`).
+**Teď (do 29.11., 4 běhy; kancl Út + Čt):** Po pull · Čt push · So upper ·
+kyčle po každém běhu + 10 min po pull a push · **lower od 16.11. (~50 %)**
+odpoledne ve dni kvality (Út 17.11. svátek, pak St; rozpis týdne v `04`) ·
+Copenhagen v loweru + Pá po běhu.
 
 **Historie nohou (sportovec 26.10.):** před Indonésií (od ~července do září)
 **žádný leg day** — poslední „Legs“ ve Fitness Hub 27.6.; RDL dřív ~90 kg
@@ -40,9 +41,9 @@ při 2–3 RIR), nové cviky (lýtka se zátěží, soleus) první týden lehce.
 **Od 30.11. (5 běhů):**
 ```
 Po  volno → PULL
-Út  KVALITA ráno → TĚŽKÝ LOWER odpoledne (hard day hard)
-St  easy → PUSH
-Čt  easy + strides
+Út  kancl → easy večer
+St  KVALITA ráno → TĚŽKÝ LOWER odpoledne (hard day hard)
+Čt  kancl → easy + strides → PUSH
 Pá  easy → LEHKÝ LOWER 20 min (plyo, lýtka, kyčle; bez těžkých excentrik)
 So  volno → UPPER
 Ne  LONG RUN
@@ -76,7 +77,7 @@ Ne  LONG RUN
 | Face pull | 2 × 15 |
 | Biceps | 2 × 10–12 |
 
-### Těžký lower (úterý po kvalitě)
+### Těžký lower (středa po kvalitě)
 | Cvik | Série × opakování |
 |---|---|
 | Squat nebo Bulgarian split squat | 3 × 4–6 |
@@ -106,9 +107,9 @@ Ne  LONG RUN
   ~26 tis. sportovců: protahování ~0; silový trénink −⅓ zranění, −½ z
   přetížení). Mobilita jen jako 5 min dynamické rozcvičky před kopci.
 - **Copenhagen** (fotbal −41 % zranění třísel, Harøy 2019) 2×/tý — do 8.11.
-  hotovo **0 sérií** kyčlí/adduktorů (jen BSS 21.10.). Od 9.11. po pull
-  a push: na kolenou (krátká páka) 2 × 15–20 s/strana → postupně propnutá
-  noha, 20–30 s.
+  hotovo **0 sérií** kyčlí/adduktorů (jen BSS 21.10.). Od 9.11.
+  na kolenou (krátká páka) 2 × 15–20 s/strana → postupně propnutá
+  noha, 20–30 s. Od 16.11. v den loweru + Pá po běhu (ne dny po sobě).
 - Boční step-down, side plank s nohou, leg raise (flexory kyčle, kopce).
 - **Návrat:** ✅ 8.11. (tříslo bez bolesti) — první týden krátká páka
   a lehce.
@@ -133,8 +134,9 @@ injekce i čekání).
   Tlak nohou dolů do podložky = adduktory (tříslo, ne bok). Stoj na pravé
   s levým kolenem do zdi = pracuje hlavně pravá.
 - **Kdy, ať se nezapomíná:** po každém běhu před sprchou varianta 1
-  (3 min); Po a St 10 min po gymu: Copenhagen na kolenou 2 × 15–20 s,
-  side plank 2 × 20–30 s (→ s nohou), jednonožný most 2 × 10.
+  (3 min); Po a Čt 10 min po gymu: side plank 2 × 20–30 s (→ s nohou),
+  jednonožný most 2 × 10. **Copenhagen na kolenou 2 × 15–20 s 2×/tý:
+  v den loweru + Pá po běhu** — ne 2 dny po sobě, ne den před / po LR.
 - **Progrese** po 2–3 týdnech: boční step-down, BSS, side plank s nohou
   (lower od 16.11.).
 - **Bolest:** ≤3/10 při běhu a do rána zpět = OK (Silbernagel 2007).

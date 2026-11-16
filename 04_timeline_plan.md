@@ -1,7 +1,7 @@
 # Timeline do maratonu 2.5.2027
 
-**Aktualizováno:** 8.11.2026 (týden 2.–8.11. odběhnut — tříslo odeznělo, kyčel L mírně; blok do 20.12. přepočten)
-→ **25 týdnů do závodu**
+**Aktualizováno:** 16.11.2026 (týden 9.–15.11. hotový, rozpis 16.–22.11. doladěný, kancl Út + Čt → kvalita ve St; blok do 20.12. přepočten 8.11.)
+→ **24 týdnů do závodu**
 **Závody:** Generali Prague Half Marathon **So 3.4.2027** · Vodafone Prague
 Marathon **Ne 2.5.2027** (ověřeno na runczech.com). Registrovat oba v říjnu
 (startovné roste, PM se vyprodává).
@@ -143,9 +143,9 @@ Po návratu bude HR při stejném tempu 1–2 týdny nižší (aklimatizace) —
 | 2 | 19.–25.10. | ✅ 28,6 | ✅ 10,7 | ✅ strides | 2. lower St 21.10.; upper So 24.10.; registrace |
 | 3 | 26.10.–1.11. | ✅ 12,3 (plán 32–34) | ✗ (easy 7,0) | ✗ | **tříslo L** 27.10. → Út–Čt bez běhu; Ne levá hýždě (stejné místo jako v červenci) |
 | 4 | 2.–8.11. | ✅ 29,2 (plán 26–28) | ✅ 10,7 | ✗ | tříslo odeznělo; kyčel L mírně; kyčle 0, nohy 0; gym jen pull + push |
-| 5 | 9.–15.11. | 31–33 | 11–12 | T 3× 1,5 km (Čt) | krevní test Út; kyčle po každém běhu; lower ještě ne |
+| 5 | 9.–15.11. | ✅ 32,7 (plán 31–33) | ✅ 12,0 | ✅ T 3× 1,5 km (4:49–4:51, rychle) | kyčel L 0–1/10; strides vynechané; easy start rychle (5:10–5:26); gym pull + push + 1× Copenhagen |
 | 6 | 16.–22.11. | 34–36 | 13 | T 4× 1,5 km | lower zpět ~50 % (odpoledne po T); konec udržování 22.11. |
-| 7 | 23.–29.11. | ~32 | 13–14 | **retest 30 min (rovina)** | lehčí kvůli testu; přepočet temp a zón; od 23.11. hubnutí |
+| 7 | 23.–29.11. | ~32 | 13–14 | **retest 30 min (rovina) St 25.11. ráno** | lehčí kvůli testu; lower odpoledne po testu; přepočet temp a zón; od 23.11. hubnutí |
 | 8 | 30.11.–6.12. | 38–40 | 15 | T + strides | **5. běh** |
 | 9 | 7.–13.12. | 42–44 | 16 | T + Q2 (kopce / 20 min steady) | |
 | 10 | 14.–20.12. | 44–46 | 17 | T | LR 17: 500 ml DIY iont + med/želé; před Gruzií nepřidávat |
@@ -194,21 +194,61 @@ První 2 týdny nesrovnávat efektivitu (návrat, DOMS).
 Strides: po rovině nebo do kopce, ne z kopce. Na vrcholu musí jít ještě
 přidat — když ne, ubrat (20.10. byla horní hranice, 3:04–3:27).
 
-### Týden 9.–15.11. — konkrétně (threshold zpět, ~32 km)
+### Týden 16.–22.11. — konkrétně (T 4× 1,5 km, lower zpět, ~36 km)
 ```
-Po 9.   Volno + pull + kyčle 10 min
-Út 10.  Easy 6–7 km + 4 strides (po krevním testu nalačno)
-St 11.  Volno + push + kyčle 10 min
-Čt 12.  Threshold 8–9 km (rozklus 2 km, 3× 1,5 km, mezi 2 min klus, výklus 1,5 km)
-Pá 13.  Easy 5–6 km
-So 14.  Volno + upper
-Ne 15.  Long run 11–12 km
+Po 16.  Volno + pull + kyčle 10 min; udržování ✅ → základ 2650 (`07`)
+Út 17.  (svátek, doma) Threshold ~10 km: rozklus 2 km, 4× 1,5 km, mezi 2 min
+        klus, výklus 1,5 km → odpoledne LOWER ~50 % (+ Copenhagen)
+St 18.  Easy 6–7 km (kancl → večer)
+Čt 19.  Volno + push + kyčle 10 min
+Pá 20.  Easy 6–7 km + 4 strides → Copenhagen
+So 21.  Volno + upper
+Ne 22.  Long run 13 km
+```
+- **Kancl 2 z Po / St / Čt** (Út svátek): Po + Čt bez kolize, kancl ve St
+  → easy večer. Ranní běhy Út, Pá, Ne (+ St, když doma). Push ve Čt.
+- **Út threshold:** hodinky **4:55–5:05** (12.11. byly 4:50–5:00 → repy
+  4:49–4:51), první 500 m 2:30, konec repu HR ≤168, žádný finiš. 4. rep
+  jen když 3. skončí HR ≤170, jinak 3 repy. Jen po noci ≥6 h a s testy
+  třísla ≤2/10 (`12`) — jinak Út easy a threshold St ráno (doma) nebo
+  Pá; lower jen v Út nebo St (≥4 dny před LR), jinak až St 25.11.
+- **Lower ~50 %** (první od 21.10., `09`): BSS, RDL, výpony, soleus po
+  2 sériích, váhy jako 21.10., 3 RIR, Copenhagen (druhý až Pá — ne 2 dny
+  po sobě). Svalovka ve St je OK, easy jen lehce (do srovnání efektivity
+  nepočítat).
+- **Pá strides** 4× 15–20 s do kopce — první po tříslu (Út 10.11.
+  vynechané): nižší rychlost a náraz při stejném úsilí.
+- **Ne 13 km** ≤ 1,10× 12,04 (15.11.) = 13,2 ✓.
+- **Prvních 10 min ≥5:45** — 9.–15.11. ani jednou (5:10–5:26; sestup
+  v 7.–9. min 4:41–4:54, krok ~1,2–1,26 m). Z kopce kratší krok (~1,0 m
+  ≈ 5:45–6:00), kadence nahoru. Proč: tep se zvedá se zpožděním, start
+  proto hlídá tempo; kratší krok snižuje zátěž kyčle a kolen (Heiderscheit
+  2011).
+- **Kyčel:** St = den po T + lower; Pá 13.11. (den po T) „trochu“. ≥3/10
+  nebo hůř než minulý týden → LR neprodlužovat, T vynechat (`12`).
+- **Kalorie:** základ **2650** od 16.11. (`07`) — přenastavit ve Fitness Hub,
+  jíst na cíl, vážit denně (kontrola Po 23.11.).
+- Leg raise (pokrčená kolena) až po odeznění tlaku v tříslech (`09`).
+
+### Týden 9.–15.11. — konkrétně (threshold zpět, ✅ 32,7 km)
+```
+Po 9.   ✅ Volno (pull až Út odpoledne)
+Út 10.  ✅ Easy 7,13 km (5:50, HR 149; strides vynechané) + pull
+St 11.  ✅ Volno + push + Copenhagen 2× 15–20 s (první)
+Čt 12.  ✅ Threshold 7,72 km: 3× 1,5 km 4:49 / 4:51 / 4:51 (GAP 5:00 / 4:54 /
+        4:43), konec repu HR 168 / 174 / 171; při běhu bez bolesti, ve
+        výklusu tlak v boku kyčle L 1/10
+Pá 13.  ✅ Easy 5,84 km (5:50, HR 150; start 5:10); kyčel „trochu“
+So 14.  ✅ Volno (upper v datech není)
+Ne 15.  ✅ Long run 12,04 km (6:05, HR 150, D+ 167 m); kyčel chvilku 1/10
 ```
 - **Novinka týdne = threshold** (1 věc/týden): lower (BSS, RDL) až od
   16.11. na ~50 %, 5. běh až od 30.11.
 - **Út strides = zkouška:** 4 × 15–20 s, 85–90 %, po rovině nebo do kopce.
   Tříslo i kyčel bez reakce (při běhu ≤2/10, St ráno jako obvykle) → Čt
-  threshold; jinak Čt easy 7 km. Běh až po odběru (`07`).
+  threshold; jinak Čt easy 7 km. Běh až po odběru (`07`). Tlak v tříslech
+  vleže (10.11., `12`): strides i threshold jen při testech třísla ≤2/10,
+  poskok 0.
 - **Čt threshold:** 4:55–5:05/km, 500 m za 2:28–2:32, konec repu HR ≤168.
   Co nejrovnější úsek (okruh ze So 7.11. byl skoro celý do ±2 %). Kyčel
   >3/10 nebo změna kroku → klusem domů. **Jen po noci ≥6 h spánku**,
@@ -343,20 +383,34 @@ Stejný režim jako Indonésie: 2–3 běhy/týden (18–25 km/tý), 1× delší
 
 ---
 
-## Týdenní šablony (LR v neděli)
+## Týdenní šablony (LR v neděli, kancl Út + Čt)
 ```
-            Teď (4 běhy, LR ≤17 km)           Od 30.11. (5 běhů, LR 15+ km)
-Po  volno + PULL                          volno + PULL
-Út  KVALITA + LOWER odpoledne (od 16.11.) Q1 + TĚŽKÝ LOWER odpoledne
-St  easy + PUSH                           easy 7–8 km + PUSH
-Čt  volno / mobilita                      easy 6 km + strides
-Pá  easy (+ lehký lower 20 min)           easy 5–6 km (od týdne 9 Q2) + max 15 min lýtka/plyo
-So  volno + UPPER                         volno + UPPER
-Ne  LONG RUN                              LONG RUN
+    Do 29.11. (4 běhy)                Od 30.11. (5 běhů, LR 15+ km)
+Po  volno + PULL                      volno + PULL
+Út  kancl → easy 6–7 km večer         kancl → easy 7–8 km večer
+St  KVALITA ráno + LOWER odpoledne    Q1 ráno + TĚŽKÝ LOWER odpoledne
+Čt  kancl, bez běhu → PUSH            kancl → easy 6 km + strides → PUSH
+Pá  easy (+ strides) → Copenhagen     easy 5–6 km (od týdne 9 Q2) → lehký lower
+So  volno + UPPER                     volno + UPPER
+Ne  LONG RUN                          LONG RUN
 ```
-- Gym teď: Po pull, St push, So upper; **lower od 16.11. (~50 %) odpoledne
-  ve dni kvality** (hard day hard), ≥4 dny před LR (`09`).
-- 5. běh (od 30.11.) = čtvrtek.
-- **Varianta při víkendovém cestování:** Po easy | Út Q1 | St volno | Čt LR |
-  Pá volno | So easy | Ne easy.
+- **Proč kancl Út + Čt, ne Út + St:** kvalita + lower musí být doma
+  a lower ≥4 dny před LR (`09`). Ze dnů doma je Po den po LR a Pá 2 dny
+  před → zbývá St. Při kanclu Út + St by šly na Čt = 3 dny před LR
+  (lower Čt 15.10. → v Ne ještě DOMS).
+- **Ranní běhy St, Pá, Ne.** Út easy večer po kanclu; od 30.11. i Čt
+  (večer, nebo ráno před kanclem). Pá nejde (`01`) → do 29.11. easy Čt
+  večer, od 30.11. Pá vynechat.
+- **Večerní easy** spánek nezhorší (Stutz 2019: vadí jen tvrdý trénink
+  <1 h před spaním). K večeři sacharidy — St kvalita plně nakrmená (`07`).
+- 16.–22.11. jinak (Út svátek, rozpis výše). 23.–29.11.: St 25. ráno
+  retest, Út večer jen 4–5 km + 4 strides (nebo volno).
+- Gym: Po pull, Čt push, So upper, **lower odpoledne ve dni kvality**
+  (hard day hard), ≥4 dny před LR (`09`). Copenhagen 2×/tý: v loweru
+  + Pá po běhu — ne 2 dny po sobě, ne den před / po LR.
+- Od týdne 9: Q1 St → Q2 Pá jen 48 h (dřív 72 h) → Q2 (kopce / steady)
+  jen bez svalovky z loweru, jinak easy; Čt před Q2 bez strides.
+- **Víkend na cestách** (`01`): LR ve St (Út a Čt kancl = volno kolem
+  LR) | Q1 Po (po neděli s LR až Pá) | Pá, So, Ne easy | lower ten
+  týden jen lehký.
 - Recovery běh (Z1, ≤137, 30–40 min) až od 5 běhů / 55+ km.

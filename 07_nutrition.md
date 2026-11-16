@@ -69,10 +69,18 @@ a šlachy), objem roste, výdej změřit místo odhadu.
 - Makra beze změny; kcal navíc klidně i do tuků (60–70 g) — pro měření
   rozhoduje součet kcal.
 - **Vážit každé ráno** (po WC, před jídlem a pitím), log každý den celý.
+- **Aktivita jako dosud:** kroky ~10k/den včetně běhu (hodinky nosit, od
+  5.11. chybí). Walking pad (`08`) ve dny bez běhu ~1 h, s během jen krátce
+  — chůze navíc zvedne výdej o ~100–150 kcal/h a měření zkreslí.
 - 1. týden +0,5–1 kg (glykogen a voda) — neřešit.
-- **Týden 1 (2.–8.11.):** příjem 2707 kcal/den (cíl 2750), váha 83,95
-  (jen 4 vážení ze 7) vs. 83,98 týden předtím → zatím beze změny.
-  Kontrola 16.11. = průměr 9.–15.11. proti 2.–8.11.
+- **Týden 1 (2.–8.11.):** příjem 2623 kcal/den (cíl 2786; dřív 2707 jen
+  za 2.–7.11.), váha 83,90 (5 vážení ze 7, 8.11. doplněn) vs. 83,98 týden
+  předtím → beze změny.
+- **Týden 2 (9.–15.11.):** příjem 2718 kcal/den (cíl 2850), váha **83,52**
+  (5/7) vs. 83,90 → **−0,38 kg → základ 2650 od 16.11.** Část poklesu je
+  příjem pod cílem (−132 kcal/den ≈ −0,1 kg/tý); kroky od 5.11. chybí.
+  Kontrola Po 23.11. = průměr 16.–22.11. proti 9.–15.11. → jíst na cíl
+  a vážit denně, ať je měření čisté.
 - **Po 16.11. a Po 23.11.:** změna 7denního průměru proti předchozímu týdnu:
 
 | Změna 7denního průměru | Základ |
@@ -82,7 +90,7 @@ a šlachy), objem roste, výdej změřit místo odhadu.
 | −0,3 kg a víc | +150 kcal |
 
 - **Od 23.11. hubnutí:** základ = ověřený udržovací − 500 (~0,45 kg/tý);
-  při 2500 → 2000 jako dosud. Cíl Thajsko ~80 kg (~7,5 týdne hubnutí).
+  při 2650 → 2150. Cíl Thajsko ~80 kg (~7,5 týdne hubnutí).
 
 ## Vzorec denních kalorií (pro Fitness Hub)
 ```

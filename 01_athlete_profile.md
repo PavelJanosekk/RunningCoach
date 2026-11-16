@@ -43,6 +43,8 @@
 - **Hodně cestuje** — víkendy často nedostupné → long run raději v týdnu
   (varianta šablony v `04`)
 - Práce: pátky občas nedostupné
+- **Kancl 2 dny/tý: Út + Čt** (od 23.11.; v Út chodí tým, druhý den St/Čt
+  volitelný) → kvalita ve St doma, v Út a Čt běh jen večer (`04`)
 - Spánek: **stabilně ~8 h** (silná stránka)
 - Chůze: běžně 10 000–15 000 kroků/den
 
@@ -54,7 +56,7 @@
 - Boty: **Asics Novablast 5** (od ~14.5., ~430 km), cca 30 % běhů na
   lesních/polních cestách. Závodní (karbon) boty kupovat nechce.
 - Hydratační vesta ✅ — na LR bere ≤250 ml vody, gely teď nebere
-- Gym 3–4×/tý: Po pull, St push, So upper, lower ve dni kvality (`09`)
+- Gym 3–4×/tý: Po pull, Čt push, So upper, lower ve dni kvality (St, `09`)
 - Běžecký pás (levný) — houpe se, nevyhovuje
 - Strava Premium
 - **Doporučeno:** intervals.icu (per-lap analýza), hrudní pás Polar H10

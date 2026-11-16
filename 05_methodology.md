@@ -56,6 +56,12 @@ na 5 km → cena 5K session místo thresholdu.
 - 4:50 z testu je 30min závodní tempo, ne tréninkové threshold tempo.
 - Kontrola bez pace alertů: auto-lap 500 m, **500 m za 2:28–2:32**; první
   500 m pod 2:25 → zpomal hned, nečekej na HR (HR se v repu zvedá 2–3 min).
+- **Workout v hodinkách nastavit 4:55–5:05.** 12.11. byl 4:50–5:00 → repy
+  4:49–4:51 (GAP 5:00 / 4:54 / 4:43), první 500 m 2:14, konec repu HR
+  168 / 174 / 171 = horní hrana thresholdu (`04`).
+- **Tep ze zápěstí na začátku repu přestřeluje** (12.11.: 174 v 1,5. min,
+  o minutu později 156 při stejném tempu) → řídit tempem, HR hodnotit
+  v poslední minutě repu.
 
 ### Jak poznat threshold pocitem
 - Dokážeš říct **3–5 slov**, ne celou větu

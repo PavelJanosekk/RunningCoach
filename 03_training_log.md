@@ -414,6 +414,45 @@ základ, ne běžecká specifika — objem plazmy, ekonomiku). Re-adaptace 2–4
 - Jídlo: udržování, 2.–7.11. průměr 2707 kcal (cíl 2750); váha 83,95
   (4 vážení ze 7) vs. 83,98 minulý týden.
 
+### Týden 9.–15.11. — threshold zpět, 32,7 km (plán 31–33), kyčel L ≤1/10
+| Datum | Trénink | Tempo | Avg HR | % LTHR | D+ |
+|---|---|---|---|---|---|
+| Po 9.11. | *volno* | | | | |
+| Út 10.11. | 7,13 km easy (strides vynechané) + pull | 5:50 | 149 | 87 % | 43 m |
+| St 11.11. | *volno* + push + Copenhagen 2× 15–20 s (první) | | | | |
+| Čt 12.11. | 7,72 km threshold 3× 1,5 km (4:49 / 4:51 / 4:51) | 5:48 | 156 | 91 % | 80 m |
+| Pá 13.11. | 5,84 km easy | 5:50 | 150 | 87 % | 57 m |
+| So 14.11. | *volno* (upper v datech není) | | | | |
+| Ne 15.11. | 12,04 km long run | 6:05 | 150 | 87 % | 167 m |
+
+- **Kyčel L** (bok, sportovec 12. a 16.11.): Čt při thresholdu 0, ve
+  výklusu tlak 1/10; Pá easy „trochu“; Ne LR chvilku 1/10, jinak pohoda.
+  Proti 2.–8.11. (~1–2/10) stejně až líp → pod hranicí 3/10, progres dál.
+  Pá = den po thresholdu a zároveň nejrychlejší start → n = 1, příčinu
+  nejde oddělit.
+- **Tříslo:** tlak vleže lepší (12.11.), při běhu 0.
+- **Čt threshold:** repy 4:49 / 4:51 / 4:51 (GAP 5:00 / 4:54 / 4:43),
+  konec repu HR 168 / 174 / 171 → o 5–10 s/km rychleji než 4:55–5:05
+  a 2 repy nad 168. Hodinky byly nastavené 4:50–5:00 → od 17.11.
+  4:55–5:05. Rozklus prvních 10 min 6:19 ✓.
+- **Prvních 10 min ≥5:45 ani jednou:** Út 5:26, Pá 5:10, Ne 5:22 (LR 8.11.
+  5:29). Sestup v 7.–9. min 4:41–4:54, krok ~1,2–1,26 m (cíl ~1,0 m
+  ≈ 5:50–6:00, `05`). Jinak easy intenzita v pořádku: nad 162 bpm 0 / 2 /
+  3 % času.
+- **Ne LR 12,04 km** (plán 11–12; strop 1,10× z 10,69 = 11,8 → o 0,2 km
+  přes, zanedbatelné): km 4–12 HR 149–152. Decoupling 8,2 % (8.11. −0,9 %)
+  nespolehlivý: první půlka do kopce (+67 m netto, km 5 7:37), druhá
+  z kopce (−67 m) → GAP zkresluje, samotný tep nedriftoval.
+- **Efektivita @ HR 147** (`comparable=True`): jen Út **6:08** (16 oken).
+  Pá 5:51 nesrovnatelný (40 h po Copenhagenu = „nohy“, jen 4 okna,
+  poledne), Ne 2 okna (kopce). Posledních 4: 6:13 / 6:01 / 6:19 / 6:08
+  = průměr **6:10** → kontrola ~22.11. (≤6:05) zatím ne.
+- Gym: pull Út (14 sérií), push St (16) + Copenhagen 2 série (15 a 20 s).
+  Upper So, druhý Copenhagen a kyčle po bězích v datech nejsou.
+- Jídlo: udržování, příjem **2718 kcal/den** (cíl 2850); váha **83,52**
+  (5 vážení ze 7) vs. 83,90 (2.–8.11. po doplnění 8.11.) → **−0,38 kg →
+  základ 2500 → 2650 od 16.11.** (`07`). Kroky od 5.11. chybí.
+
 ## Klíčové trendy
 
 | Metrika | Květen | Červenec | Září |

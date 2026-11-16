@@ -29,6 +29,15 @@ submaximální zátěži, jen zkrátilo výdrž o ~11 % a zvedlo námahu (Martin
 - Ve dnech tréninku necílit na číslo, nechat přirozené
 - Ve volných dnech 8 000–12 000 = ideální aktivní recovery
 - Horní hranice: pokud jsi nazítří výrazně unavenější, bylo toho moc
+- **Sezení přerušovat** každých 30–45 min (vstát, projít se): hodiny v sedu
+  drží kyčel ohnutou a flexory kyčle zkrácené, při chůzi se kyčel propne.
+  Vsedě nekřížit nohy (kyčel L), boky výš než kolena. U standing desku
+  stát na obou nohou, ne s vysazeným bokem L (stlačí bok kyčle jako křížení).
+- **Walking pad u stolu (od 10.11.)** místo sezení: 2,5–4 km/h, po rovině,
+  v botách, nohy na šířku boků (úzký pás svádí šlapat do čáry → stlačí
+  kyčel L). Bloky 20–30 min střídat se stáním a sezením. 1 h ≈ 5–6 tis.
+  kroků ≈ 100–150 kcal navíc proti sezení, náraz jako chůze → na běh
+  neunaví. **Do 22.11. kroky ~10k/den včetně běhu** (měření udržovacího, `07`).
 
 ## Plavání / cyklistika
 Nulový dopad na klouby, žádné excentrické zatížení.

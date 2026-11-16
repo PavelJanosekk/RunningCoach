@@ -8,11 +8,13 @@
       saturace transferinu, 25(OH)D, CRP) — odloženo z 15.10. kvůli rýmě
       (20.10. ještě mírná): infekce zvedá feritin a CRP; ≥2 týdny po
       odeznění, ne den po LR/kvalitě; **+ testosteron, TSH, fT3** (deficit)
-- [ ] **Udržování 2.–22.11.** (základ 2500): přepnout režim ve Fitness Hub,
-      **vážit každé ráno** (2.–8.11. jen 4 ze 7), ladit základ Po 16. a 23.11. → skutečný udržovací;
-      od 23.11. hubnutí do Thajska 0,3–0,5 kg/tý na ~80 kg (`07`)
+- [ ] **Udržování 2.–22.11.** (základ 2500 → **2650 od 16.11.**, přenastavit
+      ve Fitness Hub): **vážit každé ráno** (zatím 5 ze 7), jíst na cíl;
+      Po 23.11. → skutečný udržovací; od 23.11. hubnutí do Thajska
+      0,3–0,5 kg/tý na ~80 kg (`07`)
 - [ ] **Data 29.–30.10.:** 29.10. jídlo chybí, 30.10. jen 1 jídlo (1740 kcal)
-      — úplné? Kroky od 22.10. prázdné — hodinky nenošené? (kroky = výdej)
+      — úplné? Kroky do 4.11. ✅, od 5.11. prázdné (do 15.11. pořád) —
+      hodinky nenošené, nebo nesynchronizuje? (kroky = výdej)
 - [x] **HR So 7. a Ne 8.11. ~5–6 bpm výš** při stejném tempu než Čt 5.11.
       → So běh krátce po snídani; Ne 6:19 = úroveň 20.10.–1.11., odchylka
       je spíš Čt 6:01 (Čt ~4 h spánku). Nic systémového → Čt threshold platí.
@@ -21,13 +23,25 @@
 - [ ] Fitness Hub export: datum aktivit v místním čase běhu (`start_date_local`,
       Gili 6.10. je pořád 5.10.); ✅ `steps = 1` → prázdné;
       posilovna 21.7.–15.10. chybí (v README export popsáno, neimportováno)
-- [ ] **Najít plochý okruh pro threshold** (a pro retest 23.–29.11.) —
+- [ ] **Najít plochý okruh pro threshold** (a pro retest St 25.11.) —
       kandidát: okruh ze So 7.11. (skoro celý do ±2 %), vyzkoušet Čt 12.11.
 - [ ] **Založit intervals.icu** (threshold pace 5:00, LTHR 172, zóny % LTHR)
 - [ ] Na LR ≥17 km (~20.12.): ~500 ml DIY iont + med/želé — větší láhev
       do vesty, maltodextrin nebo cukr; gely až od března
 - [ ] Boty přidat na Stravu; 2. pár Novablast 5 ~listopad/prosinec
-- [ ] Zvážit hrudní pás Polar H10 (intervaly, testy)
+- [ ] **Hrudní pás Polar H10 před retestem St 25.11.** (retest stojí na
+      tepu; 12.11. zápěstí v 1. repu 174 → o minutu později 156 při
+      stejném tempu = artefakt)
+- [x] **Strides Út 10.11.** vynechané (sportovec 12.11.) → první po
+      tříslu Pá 20.11., do kopce
+- [ ] **Gym 9.–15.11.:** upper So 14.11., druhý Copenhagen a kyčle po
+      bězích v datech nejsou — byly, jen nezapsané?
+- [ ] **Efektivita při kanclu Út + Čt:** večerní easy (Út) nejdřív 2–3×
+      porovnat s ranními při stejném HR, pak míchat do trendu. Copenhagen
+      se loguje jako `legs` → skript blokuje 48 h (LR po pátečním
+      Copenhagenu = `comparable=False`; Pá 13.11. 40 h po St → 5:51
+      nesrovnatelný); 2× 15–20 s ekonomiku nejspíš nezmění → v
+      `efficiency.py` ignorovat trénink jen s Copenhagenem?
 - [ ] Silový program z `09` (soleus, plyo, **kyčle / gluteus medius**);
       1. lower Čt 15.10. (DOMS do neděle) → ✅ 2. lower St 21.10. (BSS 36 vs
       18 kg ověřit, RIR 1–3) → 3. lower Út 27.10. zrušen (tříslo L) →
@@ -41,6 +55,7 @@
 | Co | Jak |
 |---|---|
 | Ranní váha | **každé ráno do 23.11.** (udržování), pak 3–7×/tý; Fitness Hub, 7denní průměr |
+| Kroky | hodinky celý den; do 22.11. ~10k/den včetně běhu jako dosud (měření udržovacího, `07`); walking pad místo sezení (`08`) |
 | Klidová HR | ráno vleže po probuzení, 1 min hodinkami, 2–3×/tý (vsedě ~50) do Fitness Hub; +5 bpm držící se týden = +200 kcal |
 | RPE 1–10 | pole "Perceived exertion" na Stravě |
 | Fueling | 1 řádek do popisu běhů ≥75 min (snídaně, gely, ml, GI 0–3) |
@@ -84,10 +99,11 @@ nezmizí do minuty, je horší znamení.
 | 30.9. | sweat test v horku |
 | 15.–31.10. | registrace, váha; návrat 70 → 90 % (`04`) |
 | ✅ 8.11. | efektivita 6:13 / 6:01 / 6:19 (průměr 6:11, čekal jsem 5:55–6:05) — tříslo vzalo ~2 týdny; další kontrola ~22.11.: čekám ≤6:05, ≥6:15 → deficit / regenerace |
-| Út 10.11. | krevní test (+ testosteron, TSH, fT3), ne den po LR; strides bez reakce → Čt 12.11. threshold 3× 1,5 km |
-| Po 16.11. | udržování: 7denní průměr proti minulému týdnu → základ ±150 (`07`) |
+| Út 10.11. / ✅ Čt 12.11. | krevní test (+ testosteron, TSH, fT3) — výsledky?; ✅ Čt threshold 3× 1,5 km 4:49–4:51/km (GAP 5:00 / 4:54 / 4:43), konec repu HR 168 / 174 / 171 → o 5–10 s/km rychleji než plán (hodinky nastavené 4:50–5:00); při běhu bez bolesti, ve výklusu tlak v kyčli 1/10 (bok kyčle L jako dřív); Pá easy „trochu“, Ne LR chvilku 1/10 |
+| ✅ Po 16.11. | udržování: 83,52 vs 83,90 kg = −0,38 → základ 2500 → **2650** (`07`) |
+| Út 17.11. | T 4× 1,5 km @ 4:55–5:05 (hodinky!), konec repu ≤168; lower ~50 % odpoledne |
 | Po 23.11. | udržování hotové → skutečný udržovací základ; od 23.11. hubnutí = základ − 500 |
-| **23.–29.11.** | **Retest LTHR (30 min, rovina)** → přepočet temp a zón; prahy v `02` |
+| **St 25.11.** | **Retest LTHR (30 min, rovina) ráno** → přepočet temp a zón; prahy v `02`; lower odpoledne |
 | 30.11. | 5. běh v týdnu (posunuto z 9.11. — tříslo) |
 | 20.12. | ~45 km/tý a LR ~17 (přepočteno 8.11., dřív 55 / 22)? LR 17: 500 ml DIY iont + med/želé; Gruzie = jídlo udržovací |
 | Leden | ~50 km a LR 20 před Thajskem |
@@ -102,9 +118,10 @@ nezmizí do minuty, je horší znamení.
 | Riziko | Mitigace |
 |---|---|
 | Zranění z dohánění po cestách | návratový protokol 70 → 90 → 100 % (`04`) |
-| Bolest z boku kyčle L (**od 1.11.; 2.–8.11. mírně při běhu ~1–2/10**) | LR ≤1,10× nejdelšího za 30 dní; kyčle po každém běhu + 10 min 2×/tý, bez stlačení (`09`); ≥3/10 nebo roste týden od týdne → LR neprodlužovat, threshold vynechat |
+| Bolest z boku kyčle L (**od 1.11.; 2.–8.11. při běhu ~1–2/10; 9.–15.11. 0–1/10: T 0 (výklus tlak 1/10), Pá „trochu“, Ne LR chvilku 1/10**) | LR ≤1,10× nejdelšího za 30 dní; kyčle po každém běhu + 10 min 2×/tý, bez stlačení (`09`); ≥3/10 nebo roste týden od týdne → LR neprodlužovat, threshold vynechat |
 | Tříslo L (27.10., ✅ odeznělo do 8.11.) | Copenhagen 2×/tý (`09`); bolest na startu zpět → hop test (škála výše); bolí chůze / v noci → lékař + MR |
-| Rychlý sestup na začátku domácí trasy (5.11. 4:50 na −5 %) | prvních 10 min ≥5:45, kadence nahoru, tempo ne (`05`) |
+| Tlak v tříslech oboustranně vleže / v klidu (hlášeno 10.11., pár dní; při běhu 0, protažení uleví na chvíli; hodně sezení u hraní; **12.11. vleže lepší**, threshold bez bolesti) | nejspíš flexory kyčle po hodinách v sedu (+ skok na 29 km): sezení přerušovat, walking pad (`08`) — zlepšuje se → dál; před strides a thresholdem 5 testů ≤2/10, poskok 0 (squeeze, noha nahoru, kašel, FADIR, poskok); boule, bolest v noci nebo při běhu, zhoršení → lékař |
+| Rychlý sestup na začátku domácí trasy (5.11. 4:50 na −5 %; 9.–15.11. prvních 10 min 5:10–5:26, sestup 4:41–4:54) | prvních 10 min ≥5:45: z kopce kratší krok (~1,0 m), kadence nahoru, tempo ne (`05`) |
 | Velký sestup (sopka, lyže) | stupně podle sestupu (`04`) |
 | Moc rychlé hubnutí / nízká energetická dostupnost | 0,3–0,5 kg/tý, LR a threshold plně nakrmené (vzorec), udržování 2.–22.11. (tříslo) a v Gruzii, klidová HR, krevní test s hormony (`07`) |
 | Přestřelené threshold repy | 4:55–5:05, 500 m za 2:28–2:32, konec repu HR ≤168 |
