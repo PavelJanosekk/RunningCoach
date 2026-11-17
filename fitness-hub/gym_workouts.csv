@@ -135,3 +135,4 @@ date,start_local,end_local,duration_min,ended_by,name,source,working_sets,exerci
 2026-11-10,2026-11-10 15:16,2026-11-10 16:00,43,auto_idle,Pull,manual,14,6,3980,,6992d368-7432-4b96-a37e-0544d0ba27d2
 2026-11-11,2026-11-11 16:10,2026-11-11 17:10,60,auto_idle,Push,manual,16,7,5565,,6c368dad-a7ec-4b21-8241-164f49b9c919
 2026-11-11,2026-11-11 19:15,2026-11-11 19:24,9,auto_idle,Trénink,manual,2,1,0,,70fe6b03-61b8-4832-9501-069179ae25dd
+2026-11-16,2026-11-16 15:43,2026-11-16 16:23,40,auto_idle,Pull,manual,11,5,3242,,0cbaa18f-6c5f-42e9-a009-c9cc988dd6a7
