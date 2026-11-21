@@ -1421,3 +1421,16 @@ date,meal,label,food,amount_g,kcal,protein_g,carbs_g,fat_g,fiber_g,sugar_g,food_
 2026-11-19,lunch,olej olivový extra panenský,olej olivový extra panenský,30,246.0,0.0,0.0,27.3,0.0,0.0,kaloricke_tabulky
 2026-11-19,afternoon_snack,Nutella (čokoládovo-oříšková pomazánka),Nutella (čokoládovo-oříšková pomazánka),60,323.4,3.2,37.4,17.8,3.2,32.4,usda
 2026-11-19,afternoon_snack,Toustový chléb bílý,Toustový chléb bílý,150,405.0,14.1,73.8,5.4,3.5,8.0,usda
+2026-11-20,breakfast,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,30,114.8,22.5,2.0,1.7,,1.6,kaloricke_tabulky
+2026-11-20,breakfast,ovesné vločky,ovesné vločky,50,200.0,6.6,34.0,3.4,3.6,0.8,kaloricke_tabulky
+2026-11-20,lunch,Jihočeská niva 45% Madeta,Jihočeská niva 45% Madeta,105,341.5,24.1,0.6,27.3,,0.6,kaloricke_tabulky
+2026-11-20,lunch,Tortilla,Tortilla,120,372.0,11.2,58.0,9.1,,2.8,kaloricke_tabulky
+2026-11-20,lunch,mandarinka,mandarinka,200,113.5,1.4,24.0,0.6,3.4,18.0,kaloricke_tabulky
+2026-11-20,lunch,tekuté vaječné bílky Eurevo service,tekuté vaječné bílky Eurevo service,200,100.0,20.0,2.4,1.0,,2.4,kaloricke_tabulky
+2026-11-20,afternoon_snack,Just whey grass fed whey protein chocolate milkshake GymBeam,Just whey grass fed whey protein chocolate milkshake GymBeam,30,114.8,22.5,2.0,1.7,,1.6,kaloricke_tabulky
+2026-11-20,afternoon_snack,Nutella (čokoládovo-oříšková pomazánka),Nutella (čokoládovo-oříšková pomazánka),25,134.8,1.4,15.6,7.4,1.4,13.5,usda
+2026-11-20,afternoon_snack,Toustový chléb bílý,Toustový chléb bílý,75,202.5,7.1,36.9,2.7,1.7,4.0,usda
+2026-11-20,afternoon_snack,ovesné vločky,ovesné vločky,60,240.0,7.9,40.9,4.1,4.3,0.9,kaloricke_tabulky
+2026-11-20,dinner,Rýžové vlasové nudle  A.T. International,Rýžové vlasové nudle  A.T. International,50,177.0,3.4,39.1,0.2,0.9,0.0,kaloricke_tabulky
+2026-11-20,dinner,banán,banán,150,141.0,1.8,33.0,0.3,3.0,28.5,kaloricke_tabulky
+2026-11-20,dinner,"kuřecí prsa syrová (bez kůže, bez kosti)","kuřecí prsa syrová (bez kůže, bez kosti)",260,274.6,60.1,0.0,3.9,,0.0,kaloricke_tabulky
