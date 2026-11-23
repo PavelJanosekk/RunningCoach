@@ -1,6 +1,6 @@
 # Timeline do maratonu 2.5.2027
 
-**Aktualizováno:** 16.11.2026 (týden 9.–15.11. hotový, rozpis 16.–22.11. doladěný, kancl Út + Čt → kvalita ve St; blok do 20.12. přepočten 8.11.)
+**Aktualizováno:** 22.11.2026 (týden 16.–22.11. hotový, rozpis 23.–29.11. s retestem; kancl Út + Čt → kvalita ve St; blok do 20.12. přepočten 8.11.)
 → **24 týdnů do závodu**
 **Závody:** Generali Prague Half Marathon **So 3.4.2027** · Vodafone Prague
 Marathon **Ne 2.5.2027** (ověřeno na runczech.com). Registrovat oba v říjnu
@@ -144,7 +144,7 @@ Po návratu bude HR při stejném tempu 1–2 týdny nižší (aklimatizace) —
 | 3 | 26.10.–1.11. | ✅ 12,3 (plán 32–34) | ✗ (easy 7,0) | ✗ | **tříslo L** 27.10. → Út–Čt bez běhu; Ne levá hýždě (stejné místo jako v červenci) |
 | 4 | 2.–8.11. | ✅ 29,2 (plán 26–28) | ✅ 10,7 | ✗ | tříslo odeznělo; kyčel L mírně; kyčle 0, nohy 0; gym jen pull + push |
 | 5 | 9.–15.11. | ✅ 32,7 (plán 31–33) | ✅ 12,0 | ✅ T 3× 1,5 km (4:49–4:51, rychle) | kyčel L 0–1/10; strides vynechané; easy start rychle (5:10–5:26); gym pull + push + 1× Copenhagen |
-| 6 | 16.–22.11. | 34–36 | 13 | T 4× 1,5 km | lower zpět ~50 % (odpoledne po T); konec udržování 22.11. |
+| 6 | 16.–22.11. | ✅ 36,4 (plán 34–36) | ✅ 13,0 | ✅ T 4× 1,5 km | LR nejlepší pocit za dlouho, tříslo L 0, na posl. kopci 1/10; lower a Copenhagen v datech nejsou; So pull místo upper |
 | 7 | 23.–29.11. | ~32 | 13–14 | **retest 30 min (rovina) St 25.11. ráno** | lehčí kvůli testu; lower odpoledne po testu; přepočet temp a zón; od 23.11. hubnutí |
 | 8 | 30.11.–6.12. | 38–40 | 15 | T + strides | **5. běh** |
 | 9 | 7.–13.12. | 42–44 | 16 | T + Q2 (kopce / 20 min steady) | |
@@ -194,7 +194,31 @@ První 2 týdny nesrovnávat efektivitu (návrat, DOMS).
 Strides: po rovině nebo do kopce, ne z kopce. Na vrcholu musí jít ještě
 přidat — když ne, ubrat (20.10. byla horní hranice, 3:04–3:27).
 
-### Týden 16.–22.11. — konkrétně (T 4× 1,5 km, lower zpět, ~36 km)
+### Týden 23.–29.11. — konkrétně (retest 30 min, lehčí, ~33 km)
+```
+Po 23.  Volno + pull + kyčle 10 min; hubnutí, základ 2000 (`07`), vážit denně
+Út 24.  (kancl) Easy 4–5 km + 4 strides
+St 25.  Retest 30 min (rovina) ~10–11 km: rozklus 15 min + 3 strides, 30 min max udržitelně, výklus 10 min → odpoledne LOWER ~50 % + Copenhagen
+Čt 26.  Volno (kancl) + push + kyčle 10 min
+Pá 27.  Easy 5–6 km → Copenhagen
+So 28.  Volno + upper
+Ne 29.  Long run 13 km
+```
+- **Novinka týdne = retest** (1 věc/týden), objem lehčí (~33 km).
+- **St retest** (protokol jako 31.8.): **stejná trasa jako test 31.8.**
+  (stejný start i směr, otočka ~3,5 km) → přímé srovnání vzdálenosti za
+  30 min (31.8.: 6,24 km, 4:50, LTHR 172). Okruhy u domu nevhodné
+  (přejezd, parkoviště — zóny v route planneru). Start rozumně (~4:50),
+  od 20. min přidat. Bez masky. Jen po noci ≥6 h
+  a s tříslem ≤2/10 → jinak St easy a retest Pá ráno (lower pak až St 2.12.).
+  Výsledek → tabulka v `02`, přepočet temp a zón.
+- **Ne LR 13 km** = držet: 12,0 a 13,0 byly 2 rekordy za sebou (pravidlo).
+  Po retestu ve St + lower → Ne čistě easy, prvních 10 min ≥5:45.
+- **Lower ~50 %** jako 17.11. (v datech nebyl → váhy neprogresovat), 3 RIR.
+  Copenhagen St + Pá (ne den před LR).
+- **Kalorie:** od 23.11. hubnutí, základ **2000** (ověřený udržovací 2500, `07`) — ve Fitness Hub nastaveno.
+
+### Týden 16.–22.11. — konkrétně (T 4× 1,5 km, lower zpět, ~36 km) — ✅ 36,4 km
 ```
 Po 16.  Volno + pull + kyčle 10 min; udržování ✅ → základ 2650 (`07`)
 Út 17.  (svátek, doma) Threshold ~10 km: rozklus 2 km, 4× 1,5 km, mezi 2 min

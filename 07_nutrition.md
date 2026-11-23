@@ -81,6 +81,15 @@ a šlachy), objem roste, výdej změřit místo odhadu.
   příjem pod cílem (−132 kcal/den ≈ −0,1 kg/tý); kroky od 5.11. chybí.
   Kontrola Po 23.11. = průměr 16.–22.11. proti 9.–15.11. → jíst na cíl
   a vážit denně, ať je měření čisté.
+- **Týden 3 (16.–22.11.):** příjem **2730 kcal/den** (6 dní, So nezapsaná;
+  cíl ~3020 → −290/den), váha jen 2 vážení (83,4; 84,7) = 84,05 → +0,53
+  kg proti 83,52 → podle tabulky −150. Nespolehlivé (84,7 = voda?, Po
+  23.11. 82,9).
+- **Výsledek udržování (Po 23.11.):** 9.–22.11. příjem ~2720/den, běh
+  přidával ~360/den, váha 83,90 → ~83,6 (≈ −0,1 kg/tý ≈ −100 kcal/den) →
+  **ověřený udržovací základ ≈ 2500** (2650 bylo moc; tabulka i příjem
+  ukazují na 2500). **Hubnutí od 23.11.: základ 2000** (Fitness Hub
+  nastaven 23.11.; udržovací režim přičítá +500 → Gruzie 2500).
 - **Po 16.11. a Po 23.11.:** změna 7denního průměru proti předchozímu týdnu:
 
 | Změna 7denního průměru | Základ |
@@ -90,7 +99,8 @@ a šlachy), objem roste, výdej změřit místo odhadu.
 | −0,3 kg a víc | +150 kcal |
 
 - **Od 23.11. hubnutí:** základ = ověřený udržovací − 500 (~0,45 kg/tý);
-  při 2650 → 2150. Cíl Thajsko ~80 kg (~7,5 týdne hubnutí).
+  ověřený 2500 → **2000** (23.11.). Cíl Thajsko ~80 kg (~7,5 týdne hubnutí).
+  Vážit denně; první ladění Po 7.12.
 
 ## Vzorec denních kalorií (pro Fitness Hub)
 ```
