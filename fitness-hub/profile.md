@@ -3,7 +3,7 @@
 - Pohlaví: male
 - Rok narození: 1997
 - Výška: 188.0 cm
-- Základ kcal (režim hubnutí): 2150.0 kcal
+- Základ kcal (režim hubnutí): 2000.0 kcal
 - Navýšení základu v režimu udržování: 500 kcal
 - Bílkoviny: 175.0 g
 - Tuky: 50.0 g
@@ -24,4 +24,4 @@ Jídlo během běhu (`fueling`) se do cíle nepočítá.
 - 2027-01-28–2027-02-14: `off` (bez cíle)
 - 2027-02-15 →: `maintenance` (udržování)
 
-Dnes (2026-11-23): režim `cut`, cíl 2150 kcal.
+Dnes (2026-11-24): režim `cut`, cíl 2300 kcal.
