@@ -453,6 +453,59 @@ základ, ne běžecká specifika — objem plazmy, ekonomiku). Re-adaptace 2–4
   (5 vážení ze 7) vs. 83,90 (2.–8.11. po doplnění 8.11.) → **−0,38 kg →
   základ 2500 → 2650 od 16.11.** (`07`). Kroky od 5.11. chybí.
 
+### Týden 16.–22.11. — T 4× 1,5 km, 36,4 km (plán 34–36), LR 13 km skoro bez bolesti
+| Datum | Trénink | Tempo | Avg HR | % LTHR | D+ |
+|---|---|---|---|---|---|
+| Po 16.11. | *volno* + pull (11 sérií) | | | | |
+| Út 17.11. | 9,15 km threshold 4× 1,5 km (4:59 / 4:57 / 5:12 / 4:51) | 6:00 | 152 | 88 % | 87 m |
+| St 18.11. | 7,39 km easy + push (15 sérií) | 6:21 | 147 | 85 % | 145 m |
+| Čt 19.11. | *volno* (push už St) | | | | |
+| Pá 20.11. | 6,79 km easy (+ strides v plánu) | 6:02 | 145 | 84 % | 129 m |
+| So 21.11. | *volno* + pull (15 sérií) místo upperu | | | | |
+| Ne 22.11. | 13,03 km long run | 6:03 | 149 | 87 % | 188 m |
+
+- **Tříslo L:** Ne LR „nejlepší pocit za dlouho“, většinu běhu 0, na
+  posledním kopci 1/10 (sportovec 22.11.).
+- **Út threshold** (hodinky 4:55–5:05): repy 4:59 / 4:57 / 5:12 / 4:51
+  (GAP 4:54 / 5:05 / 4:51 / 5:11) — rep 3 do kopce (+20 m), rep 4 z kopce
+  (−17 m), podle GAP všechny v pásmu. Průměr repu HR 164 / 164 / 163 / 158,
+  max. 9s okno 172 / 171 / 174 / 169 (zápěstí, konec repu zvlášť nezměřen).
+  Rozklus prvních 10 min 6:27 ✓. Lower a Copenhagen odpoledne v datech nejsou.
+- **Prvních 10 min ≥5:45:** Út 6:27 ✓, St 6:21 ✓, **Pá 6:02 ✓** (poprvé po
+  delší době na easy), Ne 5:32 ✗ (km 2 z kopce 5:19).
+- **Pá easy:** GAP 5:49, nad 153 bpm jen 7 %, EF 1,153 = nejvyšší v bloku.
+  Strides v datech nevidět (jen 1× 9 s ~3:50 na konci).
+- **Ne LR 13,03 km** (strop 1,10× 12,04 = 13,2 ✓): proti 15.11. (stejný
+  začátek trasy) o 1 km delší a +18 m (DMR +181 vs. +163), tempo 6:04 vs.
+  6:05, HR 150 vs. 151, decoupling 3,9 % vs. 8,2 %, max HR 164 vs. 174;
+  km 2–13 HR 146–156.
+- **Efektivita** (GAP @ HR 143–150 z Fitness Hubu — jiná metoda než
+  efficiency.py @ HR 147): St 6:09 (den po T), Pá 5:52, Ne 5:56 → kontrola
+  ~22.11. (≤6:05) splněná, ale Pá i Ne na kopcovitých trasách → potvrdit
+  na rovině.
+- Gym: pull Po (11 sérií), push St (15), pull So (15) místo upperu; lower
+  Út, Copenhagen a kyčle v datech nejsou.
+- Jídlo: udržování, příjem **2730 kcal/den** (6 dní, So nezapsaná; cíl
+  ~3020); váha jen 2 vážení (83,4; 84,7) → výsledek udržování: **udržovací
+  základ ~2500 → hubnutí od 23.11. základ 2000** (`07`).
+
+### Týden 23.–29.11. — retest, lehčí (~33 km) — průběžně
+| Datum | Trénink | Tempo | Avg HR | % LTHR | D+ |
+|---|---|---|---|---|---|
+| Po 23.11. | *volno* (pull v datech není) | | | | |
+| Út 24.11. | 4,54 km easy (+ 4 strides v plánu) | 5:49 | 150 | 87 % | 66 m |
+| St 25.11. | 10,61 km **retest 30 min = 6,33 km** (4:44) | 4:44 (test) | — | — | 101 m |
+
+- **Út:** prvních 10 min 6:14 ✓, GAP @ HR 143–150 6:02, nad 153 bpm 31 %.
+  Strides v datech nevidět (žádný úsek pod 4:00 kromě 5 s na konci).
+- **St retest** (poledne, ~0 °C, trasa testu 31.8.): 30 min = **6,33 km /
+  4:44** (31.8.: 6,22 / 4:50), na společném úseku o ~24 s rychleji →
+  **VDOT ~41,2** (`02`). Tep ze zápěstí nepoužitelný (9.–16. min 173–192,
+  pak 156–166) → LTHR 172 beze změny. Tříslo 0/10. Threshold od 25.11.
+  **4:50–5:00** (`02`, `05`).
+- Váha: Po 82,9, St 82,4 — hubnutí od 23.11. (základ 2000); první týden
+  hlavně glykogen a voda.
+
 ## Klíčové trendy
 
 | Metrika | Květen | Červenec | Září |

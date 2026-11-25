@@ -198,7 +198,7 @@ přidat — když ne, ubrat (20.10. byla horní hranice, 3:04–3:27).
 ```
 Po 23.  Volno + pull + kyčle 10 min; hubnutí, základ 2000 (`07`), vážit denně
 Út 24.  (kancl) Easy 4–5 km + 4 strides
-St 25.  ✅ Retest 10,6 km: 30 min = 6,33 km (4:44; 31.8. 4:50) → VDOT ~41,2; tříslo 0 → odpoledne LOWER ~50 % + Copenhagen
+St 25.  ✅ Threshold retest 10,6 km: 30 min = 6,33 km (4:44; 31.8. 4:50) → VDOT ~41,2; tříslo 0 → odpoledne LOWER ~50 % + Copenhagen
 Čt 26.  Volno (kancl) + push + kyčle 10 min
 Pá 27.  Easy 5–6 km → Copenhagen
 So 28.  Volno + upper
