@@ -51,7 +51,7 @@ Pokud jen jedny → běžecké (univerzálnější), ale není to ideální.
 ### intervals.icu (DOPORUČENO, zdarma)
 1. Přihlásit přes Stravu (natáhne i historii)
 2. Settings → Sport Settings → Run:
-   - Threshold Pace: **5:00 /km** (do retestu 23.–29.11.)
+   - Threshold Pace: **4:55 /km** (od retestu 25.11.; Daniels T ~4:58)
    - LTHR: **172**
    - Max HR: 191 (odhad, jen kosmetika)
    - **Přepnout výpočet zón na % LTHR**

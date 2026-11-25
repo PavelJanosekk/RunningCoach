@@ -80,6 +80,8 @@ stejné HR (143–150, GAP) je to ~24 s/km, a za květen → červenec. **Od
 ## ❌ "Threshold tempo 4:50–4:55" jako cíl repů
 **Oprava:** 4:50 z testu je 30min závodní tempo (Friel), ne tréninkové T tempo.
 Při VDOT 40–42 je T tempo ~4:54–5:04. **Cíl repů 4:55–5:05, konec repu HR ≤168.**
+Od retestu 25.11. (30min tempo 4:44, VDOT ~41,2, T ~4:58) platí **4:50–5:00**,
+cílit na ~4:55 — 4:50 je teď rychlá hrana T, ne cíl.
 Repy 4:22–4:47 byly na 5K tempu. K položce "Threshold #1 nebyl VO2max":
 podle HR threshold/CV, **podle tempa ~5K** — HR se v 5–7min repech nestihne zvednout.
 
@@ -100,7 +102,7 @@ vč. víkendů a na vývoj váhy.**
 ## ❌ "Sub-3:30 realistické, sub-3:20 ve hře" jako pracovní cíl
 **Oprava:** VDOT 40–42 vs potřebných 44,6 / 47,2. **Cíl sportovce je
 A = 3:40–3:50, B = sub-4:00, 3:30 = bonus**; dlouhodobě zlepšovat rychlost.
-Rozhodují retest 23.–29.11. a PM 3.4.2027 (prahy v `02`).
+Rozhodují retest 23.–29.11. (✅ 25.11.: VDOT ~41,2 → směr ~3:45) a PM 3.4.2027 (prahy v `02`).
 
 ## ❌ "Bez běžeckého zranění v 444 km"
 **Oprava:** po LR 15,81 km (19.7.) mírná bolest z boku hýždě/stehna →

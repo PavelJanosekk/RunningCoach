@@ -23,15 +23,17 @@
 - [ ] Fitness Hub export: datum aktivit v místním čase běhu (`start_date_local`,
       Gili 6.10. je pořád 5.10.); ✅ `steps = 1` → prázdné;
       posilovna 21.7.–15.10. chybí (v README export popsáno, neimportováno)
-- [ ] **Najít plochý okruh pro threshold** (a pro retest St 25.11.) —
+- [ ] **Najít plochý okruh pro threshold** (retest 25.11. ✅ vyřešen trasou testu 31.8.) —
       kandidát: okruh ze So 7.11. (skoro celý do ±2 %), vyzkoušet Čt 12.11.
 - [ ] **Založit intervals.icu** (threshold pace 5:00, LTHR 172, zóny % LTHR)
 - [ ] Na LR ≥17 km (~20.12.): ~500 ml DIY iont + med/želé — větší láhev
       do vesty, maltodextrin nebo cukr; gely až od března
 - [ ] Boty přidat na Stravu; 2. pár Novablast 5 ~listopad/prosinec
-- [ ] **Hrudní pás Polar H10 před retestem St 25.11.** (retest stojí na
-      tepu; 12.11. zápěstí v 1. repu 174 → o minutu později 156 při
-      stejném tempu = artefakt)
+- [ ] **Hrudní pás Polar H10** — retest 25.11. proběhl bez pásu → tep ze
+      zápěstí nepoužitelný (9.–16. min 173–192, pak 156–166 při max. úsilí),
+      LTHR z retestu nejde → zůstává 172 (31.8.); s pásem ověřit (např. z konce
+      T repů). 12.11. zápěstí v 1. repu 174 → o minutu později 156 při
+      stejném tempu = artefakt.
 - [x] **Strides Út 10.11.** vynechané (sportovec 12.11.) → první po
       tříslu Pá 20.11., do kopce
 - [ ] **Gym 9.–15.11.:** upper So 14.11., druhý Copenhagen a kyčle po
@@ -103,7 +105,7 @@ nezmizí do minuty, je horší znamení.
 | ✅ Po 16.11. | udržování: 83,52 vs 83,90 kg = −0,38 → základ 2500 → **2650** (`07`) |
 | Út 17.11. | T 4× 1,5 km @ 4:55–5:05 (hodinky!), konec repu ≤168; lower ~50 % odpoledne |
 | Po 23.11. | udržování hotové → skutečný udržovací základ; od 23.11. hubnutí = základ − 500 |
-| **St 25.11.** | **Retest LTHR (30 min, rovina) ráno** → přepočet temp a zón; prahy v `02`; lower odpoledne |
+| ✅ **St 25.11.** | **Retest 30 min:** 6,33 km / 4:44 (31.8.: 6,22 / 4:50) → VDOT ~41,2, směr ~3:45; threshold **4:50–5:00**; tep ze zápěstí nepoužitelný → LTHR 172; tříslo 0; lower odpoledne |
 | 30.11. | 5. běh v týdnu (posunuto z 9.11. — tříslo) |
 | 20.12. | ~45 km/tý a LR ~17 (přepočteno 8.11., dřív 55 / 22)? LR 17: 500 ml DIY iont + med/želé; Gruzie = jídlo udržovací |
 | Leden | ~50 km a LR 20 před Thajskem |
@@ -119,12 +121,12 @@ nezmizí do minuty, je horší znamení.
 |---|---|
 | Zranění z dohánění po cestách | návratový protokol 70 → 90 → 100 % (`04`) |
 | Bolest z boku kyčle L (**od 1.11.; 2.–8.11. při běhu ~1–2/10; 9.–15.11. 0–1/10: T 0 (výklus tlak 1/10), Pá „trochu“, Ne LR chvilku 1/10**) | LR ≤1,10× nejdelšího za 30 dní; kyčle po každém běhu + 10 min 2×/tý, bez stlačení (`09`); ≥3/10 nebo roste týden od týdne → LR neprodlužovat, threshold vynechat |
-| Tříslo L (27.10., ✅ odeznělo do 8.11.) | Copenhagen 2×/tý (`09`); bolest na startu zpět → hop test (škála výše); bolí chůze / v noci → lékař + MR |
+| Tříslo L (27.10., ✅ odeznělo do 8.11.; retest 25.11. 0/10) | Copenhagen 2×/tý (`09`); bolest na startu zpět → hop test (škála výše); bolí chůze / v noci → lékař + MR |
 | Tlak v tříslech oboustranně vleže / v klidu (hlášeno 10.11., pár dní; při běhu 0, protažení uleví na chvíli; hodně sezení u hraní; **12.11. vleže lepší**, threshold bez bolesti) | nejspíš flexory kyčle po hodinách v sedu (+ skok na 29 km): sezení přerušovat, walking pad (`08`) — zlepšuje se → dál; před strides a thresholdem 5 testů ≤2/10, poskok 0 (squeeze, noha nahoru, kašel, FADIR, poskok); boule, bolest v noci nebo při běhu, zhoršení → lékař |
 | Rychlý sestup na začátku domácí trasy (5.11. 4:50 na −5 %; 9.–15.11. prvních 10 min 5:10–5:26, sestup 4:41–4:54) | prvních 10 min ≥5:45: z kopce kratší krok (~1,0 m), kadence nahoru, tempo ne (`05`) |
 | Velký sestup (sopka, lyže) | stupně podle sestupu (`04`) |
 | Moc rychlé hubnutí / nízká energetická dostupnost | 0,3–0,5 kg/tý, LR a threshold plně nakrmené (vzorec), udržování 2.–22.11. (tříslo) a v Gruzii, klidová HR, krevní test s hormony (`07`) |
-| Přestřelené threshold repy | 4:55–5:05, 500 m za 2:28–2:32, konec repu HR ≤168 |
+| Přestřelené threshold repy | 4:50–5:00 (od 25.11.; cílit na ~4:55), 500 m za 2:25–2:30, konec repu HR ≤168 |
 | Přestřelený začátek závodu | nacvičit na PM: prvních 5 km záměrně pomaleji |
 | Týden 30.11. a peak po PM | rozloženo (`04`) |
 | Horko v den závodu (>15 °C) | počítat s +1–3 min, rozhodnout ráno |

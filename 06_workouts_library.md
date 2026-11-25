@@ -5,8 +5,8 @@
 | Fáze | Session | Čas v zóně |
 |---|---|---|
 | Úvod | 3× 8 min @ threshold / 2 min klus | 24 min |
-| | 3× 1,5 km @ 4:55–5:05 / 2,5 min klus | ~22 min |
-| | 4× 1,2 km @ 4:55–5:05 / 2 min klus | ~20 min |
+| | 3× 1,5 km @ 4:50–5:00 / 2,5 min klus | ~22 min |
+| | 4× 1,2 km @ 4:50–5:00 / 2 min klus | ~20 min |
 | Rozvoj | 4× 8 min / 2 min | 32 min |
 | | 4× 1,5 km / 2,5 min | ~29 min |
 | | 2× 15 min / 3 min klus | 30 min |
@@ -16,7 +16,7 @@
 | | 2× 20 min / 3 min | 40 min |
 
 Vždy: 15 min rozklus + 10 min výklus (počítá se do objemu).
-Tempo repů **4:55–5:05/km, konec repu HR ≤168** (platí do retestu 23.–29.11.,
+Tempo repů **4:50–5:00/km, konec repu HR ≤168** (od retestu 25.11., VDOT ~41,2,
 viz `02`). Rychleji = 5K tempo, ne threshold.
 
 ## Kontrolní časy @ threshold
@@ -48,6 +48,15 @@ viz `02`). Rychleji = 5K tempo, ne threshold.
 | 1,2 km | 5:54 |
 | 1,5 km | 7:22 |
 | 1,6 km | 7:52 |
+
+### 4:50/km
+| Úsek | Čas |
+|---|---|
+| 400 m | 1:56 |
+| 500 m | 2:25 |
+| 1 km | 4:50 |
+| 1,2 km | 5:48 |
+| 1,5 km | 7:15 |
 
 ### 4:58/km (MP pro sub-3:30)
 | Úsek | Čas |

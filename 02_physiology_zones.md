@@ -25,6 +25,32 @@
 Trať nevhodná (první 4 km z kopce, poslední 2 do kopce), rozkolísané tempo,
 prvních ~3 min vadná HR data. → **Test spíš podhodnocuje formu.**
 
+## Retest 30 min — středa 25.11.2026
+**Protokol:** jako 31.8., **stejná trasa** (start ~120 m před startem 31.8., otočka
+~20 m vedle), poledne, ~0 °C.
+
+| Metrika | Hodnota |
+|---|---|
+| Vzdálenost za 30 min | **6,33 km** (31.8.: 6,22 km v 30:00) |
+| Průměrné tempo | **4:44/km** (31.8.: 4:50) |
+| Společný úsek trasy (~6,2 km) | **o ~24 s rychleji** (≈ 4–5 s/km) |
+| Převýšení (DMR 5G) | +30/−52 m (31.8.: +37/−56 m) |
+| Tempo po korekci na terén (Minetti) | 4:48 (31.8.: 4:57) |
+| **VDOT** | **~41,2** (31.8. stejným výpočtem 40,5; dřív uváděno 40,3) |
+| HR | **nepoužitelné** (optický senzor, bez pásu) → **LTHR zůstává 172** |
+| Tříslo | 0/10 |
+
+**5min bloky (31.8. → 25.11.):** 0–5 4:31 → 4:23 · 5–10 5:07 → 4:47 ·
+10–15 4:34 → 4:32 · 15–20 4:39 → **4:47** · 20–25 5:03 → 5:00 · 25–30 5:04 → 4:57.
+Start zase rychlý (1. min 4:04), **rezerva v 15.–20. min** (seběh k otočce,
+17.–18. min ~5:00), návrat do kopce lepší než 31.8. Příště: klidnější start,
+na seběhu k otočce tlačit.
+
+**HR artefakt:** 1.–8. min 134 → 163 OK; 9. min skok na 173–183 při nejpomalejší
+minutě (5:13); 10.–16. min 179–192 (nad max HR, nejspíš chycená kadence);
+17.–30. min 156–166 při maximálním úsilí (31.8. ve stejných minutách 171–178).
+Časy v zónách a decoupling tohoto běhu ve Fitness Hubu neplatí.
+
 ## Max HR
 - **≥181 bpm reálně naměřeno** (držené ~40 s na konci testu 31.8.; 18.9. v repech).
 - 182–183 na easy/long bězích (19.7., 29.8., 13.9.) = izolované artefakty senzoru.
@@ -45,12 +71,14 @@ Zóny ze Samsung Health **ignorovat** (počítané z odhadu max HR).
 
 ## Výkonnost (VDOT, Daniels)
 - **Test 31.8.: VDOT 40,3** (spodní odhad kvůli trati).
+- **Retest 25.11.: VDOT ~41,2** (stejná trať → přímé srovnání, +0,8).
 - Threshold #2 18.9. (3× 1,5 km do kopce, GAP ~4:25–4:37) odpovídá spíš ~42.
-- **Aktuální odhad: VDOT 40–42.**
+- **Aktuální odhad: VDOT ~41,2** (retest 25.11.).
 
 | VDOT | 5 km | 10 km | PM | Maraton* |
 |---|---|---|---|---|
 | 40,3 (test) | 23:57 | 49:41 | 1:50:10 | 3:48 |
+| 41,2 (retest 25.11.) | 23:30 | 48:46 | 1:48:08 | 3:44 |
 | 42 | 23:08 | 47:58 | 1:46:22 | 3:40 |
 | 44,6 (sub-3:30) | ~22:00 | ~45:35 | ~1:41 | 3:30 |
 | 47,2 (sub-3:20) | ~20:57 | ~43:25 | ~1:36 | 3:20 |
@@ -58,7 +86,7 @@ Zóny ze Samsung Health **ignorovat** (počítané z odhadu max HR).
 *Daniels předpokládá plnou maratonskou přípravu; při 55–65 km/tý a 83 kg spíš
 o 2–5 min pomaleji → pro maraton z PM používat **PM × 2,11**.
 
-## Tréninková tempa (platí do retestu 23.–29.11.)
+## Tréninková tempa (od retestu 25.11.2026, VDOT ~41,2)
 
 | Typ | Tempo | HR |
 |---|---|---|
@@ -66,12 +94,14 @@ o 2–5 min pomaleji → pro maraton z PM používat **PM × 2,11**.
 | Easy | 5:45–6:15/km (prvních 10 min ≥5:45 podle tempa) | 138–153 |
 | Long run | 5:55–6:20/km | 143–155 |
 | Steady / aktuální MP | 5:15–5:25/km | 154–162 |
-| **Threshold (repy)** | **4:55–5:05/km** | průměr repu 160–166, **konec repu ≤168** |
-| 5K tempo (jen orientačně, necílit) | 4:40–4:47/km | — |
+| **Threshold (repy)** | **4:50–5:00/km** (cílit na ~4:55) | průměr repu 160–166, **konec repu ≤168** |
+| 5K tempo (jen orientačně, necílit) | 4:38–4:45/km | — |
 | Závodní MP | podle PM 3.4. (sub-4 = 5:41/km) | ≤158 |
 
-**Pozor:** 4:50 z testu = tvoje **30min závodní tempo** (Friel), ne tréninkové
-threshold tempo. Danielsovo T tempo při VDOT 40,3 ≈ 5:04, při 42 ≈ 4:54.
+**Pozor:** 4:44 z retestu (4:50 z 31.8.) = tvoje **30min závodní tempo** (Friel), ne
+tréninkové threshold tempo. Danielsovo T tempo při VDOT 40,3 ≈ 5:04, při 41,2 ≈ 4:58,
+při 42 ≈ 4:54. 12.11. při hodinkách 4:50–5:00 repy 4:49–4:51 a konec repu 168–174
+→ rozhoduje strop HR ≤168, ne rychlá hrana pásma.
 Repy 4:22–4:47 (8.9., 18.9.) byly na úrovni 5K tempa.
 
 ## Vývoj aerobní efektivity (GAP, jen easy/LR, bez testů)
@@ -111,6 +141,9 @@ rozhodne PM 3.4. Dlouhodobě (po maratonu): stejný recept + VO2max práce.
 | 4:41–4:47 | 41–42 | směr 3:40–3:45 |
 | 4:48–4:55 | 39,5–41 | směr 3:45–3:55 |
 | ≥4:56 | ≤39,5 | sub-4 OK, A-cíl ohrožen → zkontrolovat objem, spánek, nemoc |
+
+**✅ Výsledek 25.11.: 4:44** (po korekci na terén ~4:48, stejná trasa jako 31.8.)
+→ **VDOT ~41,2**, spodní hrana pásma 41–42 → **směr ~3:45**. Finální cíl rozhodne PM 3.4.
 
 **Generali Prague Half Marathon, So 3.4.2027 → finální cíl:**
 | PM | VDOT | Maraton (× 2,11) | Závodní tempo |
