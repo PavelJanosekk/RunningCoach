@@ -24,4 +24,4 @@ Jídlo během běhu (`fueling`) se do cíle nepočítá.
 - 2027-01-28–2027-02-14: `off` (bez cíle)
 - 2027-02-15 →: `maintenance` (udržování)
 
-Dnes (2026-11-25): režim `cut`, cíl 2650 kcal.
+Dnes (2026-11-26): režim `cut`, cíl 2000 kcal.
